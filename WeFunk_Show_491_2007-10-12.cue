@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_491_2007-10-12.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "injuns, here we come"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_491_2007-10-12.mp3" MP3
 		INDEX 01 01:58:44
 	TRACK 03 AUDIO
 		TITLE "talk (over marvin gaye - t plays it cool)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:07:54
 	TRACK 04 AUDIO
 		TITLE "(are you ready) do the bus stop"
@@ -121,7 +121,7 @@ FILE "WeFunk_Show_491_2007-10-12.mp3" MP3
 		INDEX 01 91:21:02
 	TRACK 30 AUDIO
 		TITLE "eric b is on the cut"
-		PERFORMER "eric b & rakim"
+		PERFORMER "eric b. & rakim"
 		INDEX 01 93:45:56
 	TRACK 31 AUDIO
 		TITLE "we're all in the same gang"
@@ -137,5 +137,5 @@ FILE "WeFunk_Show_491_2007-10-12.mp3" MP3
 		INDEX 01 108:08:15
 	TRACK 34 AUDIO
 		TITLE "talk (over pacewon - locked instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 110:26:16

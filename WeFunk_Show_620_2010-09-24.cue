@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_620_2010-09-24.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "soul men"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_620_2010-09-24.mp3" MP3
 		INDEX 01 01:44:40
 	TRACK 03 AUDIO
 		TITLE "talk (over orgone - watch it)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:48:60
 	TRACK 04 AUDIO
 		TITLE "we want to parrty, parrty, parrty"
@@ -133,7 +133,7 @@ FILE "WeFunk_Show_620_2010-09-24.mp3" MP3
 		INDEX 01 105:36:47
 	TRACK 33 AUDIO
 		TITLE "talk (over herb alpert - rise)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 109:18:62
 	TRACK 34 AUDIO
 		TITLE "i got to move"

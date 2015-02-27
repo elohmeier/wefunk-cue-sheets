@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_495_2007-11-09.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "shut 'em down (pete rock remix)"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_495_2007-11-09.mp3" MP3
 		INDEX 01 01:58:52
 	TRACK 03 AUDIO
 		TITLE "talk (over ed o.g. - be a father to your child instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:55:41
 	TRACK 04 AUDIO
 		TITLE "gotta get over (taking loot)"
@@ -129,5 +129,5 @@ FILE "WeFunk_Show_495_2007-11-09.mp3" MP3
 		INDEX 01 104:07:28
 	TRACK 32 AUDIO
 		TITLE "talk (over jesse gresham plus 3 - shootin' the grease)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 107:14:62

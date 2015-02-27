@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_587_2009-12-11.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "it's just begun"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_587_2009-12-11.mp3" MP3
 		INDEX 01 01:32:27
 	TRACK 03 AUDIO
 		TITLE "talk (over rias orchestra - pru urebu)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:19:55
 	TRACK 04 AUDIO
 		TITLE "ain't no chimneys"
@@ -161,5 +161,5 @@ FILE "WeFunk_Show_587_2009-12-11.mp3" MP3
 		INDEX 01 111:05:47
 	TRACK 40 AUDIO
 		TITLE "talk (over d.j. nu-mark - chali 2na comin' thru instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 113:18:32

@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_549_2009-01-23.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "sexy coffee pot"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_549_2009-01-23.mp3" MP3
 		INDEX 01 02:01:45
 	TRACK 03 AUDIO
 		TITLE "talk (over derobert & the half-truths - wake on up dub)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:19:22
 	TRACK 04 AUDIO
 		TITLE "wake on up"
@@ -129,5 +129,5 @@ FILE "WeFunk_Show_549_2009-01-23.mp3" MP3
 		INDEX 01 103:22:02
 	TRACK 32 AUDIO
 		TITLE "talk (over bahamadia - wordplay instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 107:04:23

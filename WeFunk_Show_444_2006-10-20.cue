@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_444_2006-10-20.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "the message"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_444_2006-10-20.mp3" MP3
 		INDEX 01 01:58:34
 	TRACK 03 AUDIO
 		TITLE "talk (over grand puba - a little of this instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:10:64
 	TRACK 04 AUDIO
 		TITLE "nicky barnes a.k.a. it's alright"
@@ -117,5 +117,5 @@ FILE "WeFunk_Show_444_2006-10-20.mp3" MP3
 		INDEX 01 106:54:38
 	TRACK 29 AUDIO
 		TITLE "talk (over dizzy gillespie - alligator)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 109:18:35

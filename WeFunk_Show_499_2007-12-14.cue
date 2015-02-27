@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_499_2007-12-14.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "hit the wall"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_499_2007-12-14.mp3" MP3
 		INDEX 01 01:58:43
 	TRACK 03 AUDIO
 		TITLE "talk (over ike turner & the kings of rhythm - funky mule)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 06:19:70
 	TRACK 04 AUDIO
 		TITLE "funkier than a mosquita's tweeter"
@@ -81,7 +81,7 @@ FILE "WeFunk_Show_499_2007-12-14.mp3" MP3
 		INDEX 01 60:57:27
 	TRACK 20 AUDIO
 		TITLE "talk (over d.j. brasco presents declaime - robin hood theory instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 64:51:28
 	TRACK 21 AUDIO
 		TITLE "monk swing"
@@ -137,5 +137,5 @@ FILE "WeFunk_Show_499_2007-12-14.mp3" MP3
 		INDEX 01 110:12:45
 	TRACK 34 AUDIO
 		TITLE "talk (over eddie bayard & storm 9000 - dawn)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 112:43:51

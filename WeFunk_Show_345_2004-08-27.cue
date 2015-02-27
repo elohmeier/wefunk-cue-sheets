@@ -5,15 +5,15 @@ REM Genre : HipHop
 FILE "WeFunk_Show_345_2004-08-27.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "wack m.c.'s"
 		PERFORMER "del tha funkee homosapien"
 		INDEX 01 01:58:43
 	TRACK 03 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 05:31:73
 	TRACK 04 AUDIO
 		TITLE "i used to love h.e.r. (blend)"
@@ -117,7 +117,7 @@ FILE "WeFunk_Show_345_2004-08-27.mp3" MP3
 		INDEX 01 100:12:19
 	TRACK 29 AUDIO
 		TITLE "relax with pep"
-		PERFORMER "eric b & rakim"
+		PERFORMER "eric b. & rakim"
 		INDEX 01 104:02:29
 	TRACK 30 AUDIO
 		TITLE "don't let up"
@@ -125,5 +125,5 @@ FILE "WeFunk_Show_345_2004-08-27.mp3" MP3
 		INDEX 01 107:08:43
 	TRACK 31 AUDIO
 		TITLE "talk (over jigmastas - hip hop instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 111:51:42

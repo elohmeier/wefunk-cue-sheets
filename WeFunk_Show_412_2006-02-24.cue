@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_412_2006-02-24.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "1993"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_412_2006-02-24.mp3" MP3
 		INDEX 01 01:58:51
 	TRACK 03 AUDIO
 		TITLE "talk (over skatalites - herb man dub)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 06:11:53
 	TRACK 04 AUDIO
 		TITLE "s.o.u.l."
@@ -69,7 +69,7 @@ FILE "WeFunk_Show_412_2006-02-24.mp3" MP3
 		INDEX 01 57:22:64
 	TRACK 17 AUDIO
 		TITLE "talk (over pumpkinhead - rock on instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 60:55:56
 	TRACK 18 AUDIO
 		TITLE "when your jones come down"
@@ -117,5 +117,5 @@ FILE "WeFunk_Show_412_2006-02-24.mp3" MP3
 		INDEX 01 98:46:36
 	TRACK 29 AUDIO
 		TITLE "talk (over hassanah - sweet remedy instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 101:56:21

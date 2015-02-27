@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_623_2010-10-15.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "this way"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_623_2010-10-15.mp3" MP3
 		INDEX 01 01:14:22
 	TRACK 03 AUDIO
 		TITLE "talk (over people under the stairs - step bacc instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:07:51
 	TRACK 04 AUDIO
 		TITLE "yaa i get it (oddisee remix)"
@@ -73,7 +73,7 @@ FILE "WeFunk_Show_623_2010-10-15.mp3" MP3
 		INDEX 01 63:21:62
 	TRACK 18 AUDIO
 		TITLE "wake on up"
-		PERFORMER "derobert & the half truths"
+		PERFORMER "derobert & the half-truths"
 		INDEX 01 66:43:15
 	TRACK 19 AUDIO
 		TITLE "get up stand up (gaff remix)"
@@ -125,7 +125,7 @@ FILE "WeFunk_Show_623_2010-10-15.mp3" MP3
 		INDEX 01 109:08:55
 	TRACK 31 AUDIO
 		TITLE "talk (over midnight express show band - breeze up)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 114:31:02
 	TRACK 32 AUDIO
 		TITLE "just a groove (fendercillo special edit)"

@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_741_2013-06-21.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "favela love"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_741_2013-06-21.mp3" MP3
 		INDEX 01 01:14:28
 	TRACK 03 AUDIO
 		TITLE "talk (over floyd cheung - bold)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 07:09:42
 	TRACK 04 AUDIO
 		TITLE "nite & day"
@@ -128,8 +128,8 @@ FILE "WeFunk_Show_741_2013-06-21.mp3" MP3
 		PERFORMER "rihanna"
 		INDEX 01 106:52:24
 	TRACK 32 AUDIO
-		TITLE "talk (over alphonse mouzon - do i have to (malibee's dench disko edit)"
-		PERFORMER ""
+		TITLE "talk (over alphonse mouzon - do i have to (malibee's dench disko edit))"
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 110:56:67
 	TRACK 33 AUDIO
 		TITLE "love and happiness"

@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_560_2009-04-17.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "quarter 2 eight hoppa"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_560_2009-04-17.mp3" MP3
 		INDEX 01 02:01:49
 	TRACK 03 AUDIO
 		TITLE "talk (over ghostface killah & doom - chinatown wars remix instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:32:32
 	TRACK 04 AUDIO
 		TITLE "chinatown wars remix"
@@ -129,5 +129,5 @@ FILE "WeFunk_Show_560_2009-04-17.mp3" MP3
 		INDEX 01 100:39:14
 	TRACK 32 AUDIO
 		TITLE "talk (over james moody - unchained)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 105:08:49

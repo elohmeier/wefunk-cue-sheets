@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_547_2009-01-09.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "don't it make you feel good"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_547_2009-01-09.mp3" MP3
 		INDEX 01 01:44:24
 	TRACK 03 AUDIO
 		TITLE "talk (over big band katowice - sorcery)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:35:07
 	TRACK 04 AUDIO
 		TITLE "716 lesson"
@@ -129,5 +129,5 @@ FILE "WeFunk_Show_547_2009-01-09.mp3" MP3
 		INDEX 01 104:48:55
 	TRACK 32 AUDIO
 		TITLE "talk (over common sense - watermelon instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 108:03:05

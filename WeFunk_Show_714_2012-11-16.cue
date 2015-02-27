@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_714_2012-11-16.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "give me (professor groove dub-tro edit)"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_714_2012-11-16.mp3" MP3
 		INDEX 01 01:14:23
 	TRACK 03 AUDIO
 		TITLE "talk (over chic - soup for one)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 07:06:61
 	TRACK 04 AUDIO
 		TITLE "i can do it (naked like funky worms re-edit)"
@@ -153,7 +153,7 @@ FILE "WeFunk_Show_714_2012-11-16.mp3" MP3
 		INDEX 01 106:45:21
 	TRACK 38 AUDIO
 		TITLE "talk (over modibo keita - resurrection revisited)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 108:36:61
 	TRACK 39 AUDIO
 		TITLE "midnight"

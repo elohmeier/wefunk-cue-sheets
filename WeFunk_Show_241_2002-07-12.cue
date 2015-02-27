@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_241_2002-07-12.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "chance with you"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_241_2002-07-12.mp3" MP3
 		INDEX 01 01:58:28
 	TRACK 03 AUDIO
 		TITLE "talk (over maceo & all the king's men - thank you for letting me be myself again)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 06:31:24
 	TRACK 04 AUDIO
 		TITLE "guiding resolution"
@@ -124,6 +124,6 @@ FILE "WeFunk_Show_241_2002-07-12.mp3" MP3
 		PERFORMER "obscure disorder"
 		INDEX 01 101:43:64
 	TRACK 31 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 105:15:10

@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_629_2010-12-17.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "i get lifted"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_629_2010-12-17.mp3" MP3
 		INDEX 01 01:14:23
 	TRACK 03 AUDIO
 		TITLE "talk (over kenny dope presents power house - the magnificent)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:15:14
 	TRACK 04 AUDIO
 		TITLE "freeze the cut (opolopo's emotional draft remix)"
@@ -153,7 +153,7 @@ FILE "WeFunk_Show_629_2010-12-17.mp3" MP3
 		INDEX 01 108:34:63
 	TRACK 38 AUDIO
 		TITLE "talk (over get open - here & now remix instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 110:36:00
 	TRACK 39 AUDIO
 		TITLE "that shit"

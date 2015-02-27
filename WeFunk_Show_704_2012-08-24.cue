@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_704_2012-08-24.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "do it any way you wanna"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_704_2012-08-24.mp3" MP3
 		INDEX 01 01:26:65
 	TRACK 03 AUDIO
 		TITLE "talk (over fudge fingas - singularity)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:39:14
 	TRACK 04 AUDIO
 		TITLE "fire (mr. scruff remix)"
@@ -245,7 +245,7 @@ FILE "WeFunk_Show_704_2012-08-24.mp3" MP3
 		INDEX 01 104:57:48
 	TRACK 61 AUDIO
 		TITLE "talk (over eddie roberts - giorgio's brother)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 108:50:07
 	TRACK 62 AUDIO
 		TITLE "piranha (the buffalo hunt)"

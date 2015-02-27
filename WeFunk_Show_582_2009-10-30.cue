@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_582_2009-10-30.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "fame"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_582_2009-10-30.mp3" MP3
 		INDEX 01 01:14:12
 	TRACK 03 AUDIO
 		TITLE "talk (over bekay - i am instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:23:57
 	TRACK 04 AUDIO
 		TITLE "i am"
@@ -141,5 +141,5 @@ FILE "WeFunk_Show_582_2009-10-30.mp3" MP3
 		INDEX 01 101:30:37
 	TRACK 35 AUDIO
 		TITLE "talk (over joe farrell - canned funk)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 106:47:23

@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_540_2008-11-14.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "welcome to the terrordome"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_540_2008-11-14.mp3" MP3
 		INDEX 01 01:40:19
 	TRACK 03 AUDIO
 		TITLE "talk (over public enemy - welcome to the terrordome instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 03:58:42
 	TRACK 04 AUDIO
 		TITLE "lifestyles"
@@ -29,7 +29,7 @@ FILE "WeFunk_Show_540_2008-11-14.mp3" MP3
 		INDEX 01 14:49:62
 	TRACK 07 AUDIO
 		TITLE "talk (over souls of mischief - that's when ya lost instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 17:21:28
 	TRACK 08 AUDIO
 		TITLE "right place, wrong time"
@@ -37,7 +37,7 @@ FILE "WeFunk_Show_540_2008-11-14.mp3" MP3
 		INDEX 01 24:41:49
 	TRACK 09 AUDIO
 		TITLE "talk (over art & ron - she said hell no!)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 27:18:63
 	TRACK 10 AUDIO
 		TITLE "soul donkey"
@@ -49,7 +49,7 @@ FILE "WeFunk_Show_540_2008-11-14.mp3" MP3
 		INDEX 01 34:12:43
 	TRACK 12 AUDIO
 		TITLE "talk (over dennis coffey - son of scorpio)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 36:51:27
 	TRACK 13 AUDIO
 		TITLE "thank you (falettinme be mice elf agin)"
@@ -61,7 +61,7 @@ FILE "WeFunk_Show_540_2008-11-14.mp3" MP3
 		INDEX 01 43:47:09
 	TRACK 15 AUDIO
 		TITLE "talk (over illa j - we here instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 47:36:42
 	TRACK 16 AUDIO
 		TITLE "we here"
@@ -77,7 +77,7 @@ FILE "WeFunk_Show_540_2008-11-14.mp3" MP3
 		INDEX 01 56:16:52
 	TRACK 19 AUDIO
 		TITLE "talk (over del - workin' it instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 57:24:37
 	TRACK 20 AUDIO
 		TITLE "it takes all kinds"
@@ -105,7 +105,7 @@ FILE "WeFunk_Show_540_2008-11-14.mp3" MP3
 		INDEX 01 78:20:51
 	TRACK 26 AUDIO
 		TITLE "talk (over paula perry - extra, extra instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 80:34:08
 	TRACK 27 AUDIO
 		TITLE "extra, extra"
@@ -125,7 +125,7 @@ FILE "WeFunk_Show_540_2008-11-14.mp3" MP3
 		INDEX 01 95:49:59
 	TRACK 31 AUDIO
 		TITLE "talk (over kool & the gang - 1-2-3-4-5-6-7-8)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 99:02:59
 	TRACK 32 AUDIO
 		TITLE "action"
@@ -137,5 +137,5 @@ FILE "WeFunk_Show_540_2008-11-14.mp3" MP3
 		INDEX 01 104:51:28
 	TRACK 34 AUDIO
 		TITLE "talk (over little beaver - we three)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 108:29:35

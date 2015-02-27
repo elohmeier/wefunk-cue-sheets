@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_411_2006-02-17.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "zulu war chant (funky remix)"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_411_2006-02-17.mp3" MP3
 		INDEX 01 01:58:45
 	TRACK 03 AUDIO
 		TITLE "talk (over lords of the underground - funky child instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:33:48
 	TRACK 04 AUDIO
 		TITLE "road to zion"
@@ -77,7 +77,7 @@ FILE "WeFunk_Show_411_2006-02-17.mp3" MP3
 		INDEX 01 50:26:26
 	TRACK 19 AUDIO
 		TITLE "talk (over de la soul - stakes is high instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 53:58:63
 	TRACK 20 AUDIO
 		TITLE "stakes is high"
@@ -145,5 +145,5 @@ FILE "WeFunk_Show_411_2006-02-17.mp3" MP3
 		INDEX 01 106:05:28
 	TRACK 36 AUDIO
 		TITLE "talk (over hank crawford - baby! this love i have)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 109:31:35

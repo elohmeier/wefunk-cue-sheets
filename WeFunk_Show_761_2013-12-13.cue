@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_761_2013-12-13.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "breakfast club"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_761_2013-12-13.mp3" MP3
 		INDEX 01 01:26:73
 	TRACK 03 AUDIO
 		TITLE "talk (over fat joe - bust at you instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:25:08
 	TRACK 04 AUDIO
 		TITLE "light years"
@@ -133,7 +133,7 @@ FILE "WeFunk_Show_761_2013-12-13.mp3" MP3
 		INDEX 01 100:23:56
 	TRACK 33 AUDIO
 		TITLE "talk (over lord echo - digital haircut)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 103:35:07
 	TRACK 34 AUDIO
 		TITLE "it's your thing"

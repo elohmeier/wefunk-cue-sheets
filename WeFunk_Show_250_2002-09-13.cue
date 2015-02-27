@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_250_2002-09-13.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "it's a new day"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_250_2002-09-13.mp3" MP3
 		INDEX 01 01:58:51
 	TRACK 03 AUDIO
 		TITLE "talk (over slim & the soulful saints - fish head)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 07:47:46
 	TRACK 04 AUDIO
 		TITLE "theme song"
@@ -36,8 +36,8 @@ FILE "WeFunk_Show_250_2002-09-13.mp3" MP3
 		PERFORMER "dilated peoples"
 		INDEX 01 29:26:33
 	TRACK 09 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 32:48:00
 	TRACK 10 AUDIO
 		TITLE "never found a girl"
@@ -72,12 +72,12 @@ FILE "WeFunk_Show_250_2002-09-13.mp3" MP3
 		PERFORMER "fame gang"
 		INDEX 01 76:04:64
 	TRACK 18 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 78:24:39
 	TRACK 19 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 86:59:01
 	TRACK 20 AUDIO
 		TITLE "i declare war"
@@ -92,6 +92,6 @@ FILE "WeFunk_Show_250_2002-09-13.mp3" MP3
 		PERFORMER "d.j. vadim"
 		INDEX 01 114:53:36
 	TRACK 23 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 116:16:68

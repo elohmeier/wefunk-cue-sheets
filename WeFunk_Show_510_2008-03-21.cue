@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_510_2008-03-21.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "ninety day cycle people"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_510_2008-03-21.mp3" MP3
 		INDEX 01 01:44:41
 	TRACK 03 AUDIO
 		TITLE "talk (over breakestra feat. choklate - stand up (take my time) instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 06:15:74
 	TRACK 04 AUDIO
 		TITLE "creature feature"
@@ -189,5 +189,5 @@ FILE "WeFunk_Show_510_2008-03-21.mp3" MP3
 		INDEX 01 109:21:54
 	TRACK 47 AUDIO
 		TITLE "talk (over sans pression - territoire hostile instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 111:12:28

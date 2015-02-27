@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_529_2008-08-29.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "hyperbolicsyllabicsesquedalymistic"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_529_2008-08-29.mp3" MP3
 		INDEX 01 01:40:27
 	TRACK 03 AUDIO
 		TITLE "talk (over isaac hayes - breakthrough)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 08:21:15
 	TRACK 04 AUDIO
 		TITLE "putting' game down"
@@ -77,7 +77,7 @@ FILE "WeFunk_Show_529_2008-08-29.mp3" MP3
 		INDEX 01 42:43:19
 	TRACK 19 AUDIO
 		TITLE "paid in full"
-		PERFORMER "eric b & rakim"
+		PERFORMER "eric b. & rakim"
 		INDEX 01 44:00:47
 	TRACK 20 AUDIO
 		TITLE "nobody beats the biz"
@@ -153,7 +153,7 @@ FILE "WeFunk_Show_529_2008-08-29.mp3" MP3
 		INDEX 01 96:24:14
 	TRACK 38 AUDIO
 		TITLE "i know you got soul"
-		PERFORMER "eric b & rakim"
+		PERFORMER "eric b. & rakim"
 		INDEX 01 99:33:31
 	TRACK 39 AUDIO
 		TITLE "because i got it like that"
@@ -197,5 +197,5 @@ FILE "WeFunk_Show_529_2008-08-29.mp3" MP3
 		INDEX 01 115:05:09
 	TRACK 49 AUDIO
 		TITLE "talk (over j-dilla - think twice remix)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 115:52:31

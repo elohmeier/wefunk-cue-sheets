@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_472_2007-06-01.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "when i be on the mic"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_472_2007-06-01.mp3" MP3
 		INDEX 01 01:58:47
 	TRACK 03 AUDIO
 		TITLE "talk (over jeru - ya playin' yaself instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:19:66
 	TRACK 04 AUDIO
 		TITLE "ya playin' yaself"
@@ -29,7 +29,7 @@ FILE "WeFunk_Show_472_2007-06-01.mp3" MP3
 		INDEX 01 12:55:72
 	TRACK 07 AUDIO
 		TITLE "talk (over jonathan emile - hiphop instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 16:58:26
 	TRACK 08 AUDIO
 		TITLE "soul makossa"
@@ -53,7 +53,7 @@ FILE "WeFunk_Show_472_2007-06-01.mp3" MP3
 		INDEX 01 30:08:61
 	TRACK 13 AUDIO
 		TITLE "microphone fiend"
-		PERFORMER "eric b & rakim"
+		PERFORMER "eric b. & rakim"
 		INDEX 01 36:11:38
 	TRACK 14 AUDIO
 		TITLE "a word from our sponsors"
@@ -73,7 +73,7 @@ FILE "WeFunk_Show_472_2007-06-01.mp3" MP3
 		INDEX 01 50:01:54
 	TRACK 18 AUDIO
 		TITLE "talk (over slum village - get dis money instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 53:40:29
 	TRACK 19 AUDIO
 		TITLE "i made a mistake because it's only you"
@@ -137,5 +137,5 @@ FILE "WeFunk_Show_472_2007-06-01.mp3" MP3
 		INDEX 01 103:21:12
 	TRACK 34 AUDIO
 		TITLE "talk (over patrice rushen - kickin' back)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 108:37:02

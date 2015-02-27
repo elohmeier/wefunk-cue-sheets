@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_267_2003-01-24.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "do it fluid"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_267_2003-01-24.mp3" MP3
 		INDEX 01 01:58:32
 	TRACK 03 AUDIO
 		TITLE "talk (over charles wright & the watts 103rd street band - what can you bring me)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 07:02:11
 	TRACK 04 AUDIO
 		TITLE "(i got) so much trouble in my mind"
@@ -97,7 +97,7 @@ FILE "WeFunk_Show_267_2003-01-24.mp3" MP3
 		INDEX 01 78:25:15
 	TRACK 24 AUDIO
 		TITLE "knucklehead"
-		PERFORMER "grover washington jr."
+		PERFORMER "grover washington, jr."
 		INDEX 01 81:49:54
 	TRACK 25 AUDIO
 		TITLE "probable cause"
@@ -125,5 +125,5 @@ FILE "WeFunk_Show_267_2003-01-24.mp3" MP3
 		INDEX 01 101:56:36
 	TRACK 31 AUDIO
 		TITLE "talk (over j.b.'s - watermelon man)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 105:45:19

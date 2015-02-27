@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_544_2008-12-12.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "universal mind control"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_544_2008-12-12.mp3" MP3
 		INDEX 01 01:14:14
 	TRACK 03 AUDIO
 		TITLE "talk (over k'naan feat. chubb rock - a.b.c.'s instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 03:37:57
 	TRACK 04 AUDIO
 		TITLE "a.b.c.'s"
@@ -137,5 +137,5 @@ FILE "WeFunk_Show_544_2008-12-12.mp3" MP3
 		INDEX 01 100:43:12
 	TRACK 34 AUDIO
 		TITLE "talk (over stanley turrentine - sister sanctified)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 102:55:21

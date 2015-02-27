@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_690_2012-05-04.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "graffiti part one"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_690_2012-05-04.mp3" MP3
 		INDEX 01 01:14:13
 	TRACK 03 AUDIO
 		TITLE "talk (over missing links - super cop)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 03:43:35
 	TRACK 04 AUDIO
 		TITLE "there's a riot going on"
@@ -121,7 +121,7 @@ FILE "WeFunk_Show_690_2012-05-04.mp3" MP3
 		INDEX 01 109:53:40
 	TRACK 30 AUDIO
 		TITLE "talk (over gang starr - lovesick remix instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 114:16:45
 	TRACK 31 AUDIO
 		TITLE "ain't there something money can't buy"

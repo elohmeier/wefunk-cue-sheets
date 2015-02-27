@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_343_2004-08-13.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "it's a boy (remix)"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_343_2004-08-13.mp3" MP3
 		INDEX 01 01:59:02
 	TRACK 03 AUDIO
 		TITLE "talk (over apache - gangsta bitch instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:12:00
 	TRACK 04 AUDIO
 		TITLE "uptown shit"
@@ -73,7 +73,7 @@ FILE "WeFunk_Show_343_2004-08-13.mp3" MP3
 		INDEX 01 63:09:53
 	TRACK 18 AUDIO
 		TITLE "cold turkey"
-		PERFORMER "j rawls"
+		PERFORMER "j. rawls"
 		INDEX 01 67:01:25
 	TRACK 19 AUDIO
 		TITLE "a charmed life"
@@ -93,7 +93,7 @@ FILE "WeFunk_Show_343_2004-08-13.mp3" MP3
 		INDEX 01 80:32:47
 	TRACK 23 AUDIO
 		TITLE "inner city blues"
-		PERFORMER "grover washington jr."
+		PERFORMER "grover washington, jr."
 		INDEX 01 86:28:27
 	TRACK 24 AUDIO
 		TITLE "the spirit of do ... do"
@@ -125,7 +125,7 @@ FILE "WeFunk_Show_343_2004-08-13.mp3" MP3
 		INDEX 01 111:25:08
 	TRACK 31 AUDIO
 		TITLE "talk (over willie bobo & the bo-gents - broasted or fried)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 115:43:74
 	TRACK 32 AUDIO
 		TITLE "hot pants"

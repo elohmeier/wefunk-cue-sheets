@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_467_2007-04-27.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "black enuff"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_467_2007-04-27.mp3" MP3
 		INDEX 01 01:58:48
 	TRACK 03 AUDIO
 		TITLE "talk (over arthur monday - what goes around comes around)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:49:48
 	TRACK 04 AUDIO
 		TITLE "keep on doin' what you're doin'"
@@ -29,7 +29,7 @@ FILE "WeFunk_Show_467_2007-04-27.mp3" MP3
 		INDEX 01 15:05:22
 	TRACK 07 AUDIO
 		TITLE "talk (over lupe fiasco - i gotcha instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 18:26:44
 	TRACK 08 AUDIO
 		TITLE "ready or not"
@@ -49,7 +49,7 @@ FILE "WeFunk_Show_467_2007-04-27.mp3" MP3
 		INDEX 01 30:59:01
 	TRACK 12 AUDIO
 		TITLE "talk (over camp lo - black nostaljack remix instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 35:32:57
 	TRACK 13 AUDIO
 		TITLE "jingling baby"
@@ -77,15 +77,15 @@ FILE "WeFunk_Show_467_2007-04-27.mp3" MP3
 		INDEX 01 51:52:37
 	TRACK 19 AUDIO
 		TITLE "talk (over blackbyrds - blackbyrds theme)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 58:34:60
 	TRACK 20 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 61:42:25
 	TRACK 21 AUDIO
 		TITLE "talk (over black star - respiration instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 65:47:47
 	TRACK 22 AUDIO
 		TITLE "respiration instrumental"
@@ -129,5 +129,5 @@ FILE "WeFunk_Show_467_2007-04-27.mp3" MP3
 		INDEX 01 103:11:42
 	TRACK 32 AUDIO
 		TITLE "talk (over black moon - stay real instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 111:54:55

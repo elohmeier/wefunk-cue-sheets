@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_317_2004-02-07.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "use me"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_317_2004-02-07.mp3" MP3
 		INDEX 01 01:59:51
 	TRACK 03 AUDIO
 		TITLE "talk (over alan hawkshaw & brian bennett - name of the game)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:30:12
 	TRACK 04 AUDIO
 		TITLE "feelin' alright"
@@ -69,7 +69,7 @@ FILE "WeFunk_Show_317_2004-02-07.mp3" MP3
 		INDEX 01 53:44:46
 	TRACK 17 AUDIO
 		TITLE "talk (over gang starr - gotta get over instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 60:07:07
 	TRACK 18 AUDIO
 		TITLE "kracked beat"
@@ -141,7 +141,7 @@ FILE "WeFunk_Show_317_2004-02-07.mp3" MP3
 		INDEX 01 106:43:48
 	TRACK 35 AUDIO
 		TITLE "talk (over george semper & the rhythm committee - it's your thing)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 110:09:51
 	TRACK 36 AUDIO
 		TITLE "show & prove"

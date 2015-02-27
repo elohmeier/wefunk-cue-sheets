@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_543_2008-12-05.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "steam train"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_543_2008-12-05.mp3" MP3
 		INDEX 01 01:58:55
 	TRACK 03 AUDIO
 		TITLE "talk (over kool & the gang - electric frog, part 1)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:54:22
 	TRACK 04 AUDIO
 		TITLE "keep on looking (kenny dope remix)"
@@ -153,7 +153,7 @@ FILE "WeFunk_Show_543_2008-12-05.mp3" MP3
 		INDEX 01 111:23:56
 	TRACK 38 AUDIO
 		TITLE "talk (over marc mac - simple folk/space cadets)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 114:54:66
 	TRACK 39 AUDIO
 		TITLE "way back when"

@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_233_2002-05-10.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "the dump"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_233_2002-05-10.mp3" MP3
 		INDEX 01 01:59:07
 	TRACK 03 AUDIO
 		TITLE "talk (over a.a.b.b. - pick up the pieces one by one)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:36:21
 	TRACK 04 AUDIO
 		TITLE "tell me"
@@ -25,7 +25,7 @@ FILE "WeFunk_Show_233_2002-05-10.mp3" MP3
 		INDEX 01 09:47:14
 	TRACK 06 AUDIO
 		TITLE "we oughta get together"
-		PERFORMER "professor leit & study"
+		PERFORMER "professor lett & study"
 		INDEX 01 12:44:41
 	TRACK 07 AUDIO
 		TITLE "northern touch"
@@ -44,8 +44,8 @@ FILE "WeFunk_Show_233_2002-05-10.mp3" MP3
 		PERFORMER "digable planets"
 		INDEX 01 25:05:13
 	TRACK 11 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 29:08:49
 	TRACK 12 AUDIO
 		TITLE "person to person"
@@ -72,8 +72,8 @@ FILE "WeFunk_Show_233_2002-05-10.mp3" MP3
 		PERFORMER "lil' dap"
 		INDEX 01 53:14:46
 	TRACK 18 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 56:50:24
 	TRACK 19 AUDIO
 		TITLE "dope man"
@@ -125,7 +125,7 @@ FILE "WeFunk_Show_233_2002-05-10.mp3" MP3
 		INDEX 01 106:04:02
 	TRACK 31 AUDIO
 		TITLE "talk (over roy ayers - stoned soul picnic)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 108:11:71
 	TRACK 32 AUDIO
 		TITLE "sunshine star"

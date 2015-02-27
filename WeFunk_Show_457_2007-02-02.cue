@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_457_2007-02-02.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "give it up or turnit a loose"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_457_2007-02-02.mp3" MP3
 		INDEX 01 01:58:63
 	TRACK 03 AUDIO
 		TITLE "talk (over kool & the gang - jungle jazz)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 06:10:50
 	TRACK 04 AUDIO
 		TITLE "the hands of time"
@@ -36,48 +36,48 @@ FILE "WeFunk_Show_457_2007-02-02.mp3" MP3
 		PERFORMER "x clan"
 		INDEX 01 27:32:68
 	TRACK 09 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 31:47:01
 	TRACK 10 AUDIO
 		TITLE "a day of outrage, operation snatchback"
 		PERFORMER "x clan"
 		INDEX 01 33:00:33
 	TRACK 11 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 34:27:56
 	TRACK 12 AUDIO
 		TITLE "verbal papp"
 		PERFORMER "x clan"
 		INDEX 01 38:50:13
 	TRACK 13 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 41:15:28
 	TRACK 14 AUDIO
 		TITLE "xodus"
 		PERFORMER "x clan"
 		INDEX 01 43:41:66
 	TRACK 15 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 45:58:14
 	TRACK 16 AUDIO
 		TITLE "heed the word of the brother"
 		PERFORMER "x clan"
 		INDEX 01 47:03:74
 	TRACK 17 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 49:09:68
 	TRACK 18 AUDIO
 		TITLE "weapon x"
 		PERFORMER "x clan"
 		INDEX 01 51:43:47
 	TRACK 19 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 52:50:14
 	TRACK 20 AUDIO
 		TITLE "speak the truth"
@@ -149,7 +149,7 @@ FILE "WeFunk_Show_457_2007-02-02.mp3" MP3
 		INDEX 01 103:45:73
 	TRACK 37 AUDIO
 		TITLE "talk (over black ice feat. musiq - take your time instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 107:47:04
 	TRACK 38 AUDIO
 		TITLE "take your time"

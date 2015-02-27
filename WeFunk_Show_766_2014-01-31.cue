@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_766_2014-01-31.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "feel my love"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_766_2014-01-31.mp3" MP3
 		INDEX 01 01:14:18
 	TRACK 03 AUDIO
 		TITLE "talk (over high fashion - feelin' lucky lately)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:49:43
 	TRACK 04 AUDIO
 		TITLE "meet the man (professor groove edit)"
@@ -149,7 +149,7 @@ FILE "WeFunk_Show_766_2014-01-31.mp3" MP3
 		INDEX 01 102:47:56
 	TRACK 37 AUDIO
 		TITLE "talk (over evil needle - one for kennedy)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 107:44:10
 	TRACK 38 AUDIO
 		TITLE "afro blue"

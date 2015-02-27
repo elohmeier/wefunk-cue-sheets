@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_304_2003-10-17.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "put it on the line"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_304_2003-10-17.mp3" MP3
 		INDEX 01 01:58:69
 	TRACK 03 AUDIO
 		TITLE "talk (over cold grits - it's your thing)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:27:58
 	TRACK 04 AUDIO
 		TITLE "give it up"
@@ -37,7 +37,7 @@ FILE "WeFunk_Show_304_2003-10-17.mp3" MP3
 		INDEX 01 21:45:19
 	TRACK 09 AUDIO
 		TITLE "i declare war"
-		PERFORMER "pace won"
+		PERFORMER "pacewon"
 		INDEX 01 25:04:25
 	TRACK 10 AUDIO
 		TITLE "these days & times"
@@ -73,7 +73,7 @@ FILE "WeFunk_Show_304_2003-10-17.mp3" MP3
 		INDEX 01 52:41:29
 	TRACK 18 AUDIO
 		TITLE "proof is in the puddin'"
-		PERFORMER "madkap"
+		PERFORMER "mad kap"
 		INDEX 01 54:57:50
 	TRACK 19 AUDIO
 		TITLE "i like it (remix)"
@@ -81,7 +81,7 @@ FILE "WeFunk_Show_304_2003-10-17.mp3" MP3
 		INDEX 01 58:16:46
 	TRACK 20 AUDIO
 		TITLE "you can't front"
-		PERFORMER "diamond d"
+		PERFORMER "diamond d."
 		INDEX 01 62:22:72
 	TRACK 21 AUDIO
 		TITLE "g.e.t.o.p.e.n."
@@ -141,5 +141,5 @@ FILE "WeFunk_Show_304_2003-10-17.mp3" MP3
 		INDEX 01 106:31:04
 	TRACK 35 AUDIO
 		TITLE "talk (over j-zone feat. al-shid, huggy - live from the pimp palace east instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 111:04:64

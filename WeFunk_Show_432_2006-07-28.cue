@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_432_2006-07-28.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "everybody's on a trip"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_432_2006-07-28.mp3" MP3
 		INDEX 01 01:58:44
 	TRACK 03 AUDIO
 		TITLE "talk (over bar-kays - holy ghost (d.j. slyde edit))"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:27:10
 	TRACK 04 AUDIO
 		TITLE "special agent man (female version)"
@@ -53,7 +53,7 @@ FILE "WeFunk_Show_432_2006-07-28.mp3" MP3
 		INDEX 01 40:49:66
 	TRACK 13 AUDIO
 		TITLE "cars"
-		PERFORMER "zatzenjammers"
+		PERFORMER "katzenjammers"
 		INDEX 01 42:44:43
 	TRACK 14 AUDIO
 		TITLE "l.a. nights"
@@ -77,7 +77,7 @@ FILE "WeFunk_Show_432_2006-07-28.mp3" MP3
 		INDEX 01 59:59:63
 	TRACK 19 AUDIO
 		TITLE "rhode's island"
-		PERFORMER "kariem riggins"
+		PERFORMER "karriem riggins"
 		INDEX 01 63:51:60
 	TRACK 20 AUDIO
 		TITLE "state of emergency"
@@ -141,5 +141,5 @@ FILE "WeFunk_Show_432_2006-07-28.mp3" MP3
 		INDEX 01 108:39:73
 	TRACK 35 AUDIO
 		TITLE "talk (over jack mcduff - the fourth dimension)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 115:14:49

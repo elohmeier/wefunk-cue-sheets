@@ -5,15 +5,15 @@ REM Genre : HipHop
 FILE "WeFunk_Show_263_2002-12-13.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "fanatic of the b word"
 		PERFORMER "de la soul"
 		INDEX 01 01:58:44
 	TRACK 03 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 06:01:69
 	TRACK 04 AUDIO
 		TITLE "fruits of labor in the sunshine"
@@ -65,7 +65,7 @@ FILE "WeFunk_Show_263_2002-12-13.mp3" MP3
 		INDEX 01 49:37:52
 	TRACK 16 AUDIO
 		TITLE "talk (over ghostface killah - motherless child instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 52:40:15
 	TRACK 17 AUDIO
 		TITLE "motherless child"
@@ -112,10 +112,10 @@ FILE "WeFunk_Show_263_2002-12-13.mp3" MP3
 		PERFORMER "mos def & talib kweli"
 		INDEX 01 93:01:51
 	TRACK 28 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 98:23:03
 	TRACK 29 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 109:05:04

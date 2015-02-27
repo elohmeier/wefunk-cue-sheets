@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_493_2007-10-26.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "brown wind & fire"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_493_2007-10-26.mp3" MP3
 		INDEX 01 01:58:50
 	TRACK 03 AUDIO
 		TITLE "talk (over ray barretto - acid)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:44:39
 	TRACK 04 AUDIO
 		TITLE "everybody needs love"
@@ -45,7 +45,7 @@ FILE "WeFunk_Show_493_2007-10-26.mp3" MP3
 		INDEX 01 28:08:41
 	TRACK 11 AUDIO
 		TITLE "it's a demo"
-		PERFORMER "d.j. polo & kool g rap"
+		PERFORMER "d.j. polo & kool g. rap"
 		INDEX 01 29:57:54
 	TRACK 12 AUDIO
 		TITLE "no vaseline"
@@ -65,7 +65,7 @@ FILE "WeFunk_Show_493_2007-10-26.mp3" MP3
 		INDEX 01 46:01:28
 	TRACK 16 AUDIO
 		TITLE "going up in smoke"
-		PERFORMER "johnny "guitar" watson"
+		PERFORMER "johnny guitar watson"
 		INDEX 01 50:09:45
 	TRACK 17 AUDIO
 		TITLE "showtime"
@@ -117,5 +117,5 @@ FILE "WeFunk_Show_493_2007-10-26.mp3" MP3
 		INDEX 01 110:13:30
 	TRACK 29 AUDIO
 		TITLE "talk (over pete rock feat. jim jones & max b - we roll instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 114:28:04

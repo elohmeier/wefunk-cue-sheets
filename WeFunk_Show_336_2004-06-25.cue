@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_336_2004-06-25.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "who's gonna take the weight"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_336_2004-06-25.mp3" MP3
 		INDEX 01 01:58:33
 	TRACK 03 AUDIO
 		TITLE "talk (over new mastersounds - so many pies)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 07:39:16
 	TRACK 04 AUDIO
 		TITLE "in the deep"
@@ -53,7 +53,7 @@ FILE "WeFunk_Show_336_2004-06-25.mp3" MP3
 		INDEX 01 44:07:01
 	TRACK 13 AUDIO
 		TITLE "a bad thing"
-		PERFORMER "george levin"
+		PERFORMER "georg levin"
 		INDEX 01 45:27:14
 	TRACK 14 AUDIO
 		TITLE "for your love"
@@ -121,5 +121,5 @@ FILE "WeFunk_Show_336_2004-06-25.mp3" MP3
 		INDEX 01 99:41:67
 	TRACK 30 AUDIO
 		TITLE "talk (over beatnuts - fried chicken instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 104:04:07

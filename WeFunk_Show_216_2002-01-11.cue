@@ -5,11 +5,11 @@ REM Genre : HipHop
 FILE "WeFunk_Show_216_2002-01-11.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "talk (over sadat x - hang 'em high instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:05:34
 	TRACK 03 AUDIO
 		TITLE "in time and space"
@@ -49,7 +49,7 @@ FILE "WeFunk_Show_216_2002-01-11.mp3" MP3
 		INDEX 01 38:21:27
 	TRACK 12 AUDIO
 		TITLE "get up everybody"
-		PERFORMER "salt n pepa"
+		PERFORMER "salt 'n' pepa"
 		INDEX 01 41:48:55
 	TRACK 13 AUDIO
 		TITLE "how many m.c.'s"
@@ -61,7 +61,7 @@ FILE "WeFunk_Show_216_2002-01-11.mp3" MP3
 		INDEX 01 49:51:26
 	TRACK 15 AUDIO
 		TITLE "talk (over moka only - this that instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 53:29:67
 	TRACK 16 AUDIO
 		TITLE "this that"
@@ -101,7 +101,7 @@ FILE "WeFunk_Show_216_2002-01-11.mp3" MP3
 		INDEX 01 78:58:12
 	TRACK 25 AUDIO
 		TITLE "c.r.e.a.m."
-		PERFORMER "wu-tang"
+		PERFORMER "wu-tang clan"
 		INDEX 01 81:57:68
 	TRACK 26 AUDIO
 		TITLE "top billin'"
@@ -117,15 +117,15 @@ FILE "WeFunk_Show_216_2002-01-11.mp3" MP3
 		INDEX 01 91:25:08
 	TRACK 29 AUDIO
 		TITLE "dreams of fuckin' an r&b bitch"
-		PERFORMER "notorious b.i.g"
+		PERFORMER "notorious b.i.g."
 		INDEX 01 94:29:18
 	TRACK 30 AUDIO
 		TITLE "blues & pants"
 		PERFORMER "james brown"
 		INDEX 01 96:46:62
 	TRACK 31 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 101:32:04
 	TRACK 32 AUDIO
 		TITLE "illegal business"
@@ -133,5 +133,5 @@ FILE "WeFunk_Show_216_2002-01-11.mp3" MP3
 		INDEX 01 108:55:35
 	TRACK 33 AUDIO
 		TITLE "talk (over beastie boys - body movin' instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 112:47:25

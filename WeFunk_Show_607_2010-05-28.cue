@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_607_2010-05-28.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "magical (remix)"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_607_2010-05-28.mp3" MP3
 		INDEX 01 01:27:03
 	TRACK 03 AUDIO
 		TITLE "talk (over sharpshooters - heavyweight instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 03:29:46
 	TRACK 04 AUDIO
 		TITLE "revival"
@@ -141,5 +141,5 @@ FILE "WeFunk_Show_607_2010-05-28.mp3" MP3
 		INDEX 01 111:19:16
 	TRACK 35 AUDIO
 		TITLE "talk (over roy ayers - funk in the hole (nicolay remix))"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 114:18:63

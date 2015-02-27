@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_525_2008-07-18.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "it's your world"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_525_2008-07-18.mp3" MP3
 		INDEX 01 01:44:39
 	TRACK 03 AUDIO
 		TITLE "talk (over salinas - straussmania)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:25:44
 	TRACK 04 AUDIO
 		TITLE "bacalao con pan"
@@ -29,7 +29,7 @@ FILE "WeFunk_Show_525_2008-07-18.mp3" MP3
 		INDEX 01 17:21:21
 	TRACK 07 AUDIO
 		TITLE "set 'em straight"
-		PERFORMER "eric b & rakim"
+		PERFORMER "eric b. & rakim"
 		INDEX 01 20:50:41
 	TRACK 08 AUDIO
 		TITLE "lump lump (nubian mix)"
@@ -45,7 +45,7 @@ FILE "WeFunk_Show_525_2008-07-18.mp3" MP3
 		INDEX 01 30:15:38
 	TRACK 11 AUDIO
 		TITLE "you ain't heard nothin' yet"
-		PERFORMER "heavy d & the boyz"
+		PERFORMER "heavy d. & the boyz"
 		INDEX 01 33:29:02
 	TRACK 12 AUDIO
 		TITLE "going down for the last time"
@@ -137,7 +137,7 @@ FILE "WeFunk_Show_525_2008-07-18.mp3" MP3
 		INDEX 01 102:09:57
 	TRACK 34 AUDIO
 		TITLE "talk (over k.m.d. - plumskinzz instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 105:18:11
 	TRACK 35 AUDIO
 		TITLE "on the mic"

@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_486_2007-09-07.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "ginsu"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_486_2007-09-07.mp3" MP3
 		INDEX 01 01:39:45
 	TRACK 03 AUDIO
 		TITLE "talk (over roots - in the music instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:16:53
 	TRACK 04 AUDIO
 		TITLE "hiphop c.p.r."
@@ -141,7 +141,7 @@ FILE "WeFunk_Show_486_2007-09-07.mp3" MP3
 		INDEX 01 80:54:04
 	TRACK 35 AUDIO
 		TITLE "step up front"
-		PERFORMER "positive k"
+		PERFORMER "positive k."
 		INDEX 01 82:24:23
 	TRACK 36 AUDIO
 		TITLE "act a fool"
@@ -185,5 +185,5 @@ FILE "WeFunk_Show_486_2007-09-07.mp3" MP3
 		INDEX 01 110:36:61
 	TRACK 46 AUDIO
 		TITLE "talk (over m.c. lyte - cha cha cha instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 113:05:69

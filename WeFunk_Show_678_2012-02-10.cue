@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_678_2012-02-10.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "super lyrical"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_678_2012-02-10.mp3" MP3
 		INDEX 01 01:14:28
 	TRACK 03 AUDIO
 		TITLE "talk (over big pun - caribbean connection instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:25:26
 	TRACK 04 AUDIO
 		TITLE "new york giants"
@@ -201,7 +201,7 @@ FILE "WeFunk_Show_678_2012-02-10.mp3" MP3
 		INDEX 01 120:12:04
 	TRACK 50 AUDIO
 		TITLE "talk (over speak low - thriller)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 123:25:26
 	TRACK 51 AUDIO
 		TITLE "thinking about you (the groovers edit)"

@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_253_2002-10-04.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "funky president"
@@ -36,8 +36,8 @@ FILE "WeFunk_Show_253_2002-10-04.mp3" MP3
 		PERFORMER "x-clan"
 		INDEX 01 21:46:50
 	TRACK 09 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 26:07:48
 	TRACK 10 AUDIO
 		TITLE "(unknown song)"
@@ -104,8 +104,8 @@ FILE "WeFunk_Show_253_2002-10-04.mp3" MP3
 		PERFORMER "ultramagnetic m.c.'s"
 		INDEX 01 106:20:02
 	TRACK 26 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 109:33:57
 	TRACK 27 AUDIO
 		TITLE "fortified live"
@@ -116,8 +116,8 @@ FILE "WeFunk_Show_253_2002-10-04.mp3" MP3
 		PERFORMER "j king"
 		INDEX 01 123:07:58
 	TRACK 29 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 127:06:72
 	TRACK 30 AUDIO
 		TITLE "the game"

@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_659_2011-08-26.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "glide"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_659_2011-08-26.mp3" MP3
 		INDEX 01 01:14:03
 	TRACK 03 AUDIO
 		TITLE "talk (over east liberty quarters - lucky charm)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:48:08
 	TRACK 04 AUDIO
 		TITLE "point of return"
@@ -157,7 +157,7 @@ FILE "WeFunk_Show_659_2011-08-26.mp3" MP3
 		INDEX 01 100:48:02
 	TRACK 39 AUDIO
 		TITLE "talk (over buscrates 16 bit ensemble - convertible fonk)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 104:18:30
 	TRACK 40 AUDIO
 		TITLE "daylight (soulpersona rampize remix)"

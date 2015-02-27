@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_453_2007-01-05.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "thanks (live)"
@@ -17,7 +17,7 @@ FILE "WeFunk_Show_453_2007-01-05.mp3" MP3
 		INDEX 01 03:49:70
 	TRACK 04 AUDIO
 		TITLE "talk (over james brown - soul pride)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 08:30:62
 	TRACK 05 AUDIO
 		TITLE "40th anniversary mix"
@@ -109,7 +109,7 @@ FILE "WeFunk_Show_453_2007-01-05.mp3" MP3
 		INDEX 01 109:08:66
 	TRACK 27 AUDIO
 		TITLE "talk (over james brown - nose job)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 112:30:63
 	TRACK 28 AUDIO
 		TITLE "talkin' loud and sayin' nothing"

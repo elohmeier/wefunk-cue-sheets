@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_686_2012-04-06.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "people make the world go 'round (dj4joy remix)"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_686_2012-04-06.mp3" MP3
 		INDEX 01 01:26:64
 	TRACK 03 AUDIO
 		TITLE "talk (over jupiter tuning center - cosmodrome)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:57:44
 	TRACK 04 AUDIO
 		TITLE "across 110th street"
@@ -21,7 +21,7 @@ FILE "WeFunk_Show_686_2012-04-06.mp3" MP3
 		INDEX 01 10:45:63
 	TRACK 05 AUDIO
 		TITLE "new shoes (scratchandsniff's extended re-rub)"
-		PERFORMER "sharon jones & the dap kings"
+		PERFORMER "sharon jones & the dap-kings"
 		INDEX 01 12:55:08
 	TRACK 06 AUDIO
 		TITLE "fakin' it"
@@ -161,7 +161,7 @@ FILE "WeFunk_Show_686_2012-04-06.mp3" MP3
 		INDEX 01 106:24:28
 	TRACK 40 AUDIO
 		TITLE "talk (over black sheep - north south east west remix instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 110:06:43
 	TRACK 41 AUDIO
 		TITLE "turn up the mic (remix)"

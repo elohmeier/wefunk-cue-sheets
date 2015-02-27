@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_552_2009-02-13.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "hook and sling meets the funky superfly"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_552_2009-02-13.mp3" MP3
 		INDEX 01 01:44:54
 	TRACK 03 AUDIO
 		TITLE "talk (over sly & the family stone - positive)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:27:46
 	TRACK 04 AUDIO
 		TITLE "hit me with music"
@@ -40,8 +40,8 @@ FILE "WeFunk_Show_552_2009-02-13.mp3" MP3
 		PERFORMER "johnny harris"
 		INDEX 01 24:23:03
 	TRACK 10 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 29:36:16
 	TRACK 11 AUDIO
 		TITLE "don't let her be your baby"
@@ -125,7 +125,7 @@ FILE "WeFunk_Show_552_2009-02-13.mp3" MP3
 		INDEX 01 70:41:18
 	TRACK 31 AUDIO
 		TITLE "right in the middle"
-		PERFORMER "walter brooks"
+		PERFORMER "encore feat. walter brooks"
 		INDEX 01 75:36:31
 	TRACK 32 AUDIO
 		TITLE "funk time"
@@ -197,5 +197,5 @@ FILE "WeFunk_Show_552_2009-02-13.mp3" MP3
 		INDEX 01 111:07:43
 	TRACK 49 AUDIO
 		TITLE "talk (over funky constellation - street talk (madame rapper))"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 114:21:38

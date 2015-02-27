@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_775_2014-04-11.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "no sell out"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_775_2014-04-11.mp3" MP3
 		INDEX 01 01:32:32
 	TRACK 03 AUDIO
 		TITLE "talk (over roots - distortion to static instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:36:55
 	TRACK 04 AUDIO
 		TITLE "one beer"
@@ -77,7 +77,7 @@ FILE "WeFunk_Show_775_2014-04-11.mp3" MP3
 		INDEX 01 38:52:21
 	TRACK 19 AUDIO
 		TITLE "long distance"
-		PERFORMER "onra feat. oliver daysoul"
+		PERFORMER "onra feat. olivier daysoul"
 		INDEX 01 40:35:22
 	TRACK 20 AUDIO
 		TITLE "don't believe the hype"
@@ -209,7 +209,7 @@ FILE "WeFunk_Show_775_2014-04-11.mp3" MP3
 		INDEX 01 107:31:67
 	TRACK 52 AUDIO
 		TITLE "talk (over toby tobias - macasu (motor city drum ensemble loft party remix))"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 111:10:74
 	TRACK 53 AUDIO
 		TITLE "mysteries of the world (edit)"

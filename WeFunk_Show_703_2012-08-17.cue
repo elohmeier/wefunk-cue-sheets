@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_703_2012-08-17.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "put your body in it (glenn rivera restructure mix)"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_703_2012-08-17.mp3" MP3
 		INDEX 01 01:40:21
 	TRACK 03 AUDIO
 		TITLE "talk (over jimmy ross - first true love affair instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 06:39:74
 	TRACK 04 AUDIO
 		TITLE "first true love affair"
@@ -181,7 +181,7 @@ FILE "WeFunk_Show_703_2012-08-17.mp3" MP3
 		INDEX 01 115:51:11
 	TRACK 45 AUDIO
 		TITLE "talk (over masta killa - old man instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 118:08:23
 	TRACK 46 AUDIO
 		TITLE "survival tactics"

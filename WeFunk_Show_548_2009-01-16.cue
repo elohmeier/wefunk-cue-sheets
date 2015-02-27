@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_548_2009-01-16.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "moving forward"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_548_2009-01-16.mp3" MP3
 		INDEX 01 01:32:37
 	TRACK 03 AUDIO
 		TITLE "talk (over educated consumers - vets of the vibe instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 06:14:60
 	TRACK 04 AUDIO
 		TITLE "hamdulilah (gaza remix)"
@@ -121,5 +121,5 @@ FILE "WeFunk_Show_548_2009-01-16.mp3" MP3
 		INDEX 01 99:35:63
 	TRACK 30 AUDIO
 		TITLE "talk (over roy ayers - green and gold)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 105:53:43

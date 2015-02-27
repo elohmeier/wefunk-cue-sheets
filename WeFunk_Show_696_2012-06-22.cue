@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_696_2012-06-22.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "b.b.q. the police"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_696_2012-06-22.mp3" MP3
 		INDEX 01 01:14:28
 	TRACK 03 AUDIO
 		TITLE "talk (over roy ayers - funk in the hole remix)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:33:62
 	TRACK 04 AUDIO
 		TITLE "day that's new"
@@ -129,7 +129,7 @@ FILE "WeFunk_Show_696_2012-06-22.mp3" MP3
 		INDEX 01 110:49:63
 	TRACK 32 AUDIO
 		TITLE "talk (over tall black guy - talk together)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 113:18:19
 	TRACK 33 AUDIO
 		TITLE "court of love"

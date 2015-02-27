@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_497_2007-11-30.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "love me right girl"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_497_2007-11-30.mp3" MP3
 		INDEX 01 01:58:45
 	TRACK 03 AUDIO
 		TITLE "talk (over lakim shabazz - swiftness instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:33:17
 	TRACK 04 AUDIO
 		TITLE "a little love will help"
@@ -133,5 +133,5 @@ FILE "WeFunk_Show_497_2007-11-30.mp3" MP3
 		INDEX 01 108:41:53
 	TRACK 33 AUDIO
 		TITLE "talk (over pharcyde - the rubber song instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 110:59:25

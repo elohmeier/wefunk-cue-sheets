@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_442_2006-10-06.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "rainy dayz"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_442_2006-10-06.mp3" MP3
 		INDEX 01 01:58:58
 	TRACK 03 AUDIO
 		TITLE "talk (over militant mind state - cute loot instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:35:45
 	TRACK 04 AUDIO
 		TITLE "brooklyn kids"
@@ -72,7 +72,7 @@ FILE "WeFunk_Show_442_2006-10-06.mp3" MP3
 		PERFORMER "fat joe"
 		INDEX 01 48:12:20
 	TRACK 18 AUDIO
-		TITLE "1, 2 pass it"
+		TITLE "1,2 pass it"
 		PERFORMER "d&d all-stars"
 		INDEX 01 52:10:69
 	TRACK 19 AUDIO
@@ -93,7 +93,7 @@ FILE "WeFunk_Show_442_2006-10-06.mp3" MP3
 		INDEX 01 66:59:64
 	TRACK 23 AUDIO
 		TITLE "talk (over eddie henderson - acuphuncture)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 70:06:34
 	TRACK 24 AUDIO
 		TITLE "mediocre"
@@ -141,5 +141,5 @@ FILE "WeFunk_Show_442_2006-10-06.mp3" MP3
 		INDEX 01 102:21:18
 	TRACK 35 AUDIO
 		TITLE "talk (over ohio players - there it is)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 105:12:22

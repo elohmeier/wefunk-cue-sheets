@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_246_2002-08-16.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "raw"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_246_2002-08-16.mp3" MP3
 		INDEX 01 01:58:72
 	TRACK 03 AUDIO
 		TITLE "talk (over professor groove - ...'an groanin')"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:52:65
 	TRACK 04 AUDIO
 		TITLE "hit it from the back"
@@ -33,7 +33,7 @@ FILE "WeFunk_Show_246_2002-08-16.mp3" MP3
 		INDEX 01 22:01:22
 	TRACK 08 AUDIO
 		TITLE "motion 2000"
-		PERFORMER "polyrhythm-addicts"
+		PERFORMER "polyrhythm addicts"
 		INDEX 01 25:47:01
 	TRACK 09 AUDIO
 		TITLE "let me be your lovemaker"
@@ -56,8 +56,8 @@ FILE "WeFunk_Show_246_2002-08-16.mp3" MP3
 		PERFORMER "soul providers"
 		INDEX 01 41:35:26
 	TRACK 14 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 43:27:47
 	TRACK 15 AUDIO
 		TITLE "you better think twice"
@@ -125,5 +125,5 @@ FILE "WeFunk_Show_246_2002-08-16.mp3" MP3
 		INDEX 01 106:23:05
 	TRACK 31 AUDIO
 		TITLE "talk (over daktaris - in the middle)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 109:45:02

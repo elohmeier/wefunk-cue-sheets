@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_247_2002-08-23.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "4 better or 4 worse"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_247_2002-08-23.mp3" MP3
 		INDEX 01 01:59:16
 	TRACK 03 AUDIO
 		TITLE "talk (over bahamadia - you know how we do instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:54:18
 	TRACK 04 AUDIO
 		TITLE "how my man went down in the game"
@@ -37,7 +37,7 @@ FILE "WeFunk_Show_247_2002-08-23.mp3" MP3
 		INDEX 01 21:13:60
 	TRACK 09 AUDIO
 		TITLE "nightshift"
-		PERFORMER "positive k"
+		PERFORMER "positive k."
 		INDEX 01 24:36:19
 	TRACK 10 AUDIO
 		TITLE "speak & read"
@@ -109,11 +109,11 @@ FILE "WeFunk_Show_247_2002-08-23.mp3" MP3
 		INDEX 01 84:45:52
 	TRACK 27 AUDIO
 		TITLE "big tyme"
-		PERFORMER "heavy d & the boyz"
+		PERFORMER "heavy d. & the boyz"
 		INDEX 01 88:50:11
 	TRACK 28 AUDIO
 		TITLE "shake your thang"
-		PERFORMER "salt & pepa"
+		PERFORMER "salt 'n' pepa"
 		INDEX 01 91:00:71
 	TRACK 29 AUDIO
 		TITLE "how ya like me now"
@@ -137,7 +137,7 @@ FILE "WeFunk_Show_247_2002-08-23.mp3" MP3
 		INDEX 01 110:15:22
 	TRACK 34 AUDIO
 		TITLE "talk (over j.b.'s - pass the peas)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 112:20:01
 	TRACK 35 AUDIO
 		TITLE "tell me"

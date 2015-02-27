@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_483_2007-08-17.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "boogie juice"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_483_2007-08-17.mp3" MP3
 		INDEX 01 01:58:33
 	TRACK 03 AUDIO
 		TITLE "talk (over watsonian institute - follow me)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:31:64
 	TRACK 04 AUDIO
 		TITLE "thank you fahlettinme be mice elf agin"
@@ -49,7 +49,7 @@ FILE "WeFunk_Show_483_2007-08-17.mp3" MP3
 		INDEX 01 31:12:39
 	TRACK 12 AUDIO
 		TITLE "talk (over b-1 - how we love instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 33:21:09
 	TRACK 13 AUDIO
 		TITLE "the slums"
@@ -141,5 +141,5 @@ FILE "WeFunk_Show_483_2007-08-17.mp3" MP3
 		INDEX 01 107:30:65
 	TRACK 35 AUDIO
 		TITLE "talk (over crown city rockers - b-boy remix instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 110:02:34

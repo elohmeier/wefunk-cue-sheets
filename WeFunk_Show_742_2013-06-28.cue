@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_742_2013-06-28.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "i can't get along without you (edit)"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_742_2013-06-28.mp3" MP3
 		INDEX 01 01:26:72
 	TRACK 03 AUDIO
 		TITLE "talk (over sunburst band - here comes the sunburst band)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 06:46:40
 	TRACK 04 AUDIO
 		TITLE "you're a melody"
@@ -157,7 +157,7 @@ FILE "WeFunk_Show_742_2013-06-28.mp3" MP3
 		INDEX 01 106:12:21
 	TRACK 39 AUDIO
 		TITLE "talk (over blue mitchell - melody for thelma)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 109:18:58
 	TRACK 40 AUDIO
 		TITLE "we movin'"

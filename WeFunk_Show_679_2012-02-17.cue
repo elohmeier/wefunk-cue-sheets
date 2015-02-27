@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_679_2012-02-17.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "escapism (gettin' free)"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_679_2012-02-17.mp3" MP3
 		INDEX 01 01:40:13
 	TRACK 03 AUDIO
 		TITLE "talk (over d.j. quik - quik's groove)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:56:55
 	TRACK 04 AUDIO
 		TITLE "what can i do (eastside remix)"
@@ -149,7 +149,7 @@ FILE "WeFunk_Show_679_2012-02-17.mp3" MP3
 		INDEX 01 106:24:10
 	TRACK 37 AUDIO
 		TITLE "talk (over opolopo - twenty-second thoughts)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 112:02:26
 	TRACK 38 AUDIO
 		TITLE "do your thing (scratchandsniff re-rub)"

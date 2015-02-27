@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_688_2012-04-20.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "son of shaft"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_688_2012-04-20.mp3" MP3
 		INDEX 01 01:32:20
 	TRACK 03 AUDIO
 		TITLE "talk (over d.j. toolz - bus stop)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:43:08
 	TRACK 04 AUDIO
 		TITLE "speakin' nuyorican"
@@ -149,7 +149,7 @@ FILE "WeFunk_Show_688_2012-04-20.mp3" MP3
 		INDEX 01 104:46:66
 	TRACK 37 AUDIO
 		TITLE "talk (over marc moulin - humpty dumpty)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 107:11:48
 	TRACK 38 AUDIO
 		TITLE "in memory of..."

@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_723_2013-02-08.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "can't stop this"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_723_2013-02-08.mp3" MP3
 		INDEX 01 01:27:05
 	TRACK 03 AUDIO
 		TITLE "talk (over jaylib - raw shit instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 06:04:53
 	TRACK 04 AUDIO
 		TITLE "the throwaway"
@@ -165,7 +165,7 @@ FILE "WeFunk_Show_723_2013-02-08.mp3" MP3
 		INDEX 01 111:48:74
 	TRACK 41 AUDIO
 		TITLE "talk (over illa j. - we here instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 114:10:37
 	TRACK 42 AUDIO
 		TITLE "rockforeverybody (pt. 1)"

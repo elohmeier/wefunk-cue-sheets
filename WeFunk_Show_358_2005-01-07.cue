@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_358_2005-01-07.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "watch the dog (that brings the bone)"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_358_2005-01-07.mp3" MP3
 		INDEX 01 01:59:15
 	TRACK 03 AUDIO
 		TITLE "talk (over grant green - hey western union man)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:49:17
 	TRACK 04 AUDIO
 		TITLE "feeling good"
@@ -121,7 +121,7 @@ FILE "WeFunk_Show_358_2005-01-07.mp3" MP3
 		INDEX 01 76:19:11
 	TRACK 30 AUDIO
 		TITLE "tango hustle"
-		PERFORMER "kay gees"
+		PERFORMER "kay-gees"
 		INDEX 01 80:00:31
 	TRACK 31 AUDIO
 		TITLE "whistle bump"
@@ -165,5 +165,5 @@ FILE "WeFunk_Show_358_2005-01-07.mp3" MP3
 		INDEX 01 110:05:63
 	TRACK 41 AUDIO
 		TITLE "talk (over beyond there - slumber instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 113:36:58

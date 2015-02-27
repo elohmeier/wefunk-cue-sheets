@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_189_2001-06-22.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "so long donkey"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_189_2001-06-22.mp3" MP3
 		INDEX 01 01:58:73
 	TRACK 03 AUDIO
 		TITLE "talk (over johnny hammond - the prophet)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:03:17
 	TRACK 04 AUDIO
 		TITLE "tell me what's on your mind"
@@ -85,7 +85,7 @@ FILE "WeFunk_Show_189_2001-06-22.mp3" MP3
 		INDEX 01 62:06:31
 	TRACK 21 AUDIO
 		TITLE "talk (over obscure disorder feat. non phixion - 2004 instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 65:18:27
 	TRACK 22 AUDIO
 		TITLE "transatlantic"

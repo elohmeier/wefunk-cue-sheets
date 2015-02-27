@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_538_2008-10-31.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "haunted house of rock"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_538_2008-10-31.mp3" MP3
 		INDEX 01 02:02:16
 	TRACK 03 AUDIO
 		TITLE "talk (over big daddy kane - get into it instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:50:52
 	TRACK 04 AUDIO
 		TITLE "ain't no half steppin'"
@@ -145,5 +145,5 @@ FILE "WeFunk_Show_538_2008-10-31.mp3" MP3
 		INDEX 01 105:46:35
 	TRACK 36 AUDIO
 		TITLE "talk (over eddie henderson - kumquat kids)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 108:18:60

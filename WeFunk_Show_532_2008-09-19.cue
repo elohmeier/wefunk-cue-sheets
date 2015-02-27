@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_532_2008-09-19.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "buck whylin'"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_532_2008-09-19.mp3" MP3
 		INDEX 01 01:30:29
 	TRACK 03 AUDIO
 		TITLE "talk (over original flavor - can i get open remix instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:01:31
 	TRACK 04 AUDIO
 		TITLE "can i get open remix"
@@ -56,8 +56,8 @@ FILE "WeFunk_Show_532_2008-09-19.mp3" MP3
 		PERFORMER "vicki anderson"
 		INDEX 01 28:31:50
 	TRACK 14 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 31:19:74
 	TRACK 15 AUDIO
 		TITLE "mommy what's a gravedigga instrumental"
@@ -68,8 +68,8 @@ FILE "WeFunk_Show_532_2008-09-19.mp3" MP3
 		PERFORMER "tony ezzy"
 		INDEX 01 39:20:10
 	TRACK 17 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 42:07:57
 	TRACK 18 AUDIO
 		TITLE "the scene i'm in"
@@ -145,5 +145,5 @@ FILE "WeFunk_Show_532_2008-09-19.mp3" MP3
 		INDEX 01 102:41:49
 	TRACK 36 AUDIO
 		TITLE "talk (over gene ammons - jungle strut)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 105:41:31

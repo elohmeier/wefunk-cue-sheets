@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_545_2008-12-19.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "she's the one"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_545_2008-12-19.mp3" MP3
 		INDEX 01 01:40:12
 	TRACK 03 AUDIO
 		TITLE "talk (over new mastersounds - chrysalis)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 03:53:14
 	TRACK 04 AUDIO
 		TITLE "sing a simple song"
@@ -105,7 +105,7 @@ FILE "WeFunk_Show_545_2008-12-19.mp3" MP3
 		INDEX 01 77:08:20
 	TRACK 26 AUDIO
 		TITLE "funky to the bone"
-		PERFORMER "freddie henchi & the soulsetters"
+		PERFORMER "freddi/henchi & the soulsetters"
 		INDEX 01 79:07:56
 	TRACK 27 AUDIO
 		TITLE "she's not just another woman"
@@ -145,5 +145,5 @@ FILE "WeFunk_Show_545_2008-12-19.mp3" MP3
 		INDEX 01 112:41:46
 	TRACK 36 AUDIO
 		TITLE "talk (over pete rock - a little soul)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 116:47:01

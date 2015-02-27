@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_298_2003-09-05.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "water melon"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_298_2003-09-05.mp3" MP3
 		INDEX 01 01:58:12
 	TRACK 03 AUDIO
 		TITLE "talk (over king curtis & the kingpins - sweet inspiration)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:31:31
 	TRACK 04 AUDIO
 		TITLE "get out of my life, woman"
@@ -49,7 +49,7 @@ FILE "WeFunk_Show_298_2003-09-05.mp3" MP3
 		INDEX 01 28:21:74
 	TRACK 12 AUDIO
 		TITLE "talk (over barry ungar - lightly salted)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 30:10:24
 	TRACK 13 AUDIO
 		TITLE "mmo testimonies"
@@ -133,5 +133,5 @@ FILE "WeFunk_Show_298_2003-09-05.mp3" MP3
 		INDEX 01 102:09:18
 	TRACK 33 AUDIO
 		TITLE "talk (over andre ceccarelli - gang progress)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 108:20:00

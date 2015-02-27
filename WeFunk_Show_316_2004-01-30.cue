@@ -5,15 +5,15 @@ REM Genre : HipHop
 FILE "WeFunk_Show_316_2004-01-30.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "get by"
 		PERFORMER "talib kweli"
 		INDEX 01 01:58:49
 	TRACK 03 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 05:42:40
 	TRACK 04 AUDIO
 		TITLE "remain focused"
@@ -137,5 +137,5 @@ FILE "WeFunk_Show_316_2004-01-30.mp3" MP3
 		INDEX 01 108:32:12
 	TRACK 34 AUDIO
 		TITLE "talk (over lee mason & his orchestra - shady blues)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 109:30:51

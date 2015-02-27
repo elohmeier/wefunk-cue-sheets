@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_735_2013-05-10.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "maybe one day"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_735_2013-05-10.mp3" MP3
 		INDEX 01 01:40:17
 	TRACK 03 AUDIO
 		TITLE "talk (over lou piensa - sky window)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:32:18
 	TRACK 04 AUDIO
 		TITLE "d.w.y.c.k (steely chan blender mash)"
@@ -125,7 +125,7 @@ FILE "WeFunk_Show_735_2013-05-10.mp3" MP3
 		INDEX 01 106:04:00
 	TRACK 31 AUDIO
 		TITLE "talk (over adrenalin - feel the reel instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 108:50:42
 	TRACK 32 AUDIO
 		TITLE "magic carpet"

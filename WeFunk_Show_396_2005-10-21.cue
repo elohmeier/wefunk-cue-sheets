@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_396_2005-10-21.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "don't call me nigger, whitey"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_396_2005-10-21.mp3" MP3
 		INDEX 01 01:58:61
 	TRACK 03 AUDIO
 		TITLE "talk (over yellow sunshine - be happy)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:33:62
 	TRACK 04 AUDIO
 		TITLE "getting it back"
@@ -109,7 +109,7 @@ FILE "WeFunk_Show_396_2005-10-21.mp3" MP3
 		INDEX 01 91:19:09
 	TRACK 27 AUDIO
 		TITLE "the r"
-		PERFORMER "eric b & rakim"
+		PERFORMER "eric b. & rakim"
 		INDEX 01 95:42:43
 	TRACK 28 AUDIO
 		TITLE "sons of the father"
@@ -125,5 +125,5 @@ FILE "WeFunk_Show_396_2005-10-21.mp3" MP3
 		INDEX 01 104:32:73
 	TRACK 31 AUDIO
 		TITLE "talk (over lin que - let it fall instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 108:15:26

@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_449_2006-12-01.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "exister"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_449_2006-12-01.mp3" MP3
 		INDEX 01 01:58:46
 	TRACK 03 AUDIO
 		TITLE "talk (over b.r. gunna feat. proof - thought i told you instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:50:29
 	TRACK 04 AUDIO
 		TITLE "lost one"
@@ -21,7 +21,7 @@ FILE "WeFunk_Show_449_2006-12-01.mp3" MP3
 		INDEX 01 09:13:41
 	TRACK 05 AUDIO
 		TITLE "talk (over intellekt & dirty digits - phenom mental instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 12:50:14
 	TRACK 06 AUDIO
 		TITLE "phenom mental"
@@ -69,7 +69,7 @@ FILE "WeFunk_Show_449_2006-12-01.mp3" MP3
 		INDEX 01 48:23:14
 	TRACK 17 AUDIO
 		TITLE "rappers flee"
-		PERFORMER "percee p"
+		PERFORMER "percee p."
 		INDEX 01 52:09:06
 	TRACK 18 AUDIO
 		TITLE "clap your hands"
@@ -141,5 +141,5 @@ FILE "WeFunk_Show_449_2006-12-01.mp3" MP3
 		INDEX 01 104:16:13
 	TRACK 35 AUDIO
 		TITLE "talk (over bobbi humphrey - fajehzo)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 109:17:00

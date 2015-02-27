@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_754_2013-10-18.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "amazing"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_754_2013-10-18.mp3" MP3
 		INDEX 01 01:26:65
 	TRACK 03 AUDIO
 		TITLE "talk (over gang starr - positivity fakestrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:07:74
 	TRACK 04 AUDIO
 		TITLE "hands on experience part 2"
@@ -28,12 +28,12 @@ FILE "WeFunk_Show_754_2013-10-18.mp3" MP3
 		PERFORMER "notorious b.i.g."
 		INDEX 01 18:22:16
 	TRACK 07 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 22:52:35
 	TRACK 08 AUDIO
 		TITLE "darkest light"
-		PERFORMER "lafayette afro rock band"
+		PERFORMER "lafayette afro-rock band"
 		INDEX 01 23:13:20
 	TRACK 09 AUDIO
 		TITLE "take your soul"
@@ -205,7 +205,7 @@ FILE "WeFunk_Show_754_2013-10-18.mp3" MP3
 		INDEX 01 105:43:42
 	TRACK 51 AUDIO
 		TITLE "talk (over mood - secrets of the sand remix instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 107:41:16
 	TRACK 52 AUDIO
 		TITLE "renaissance"

@@ -5,11 +5,11 @@ REM Genre : HipHop
 FILE "WeFunk_Show_666_2011-10-14.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 01:40:58
 	TRACK 03 AUDIO
 		TITLE "skyscrapers"
@@ -17,7 +17,7 @@ FILE "WeFunk_Show_666_2011-10-14.mp3" MP3
 		INDEX 01 03:05:09
 	TRACK 04 AUDIO
 		TITLE "talk (over rjd2 - the horror)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 07:33:46
 	TRACK 05 AUDIO
 		TITLE "the x-sorcist"
@@ -37,7 +37,7 @@ FILE "WeFunk_Show_666_2011-10-14.mp3" MP3
 		INDEX 01 25:11:67
 	TRACK 09 AUDIO
 		TITLE "talk (over gene page - blacula strikes)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 27:25:36
 	TRACK 10 AUDIO
 		TITLE "blowin' your mind"
@@ -53,7 +53,7 @@ FILE "WeFunk_Show_666_2011-10-14.mp3" MP3
 		INDEX 01 37:37:20
 	TRACK 13 AUDIO
 		TITLE "talk (over cecil holmes soulful sounds - slaughter)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 40:09:15
 	TRACK 14 AUDIO
 		TITLE "slaughter theme"
@@ -73,7 +73,7 @@ FILE "WeFunk_Show_666_2011-10-14.mp3" MP3
 		INDEX 01 55:53:60
 	TRACK 18 AUDIO
 		TITLE "talk (over edwin starr - ain't it hell up in harlem instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 58:28:45
 	TRACK 19 AUDIO
 		TITLE "the devil made me do it"
@@ -109,7 +109,7 @@ FILE "WeFunk_Show_666_2011-10-14.mp3" MP3
 		INDEX 01 80:20:21
 	TRACK 27 AUDIO
 		TITLE "talk (over curtis mayfield - freddie's dead)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 83:33:05
 	TRACK 28 AUDIO
 		TITLE "t. stands for trouble"
@@ -121,7 +121,7 @@ FILE "WeFunk_Show_666_2011-10-14.mp3" MP3
 		INDEX 01 92:46:67
 	TRACK 30 AUDIO
 		TITLE "talk (over roy ayers - aragon)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 95:39:03
 	TRACK 31 AUDIO
 		TITLE "across 110th street, part 2"
@@ -157,7 +157,7 @@ FILE "WeFunk_Show_666_2011-10-14.mp3" MP3
 		INDEX 01 116:23:37
 	TRACK 39 AUDIO
 		TITLE "talk (over gravediggaz - mommy what's a gravedigga instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 118:34:38
 	TRACK 40 AUDIO
 		TITLE "american nightmare"

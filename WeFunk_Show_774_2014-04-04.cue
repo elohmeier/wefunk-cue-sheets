@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_774_2014-04-04.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "uknowhowedo"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_774_2014-04-04.mp3" MP3
 		INDEX 01 01:44:52
 	TRACK 03 AUDIO
 		TITLE "talk (over alkalino - spread in the air (rework))"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:59:56
 	TRACK 04 AUDIO
 		TITLE "coco"
@@ -64,7 +64,7 @@ FILE "WeFunk_Show_774_2014-04-04.mp3" MP3
 		PERFORMER "magic drum orchestra"
 		INDEX 01 40:30:72
 	TRACK 16 AUDIO
-		TITLE "st8 outta mumbai"
+		TITLE "str8 outta mumbai"
 		PERFORMER "jai paul"
 		INDEX 01 43:18:68
 	TRACK 17 AUDIO
@@ -141,7 +141,7 @@ FILE "WeFunk_Show_774_2014-04-04.mp3" MP3
 		INDEX 01 103:58:25
 	TRACK 35 AUDIO
 		TITLE "talk (over slakah the beatchild - overtime)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 107:00:57
 	TRACK 36 AUDIO
 		TITLE "happy mentality (dj100proof afroblend)"

@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_765_2014-01-24.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "ghettos of the mind (freqnik & w.d.r.e. remix)"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_765_2014-01-24.mp3" MP3
 		INDEX 01 01:40:23
 	TRACK 03 AUDIO
 		TITLE "talk (over dead presidents - into somethin' else instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:57:02
 	TRACK 04 AUDIO
 		TITLE "into somethin' else"
@@ -137,7 +137,7 @@ FILE "WeFunk_Show_765_2014-01-24.mp3" MP3
 		INDEX 01 106:25:73
 	TRACK 34 AUDIO
 		TITLE "talk (over roy ayers - green and gold)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 110:29:03
 	TRACK 35 AUDIO
 		TITLE "we gettin' down"

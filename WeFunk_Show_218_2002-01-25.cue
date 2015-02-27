@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_218_2002-01-25.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "cause i can do it right"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_218_2002-01-25.mp3" MP3
 		INDEX 01 01:58:60
 	TRACK 03 AUDIO
 		TITLE "talk (over sly and the family stone - thank you for talkin' to me africa)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:28:61
 	TRACK 04 AUDIO
 		TITLE "let the bass go"
@@ -37,7 +37,7 @@ FILE "WeFunk_Show_218_2002-01-25.mp3" MP3
 		INDEX 01 29:13:56
 	TRACK 09 AUDIO
 		TITLE "talk (over james reese and the progressions - let's go (it's summertime))"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 32:22:58
 	TRACK 10 AUDIO
 		TITLE "what about you (in the world today)"
@@ -45,15 +45,15 @@ FILE "WeFunk_Show_218_2002-01-25.mp3" MP3
 		INDEX 01 35:08:62
 	TRACK 11 AUDIO
 		TITLE "talk (over king curtis - memphis soul stew)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 38:02:17
 	TRACK 12 AUDIO
 		TITLE "hook and sling"
 		PERFORMER "sugarman three"
 		INDEX 01 40:51:00
 	TRACK 13 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 43:15:05
 	TRACK 14 AUDIO
 		TITLE "remain anonymous"
@@ -80,8 +80,8 @@ FILE "WeFunk_Show_218_2002-01-25.mp3" MP3
 		PERFORMER "impressions"
 		INDEX 01 61:09:09
 	TRACK 20 AUDIO
-		TITLE "talk (over highlighers band - the funky 16 corners)"
-		PERFORMER ""
+		TITLE "talk (over highlighters band - the funky 16 corners)"
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 63:27:35
 	TRACK 21 AUDIO
 		TITLE "the real me"
@@ -109,7 +109,7 @@ FILE "WeFunk_Show_218_2002-01-25.mp3" MP3
 		INDEX 01 83:54:42
 	TRACK 27 AUDIO
 		TITLE "talk (over sugarman three - solid funk)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 88:55:72
 	TRACK 28 AUDIO
 		TITLE "pick up the pieces one by one"
@@ -129,5 +129,5 @@ FILE "WeFunk_Show_218_2002-01-25.mp3" MP3
 		INDEX 01 105:02:62
 	TRACK 32 AUDIO
 		TITLE "talk (over ghetto concept - e-z on the motion instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 108:25:35

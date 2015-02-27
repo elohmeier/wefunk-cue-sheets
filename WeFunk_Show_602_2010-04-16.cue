@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_602_2010-04-16.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "flying now (sulphur + mercurius)"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_602_2010-04-16.mp3" MP3
 		INDEX 01 01:44:40
 	TRACK 03 AUDIO
 		TITLE "talk (over haggis horns - traveller (part two))"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:44:15
 	TRACK 04 AUDIO
 		TITLE "everybody party all night"
@@ -137,5 +137,5 @@ FILE "WeFunk_Show_602_2010-04-16.mp3" MP3
 		INDEX 01 108:12:28
 	TRACK 34 AUDIO
 		TITLE "talk (over large professor - a tribe called quest)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 112:25:01

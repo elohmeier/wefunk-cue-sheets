@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_759_2013-11-22.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "i used to love h.e.r. (tall black guy remix)"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_759_2013-11-22.mp3" MP3
 		INDEX 01 01:40:21
 	TRACK 03 AUDIO
 		TITLE "talk (over quarter inch kings - like yo instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:34:36
 	TRACK 04 AUDIO
 		TITLE "mic jackson"
@@ -157,7 +157,7 @@ FILE "WeFunk_Show_759_2013-11-22.mp3" MP3
 		INDEX 01 108:24:32
 	TRACK 39 AUDIO
 		TITLE "talk (over frank booker - people must jam)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 110:32:43
 	TRACK 40 AUDIO
 		TITLE "happy feeling"

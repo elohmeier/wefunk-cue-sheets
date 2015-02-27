@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_662_2011-09-16.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "brilliance"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_662_2011-09-16.mp3" MP3
 		INDEX 01 01:44:43
 	TRACK 03 AUDIO
 		TITLE "talk (over oddisee - skipping rocks)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:11:39
 	TRACK 04 AUDIO
 		TITLE "bust ya melon (remix)"
@@ -152,8 +152,8 @@ FILE "WeFunk_Show_662_2011-09-16.mp3" MP3
 		PERFORMER "rahsaan roland kirk"
 		INDEX 01 102:48:18
 	TRACK 38 AUDIO
-		TITLE "talk (over rahsaan roland kirk - what's goin' on/mercy mercy me (the ecology)"
-		PERFORMER ""
+		TITLE "talk (over rahsaan roland kirk - what's goin' on/mercy mercy me (the ecology))"
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 103:48:71
 	TRACK 39 AUDIO
 		TITLE "got to be the way it is"

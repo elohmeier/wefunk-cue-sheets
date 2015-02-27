@@ -5,15 +5,15 @@ REM Genre : HipHop
 FILE "WeFunk_Show_337_2004-07-02.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "the way"
 		PERFORMER "black moon"
 		INDEX 01 01:58:47
 	TRACK 03 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 06:18:32
 	TRACK 04 AUDIO
 		TITLE "funk soul sensation"
@@ -60,8 +60,8 @@ FILE "WeFunk_Show_337_2004-07-02.mp3" MP3
 		PERFORMER "boogie down productions"
 		INDEX 01 44:45:50
 	TRACK 15 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 49:54:62
 	TRACK 16 AUDIO
 		TITLE "we have your children"
@@ -69,7 +69,7 @@ FILE "WeFunk_Show_337_2004-07-02.mp3" MP3
 		INDEX 01 62:43:42
 	TRACK 17 AUDIO
 		TITLE "talk (over truth enola - ill lovin' instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 66:30:61
 	TRACK 18 AUDIO
 		TITLE "money or love (instrumental)"
@@ -132,6 +132,6 @@ FILE "WeFunk_Show_337_2004-07-02.mp3" MP3
 		PERFORMER "ghostface killah feat. jadakiss"
 		INDEX 01 114:44:55
 	TRACK 33 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 117:33:44

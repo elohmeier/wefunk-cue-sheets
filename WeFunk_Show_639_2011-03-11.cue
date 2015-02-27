@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_639_2011-03-11.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "cool"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_639_2011-03-11.mp3" MP3
 		INDEX 01 01:32:38
 	TRACK 03 AUDIO
 		TITLE "talk (over first touch - pleasure for your treasure)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:34:63
 	TRACK 04 AUDIO
 		TITLE "lolita"
@@ -65,7 +65,7 @@ FILE "WeFunk_Show_639_2011-03-11.mp3" MP3
 		INDEX 01 33:40:18
 	TRACK 16 AUDIO
 		TITLE "music"
-		PERFORMER "d-train"
+		PERFORMER "d. train"
 		INDEX 01 35:14:67
 	TRACK 17 AUDIO
 		TITLE "pistachio ride (professor groove edit)"
@@ -153,7 +153,7 @@ FILE "WeFunk_Show_639_2011-03-11.mp3" MP3
 		INDEX 01 96:46:27
 	TRACK 38 AUDIO
 		TITLE "talk (over oliver lowe feat. d.j. alyaz - nastav usi instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 100:18:57
 	TRACK 39 AUDIO
 		TITLE "birds"

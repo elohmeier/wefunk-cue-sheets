@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_445_2006-10-27.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "old man"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_445_2006-10-27.mp3" MP3
 		INDEX 01 01:58:43
 	TRACK 03 AUDIO
 		TITLE "talk (over max middleton - viva bass & drums)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:24:45
 	TRACK 04 AUDIO
 		TITLE "algo no ar"
@@ -77,7 +77,7 @@ FILE "WeFunk_Show_445_2006-10-27.mp3" MP3
 		INDEX 01 59:53:16
 	TRACK 19 AUDIO
 		TITLE "talk (over think twice feat. manchilde & shogun - people wanna know remix instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 60:58:70
 	TRACK 20 AUDIO
 		TITLE "thought i told you"
@@ -141,7 +141,7 @@ FILE "WeFunk_Show_445_2006-10-27.mp3" MP3
 		INDEX 01 108:23:20
 	TRACK 35 AUDIO
 		TITLE "talk (over sizzla - take myself away instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 111:21:07
 	TRACK 36 AUDIO
 		TITLE "such is life"

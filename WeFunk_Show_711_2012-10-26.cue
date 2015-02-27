@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_711_2012-10-26.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "de ting continues"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_711_2012-10-26.mp3" MP3
 		INDEX 01 01:44:55
 	TRACK 03 AUDIO
 		TITLE "talk (over parliament - the big bang theory)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:50:23
 	TRACK 04 AUDIO
 		TITLE "flirt"
@@ -21,7 +21,7 @@ FILE "WeFunk_Show_711_2012-10-26.mp3" MP3
 		INDEX 01 10:45:67
 	TRACK 05 AUDIO
 		TITLE "talk (over infinite mass - g-ride remix instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 14:24:38
 	TRACK 06 AUDIO
 		TITLE "can't stop"
@@ -41,7 +41,7 @@ FILE "WeFunk_Show_711_2012-10-26.mp3" MP3
 		INDEX 01 25:31:72
 	TRACK 10 AUDIO
 		TITLE "talk (over non phixion - rock stars instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 28:24:46
 	TRACK 11 AUDIO
 		TITLE "everybody"
@@ -57,7 +57,7 @@ FILE "WeFunk_Show_711_2012-10-26.mp3" MP3
 		INDEX 01 39:31:18
 	TRACK 14 AUDIO
 		TITLE "talk (over das e.f.x. - they want e.f.x. remix instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 42:02:67
 	TRACK 15 AUDIO
 		TITLE "let the music take your mind"
@@ -73,7 +73,7 @@ FILE "WeFunk_Show_711_2012-10-26.mp3" MP3
 		INDEX 01 57:32:58
 	TRACK 18 AUDIO
 		TITLE "talk (over ike turner & the kings of rhythm - getting nasty)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 61:54:63
 	TRACK 19 AUDIO
 		TITLE "(you) got what i need"
@@ -89,7 +89,7 @@ FILE "WeFunk_Show_711_2012-10-26.mp3" MP3
 		INDEX 01 69:30:68
 	TRACK 22 AUDIO
 		TITLE "talk (over orgone - duck and cover)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 72:37:54
 	TRACK 23 AUDIO
 		TITLE "dumbtron"
@@ -105,7 +105,7 @@ FILE "WeFunk_Show_711_2012-10-26.mp3" MP3
 		INDEX 01 83:36:33
 	TRACK 26 AUDIO
 		TITLE "talk (over roots - hot shit)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 86:36:51
 	TRACK 27 AUDIO
 		TITLE "funny vibe (remix)"
@@ -121,7 +121,7 @@ FILE "WeFunk_Show_711_2012-10-26.mp3" MP3
 		INDEX 01 100:25:06
 	TRACK 30 AUDIO
 		TITLE "talk (over think twice & david ryshpan - jazz carnival)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 103:28:27
 	TRACK 31 AUDIO
 		TITLE "golden lady (scrimshire edit)"
@@ -133,7 +133,7 @@ FILE "WeFunk_Show_711_2012-10-26.mp3" MP3
 		INDEX 01 111:17:50
 	TRACK 33 AUDIO
 		TITLE "talk (over leon ware - why i came to california (kon remix))"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 112:56:72
 	TRACK 34 AUDIO
 		TITLE "wind parade"

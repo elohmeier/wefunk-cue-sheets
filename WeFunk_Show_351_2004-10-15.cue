@@ -5,15 +5,15 @@ REM Genre : HipHop
 FILE "WeFunk_Show_351_2004-10-15.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "keep on marching"
 		PERFORMER "meters"
 		INDEX 01 01:58:57
 	TRACK 03 AUDIO
-		TITLE "talk (over 24 carat black - foodstamps)"
-		PERFORMER ""
+		TITLE "talk (over 24-carat black - foodstamps)"
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:05:65
 	TRACK 04 AUDIO
 		TITLE "assembly line"
@@ -125,5 +125,5 @@ FILE "WeFunk_Show_351_2004-10-15.mp3" MP3
 		INDEX 01 108:24:04
 	TRACK 31 AUDIO
 		TITLE "talk (over wu-tang clan - wu-tang clan ain't nothing ta f' wit instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 112:14:15

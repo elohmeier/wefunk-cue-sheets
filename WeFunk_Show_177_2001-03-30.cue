@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_177_2001-03-30.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "i need help (i can't do it alone)"
@@ -41,15 +41,15 @@ FILE "WeFunk_Show_177_2001-03-30.mp3" MP3
 		INDEX 01 28:20:65
 	TRACK 10 AUDIO
 		TITLE "talk (over d.i.t.c. - day one instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 31:39:28
 	TRACK 11 AUDIO
 		TITLE "the show"
 		PERFORMER "doug e fresh & slick rick"
 		INDEX 01 36:09:19
 	TRACK 12 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 40:46:03
 	TRACK 13 AUDIO
 		TITLE "i declare war"
@@ -60,12 +60,12 @@ FILE "WeFunk_Show_177_2001-03-30.mp3" MP3
 		PERFORMER "company flow"
 		INDEX 01 57:20:04
 	TRACK 15 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 64:36:13
 	TRACK 16 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 68:56:15
 	TRACK 17 AUDIO
 		TITLE "check your bucket"
@@ -80,8 +80,8 @@ FILE "WeFunk_Show_177_2001-03-30.mp3" MP3
 		PERFORMER "j.b.'s"
 		INDEX 01 83:45:19
 	TRACK 20 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 87:08:41
 	TRACK 21 AUDIO
 		TITLE "lean on me"
@@ -97,5 +97,5 @@ FILE "WeFunk_Show_177_2001-03-30.mp3" MP3
 		INDEX 01 102:50:14
 	TRACK 24 AUDIO
 		TITLE "talk (over afrika bambaataa - planet rock)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 105:11:28

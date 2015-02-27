@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_643_2011-04-08.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "running back"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_643_2011-04-08.mp3" MP3
 		INDEX 01 01:27:07
 	TRACK 03 AUDIO
 		TITLE "talk (over new mastersounds - nervous)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:02:60
 	TRACK 04 AUDIO
 		TITLE "no time"
@@ -157,5 +157,5 @@ FILE "WeFunk_Show_643_2011-04-08.mp3" MP3
 		INDEX 01 107:15:51
 	TRACK 39 AUDIO
 		TITLE "talk (over ethan goldhammer - in the pocket)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 111:07:59

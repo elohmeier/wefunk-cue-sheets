@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_338_2004-07-09.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "left field"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_338_2004-07-09.mp3" MP3
 		INDEX 01 01:58:63
 	TRACK 03 AUDIO
 		TITLE "talk (over digable planets - 9th wonder instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 06:03:18
 	TRACK 04 AUDIO
 		TITLE "pistol grip pump"
@@ -36,8 +36,8 @@ FILE "WeFunk_Show_338_2004-07-09.mp3" MP3
 		PERFORMER "a.z."
 		INDEX 01 23:57:27
 	TRACK 09 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 29:44:55
 	TRACK 10 AUDIO
 		TITLE "halftime (remix)"
@@ -68,12 +68,12 @@ FILE "WeFunk_Show_338_2004-07-09.mp3" MP3
 		PERFORMER "nas"
 		INDEX 01 55:21:02
 	TRACK 17 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 57:44:59
 	TRACK 18 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 60:24:73
 	TRACK 19 AUDIO
 		TITLE "funky technician"
@@ -149,5 +149,5 @@ FILE "WeFunk_Show_338_2004-07-09.mp3" MP3
 		INDEX 01 109:33:28
 	TRACK 37 AUDIO
 		TITLE "talk (over en vogue - hold on instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 110:51:12

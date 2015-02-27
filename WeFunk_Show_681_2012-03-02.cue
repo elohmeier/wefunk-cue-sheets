@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_681_2012-03-02.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "better"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_681_2012-03-02.mp3" MP3
 		INDEX 01 01:44:58
 	TRACK 03 AUDIO
 		TITLE "talk (over jurassic 5 - great expectations instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 07:04:60
 	TRACK 04 AUDIO
 		TITLE "great expectations"
@@ -133,7 +133,7 @@ FILE "WeFunk_Show_681_2012-03-02.mp3" MP3
 		INDEX 01 111:55:69
 	TRACK 33 AUDIO
 		TITLE "talk (over george duke - au-right)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 115:08:21
 	TRACK 34 AUDIO
 		TITLE "dove"

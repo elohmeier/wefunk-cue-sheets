@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_270_2003-02-14.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "barkin' up the wrong tree"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_270_2003-02-14.mp3" MP3
 		INDEX 01 01:58:30
 	TRACK 03 AUDIO
 		TITLE "talk (over armada orchestra - for the love of money)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 03:59:01
 	TRACK 04 AUDIO
 		TITLE "funky buttercup"
@@ -125,7 +125,7 @@ FILE "WeFunk_Show_270_2003-02-14.mp3" MP3
 		INDEX 01 98:09:02
 	TRACK 31 AUDIO
 		TITLE "talk (over ravi harris & the prohpets - hot pants road)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 102:15:58
 	TRACK 32 AUDIO
 		TITLE "it's my thing"

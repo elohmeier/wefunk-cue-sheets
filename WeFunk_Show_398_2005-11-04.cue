@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_398_2005-11-04.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "jive turkey"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_398_2005-11-04.mp3" MP3
 		INDEX 01 01:59:00
 	TRACK 03 AUDIO
 		TITLE "talk (over herbie hancock - watermelon man)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 08:24:04
 	TRACK 04 AUDIO
 		TITLE "better off dead"
@@ -25,7 +25,7 @@ FILE "WeFunk_Show_398_2005-11-04.mp3" MP3
 		INDEX 01 16:34:01
 	TRACK 06 AUDIO
 		TITLE "react"
-		PERFORMER "eric sermon"
+		PERFORMER "erick sermon"
 		INDEX 01 18:46:25
 	TRACK 07 AUDIO
 		TITLE "ghetto movie"
@@ -153,5 +153,5 @@ FILE "WeFunk_Show_398_2005-11-04.mp3" MP3
 		INDEX 01 107:20:17
 	TRACK 38 AUDIO
 		TITLE "talk (over gang starr - skillz instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 110:39:07

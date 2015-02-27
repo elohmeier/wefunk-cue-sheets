@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_573_2009-08-28.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "ain't no half steppin'"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_573_2009-08-28.mp3" MP3
 		INDEX 01 01:32:35
 	TRACK 03 AUDIO
 		TITLE "talk (over bernard wright - mr. clean)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:13:13
 	TRACK 04 AUDIO
 		TITLE "funky sensation (m.a.w. mix)"
@@ -37,7 +37,7 @@ FILE "WeFunk_Show_573_2009-08-28.mp3" MP3
 		INDEX 01 24:42:44
 	TRACK 09 AUDIO
 		TITLE "this joint right here (remix)"
-		PERFORMER "grand puba feat. kid capri, sadat x & lord jamar"
+		PERFORMER "grand puba feat. kid capri, sadat x. & lord jamar"
 		INDEX 01 27:27:35
 	TRACK 10 AUDIO
 		TITLE "j. beez comin' through (bonus beats)"
@@ -149,5 +149,5 @@ FILE "WeFunk_Show_573_2009-08-28.mp3" MP3
 		INDEX 01 104:26:12
 	TRACK 37 AUDIO
 		TITLE "talk (over slum village, frank nitti & illa j - homage to dilla instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 107:25:21

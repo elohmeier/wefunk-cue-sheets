@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_481_2007-08-03.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "mag-poo"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_481_2007-08-03.mp3" MP3
 		INDEX 01 01:58:53
 	TRACK 03 AUDIO
 		TITLE "talk (over banda unaio black - africa hot band)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:07:55
 	TRACK 04 AUDIO
 		TITLE "break it up"
@@ -181,5 +181,5 @@ FILE "WeFunk_Show_481_2007-08-03.mp3" MP3
 		INDEX 01 107:56:74
 	TRACK 45 AUDIO
 		TITLE "talk (over gardner - the answer)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 110:41:50

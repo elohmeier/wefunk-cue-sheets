@@ -5,15 +5,15 @@ REM Genre : HipHop
 FILE "WeFunk_Show_341_2004-07-30.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "yoo-hoo!"
 		PERFORMER "dangermouse & jemini"
 		INDEX 01 01:59:20
 	TRACK 03 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 05:52:65
 	TRACK 04 AUDIO
 		TITLE "brooklyn kids"
@@ -149,5 +149,5 @@ FILE "WeFunk_Show_341_2004-07-30.mp3" MP3
 		INDEX 01 109:11:18
 	TRACK 37 AUDIO
 		TITLE "talk (over crusaders - when there's love around)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 112:52:19

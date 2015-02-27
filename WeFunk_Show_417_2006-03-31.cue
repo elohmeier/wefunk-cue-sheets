@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_417_2006-03-31.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "9 milli bros."
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_417_2006-03-31.mp3" MP3
 		INDEX 01 01:58:34
 	TRACK 03 AUDIO
 		TITLE "talk (over deux process - take the dance instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 06:22:74
 	TRACK 04 AUDIO
 		TITLE "air"
@@ -29,7 +29,7 @@ FILE "WeFunk_Show_417_2006-03-31.mp3" MP3
 		INDEX 01 15:22:33
 	TRACK 07 AUDIO
 		TITLE "talk (over jay-z - who you wit instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 18:46:24
 	TRACK 08 AUDIO
 		TITLE "if i ruled the world"
@@ -65,7 +65,7 @@ FILE "WeFunk_Show_417_2006-03-31.mp3" MP3
 		INDEX 01 48:51:00
 	TRACK 16 AUDIO
 		TITLE "talk (over black moon - act like u want it instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 50:30:24
 	TRACK 17 AUDIO
 		TITLE "halftime instrumental"
@@ -89,7 +89,7 @@ FILE "WeFunk_Show_417_2006-03-31.mp3" MP3
 		INDEX 01 68:28:22
 	TRACK 22 AUDIO
 		TITLE "talk (over mass influence - nightime groove instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 73:15:25
 	TRACK 23 AUDIO
 		TITLE "still a child"
@@ -101,7 +101,7 @@ FILE "WeFunk_Show_417_2006-03-31.mp3" MP3
 		INDEX 01 82:52:44
 	TRACK 25 AUDIO
 		TITLE "talk (over zion i - temperature instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 86:10:39
 	TRACK 26 AUDIO
 		TITLE "temperature"
@@ -121,7 +121,7 @@ FILE "WeFunk_Show_417_2006-03-31.mp3" MP3
 		INDEX 01 95:50:43
 	TRACK 30 AUDIO
 		TITLE "talk (over fred wesley & the horny horns - four play)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 99:48:31
 	TRACK 31 AUDIO
 		TITLE "breakin' bread"
@@ -129,5 +129,5 @@ FILE "WeFunk_Show_417_2006-03-31.mp3" MP3
 		INDEX 01 107:09:00
 	TRACK 32 AUDIO
 		TITLE "talk (over marvin gaye - t plays it cool)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 110:21:38

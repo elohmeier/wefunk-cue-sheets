@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_441_2006-09-29.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "baby, do that thing"
@@ -17,7 +17,7 @@ FILE "WeFunk_Show_441_2006-09-29.mp3" MP3
 		INDEX 01 03:42:50
 	TRACK 04 AUDIO
 		TITLE "talk (over 4th coming - the dead don't die alive)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 06:25:52
 	TRACK 05 AUDIO
 		TITLE "the alien"
@@ -117,7 +117,7 @@ FILE "WeFunk_Show_441_2006-09-29.mp3" MP3
 		INDEX 01 87:59:39
 	TRACK 29 AUDIO
 		TITLE "i declare war"
-		PERFORMER "pace won"
+		PERFORMER "pacewon"
 		INDEX 01 93:17:22
 	TRACK 30 AUDIO
 		TITLE "sound bwoy bureill"
@@ -129,7 +129,7 @@ FILE "WeFunk_Show_441_2006-09-29.mp3" MP3
 		INDEX 01 99:25:58
 	TRACK 32 AUDIO
 		TITLE "i ain't no joke"
-		PERFORMER "eric b & rakim"
+		PERFORMER "eric b. & rakim"
 		INDEX 01 102:24:39
 	TRACK 33 AUDIO
 		TITLE "hip hop vs rap"
@@ -137,5 +137,5 @@ FILE "WeFunk_Show_441_2006-09-29.mp3" MP3
 		INDEX 01 104:41:12
 	TRACK 34 AUDIO
 		TITLE "talk (over yaggfu front - left field instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 109:01:36

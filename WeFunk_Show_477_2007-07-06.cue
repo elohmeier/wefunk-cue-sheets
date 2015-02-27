@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_477_2007-07-06.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "i don't need this trouble"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_477_2007-07-06.mp3" MP3
 		INDEX 01 01:58:43
 	TRACK 03 AUDIO
 		TITLE "talk (over brothers - brother groove)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:56:66
 	TRACK 04 AUDIO
 		TITLE "wreck"
@@ -65,7 +65,7 @@ FILE "WeFunk_Show_477_2007-07-06.mp3" MP3
 		INDEX 01 44:32:06
 	TRACK 16 AUDIO
 		TITLE "talk (over marco polo feat. kardinal offishall - war instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 48:03:59
 	TRACK 17 AUDIO
 		TITLE "the riddler (remix)"
@@ -145,5 +145,5 @@ FILE "WeFunk_Show_477_2007-07-06.mp3" MP3
 		INDEX 01 108:28:28
 	TRACK 36 AUDIO
 		TITLE "talk (over fanatik - big world)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 112:45:05

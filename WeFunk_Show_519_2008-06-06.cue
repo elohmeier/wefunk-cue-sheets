@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_519_2008-06-06.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "runaway"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_519_2008-06-06.mp3" MP3
 		INDEX 01 01:40:20
 	TRACK 03 AUDIO
 		TITLE "talk (over young-holt unlimited - freddie's dead)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:34:43
 	TRACK 04 AUDIO
 		TITLE "the way they do my life"
@@ -137,5 +137,5 @@ FILE "WeFunk_Show_519_2008-06-06.mp3" MP3
 		INDEX 01 106:45:10
 	TRACK 34 AUDIO
 		TITLE "talk (over likwit junkies - the good green instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 111:32:28

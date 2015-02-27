@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_361_2005-01-28.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "en la ciudad"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_361_2005-01-28.mp3" MP3
 		INDEX 01 01:58:42
 	TRACK 03 AUDIO
 		TITLE "talk (over super cat - don dada hip-hop mix instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:52:55
 	TRACK 04 AUDIO
 		TITLE "made you look"
@@ -121,5 +121,5 @@ FILE "WeFunk_Show_361_2005-01-28.mp3" MP3
 		INDEX 01 105:58:37
 	TRACK 30 AUDIO
 		TITLE "talk (over z-ro - the mule instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 109:28:45

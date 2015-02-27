@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_578_2009-10-02.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "auditorium"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_578_2009-10-02.mp3" MP3
 		INDEX 01 01:26:68
 	TRACK 03 AUDIO
 		TITLE "talk (over j dilla - make it fast instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:51:48
 	TRACK 04 AUDIO
 		TITLE "make it fast (unadulterated mix)"
@@ -133,5 +133,5 @@ FILE "WeFunk_Show_578_2009-10-02.mp3" MP3
 		INDEX 01 102:33:09
 	TRACK 33 AUDIO
 		TITLE "talk (over daniel janin & robert viger - nobel tower)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 105:14:21

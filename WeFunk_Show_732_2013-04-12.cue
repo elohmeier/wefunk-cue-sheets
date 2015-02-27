@@ -5,15 +5,15 @@ REM Genre : HipHop
 FILE "WeFunk_Show_732_2013-04-12.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "magic"
 		PERFORMER "john arnold & jeremy ellis feat. paul randolph"
 		INDEX 01 02:01:39
 	TRACK 03 AUDIO
-		TITLE "talk (over michael wycoff - looking up to you (fatneck extended edit)"
-		PERFORMER ""
+		TITLE "talk (over michael wycoff - looking up to you (fatneck extended edit))"
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 06:09:62
 	TRACK 04 AUDIO
 		TITLE "sure feels good"
@@ -100,8 +100,8 @@ FILE "WeFunk_Show_732_2013-04-12.mp3" MP3
 		PERFORMER "tuxedo"
 		INDEX 01 91:50:15
 	TRACK 25 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 95:49:00
 	TRACK 26 AUDIO
 		TITLE "any sound"
@@ -117,7 +117,7 @@ FILE "WeFunk_Show_732_2013-04-12.mp3" MP3
 		INDEX 01 105:17:06
 	TRACK 29 AUDIO
 		TITLE "talk (over f.s. green - what it is)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 108:26:39
 	TRACK 30 AUDIO
 		TITLE "mathematics (20syl remix)"

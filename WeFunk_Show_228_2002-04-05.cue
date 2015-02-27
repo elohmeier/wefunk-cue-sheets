@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_228_2002-04-05.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "we need some money"
@@ -17,7 +17,7 @@ FILE "WeFunk_Show_228_2002-04-05.mp3" MP3
 		INDEX 01 04:25:60
 	TRACK 04 AUDIO
 		TITLE "talk (over kool & the gang - n.t.)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 09:00:31
 	TRACK 05 AUDIO
 		TITLE "the bird wave"
@@ -25,7 +25,7 @@ FILE "WeFunk_Show_228_2002-04-05.mp3" MP3
 		INDEX 01 15:11:71
 	TRACK 06 AUDIO
 		TITLE "talk (over mandrill - fat city strut)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 18:03:03
 	TRACK 07 AUDIO
 		TITLE "gimme some more (very live)"
@@ -37,11 +37,11 @@ FILE "WeFunk_Show_228_2002-04-05.mp3" MP3
 		INDEX 01 25:22:56
 	TRACK 09 AUDIO
 		TITLE "method man"
-		PERFORMER "wu tang clan"
+		PERFORMER "wu-tang clan"
 		INDEX 01 28:01:30
 	TRACK 10 AUDIO
 		TITLE "talk (over mad lion - take it easy instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 29:34:08
 	TRACK 11 AUDIO
 		TITLE "live freestyle for funkmaster flex's birthday"
@@ -57,7 +57,7 @@ FILE "WeFunk_Show_228_2002-04-05.mp3" MP3
 		INDEX 01 34:24:71
 	TRACK 14 AUDIO
 		TITLE "talk (over del tha funkee homosapien - dr. bombay instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 35:28:63
 	TRACK 15 AUDIO
 		TITLE "help from my friends"
@@ -69,7 +69,7 @@ FILE "WeFunk_Show_228_2002-04-05.mp3" MP3
 		INDEX 01 41:20:00
 	TRACK 17 AUDIO
 		TITLE "talk (over james brown - don't tell it)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 46:17:37
 	TRACK 18 AUDIO
 		TITLE "me myself & i"
@@ -88,8 +88,8 @@ FILE "WeFunk_Show_228_2002-04-05.mp3" MP3
 		PERFORMER "__"
 		INDEX 01 57:18:25
 	TRACK 22 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 59:12:56
 	TRACK 23 AUDIO
 		TITLE "raw"
@@ -100,12 +100,12 @@ FILE "WeFunk_Show_228_2002-04-05.mp3" MP3
 		PERFORMER "bobby byrd"
 		INDEX 01 64:09:72
 	TRACK 25 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 66:25:02
 	TRACK 26 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 68:00:61
 	TRACK 27 AUDIO
 		TITLE "right on"
@@ -113,7 +113,7 @@ FILE "WeFunk_Show_228_2002-04-05.mp3" MP3
 		INDEX 01 73:39:71
 	TRACK 28 AUDIO
 		TITLE "talk (over brooklyn people - wreck)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 75:43:48
 	TRACK 29 AUDIO
 		TITLE "simon says instrumental"
@@ -133,5 +133,5 @@ FILE "WeFunk_Show_228_2002-04-05.mp3" MP3
 		INDEX 01 95:35:34
 	TRACK 33 AUDIO
 		TITLE "talk (over reuben wilson - got to get your own)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 98:07:36

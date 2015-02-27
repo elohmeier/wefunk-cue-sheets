@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_657_2011-08-12.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "put it in the air"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_657_2011-08-12.mp3" MP3
 		INDEX 01 01:32:32
 	TRACK 03 AUDIO
 		TITLE "talk (over king reign - one more time instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:40:00
 	TRACK 04 AUDIO
 		TITLE "re-definition"
@@ -77,7 +77,7 @@ FILE "WeFunk_Show_657_2011-08-12.mp3" MP3
 		INDEX 01 52:12:48
 	TRACK 19 AUDIO
 		TITLE "walk on by (francois kevorkian extended version)"
-		PERFORMER "d-train"
+		PERFORMER "d. train"
 		INDEX 01 57:46:05
 	TRACK 20 AUDIO
 		TITLE "compton"
@@ -141,5 +141,5 @@ FILE "WeFunk_Show_657_2011-08-12.mp3" MP3
 		INDEX 01 112:46:53
 	TRACK 35 AUDIO
 		TITLE "talk (over organized konfusion - stress instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 116:46:28

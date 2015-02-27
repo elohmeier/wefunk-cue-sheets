@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_300_2003-09-19.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "i don't know what it is (but it sho' is funky)"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_300_2003-09-19.mp3" MP3
 		INDEX 01 01:58:21
 	TRACK 03 AUDIO
 		TITLE "talk (over johnny otis - comin' at ya baby)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:03:43
 	TRACK 04 AUDIO
 		TITLE "fat city strut"
@@ -125,11 +125,11 @@ FILE "WeFunk_Show_300_2003-09-19.mp3" MP3
 		INDEX 01 102:55:72
 	TRACK 31 AUDIO
 		TITLE "in the ghetto"
-		PERFORMER "eric b & rakim"
+		PERFORMER "eric b. & rakim"
 		INDEX 01 105:09:10
 	TRACK 32 AUDIO
 		TITLE "talk (over geto boys - my mind playing tricks on me instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 108:06:04
 	TRACK 33 AUDIO
 		TITLE "love on a summer night"

@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_604_2010-04-30.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "do you like our music"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_604_2010-04-30.mp3" MP3
 		INDEX 01 02:01:47
 	TRACK 03 AUDIO
 		TITLE "talk (over michael zager band - soul to soul (pat les stache's safari soul re-edit))"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 06:17:21
 	TRACK 04 AUDIO
 		TITLE "why you wanna treat me like that"
@@ -157,5 +157,5 @@ FILE "WeFunk_Show_604_2010-04-30.mp3" MP3
 		INDEX 01 106:19:70
 	TRACK 39 AUDIO
 		TITLE "talk (over dam funk - red)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 109:50:53

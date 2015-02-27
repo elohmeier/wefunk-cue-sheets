@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_346_2004-09-03.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "funky music is the thing"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_346_2004-09-03.mp3" MP3
 		INDEX 01 01:58:57
 	TRACK 03 AUDIO
 		TITLE "talk (over johnny hammond - star borne)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 06:58:70
 	TRACK 04 AUDIO
 		TITLE "baby feet"
@@ -133,7 +133,7 @@ FILE "WeFunk_Show_346_2004-09-03.mp3" MP3
 		INDEX 01 112:11:49
 	TRACK 33 AUDIO
 		TITLE "talk (over public enemy - give it up instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 115:55:58
 	TRACK 34 AUDIO
 		TITLE "bustin' up"
@@ -193,7 +193,7 @@ FILE "WeFunk_Show_346_2004-09-03.mp3" MP3
 		INDEX 01 174:51:34
 	TRACK 48 AUDIO
 		TITLE "ape shuffle"
-		PERFORMER "lalo schiffrin"
+		PERFORMER "lalo schifrin"
 		INDEX 01 182:34:09
 	TRACK 49 AUDIO
 		TITLE "i'm paying taxes, what am i buying"

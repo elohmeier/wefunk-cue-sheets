@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_378_2005-06-10.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "the travel jam"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_378_2005-06-10.mp3" MP3
 		INDEX 01 01:58:41
 	TRACK 03 AUDIO
 		TITLE "talk (over frankie cutlass - puerto rico instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:50:37
 	TRACK 04 AUDIO
 		TITLE "rated "r""
@@ -117,7 +117,7 @@ FILE "WeFunk_Show_378_2005-06-10.mp3" MP3
 		INDEX 01 85:26:02
 	TRACK 29 AUDIO
 		TITLE "not by bread alone"
-		PERFORMER "kim tomange"
+		PERFORMER "kim tomango"
 		INDEX 01 87:37:71
 	TRACK 30 AUDIO
 		TITLE "stone to the bone"
@@ -145,5 +145,5 @@ FILE "WeFunk_Show_378_2005-06-10.mp3" MP3
 		INDEX 01 105:48:12
 	TRACK 36 AUDIO
 		TITLE "talk (over les mccann - north carolina)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 108:09:64

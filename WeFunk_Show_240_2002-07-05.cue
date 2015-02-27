@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_240_2002-07-05.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "d.b.c. let the music play"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_240_2002-07-05.mp3" MP3
 		INDEX 01 01:58:66
 	TRACK 03 AUDIO
 		TITLE "talk (over maceo & the macks - cross the track (we better go back))"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 06:01:40
 	TRACK 04 AUDIO
 		TITLE "ghetto thang"
@@ -129,5 +129,5 @@ FILE "WeFunk_Show_240_2002-07-05.mp3" MP3
 		INDEX 01 103:29:06
 	TRACK 32 AUDIO
 		TITLE "talk (over maynard ferguson - mister mellow)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 105:51:56

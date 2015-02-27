@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_500_2008-01-04.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "listen"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_500_2008-01-04.mp3" MP3
 		INDEX 01 01:44:38
 	TRACK 03 AUDIO
 		TITLE "talk (over phat kat - nasty instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:08:15
 	TRACK 04 AUDIO
 		TITLE "doowutchyalike"
@@ -52,8 +52,8 @@ FILE "WeFunk_Show_500_2008-01-04.mp3" MP3
 		PERFORMER "b.r. gunna"
 		INDEX 01 42:47:30
 	TRACK 13 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 45:49:41
 	TRACK 14 AUDIO
 		TITLE "we're comin' instrumental"
@@ -125,5 +125,5 @@ FILE "WeFunk_Show_500_2008-01-04.mp3" MP3
 		INDEX 01 114:43:51
 	TRACK 31 AUDIO
 		TITLE "talk (over black moon - i got cha opin instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 121:50:52

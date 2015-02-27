@@ -5,15 +5,15 @@ REM Genre : HipHop
 FILE "WeFunk_Show_182_2001-05-04.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "accepted eclectic"
 		PERFORMER "aceyalone"
 		INDEX 01 01:58:11
 	TRACK 03 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 05:46:60
 	TRACK 04 AUDIO
 		TITLE "can i get it"
@@ -89,7 +89,7 @@ FILE "WeFunk_Show_182_2001-05-04.mp3" MP3
 		INDEX 01 68:28:26
 	TRACK 22 AUDIO
 		TITLE "the light"
-		PERFORMER "pharoahe monche"
+		PERFORMER "pharoahe monch"
 		INDEX 01 73:40:60
 	TRACK 23 AUDIO
 		TITLE "doin' the do"
@@ -129,5 +129,5 @@ FILE "WeFunk_Show_182_2001-05-04.mp3" MP3
 		INDEX 01 105:21:53
 	TRACK 32 AUDIO
 		TITLE "talk (over smooth da hustla - hustla's theme instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 108:12:12

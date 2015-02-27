@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_433_2006-08-05.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "stick"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_433_2006-08-05.mp3" MP3
 		INDEX 01 01:58:35
 	TRACK 03 AUDIO
 		TITLE "talk (over rhymefest - stick instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:06:74
 	TRACK 04 AUDIO
 		TITLE "peter piper"
@@ -133,5 +133,5 @@ FILE "WeFunk_Show_433_2006-08-05.mp3" MP3
 		INDEX 01 103:42:25
 	TRACK 33 AUDIO
 		TITLE "talk (over shirley scott - hanky's panky)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 105:42:04

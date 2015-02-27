@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_506_2008-02-15.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "run (remix)"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_506_2008-02-15.mp3" MP3
 		INDEX 01 01:32:20
 	TRACK 03 AUDIO
 		TITLE "talk (over mark ronson - oh my god instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:23:61
 	TRACK 04 AUDIO
 		TITLE "long street live"
@@ -129,5 +129,5 @@ FILE "WeFunk_Show_506_2008-02-15.mp3" MP3
 		INDEX 01 97:16:36
 	TRACK 32 AUDIO
 		TITLE "talk (over east bay rhythm - mud rat)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 103:24:37

@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_673_2012-01-06.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "algo no ar"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_673_2012-01-06.mp3" MP3
 		INDEX 01 01:40:20
 	TRACK 03 AUDIO
 		TITLE "talk (over earth, wind & fire - power)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:35:32
 	TRACK 04 AUDIO
 		TITLE "soul is love (professor groove edit)"
@@ -141,7 +141,7 @@ FILE "WeFunk_Show_673_2012-01-06.mp3" MP3
 		INDEX 01 105:40:57
 	TRACK 35 AUDIO
 		TITLE "talk (over naughty by nature - written on ya kitten remix instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 109:42:12
 	TRACK 36 AUDIO
 		TITLE "written on ya kitten (remix)"

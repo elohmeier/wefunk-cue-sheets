@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_406_2006-01-13.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "tryin' to find out about you"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_406_2006-01-13.mp3" MP3
 		INDEX 01 01:58:58
 	TRACK 03 AUDIO
 		TITLE "talk (over herbie hancock - swamp rat)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:54:51
 	TRACK 04 AUDIO
 		TITLE "love city"
@@ -185,5 +185,5 @@ FILE "WeFunk_Show_406_2006-01-13.mp3" MP3
 		INDEX 01 104:39:25
 	TRACK 46 AUDIO
 		TITLE "talk (over dilated peoples - last line of defense instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 108:49:70

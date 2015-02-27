@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_665_2011-10-07.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "the upgrade"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_665_2011-10-07.mp3" MP3
 		INDEX 01 01:14:21
 	TRACK 03 AUDIO
 		TITLE "talk (over jigmastas - lyrical fluctuation remix instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:41:08
 	TRACK 04 AUDIO
 		TITLE "krystal karrington"
@@ -156,8 +156,8 @@ FILE "WeFunk_Show_665_2011-10-07.mp3" MP3
 		PERFORMER "damn!"
 		INDEX 01 110:02:67
 	TRACK 39 AUDIO
-		TITLE "talk (over waxolutionists - morning dew (professor groove edit)"
-		PERFORMER ""
+		TITLE "talk (over waxolutionists - morning dew (professor groove edit))"
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 113:09:33
 	TRACK 40 AUDIO
 		TITLE "creepin'"

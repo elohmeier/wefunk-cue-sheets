@@ -5,15 +5,15 @@ REM Genre : HipHop
 FILE "WeFunk_Show_223_2002-03-01.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "audience pleasers"
 		PERFORMER "organized konfusion"
 		INDEX 01 01:59:19
 	TRACK 03 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 04:40:45
 	TRACK 04 AUDIO
 		TITLE "one's 4 da money"
@@ -21,7 +21,7 @@ FILE "WeFunk_Show_223_2002-03-01.mp3" MP3
 		INDEX 01 06:51:55
 	TRACK 05 AUDIO
 		TITLE "talk (over professor groove - three for one)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 10:08:38
 	TRACK 06 AUDIO
 		TITLE "the blessin'"
@@ -64,8 +64,8 @@ FILE "WeFunk_Show_223_2002-03-01.mp3" MP3
 		PERFORMER "ricky calloway"
 		INDEX 01 44:13:19
 	TRACK 16 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 46:49:66
 	TRACK 17 AUDIO
 		TITLE "indecent proposal"
@@ -120,12 +120,12 @@ FILE "WeFunk_Show_223_2002-03-01.mp3" MP3
 		PERFORMER "kool & the gang"
 		INDEX 01 84:58:28
 	TRACK 30 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 87:05:59
 	TRACK 31 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 89:21:63
 	TRACK 32 AUDIO
 		TITLE "i got ta"
@@ -136,8 +136,8 @@ FILE "WeFunk_Show_223_2002-03-01.mp3" MP3
 		PERFORMER "masta ace"
 		INDEX 01 98:43:02
 	TRACK 34 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 102:07:37
 	TRACK 35 AUDIO
 		TITLE "number 3"
@@ -145,5 +145,5 @@ FILE "WeFunk_Show_223_2002-03-01.mp3" MP3
 		INDEX 01 105:32:63
 	TRACK 36 AUDIO
 		TITLE "talk (over mic geronimo - hemmin' heads instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 109:20:36

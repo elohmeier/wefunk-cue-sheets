@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_597_2010-03-12.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "l o v e"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_597_2010-03-12.mp3" MP3
 		INDEX 01 01:32:41
 	TRACK 03 AUDIO
 		TITLE "talk (over king reign - one more time instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:10:68
 	TRACK 04 AUDIO
 		TITLE "coming with the sound"
@@ -109,5 +109,5 @@ FILE "WeFunk_Show_597_2010-03-12.mp3" MP3
 		INDEX 01 105:00:66
 	TRACK 27 AUDIO
 		TITLE "talk (over burbeats - at a loose end)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 108:09:49

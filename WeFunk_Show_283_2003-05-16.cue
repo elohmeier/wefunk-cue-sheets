@@ -5,11 +5,11 @@ REM Genre : HipHop
 FILE "WeFunk_Show_283_2003-05-16.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "talk (over kool & the gang - n.t.)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 02:51:09
 	TRACK 03 AUDIO
 		TITLE "baby give it to me"
@@ -93,7 +93,7 @@ FILE "WeFunk_Show_283_2003-05-16.mp3" MP3
 		INDEX 01 53:36:07
 	TRACK 23 AUDIO
 		TITLE "rain dance"
-		PERFORMER "kem-o-sabe"
+		PERFORMER "the electric indian"
 		INDEX 01 56:55:59
 	TRACK 24 AUDIO
 		TITLE "ain't no greens in harlem"
@@ -105,7 +105,7 @@ FILE "WeFunk_Show_283_2003-05-16.mp3" MP3
 		INDEX 01 65:59:15
 	TRACK 26 AUDIO
 		TITLE "saturday night"
-		PERFORMER "schooly d"
+		PERFORMER "schoolly d."
 		INDEX 01 70:05:69
 	TRACK 27 AUDIO
 		TITLE "without a doubt"
@@ -137,11 +137,11 @@ FILE "WeFunk_Show_283_2003-05-16.mp3" MP3
 		INDEX 01 90:43:36
 	TRACK 34 AUDIO
 		TITLE "extended beat"
-		PERFORMER "eric b & rakim"
+		PERFORMER "eric b. & rakim"
 		INDEX 01 94:33:40
 	TRACK 35 AUDIO
 		TITLE "i ain't no joke"
-		PERFORMER "eric b & rakim"
+		PERFORMER "eric b. & rakim"
 		INDEX 01 94:54:05
 	TRACK 36 AUDIO
 		TITLE "jimmy"
@@ -161,5 +161,5 @@ FILE "WeFunk_Show_283_2003-05-16.mp3" MP3
 		INDEX 01 104:33:36
 	TRACK 40 AUDIO
 		TITLE "talk (over notorious b.i.g. - juicy remix instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 107:32:04

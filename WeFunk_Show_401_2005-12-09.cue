@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_401_2005-12-09.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "burn rubber on me (why you wanna hurt me)"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_401_2005-12-09.mp3" MP3
 		INDEX 01 01:59:06
 	TRACK 03 AUDIO
 		TITLE "talk (over ray parker jr. - still in the groove)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:15:60
 	TRACK 04 AUDIO
 		TITLE "ain't no stoppin' us now"
@@ -60,12 +60,12 @@ FILE "WeFunk_Show_401_2005-12-09.mp3" MP3
 		PERFORMER "evelyn "champagne" king"
 		INDEX 01 48:11:12
 	TRACK 15 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 53:53:48
 	TRACK 16 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 55:45:23
 	TRACK 17 AUDIO
 		TITLE "fly that knot"
@@ -109,7 +109,7 @@ FILE "WeFunk_Show_401_2005-12-09.mp3" MP3
 		INDEX 01 89:58:33
 	TRACK 27 AUDIO
 		TITLE "i declare war"
-		PERFORMER "pace won"
+		PERFORMER "pacewon"
 		INDEX 01 93:30:59
 	TRACK 28 AUDIO
 		TITLE "it's working"
@@ -121,5 +121,5 @@ FILE "WeFunk_Show_401_2005-12-09.mp3" MP3
 		INDEX 01 99:13:70
 	TRACK 30 AUDIO
 		TITLE "talk (over blackalicious - make you feel that way instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 102:04:46

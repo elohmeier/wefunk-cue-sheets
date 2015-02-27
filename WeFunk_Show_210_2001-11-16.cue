@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_210_2001-11-16.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "rhythem of god"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_210_2001-11-16.mp3" MP3
 		INDEX 01 01:58:50
 	TRACK 03 AUDIO
 		TITLE "talk (over big daddy kane - big daddy's theme instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:30:66
 	TRACK 04 AUDIO
 		TITLE "the ? remains"
@@ -104,8 +104,8 @@ FILE "WeFunk_Show_210_2001-11-16.mp3" MP3
 		PERFORMER "casual"
 		INDEX 01 79:59:08
 	TRACK 26 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 82:51:42
 	TRACK 27 AUDIO
 		TITLE "broken tape decks"
@@ -137,7 +137,7 @@ FILE "WeFunk_Show_210_2001-11-16.mp3" MP3
 		INDEX 01 108:33:73
 	TRACK 34 AUDIO
 		TITLE "talk (over george benson - footin' it)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 111:34:25
 	TRACK 35 AUDIO
 		TITLE "'93 til infinity"

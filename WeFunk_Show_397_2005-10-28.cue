@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_397_2005-10-28.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "soundclash (remix)"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_397_2005-10-28.mp3" MP3
 		INDEX 01 01:58:52
 	TRACK 03 AUDIO
 		TITLE "talk (over kemo the blaxican - kind of stories instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:34:00
 	TRACK 04 AUDIO
 		TITLE "kind of stories"
@@ -29,7 +29,7 @@ FILE "WeFunk_Show_397_2005-10-28.mp3" MP3
 		INDEX 01 17:37:00
 	TRACK 07 AUDIO
 		TITLE "put it on the line (bx remix)"
-		PERFORMER "percee p"
+		PERFORMER "percee p."
 		INDEX 01 20:01:13
 	TRACK 08 AUDIO
 		TITLE "new york"
@@ -61,7 +61,7 @@ FILE "WeFunk_Show_397_2005-10-28.mp3" MP3
 		INDEX 01 35:13:37
 	TRACK 15 AUDIO
 		TITLE "foodstamps"
-		PERFORMER "24 carat black"
+		PERFORMER "24-carat black"
 		INDEX 01 37:48:67
 	TRACK 16 AUDIO
 		TITLE "funky miracle"
@@ -137,5 +137,5 @@ FILE "WeFunk_Show_397_2005-10-28.mp3" MP3
 		INDEX 01 97:11:62
 	TRACK 34 AUDIO
 		TITLE "talk (over elements records soul revue feat. melvin sparks - you know it's funky)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 101:41:02

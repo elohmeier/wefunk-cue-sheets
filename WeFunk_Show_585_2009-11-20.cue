@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_585_2009-11-20.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "stuff"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_585_2009-11-20.mp3" MP3
 		INDEX 01 01:44:46
 	TRACK 03 AUDIO
 		TITLE "talk (over rusty bryant - ga gang gang goong)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 03:42:33
 	TRACK 04 AUDIO
 		TITLE "soul pop"
@@ -129,7 +129,7 @@ FILE "WeFunk_Show_585_2009-11-20.mp3" MP3
 		INDEX 01 83:16:50
 	TRACK 32 AUDIO
 		TITLE "talk (over james brown at the organ - papa's got a brand new bag)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 85:32:00
 	TRACK 33 AUDIO
 		TITLE "vicious battle raps"
@@ -165,5 +165,5 @@ FILE "WeFunk_Show_585_2009-11-20.mp3" MP3
 		INDEX 01 111:32:50
 	TRACK 41 AUDIO
 		TITLE "talk (over dred scott - frankie's groove)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 115:12:29

@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_212_2001-11-30.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "??"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_212_2001-11-30.mp3" MP3
 		INDEX 01 01:14:62
 	TRACK 03 AUDIO
 		TITLE "talk (over def squad - countdown instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 03:45:54
 	TRACK 04 AUDIO
 		TITLE "record making manual"
@@ -61,7 +61,7 @@ FILE "WeFunk_Show_212_2001-11-30.mp3" MP3
 		INDEX 01 41:26:70
 	TRACK 15 AUDIO
 		TITLE "come clean"
-		PERFORMER "jeru tha damaja"
+		PERFORMER "jeru the damaja"
 		INDEX 01 45:15:72
 	TRACK 16 AUDIO
 		TITLE "no tomorrow"
@@ -85,7 +85,7 @@ FILE "WeFunk_Show_212_2001-11-30.mp3" MP3
 		INDEX 01 67:51:09
 	TRACK 21 AUDIO
 		TITLE "roy c's theme"
-		PERFORMER "honeydrippers"
+		PERFORMER "honey drippers"
 		INDEX 01 70:14:50
 	TRACK 22 AUDIO
 		TITLE "bold soul sister"
@@ -109,7 +109,7 @@ FILE "WeFunk_Show_212_2001-11-30.mp3" MP3
 		INDEX 01 84:50:07
 	TRACK 27 AUDIO
 		TITLE "word is bond (remix)"
-		PERFORMER "house of pain feat. diamond d"
+		PERFORMER "house of pain feat. diamond d."
 		INDEX 01 88:22:04
 	TRACK 28 AUDIO
 		TITLE "shimmy shimmy ya"
@@ -125,7 +125,7 @@ FILE "WeFunk_Show_212_2001-11-30.mp3" MP3
 		INDEX 01 97:07:55
 	TRACK 31 AUDIO
 		TITLE "darkest light"
-		PERFORMER "lafayette afro rock band"
+		PERFORMER "lafayette afro-rock band"
 		INDEX 01 101:58:19
 	TRACK 32 AUDIO
 		TITLE "so many pies"
@@ -137,5 +137,5 @@ FILE "WeFunk_Show_212_2001-11-30.mp3" MP3
 		INDEX 01 108:40:60
 	TRACK 34 AUDIO
 		TITLE "talk (over mos def - b-boy document instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 115:43:42

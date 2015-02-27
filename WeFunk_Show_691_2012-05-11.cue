@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_691_2012-05-11.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "no sleep till brooklyn"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_691_2012-05-11.mp3" MP3
 		INDEX 01 01:40:21
 	TRACK 03 AUDIO
 		TITLE "talk (over beastie boys - no sleep till brooklyn instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:20:16
 	TRACK 04 AUDIO
 		TITLE "(you gotta) fight for your right (to party!)"
@@ -189,7 +189,7 @@ FILE "WeFunk_Show_691_2012-05-11.mp3" MP3
 		INDEX 01 110:50:66
 	TRACK 47 AUDIO
 		TITLE "talk (over ekseption - ya no me pises)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 113:25:23
 	TRACK 48 AUDIO
 		TITLE "everybody"

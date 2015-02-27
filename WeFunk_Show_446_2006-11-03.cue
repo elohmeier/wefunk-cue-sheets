@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_446_2006-11-03.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "is it because i'm black"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_446_2006-11-03.mp3" MP3
 		INDEX 01 01:58:54
 	TRACK 03 AUDIO
 		TITLE "talk (over axis - from sunrise to sunset)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 09:23:09
 	TRACK 04 AUDIO
 		TITLE "time and peace"
@@ -21,7 +21,7 @@ FILE "WeFunk_Show_446_2006-11-03.mp3" MP3
 		INDEX 01 12:39:28
 	TRACK 05 AUDIO
 		TITLE "talk (over soul serenaders - chicken and rice)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 14:59:49
 	TRACK 06 AUDIO
 		TITLE "bustin' loose"
@@ -121,5 +121,5 @@ FILE "WeFunk_Show_446_2006-11-03.mp3" MP3
 		INDEX 01 98:55:35
 	TRACK 30 AUDIO
 		TITLE "talk (over candido - thousand finger man)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 101:30:72

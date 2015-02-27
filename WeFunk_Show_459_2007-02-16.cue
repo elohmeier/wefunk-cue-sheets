@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_459_2007-02-16.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "you can't love me, if you can't respect me"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_459_2007-02-16.mp3" MP3
 		INDEX 01 01:58:38
 	TRACK 03 AUDIO
 		TITLE "talk (over kool & the gang - 1-2-3-4-5-6-7-8)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:29:56
 	TRACK 04 AUDIO
 		TITLE "funky man"
@@ -85,7 +85,7 @@ FILE "WeFunk_Show_459_2007-02-16.mp3" MP3
 		INDEX 01 52:51:53
 	TRACK 21 AUDIO
 		TITLE "the r"
-		PERFORMER "eric b & rakim"
+		PERFORMER "eric b. & rakim"
 		INDEX 01 57:03:41
 	TRACK 22 AUDIO
 		TITLE "gettin' down country"
@@ -153,5 +153,5 @@ FILE "WeFunk_Show_459_2007-02-16.mp3" MP3
 		INDEX 01 114:31:33
 	TRACK 38 AUDIO
 		TITLE "talk (over j dilla - wild instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 118:04:00

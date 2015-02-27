@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_670_2011-12-02.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "this one"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_670_2011-12-02.mp3" MP3
 		INDEX 01 01:32:46
 	TRACK 03 AUDIO
 		TITLE "talk (over d.j. day - four hills)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:31:48
 	TRACK 04 AUDIO
 		TITLE "never die"
@@ -153,7 +153,7 @@ FILE "WeFunk_Show_670_2011-12-02.mp3" MP3
 		INDEX 01 115:29:69
 	TRACK 38 AUDIO
 		TITLE "talk (over mark wayward - honey (stuck on you instrumental))"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 118:29:30
 	TRACK 39 AUDIO
 		TITLE "dawn light (opolopo remix)"

@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_213_2001-12-07.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "easin' in"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_213_2001-12-07.mp3" MP3
 		INDEX 01 01:08:11
 	TRACK 03 AUDIO
 		TITLE "talk (over detroit sex machines - rap it together)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:07:22
 	TRACK 04 AUDIO
 		TITLE "hunk o'funk"
@@ -105,7 +105,7 @@ FILE "WeFunk_Show_213_2001-12-07.mp3" MP3
 		INDEX 01 67:16:69
 	TRACK 26 AUDIO
 		TITLE "talk (over rass kass - won't catch me runnin' instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 71:04:29
 	TRACK 27 AUDIO
 		TITLE "spreadin' honey"
@@ -161,5 +161,5 @@ FILE "WeFunk_Show_213_2001-12-07.mp3" MP3
 		INDEX 01 108:37:39
 	TRACK 40 AUDIO
 		TITLE "talk (over ronnie laws - tidal wave)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 115:19:74

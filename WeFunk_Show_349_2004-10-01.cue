@@ -5,15 +5,15 @@ REM Genre : HipHop
 FILE "WeFunk_Show_349_2004-10-01.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "whatever's fair"
 		PERFORMER "mark holder"
 		INDEX 01 01:58:55
 	TRACK 03 AUDIO
-		TITLE "talk (over lafayette afro rock band - sikiliza)"
-		PERFORMER ""
+		TITLE "talk (over lafayette afro-rock band - sikiliza)"
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:20:35
 	TRACK 04 AUDIO
 		TITLE "hippopotamus"
@@ -36,8 +36,8 @@ FILE "WeFunk_Show_349_2004-10-01.mp3" MP3
 		PERFORMER "j.b.'s"
 		INDEX 01 21:33:48
 	TRACK 09 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 27:44:18
 	TRACK 10 AUDIO
 		TITLE "awlalyawl"
@@ -48,16 +48,16 @@ FILE "WeFunk_Show_349_2004-10-01.mp3" MP3
 		PERFORMER "one self"
 		INDEX 01 33:25:10
 	TRACK 12 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 37:08:37
 	TRACK 13 AUDIO
 		TITLE "rage de furie"
 		PERFORMER "one self"
 		INDEX 01 37:48:65
 	TRACK 14 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 42:44:42
 	TRACK 15 AUDIO
 		TITLE "unfamiliar places"
@@ -68,40 +68,40 @@ FILE "WeFunk_Show_349_2004-10-01.mp3" MP3
 		PERFORMER "one self"
 		INDEX 01 47:49:48
 	TRACK 17 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 54:35:15
 	TRACK 18 AUDIO
 		TITLE "paranoid"
 		PERFORMER "one self"
 		INDEX 01 54:53:23
 	TRACK 19 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 59:22:04
 	TRACK 20 AUDIO
 		TITLE "war"
 		PERFORMER "one self"
 		INDEX 01 60:00:40
 	TRACK 21 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 63:08:72
 	TRACK 22 AUDIO
 		TITLE "temptation"
 		PERFORMER "one self"
 		INDEX 01 63:47:50
 	TRACK 23 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 69:06:62
 	TRACK 24 AUDIO
 		TITLE "for my writers"
 		PERFORMER "d.j. vadim"
 		INDEX 01 69:36:62
 	TRACK 25 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 73:13:37
 	TRACK 26 AUDIO
 		TITLE "thought boxin'"
@@ -129,7 +129,7 @@ FILE "WeFunk_Show_349_2004-10-01.mp3" MP3
 		INDEX 01 94:46:11
 	TRACK 32 AUDIO
 		TITLE "as serious as your life"
-		PERFORMER "fourtet"
+		PERFORMER "four tet"
 		INDEX 01 98:06:44
 	TRACK 33 AUDIO
 		TITLE "steve biko"
@@ -141,5 +141,5 @@ FILE "WeFunk_Show_349_2004-10-01.mp3" MP3
 		INDEX 01 105:26:60
 	TRACK 35 AUDIO
 		TITLE "talk (over z-trip - you can get with discs or you can get with dat)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 109:36:34

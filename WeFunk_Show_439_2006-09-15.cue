@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_439_2006-09-15.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "fun city shingaling"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_439_2006-09-15.mp3" MP3
 		INDEX 01 01:58:46
 	TRACK 03 AUDIO
 		TITLE "talk (over donald byrd - you are the world)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 06:45:56
 	TRACK 04 AUDIO
 		TITLE "o.k. chicago"
@@ -121,7 +121,7 @@ FILE "WeFunk_Show_439_2006-09-15.mp3" MP3
 		INDEX 01 91:07:04
 	TRACK 30 AUDIO
 		TITLE "black helicopters"
-		PERFORMER "non-phixion"
+		PERFORMER "non phixion"
 		INDEX 01 94:31:07
 	TRACK 31 AUDIO
 		TITLE "d.t.d."
@@ -137,7 +137,7 @@ FILE "WeFunk_Show_439_2006-09-15.mp3" MP3
 		INDEX 01 105:21:20
 	TRACK 34 AUDIO
 		TITLE "talk (over manu dibango - soul makossa)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 108:33:54
 	TRACK 35 AUDIO
 		TITLE "the windjammer"

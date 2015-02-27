@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_618_2010-09-03.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "f**k you!"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_618_2010-09-03.mp3" MP3
 		INDEX 01 01:40:20
 	TRACK 03 AUDIO
 		TITLE "talk (over bahama soul club - nassau jam (smoove remix))"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:23:13
 	TRACK 04 AUDIO
 		TITLE "love gets you high"
@@ -133,7 +133,7 @@ FILE "WeFunk_Show_618_2010-09-03.mp3" MP3
 		INDEX 01 107:56:16
 	TRACK 33 AUDIO
 		TITLE "talk (over vinyl reanimators - guess who's back remix instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 112:43:54
 	TRACK 34 AUDIO
 		TITLE "beach of life"

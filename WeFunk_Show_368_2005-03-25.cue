@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_368_2005-03-25.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "we live in brooklyn baby"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_368_2005-03-25.mp3" MP3
 		INDEX 01 01:58:73
 	TRACK 03 AUDIO
 		TITLE "talk (over john klemmer - free soul)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:40:44
 	TRACK 04 AUDIO
 		TITLE "sexy coffee pot"
@@ -61,7 +61,7 @@ FILE "WeFunk_Show_368_2005-03-25.mp3" MP3
 		INDEX 01 50:49:51
 	TRACK 15 AUDIO
 		TITLE "en la ciudad"
-		PERFORMER "lone catalyst"
+		PERFORMER "lone catalysts"
 		INDEX 01 54:20:14
 	TRACK 16 AUDIO
 		TITLE "do you believe? (simahlak remix)"
@@ -100,12 +100,12 @@ FILE "WeFunk_Show_368_2005-03-25.mp3" MP3
 		PERFORMER "cash money and marvelous"
 		INDEX 01 72:16:47
 	TRACK 25 AUDIO
-		TITLE "proof is in the pudding"
-		PERFORMER "madkap"
+		TITLE "proof is in the puddin'"
+		PERFORMER "mad kap"
 		INDEX 01 73:55:39
 	TRACK 26 AUDIO
 		TITLE "wild child"
-		PERFORMER "da youngstas"
+		PERFORMER "da youngsta's"
 		INDEX 01 75:48:11
 	TRACK 27 AUDIO
 		TITLE "flip the script"
@@ -173,5 +173,5 @@ FILE "WeFunk_Show_368_2005-03-25.mp3" MP3
 		INDEX 01 106:09:56
 	TRACK 43 AUDIO
 		TITLE "talk (over jungle brothers - brain instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 107:07:34

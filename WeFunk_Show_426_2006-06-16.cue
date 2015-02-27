@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_426_2006-06-16.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "occapella"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_426_2006-06-16.mp3" MP3
 		INDEX 01 01:58:51
 	TRACK 03 AUDIO
 		TITLE "talk (over barry white - playing your game, baby instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:17:36
 	TRACK 04 AUDIO
 		TITLE "fire on the bayou"
@@ -129,5 +129,5 @@ FILE "WeFunk_Show_426_2006-06-16.mp3" MP3
 		INDEX 01 101:31:08
 	TRACK 32 AUDIO
 		TITLE "talk (over isaac hayes - hung up on my baby)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 105:06:52

@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_333_2004-06-04.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "gossip"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_333_2004-06-04.mp3" MP3
 		INDEX 01 01:58:64
 	TRACK 03 AUDIO
 		TITLE "talk (over mighty imperials - kick the blanket)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:44:58
 	TRACK 04 AUDIO
 		TITLE "slippin' into darkness"
@@ -120,8 +120,8 @@ FILE "WeFunk_Show_333_2004-06-04.mp3" MP3
 		PERFORMER "tony ezzy"
 		INDEX 01 87:56:00
 	TRACK 30 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 91:49:14
 	TRACK 31 AUDIO
 		TITLE "respect the architect"
@@ -160,6 +160,6 @@ FILE "WeFunk_Show_333_2004-06-04.mp3" MP3
 		PERFORMER "naughty by nature"
 		INDEX 01 114:56:10
 	TRACK 40 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 117:00:66

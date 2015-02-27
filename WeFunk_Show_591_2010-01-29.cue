@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_591_2010-01-29.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "do whatcha gotta"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_591_2010-01-29.mp3" MP3
 		INDEX 01 01:44:49
 	TRACK 03 AUDIO
 		TITLE "talk (over apache - gangsta bitch instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:59:15
 	TRACK 04 AUDIO
 		TITLE "do fa self"
@@ -149,7 +149,7 @@ FILE "WeFunk_Show_591_2010-01-29.mp3" MP3
 		INDEX 01 99:35:23
 	TRACK 37 AUDIO
 		TITLE "talk (over jerzy milian orkiestra - gacek)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 102:28:45
 	TRACK 38 AUDIO
 		TITLE "keep on keepin' on"

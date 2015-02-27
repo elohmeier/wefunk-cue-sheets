@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_518_2008-05-30.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "lost desire"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_518_2008-05-30.mp3" MP3
 		INDEX 01 01:14:27
 	TRACK 03 AUDIO
 		TITLE "talk (over akrobatik feat. talib kweli - put ya stamp on it instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:22:35
 	TRACK 04 AUDIO
 		TITLE "move you"
@@ -133,5 +133,5 @@ FILE "WeFunk_Show_518_2008-05-30.mp3" MP3
 		INDEX 01 101:14:59
 	TRACK 33 AUDIO
 		TITLE "talk (over buddy rich - big mac)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 104:59:04

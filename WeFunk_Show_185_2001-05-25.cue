@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_185_2001-05-25.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "get out my life woman"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_185_2001-05-25.mp3" MP3
 		INDEX 01 01:58:30
 	TRACK 03 AUDIO
 		TITLE "talk (over sugarman 3 - baby i love you)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:54:00
 	TRACK 04 AUDIO
 		TITLE "i'm too rough for mr. big stuff"
@@ -41,7 +41,7 @@ FILE "WeFunk_Show_185_2001-05-25.mp3" MP3
 		INDEX 01 30:17:71
 	TRACK 10 AUDIO
 		TITLE "what you seek"
-		PERFORMER "diamond d"
+		PERFORMER "diamond d."
 		INDEX 01 33:35:04
 	TRACK 11 AUDIO
 		TITLE "j. beez comin through (remix)"
@@ -125,5 +125,5 @@ FILE "WeFunk_Show_185_2001-05-25.mp3" MP3
 		INDEX 01 108:21:62
 	TRACK 31 AUDIO
 		TITLE "talk (over a tribe called quest - jam instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 111:32:38

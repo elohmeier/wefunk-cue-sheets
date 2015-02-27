@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_391_2005-09-09.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "hip-hop"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_391_2005-09-09.mp3" MP3
 		INDEX 01 01:56:58
 	TRACK 03 AUDIO
 		TITLE "talk (over cam'ron - down & out instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:23:68
 	TRACK 04 AUDIO
 		TITLE "diamonds from sierra leone (remix)"
@@ -101,7 +101,7 @@ FILE "WeFunk_Show_391_2005-09-09.mp3" MP3
 		INDEX 01 87:14:65
 	TRACK 25 AUDIO
 		TITLE "proof is in the puddin'"
-		PERFORMER "madkap"
+		PERFORMER "mad kap"
 		INDEX 01 90:35:51
 	TRACK 26 AUDIO
 		TITLE "organize"
@@ -125,5 +125,5 @@ FILE "WeFunk_Show_391_2005-09-09.mp3" MP3
 		INDEX 01 104:26:16
 	TRACK 31 AUDIO
 		TITLE "talk (over el michels affair - musings to myself)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 108:22:34

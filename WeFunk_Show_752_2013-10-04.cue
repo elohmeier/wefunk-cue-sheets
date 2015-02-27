@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_752_2013-10-04.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "street player (eeetee's loops of fury)"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_752_2013-10-04.mp3" MP3
 		INDEX 01 01:14:23
 	TRACK 03 AUDIO
 		TITLE "talk (over class action - weekend (dub))"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:28:27
 	TRACK 04 AUDIO
 		TITLE "cause i love you"
@@ -173,7 +173,7 @@ FILE "WeFunk_Show_752_2013-10-04.mp3" MP3
 		INDEX 01 106:40:47
 	TRACK 43 AUDIO
 		TITLE "talk (over miles davis - chocolate chip)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 109:53:09
 	TRACK 44 AUDIO
 		TITLE "musical musician"

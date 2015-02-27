@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_451_2006-12-15.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "space dust"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_451_2006-12-15.mp3" MP3
 		INDEX 01 01:58:49
 	TRACK 03 AUDIO
 		TITLE "talk (over dice raw - thin line instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:11:19
 	TRACK 04 AUDIO
 		TITLE "thin line"
@@ -25,7 +25,7 @@ FILE "WeFunk_Show_451_2006-12-15.mp3" MP3
 		INDEX 01 12:15:21
 	TRACK 06 AUDIO
 		TITLE "914"
-		PERFORMER "pete rock feat. styles p & sheek louch"
+		PERFORMER "pete rock feat. styles p. & sheek louch"
 		INDEX 01 15:29:08
 	TRACK 07 AUDIO
 		TITLE "it's my turn"
@@ -165,5 +165,5 @@ FILE "WeFunk_Show_451_2006-12-15.mp3" MP3
 		INDEX 01 106:19:51
 	TRACK 41 AUDIO
 		TITLE "talk (over les mccann - the dunbar high school marching band)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 108:53:59

@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_342_2004-08-06.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "givin' up food for funk"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_342_2004-08-06.mp3" MP3
 		INDEX 01 01:58:53
 	TRACK 03 AUDIO
 		TITLE "talk (over caldera - coastin')"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 07:30:51
 	TRACK 04 AUDIO
 		TITLE "i'm gonna get your thing (get you)"
@@ -68,8 +68,8 @@ FILE "WeFunk_Show_342_2004-08-06.mp3" MP3
 		PERFORMER "big daddy kane"
 		INDEX 01 47:18:27
 	TRACK 17 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 51:01:26
 	TRACK 18 AUDIO
 		TITLE "mary jane"
@@ -125,7 +125,7 @@ FILE "WeFunk_Show_342_2004-08-06.mp3" MP3
 		INDEX 01 97:12:60
 	TRACK 31 AUDIO
 		TITLE "if"
-		PERFORMER "kenn starr & asheru & talib kweli"
+		PERFORMER "kenn starr, asheru & talib kweli"
 		INDEX 01 99:30:42
 	TRACK 32 AUDIO
 		TITLE "smoke"
@@ -141,5 +141,5 @@ FILE "WeFunk_Show_342_2004-08-06.mp3" MP3
 		INDEX 01 111:42:15
 	TRACK 35 AUDIO
 		TITLE "talk (over ramon morris - first come, first serve)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 114:37:12

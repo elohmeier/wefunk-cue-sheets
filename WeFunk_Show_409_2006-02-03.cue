@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_409_2006-02-03.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "act like you know"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_409_2006-02-03.mp3" MP3
 		INDEX 01 01:58:36
 	TRACK 03 AUDIO
 		TITLE "talk (over eddie senay - cameo)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:19:68
 	TRACK 04 AUDIO
 		TITLE "flow on (pete rock remix)"
@@ -61,7 +61,7 @@ FILE "WeFunk_Show_409_2006-02-03.mp3" MP3
 		INDEX 01 38:17:43
 	TRACK 15 AUDIO
 		TITLE "talk (over braille - 10 years instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 41:43:40
 	TRACK 16 AUDIO
 		TITLE "building to building"
@@ -129,5 +129,5 @@ FILE "WeFunk_Show_409_2006-02-03.mp3" MP3
 		INDEX 01 92:26:27
 	TRACK 32 AUDIO
 		TITLE "talk (over braille - hip hop music remix instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 96:52:41

@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_508_2008-03-07.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "my philosophy (live)"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_508_2008-03-07.mp3" MP3
 		INDEX 01 01:40:09
 	TRACK 03 AUDIO
 		TITLE "talk (over m.c. lyte - cha cha cha instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 03:35:37
 	TRACK 04 AUDIO
 		TITLE "control"
@@ -129,5 +129,5 @@ FILE "WeFunk_Show_508_2008-03-07.mp3" MP3
 		INDEX 01 100:39:34
 	TRACK 32 AUDIO
 		TITLE "talk (over eddie roberts quintet - giorgio's brother (lack of afro remix))"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 103:19:19

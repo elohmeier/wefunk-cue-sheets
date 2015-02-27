@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_558_2009-04-03.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "jimmy (live)"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_558_2009-04-03.mp3" MP3
 		INDEX 01 01:32:22
 	TRACK 03 AUDIO
 		TITLE "talk (over ed o.g. & da bulldogs - streets of the ghetto instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 03:45:30
 	TRACK 04 AUDIO
 		TITLE "shiftee"
@@ -97,7 +97,7 @@ FILE "WeFunk_Show_558_2009-04-03.mp3" MP3
 		INDEX 01 47:15:36
 	TRACK 24 AUDIO
 		TITLE "ain't that a bitch"
-		PERFORMER "johnny 'guitar' watson"
+		PERFORMER "johnny guitar watson"
 		INDEX 01 50:31:58
 	TRACK 25 AUDIO
 		TITLE "fopp"
@@ -189,5 +189,5 @@ FILE "WeFunk_Show_558_2009-04-03.mp3" MP3
 		INDEX 01 108:32:00
 	TRACK 47 AUDIO
 		TITLE "talk (over tribe - baby feet)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 111:33:33

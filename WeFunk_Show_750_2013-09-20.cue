@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_750_2013-09-20.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "shining"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_750_2013-09-20.mp3" MP3
 		INDEX 01 01:32:26
 	TRACK 03 AUDIO
 		TITLE "talk (over charles earland - let the music play)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 06:17:61
 	TRACK 04 AUDIO
 		TITLE "criminality"
@@ -73,7 +73,7 @@ FILE "WeFunk_Show_750_2013-09-20.mp3" MP3
 		INDEX 01 43:16:24
 	TRACK 18 AUDIO
 		TITLE "synopsis two: mother's day"
-		PERFORMER "24 carat black"
+		PERFORMER "24-carat black"
 		INDEX 01 47:29:52
 	TRACK 19 AUDIO
 		TITLE "goin' places"
@@ -165,7 +165,7 @@ FILE "WeFunk_Show_750_2013-09-20.mp3" MP3
 		INDEX 01 104:14:60
 	TRACK 41 AUDIO
 		TITLE "talk (over romaro franceswa - bounce instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 106:50:63
 	TRACK 42 AUDIO
 		TITLE "my addiction"

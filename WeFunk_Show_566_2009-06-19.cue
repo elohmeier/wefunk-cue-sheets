@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_566_2009-06-19.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "chillin (skratch bastid remix)"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_566_2009-06-19.mp3" MP3
 		INDEX 01 01:22:74
 	TRACK 03 AUDIO
 		TITLE "talk (over super lover cee & casanova rud - girls i got 'em locked instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:06:02
 	TRACK 04 AUDIO
 		TITLE "drop the needle"
@@ -41,7 +41,7 @@ FILE "WeFunk_Show_566_2009-06-19.mp3" MP3
 		INDEX 01 23:55:54
 	TRACK 10 AUDIO
 		TITLE "talk (over dâm-funk - burgundy city)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 26:33:15
 	TRACK 11 AUDIO
 		TITLE "i get lifted"
@@ -137,11 +137,11 @@ FILE "WeFunk_Show_566_2009-06-19.mp3" MP3
 		INDEX 01 102:44:53
 	TRACK 34 AUDIO
 		TITLE "feeling free"
-		PERFORMER "nicole willis"
+		PERFORMER "nicole willis & the soul investigators"
 		INDEX 01 104:57:60
 	TRACK 35 AUDIO
 		TITLE "talk (over sidewinder - ego riot)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 108:12:42
 	TRACK 36 AUDIO
 		TITLE "dancing heart"

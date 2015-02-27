@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_699_2012-07-20.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "supafam"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_699_2012-07-20.mp3" MP3
 		INDEX 01 01:44:46
 	TRACK 03 AUDIO
 		TITLE "talk (over visioneers - come & play in the milky night)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:53:49
 	TRACK 04 AUDIO
 		TITLE "real serious"
@@ -133,7 +133,7 @@ FILE "WeFunk_Show_699_2012-07-20.mp3" MP3
 		INDEX 01 98:16:50
 	TRACK 33 AUDIO
 		TITLE "talk (over enoch light & the brass menagerie - hot pants)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 101:10:14
 	TRACK 34 AUDIO
 		TITLE "night talk (12 shades re-edit)"

@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_513_2008-04-11.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "life is just a moment (part 2)"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_513_2008-04-11.mp3" MP3
 		INDEX 01 01:14:22
 	TRACK 03 AUDIO
 		TITLE "talk (over grandmaster flash & the furious five - superappin' theme)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 03:36:47
 	TRACK 04 AUDIO
 		TITLE "comencemos"
@@ -117,7 +117,7 @@ FILE "WeFunk_Show_513_2008-04-11.mp3" MP3
 		INDEX 01 93:35:11
 	TRACK 29 AUDIO
 		TITLE "talk (over de la soul - stakes is high (kid sublime remix instrumental))"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 96:31:14
 	TRACK 30 AUDIO
 		TITLE "what's next (remix)"

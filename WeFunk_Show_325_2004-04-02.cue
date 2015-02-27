@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_325_2004-04-02.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "eazy-er seaid than dunn"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_325_2004-04-02.mp3" MP3
 		INDEX 01 01:58:34
 	TRACK 03 AUDIO
 		TITLE "talk (over whodini - freaks come out at night instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:15:47
 	TRACK 04 AUDIO
 		TITLE "fresh"
@@ -28,16 +28,16 @@ FILE "WeFunk_Show_325_2004-04-02.mp3" MP3
 		PERFORMER "masters at work"
 		INDEX 01 15:49:43
 	TRACK 07 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 16:50:05
 	TRACK 08 AUDIO
 		TITLE "relax with pep"
-		PERFORMER "eric b & rakim"
+		PERFORMER "eric b. & rakim"
 		INDEX 01 22:30:19
 	TRACK 09 AUDIO
 		TITLE "talk (over o.c. - time's up instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 26:11:12
 	TRACK 10 AUDIO
 		TITLE "sayyessayword"
@@ -49,7 +49,7 @@ FILE "WeFunk_Show_325_2004-04-02.mp3" MP3
 		INDEX 01 38:29:01
 	TRACK 12 AUDIO
 		TITLE "talk (over artifacts - whassup now muthaf-ka instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 42:24:13
 	TRACK 13 AUDIO
 		TITLE "got to getcha"
@@ -57,7 +57,7 @@ FILE "WeFunk_Show_325_2004-04-02.mp3" MP3
 		INDEX 01 48:39:53
 	TRACK 14 AUDIO
 		TITLE "talk (over kool & the gang - n.t.)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 51:14:11
 	TRACK 15 AUDIO
 		TITLE "i don't know if i can make it"
@@ -73,21 +73,21 @@ FILE "WeFunk_Show_325_2004-04-02.mp3" MP3
 		INDEX 01 64:03:34
 	TRACK 18 AUDIO
 		TITLE "talk (over bar-kays - holy ghost)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 66:42:47
 	TRACK 19 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 75:34:44
 	TRACK 20 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 92:39:20
 	TRACK 21 AUDIO
 		TITLE "crosswind"
 		PERFORMER "billy cobham"
 		INDEX 01 94:45:15
 	TRACK 22 AUDIO
-		TITLE "talk (over jimmy smith - root down (and get it)"
-		PERFORMER ""
+		TITLE "talk (over jimmy smith - root down (and get it))"
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 98:24:60

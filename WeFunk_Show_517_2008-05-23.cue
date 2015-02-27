@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_517_2008-05-23.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "too much"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_517_2008-05-23.mp3" MP3
 		INDEX 01 02:01:61
 	TRACK 03 AUDIO
 		TITLE "talk (over ramon ricker - hipnotizer)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 06:12:12
 	TRACK 04 AUDIO
 		TITLE "melting pot"
@@ -137,5 +137,5 @@ FILE "WeFunk_Show_517_2008-05-23.mp3" MP3
 		INDEX 01 101:02:29
 	TRACK 34 AUDIO
 		TITLE "talk (over kenny keys - the lost beat tapes vol. 1)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 103:15:64

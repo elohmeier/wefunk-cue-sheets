@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_767_2014-02-07.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "supreme"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_767_2014-02-07.mp3" MP3
 		INDEX 01 01:27:01
 	TRACK 03 AUDIO
 		TITLE "talk (over toast dawg - delayed flight)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:41:38
 	TRACK 04 AUDIO
 		TITLE "wid it"
@@ -45,7 +45,7 @@ FILE "WeFunk_Show_767_2014-02-07.mp3" MP3
 		INDEX 01 31:23:00
 	TRACK 11 AUDIO
 		TITLE "the beast"
-		PERFORMER "palmskin productions"
+		PERFORMER "palm skin productions"
 		INDEX 01 34:13:40
 	TRACK 12 AUDIO
 		TITLE "the sun"
@@ -145,7 +145,7 @@ FILE "WeFunk_Show_767_2014-02-07.mp3" MP3
 		INDEX 01 103:20:03
 	TRACK 36 AUDIO
 		TITLE "talk (over chequers - check it out)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 105:40:49
 	TRACK 37 AUDIO
 		TITLE "long time, wrong time"

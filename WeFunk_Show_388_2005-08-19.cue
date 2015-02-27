@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_388_2005-08-19.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "get some order"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_388_2005-08-19.mp3" MP3
 		INDEX 01 01:58:53
 	TRACK 03 AUDIO
 		TITLE "talk (over billy ball & the upsetters - sissy walk)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:17:72
 	TRACK 04 AUDIO
 		TITLE "wait a minute"
@@ -44,8 +44,8 @@ FILE "WeFunk_Show_388_2005-08-19.mp3" MP3
 		PERFORMER "karma atchykah"
 		INDEX 01 27:38:33
 	TRACK 11 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 31:47:10
 	TRACK 12 AUDIO
 		TITLE "monk swing"
@@ -53,7 +53,7 @@ FILE "WeFunk_Show_388_2005-08-19.mp3" MP3
 		INDEX 01 34:56:72
 	TRACK 13 AUDIO
 		TITLE "talk (over k.r.s.-one - word perfect instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 38:44:15
 	TRACK 14 AUDIO
 		TITLE "remain anonymous"
@@ -112,8 +112,8 @@ FILE "WeFunk_Show_388_2005-08-19.mp3" MP3
 		PERFORMER "bobby shad & the bad men"
 		INDEX 01 83:25:37
 	TRACK 28 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 88:32:12
 	TRACK 29 AUDIO
 		TITLE "give it to ya raw"
@@ -133,5 +133,5 @@ FILE "WeFunk_Show_388_2005-08-19.mp3" MP3
 		INDEX 01 99:25:66
 	TRACK 33 AUDIO
 		TITLE "talk (over artifacts - dynamite soul instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 107:45:31

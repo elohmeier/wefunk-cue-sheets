@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_326_2004-04-09.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "show em whatcha got"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_326_2004-04-09.mp3" MP3
 		INDEX 01 01:58:44
 	TRACK 03 AUDIO
 		TITLE "talk (over lafayette afro-rock band - darkest light)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 03:42:30
 	TRACK 04 AUDIO
 		TITLE "star borne"
@@ -68,8 +68,8 @@ FILE "WeFunk_Show_326_2004-04-09.mp3" MP3
 		PERFORMER "nas"
 		INDEX 01 55:04:50
 	TRACK 17 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 57:59:40
 	TRACK 18 AUDIO
 		TITLE "funky worm"
@@ -109,5 +109,5 @@ FILE "WeFunk_Show_326_2004-04-09.mp3" MP3
 		INDEX 01 103:27:53
 	TRACK 27 AUDIO
 		TITLE "talk (over slum village - tainted instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 108:23:32

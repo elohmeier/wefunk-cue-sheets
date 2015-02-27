@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_350_2004-10-08.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "definition"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_350_2004-10-08.mp3" MP3
 		INDEX 01 01:58:41
 	TRACK 03 AUDIO
 		TITLE "talk (over gang starr - gotta get over remix instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:18:52
 	TRACK 04 AUDIO
 		TITLE "gotta get over (remix)"
@@ -85,7 +85,7 @@ FILE "WeFunk_Show_350_2004-10-08.mp3" MP3
 		INDEX 01 64:48:17
 	TRACK 21 AUDIO
 		TITLE "tell me"
-		PERFORMER "rickey calloway"
+		PERFORMER "ricky calloway"
 		INDEX 01 67:36:22
 	TRACK 22 AUDIO
 		TITLE "catch a groove"
@@ -105,7 +105,7 @@ FILE "WeFunk_Show_350_2004-10-08.mp3" MP3
 		INDEX 01 82:48:25
 	TRACK 26 AUDIO
 		TITLE "talk (over mongo santamaria - windjammer)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 84:51:51
 	TRACK 27 AUDIO
 		TITLE "thief's theme"
@@ -113,5 +113,5 @@ FILE "WeFunk_Show_350_2004-10-08.mp3" MP3
 		INDEX 01 90:01:21
 	TRACK 28 AUDIO
 		TITLE "talk (over pete rock & c.l. smooth - appreciate instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 115:03:72

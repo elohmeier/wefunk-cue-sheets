@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_592_2010-02-05.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "come down to earth (david todd mix)"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_592_2010-02-05.mp3" MP3
 		INDEX 01 02:01:74
 	TRACK 03 AUDIO
 		TITLE "talk (over choice four - come down to earth (david todd mix))"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 07:34:55
 	TRACK 04 AUDIO
 		TITLE "love don't come easy (instrumental edit)"
@@ -137,5 +137,5 @@ FILE "WeFunk_Show_592_2010-02-05.mp3" MP3
 		INDEX 01 115:41:32
 	TRACK 34 AUDIO
 		TITLE "talk (over a tribe called quest - 1nce again instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 116:58:67

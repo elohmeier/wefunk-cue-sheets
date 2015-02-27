@@ -5,15 +5,15 @@ REM Genre : HipHop
 FILE "WeFunk_Show_200_2001-09-07.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "mighty mighty"
 		PERFORMER "baby huey & the babysitters"
 		INDEX 01 01:57:55
 	TRACK 03 AUDIO
-		TITLE "talk (over gemini the gifted one - funk soul sensation instrumental)"
-		PERFORMER ""
+		TITLE "talk (over jemini the gifted one - funk soul sensation instrumental)"
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:21:19
 	TRACK 04 AUDIO
 		TITLE "record making manual"
@@ -73,7 +73,7 @@ FILE "WeFunk_Show_200_2001-09-07.mp3" MP3
 		INDEX 01 51:11:72
 	TRACK 18 AUDIO
 		TITLE "psk what does it mean"
-		PERFORMER "schooly d"
+		PERFORMER "schoolly d."
 		INDEX 01 53:52:18
 	TRACK 19 AUDIO
 		TITLE "i got the (blues)"
@@ -84,8 +84,8 @@ FILE "WeFunk_Show_200_2001-09-07.mp3" MP3
 		PERFORMER "meters"
 		INDEX 01 67:22:15
 	TRACK 21 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 71:38:19
 	TRACK 22 AUDIO
 		TITLE "kool it (here comes the fuzz)"
@@ -96,8 +96,8 @@ FILE "WeFunk_Show_200_2001-09-07.mp3" MP3
 		PERFORMER "house guests"
 		INDEX 01 85:25:03
 	TRACK 24 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 89:01:17
 	TRACK 25 AUDIO
 		TITLE "do it to the crowd (instrumental)"
@@ -108,8 +108,8 @@ FILE "WeFunk_Show_200_2001-09-07.mp3" MP3
 		PERFORMER "pharoahe monch"
 		INDEX 01 102:02:08
 	TRACK 27 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 103:04:43
 	TRACK 28 AUDIO
 		TITLE "the real me (instrumental)"
@@ -121,5 +121,5 @@ FILE "WeFunk_Show_200_2001-09-07.mp3" MP3
 		INDEX 01 108:20:46
 	TRACK 30 AUDIO
 		TITLE "talk (over pete rock & c.l. smooth - t.r.o.y. remix instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 112:29:67

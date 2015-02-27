@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_608_2010-06-04.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "paint the toon"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_608_2010-06-04.mp3" MP3
 		INDEX 01 01:44:56
 	TRACK 03 AUDIO
 		TITLE "talk (over midnightrats - goalmaker instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 06:41:33
 	TRACK 04 AUDIO
 		TITLE "if you're wrong (lack of afro remix)"
@@ -141,7 +141,7 @@ FILE "WeFunk_Show_608_2010-06-04.mp3" MP3
 		INDEX 01 114:47:26
 	TRACK 35 AUDIO
 		TITLE "talk (over dennis coffey & the lyman woodard trio - it's your thing)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 117:14:61
 	TRACK 36 AUDIO
 		TITLE "my place in space"

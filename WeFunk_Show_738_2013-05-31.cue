@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_738_2013-05-31.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "plan b."
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_738_2013-05-31.mp3" MP3
 		INDEX 01 01:32:40
 	TRACK 03 AUDIO
 		TITLE "talk (over m. zalla - underworld)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:56:22
 	TRACK 04 AUDIO
 		TITLE "back street lust"
@@ -145,7 +145,7 @@ FILE "WeFunk_Show_738_2013-05-31.mp3" MP3
 		INDEX 01 107:08:50
 	TRACK 36 AUDIO
 		TITLE "talk (over afu-ra - whirlwind thru cities instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 110:20:35
 	TRACK 37 AUDIO
 		TITLE "c.r.e.a.m."

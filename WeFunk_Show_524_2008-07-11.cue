@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_524_2008-07-11.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "new $"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_524_2008-07-11.mp3" MP3
 		INDEX 01 01:37:63
 	TRACK 03 AUDIO
 		TITLE "talk (over kanye west - flashing lights instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:05:72
 	TRACK 04 AUDIO
 		TITLE "announcement"
@@ -45,11 +45,11 @@ FILE "WeFunk_Show_524_2008-07-11.mp3" MP3
 		INDEX 01 26:11:33
 	TRACK 11 AUDIO
 		TITLE "talk (over s.o.u.l. purpose - way that we live instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 29:30:29
 	TRACK 12 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 33:09:27
 	TRACK 13 AUDIO
 		TITLE "crystal clear (spearhead x. remix)"
@@ -141,5 +141,5 @@ FILE "WeFunk_Show_524_2008-07-11.mp3" MP3
 		INDEX 01 102:09:04
 	TRACK 35 AUDIO
 		TITLE "talk (over kashmere stage band - do your thing instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 105:09:54

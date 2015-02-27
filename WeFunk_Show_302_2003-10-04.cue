@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_302_2003-10-04.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "how long (betcha' got a chick on the side)"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_302_2003-10-04.mp3" MP3
 		INDEX 01 01:58:23
 	TRACK 03 AUDIO
 		TITLE "talk (over james brown - in the middle)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:00:53
 	TRACK 04 AUDIO
 		TITLE "if you lose your woman"
@@ -145,5 +145,5 @@ FILE "WeFunk_Show_302_2003-10-04.mp3" MP3
 		INDEX 01 113:12:42
 	TRACK 36 AUDIO
 		TITLE "talk (over grant green - down here on the ground)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 115:57:19

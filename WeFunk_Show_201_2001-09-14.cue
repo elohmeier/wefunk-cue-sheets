@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_201_2001-09-14.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "caution"
@@ -56,8 +56,8 @@ FILE "WeFunk_Show_201_2001-09-14.mp3" MP3
 		PERFORMER "butta beats"
 		INDEX 01 38:25:01
 	TRACK 14 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 41:20:57
 	TRACK 15 AUDIO
 		TITLE "i'm outta here"
@@ -124,8 +124,8 @@ FILE "WeFunk_Show_201_2001-09-14.mp3" MP3
 		PERFORMER "maceo & the macks"
 		INDEX 01 92:50:56
 	TRACK 31 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 96:41:18
 	TRACK 32 AUDIO
 		TITLE "progress of elimination"
@@ -141,5 +141,5 @@ FILE "WeFunk_Show_201_2001-09-14.mp3" MP3
 		INDEX 01 109:54:65
 	TRACK 35 AUDIO
 		TITLE "talk (over yesterdays new quintet - knucklehead)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 110:34:20

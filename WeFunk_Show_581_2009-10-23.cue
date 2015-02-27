@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_581_2009-10-23.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "ain't there something money can't buy"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_581_2009-10-23.mp3" MP3
 		INDEX 01 02:02:00
 	TRACK 03 AUDIO
 		TITLE "talk (over kool & the gang - rated x)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 06:30:64
 	TRACK 04 AUDIO
 		TITLE "unwind yourself"
@@ -25,7 +25,7 @@ FILE "WeFunk_Show_581_2009-10-23.mp3" MP3
 		INDEX 01 13:21:72
 	TRACK 06 AUDIO
 		TITLE "talk (over manzel - sugar dreams)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 17:05:55
 	TRACK 07 AUDIO
 		TITLE "soldier"
@@ -37,7 +37,7 @@ FILE "WeFunk_Show_581_2009-10-23.mp3" MP3
 		INDEX 01 25:45:09
 	TRACK 09 AUDIO
 		TITLE "talk (over l.m.f.a.o. - i'm in miami bitch (ruckus roboticus remix instrumental))"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 29:33:10
 	TRACK 10 AUDIO
 		TITLE "i wish i knew natalie portman"
@@ -53,7 +53,7 @@ FILE "WeFunk_Show_581_2009-10-23.mp3" MP3
 		INDEX 01 42:26:17
 	TRACK 13 AUDIO
 		TITLE "talk (over metal fingers - orris root powder instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 44:58:74
 	TRACK 14 AUDIO
 		TITLE "if you want me to stay"
@@ -69,7 +69,7 @@ FILE "WeFunk_Show_581_2009-10-23.mp3" MP3
 		INDEX 01 56:01:16
 	TRACK 17 AUDIO
 		TITLE "talk (over beyonce - crazy in love instrumental edit)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 58:34:39
 	TRACK 18 AUDIO
 		TITLE "nice & smooth"
@@ -81,7 +81,7 @@ FILE "WeFunk_Show_581_2009-10-23.mp3" MP3
 		INDEX 01 66:36:46
 	TRACK 20 AUDIO
 		TITLE "talk (over soul ii soul - jazzie's groove (piano groove))"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 69:45:00
 	TRACK 21 AUDIO
 		TITLE "jazzie's groove (piano groove)"
@@ -101,7 +101,7 @@ FILE "WeFunk_Show_581_2009-10-23.mp3" MP3
 		INDEX 01 79:54:71
 	TRACK 25 AUDIO
 		TITLE "talk (over whatnauts - help is on the way instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 84:59:32
 	TRACK 26 AUDIO
 		TITLE "for the love of money (live in zaire)"
@@ -129,7 +129,7 @@ FILE "WeFunk_Show_581_2009-10-23.mp3" MP3
 		INDEX 01 108:41:19
 	TRACK 32 AUDIO
 		TITLE "talk (over black moon - stay real instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 112:42:57
 	TRACK 33 AUDIO
 		TITLE "40th anniversary mix"

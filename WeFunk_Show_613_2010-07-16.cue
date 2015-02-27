@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_613_2010-07-16.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "foodstamps"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_613_2010-07-16.mp3" MP3
 		INDEX 01 01:40:17
 	TRACK 03 AUDIO
 		TITLE "talk (over 24-carat black - foodstamps)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 02:42:00
 	TRACK 04 AUDIO
 		TITLE "shine"
@@ -169,7 +169,7 @@ FILE "WeFunk_Show_613_2010-07-16.mp3" MP3
 		INDEX 01 110:05:61
 	TRACK 42 AUDIO
 		TITLE "talk (over isaac hayes - zeke the freak (todd terje re-kutt))"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 113:55:54
 	TRACK 43 AUDIO
 		TITLE "don't go lose it baby"

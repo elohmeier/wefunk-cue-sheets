@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_464_2007-03-23.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "the reporter"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_464_2007-03-23.mp3" MP3
 		INDEX 01 01:58:53
 	TRACK 03 AUDIO
 		TITLE "talk (over mos def - love instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:06:55
 	TRACK 04 AUDIO
 		TITLE "gotta get mine"
@@ -65,7 +65,7 @@ FILE "WeFunk_Show_464_2007-03-23.mp3" MP3
 		INDEX 01 51:29:55
 	TRACK 16 AUDIO
 		TITLE "gangster boogie"
-		PERFORMER "schoolly d"
+		PERFORMER "schoolly d."
 		INDEX 01 54:24:03
 	TRACK 17 AUDIO
 		TITLE "public enemy no. 1"
@@ -89,7 +89,7 @@ FILE "WeFunk_Show_464_2007-03-23.mp3" MP3
 		INDEX 01 70:47:70
 	TRACK 22 AUDIO
 		TITLE "talk (over james brown - after you done it)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 73:41:35
 	TRACK 23 AUDIO
 		TITLE "give it up or turnit a loose"
@@ -97,7 +97,7 @@ FILE "WeFunk_Show_464_2007-03-23.mp3" MP3
 		INDEX 01 81:17:39
 	TRACK 24 AUDIO
 		TITLE "talk (over whitefield brothers - fifty yards of soul)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 84:22:39
 	TRACK 25 AUDIO
 		TITLE "the jam"
@@ -105,7 +105,7 @@ FILE "WeFunk_Show_464_2007-03-23.mp3" MP3
 		INDEX 01 93:42:18
 	TRACK 26 AUDIO
 		TITLE "talk (over james brown - ain't it funky)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 97:12:43
 	TRACK 27 AUDIO
 		TITLE "you can't blame me"
@@ -121,5 +121,5 @@ FILE "WeFunk_Show_464_2007-03-23.mp3" MP3
 		INDEX 01 106:39:40
 	TRACK 30 AUDIO
 		TITLE "talk (over roy ayers - i did it in seattle)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 112:44:66

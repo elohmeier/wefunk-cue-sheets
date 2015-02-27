@@ -5,11 +5,11 @@ REM Genre : HipHop
 FILE "WeFunk_Show_169_2001-02-02.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 01:58:40
 	TRACK 03 AUDIO
 		TITLE "one nation under a groove"
@@ -140,6 +140,6 @@ FILE "WeFunk_Show_169_2001-02-02.mp3" MP3
 		PERFORMER "akbar"
 		INDEX 01 117:25:33
 	TRACK 35 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 122:04:40

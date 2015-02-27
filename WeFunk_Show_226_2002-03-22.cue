@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_226_2002-03-22.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "roy c's theme"
@@ -13,14 +13,14 @@ FILE "WeFunk_Show_226_2002-03-22.mp3" MP3
 		INDEX 01 01:58:59
 	TRACK 03 AUDIO
 		TITLE "talk (over sugarman three - so long donkey)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:03:26
 	TRACK 04 AUDIO
 		TITLE "the preacher & the bear"
 		PERFORMER "rufus thomas"
 		INDEX 01 09:58:54
 	TRACK 05 AUDIO
-		TITLE "look-a py py"
+		TITLE "look-ka py py"
 		PERFORMER "meters"
 		INDEX 01 14:10:07
 	TRACK 06 AUDIO
@@ -48,11 +48,11 @@ FILE "WeFunk_Show_226_2002-03-22.mp3" MP3
 		PERFORMER "digable planets"
 		INDEX 01 32:42:64
 	TRACK 12 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 37:51:04
 	TRACK 13 AUDIO
-		TITLE "the ? remains"
+		TITLE "the ? remainz"
 		PERFORMER "gang starr"
 		INDEX 01 41:09:00
 	TRACK 14 AUDIO
@@ -92,7 +92,7 @@ FILE "WeFunk_Show_226_2002-03-22.mp3" MP3
 		PERFORMER "steely dan"
 		INDEX 01 63:49:38
 	TRACK 23 AUDIO
-		TITLE "funky music is a thing"
+		TITLE "funky music is the thing"
 		PERFORMER "dynamic corvettes"
 		INDEX 01 66:58:13
 	TRACK 24 AUDIO
@@ -157,9 +157,9 @@ FILE "WeFunk_Show_226_2002-03-22.mp3" MP3
 		INDEX 01 106:57:58
 	TRACK 39 AUDIO
 		TITLE "can i get it"
-		PERFORMER "j live"
+		PERFORMER "j. live"
 		INDEX 01 109:56:49
 	TRACK 40 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 111:52:24

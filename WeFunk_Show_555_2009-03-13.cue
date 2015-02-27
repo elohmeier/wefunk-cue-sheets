@@ -5,15 +5,15 @@ REM Genre : HipHop
 FILE "WeFunk_Show_555_2009-03-13.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "the stick"
 		PERFORMER "time"
 		INDEX 01 01:14:20
 	TRACK 03 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 07:06:65
 	TRACK 04 AUDIO
 		TITLE "nasty girl"
@@ -24,8 +24,8 @@ FILE "WeFunk_Show_555_2009-03-13.mp3" MP3
 		PERFORMER "appolonia 6"
 		INDEX 01 17:54:39
 	TRACK 06 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 21:56:16
 	TRACK 07 AUDIO
 		TITLE "oliver's house"
@@ -36,24 +36,24 @@ FILE "WeFunk_Show_555_2009-03-13.mp3" MP3
 		PERFORMER "sheila e."
 		INDEX 01 33:00:70
 	TRACK 09 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 36:56:43
 	TRACK 10 AUDIO
 		TITLE "high fashion"
 		PERFORMER "family"
 		INDEX 01 43:41:58
 	TRACK 11 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 48:38:01
 	TRACK 12 AUDIO
 		TITLE "stroke"
 		PERFORMER "mazarati"
 		INDEX 01 53:40:12
 	TRACK 13 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 58:04:73
 	TRACK 14 AUDIO
 		TITLE "6"
@@ -64,8 +64,8 @@ FILE "WeFunk_Show_555_2009-03-13.mp3" MP3
 		PERFORMER "tony lemans"
 		INDEX 01 62:24:03
 	TRACK 16 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 66:13:54
 	TRACK 17 AUDIO
 		TITLE "melody cool"
@@ -76,8 +76,8 @@ FILE "WeFunk_Show_555_2009-03-13.mp3" MP3
 		PERFORMER "george clinton"
 		INDEX 01 74:51:14
 	TRACK 19 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 78:55:12
 	TRACK 20 AUDIO
 		TITLE "tweakin'"
@@ -92,8 +92,8 @@ FILE "WeFunk_Show_555_2009-03-13.mp3" MP3
 		PERFORMER "prince & george clinton"
 		INDEX 01 92:31:72
 	TRACK 23 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 97:57:67
 	TRACK 24 AUDIO
 		TITLE "the walk"
@@ -104,8 +104,8 @@ FILE "WeFunk_Show_555_2009-03-13.mp3" MP3
 		PERFORMER "time"
 		INDEX 01 109:47:09
 	TRACK 26 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 113:46:47
 	TRACK 27 AUDIO
 		TITLE "chocolate"

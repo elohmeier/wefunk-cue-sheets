@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_331_2004-05-21.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "i feel sanctified"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_331_2004-05-21.mp3" MP3
 		INDEX 01 01:58:57
 	TRACK 03 AUDIO
 		TITLE "talk (over melvin sparks - get down with the get down)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:24:39
 	TRACK 04 AUDIO
 		TITLE "you're losing me"
@@ -77,7 +77,7 @@ FILE "WeFunk_Show_331_2004-05-21.mp3" MP3
 		INDEX 01 52:37:71
 	TRACK 19 AUDIO
 		TITLE "talk (over group home - suspended in time instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 58:05:42
 	TRACK 20 AUDIO
 		TITLE "it's all about me"
@@ -97,7 +97,7 @@ FILE "WeFunk_Show_331_2004-05-21.mp3" MP3
 		INDEX 01 71:04:34
 	TRACK 24 AUDIO
 		TITLE "coqui 900"
-		PERFORMER "schooly d"
+		PERFORMER "schoolly d."
 		INDEX 01 72:43:33
 	TRACK 25 AUDIO
 		TITLE "live from the palladium"
@@ -109,7 +109,7 @@ FILE "WeFunk_Show_331_2004-05-21.mp3" MP3
 		INDEX 01 79:37:64
 	TRACK 27 AUDIO
 		TITLE "talk (over dynamic corvettes - precious woman)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 82:59:20
 	TRACK 28 AUDIO
 		TITLE "my shirt matches my pants"
@@ -136,8 +136,8 @@ FILE "WeFunk_Show_331_2004-05-21.mp3" MP3
 		PERFORMER "kurious"
 		INDEX 01 104:54:30
 	TRACK 34 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 108:52:69
 	TRACK 35 AUDIO
 		TITLE "red clay"

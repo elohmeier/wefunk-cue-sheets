@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_535_2008-10-10.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "the cafe black rose"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_535_2008-10-10.mp3" MP3
 		INDEX 01 01:40:05
 	TRACK 03 AUDIO
 		TITLE "talk (over bernard purdie - hap'nin')"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 03:22:46
 	TRACK 04 AUDIO
 		TITLE "follow the wind"
@@ -161,5 +161,5 @@ FILE "WeFunk_Show_535_2008-10-10.mp3" MP3
 		INDEX 01 109:59:62
 	TRACK 40 AUDIO
 		TITLE "talk (over quartertones - bite into it)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 112:32:51

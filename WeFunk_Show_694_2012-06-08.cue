@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_694_2012-06-08.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "we run things (dave bee remix)"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_694_2012-06-08.mp3" MP3
 		INDEX 01 01:44:51
 	TRACK 03 AUDIO
 		TITLE "talk (over g.z.a. with fyre dept. - fame instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:48:01
 	TRACK 04 AUDIO
 		TITLE "wu-wear"
@@ -145,7 +145,7 @@ FILE "WeFunk_Show_694_2012-06-08.mp3" MP3
 		INDEX 01 118:28:07
 	TRACK 36 AUDIO
 		TITLE "talk (over jupiter tuning center - soft landing)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 122:20:05
 	TRACK 37 AUDIO
 		TITLE "chameleon"

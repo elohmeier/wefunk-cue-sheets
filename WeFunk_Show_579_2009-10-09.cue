@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_579_2009-10-09.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "carry on"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_579_2009-10-09.mp3" MP3
 		INDEX 01 01:44:55
 	TRACK 03 AUDIO
 		TITLE "talk (over marvin holmes & justice - all night into day)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:20:39
 	TRACK 04 AUDIO
 		TITLE "backed up against the wall"
@@ -153,7 +153,7 @@ FILE "WeFunk_Show_579_2009-10-09.mp3" MP3
 		INDEX 01 105:46:36
 	TRACK 38 AUDIO
 		TITLE "talk (over aaron broomfield - polyphase instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 109:20:33
 	TRACK 39 AUDIO
 		TITLE "she can't love you"

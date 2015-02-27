@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_384_2005-07-22.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "a roller skating jam called "saturdays" ("ladies night decision" mix)"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_384_2005-07-22.mp3" MP3
 		INDEX 01 01:58:50
 	TRACK 03 AUDIO
 		TITLE "talk (over mean machine - disco dream instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:41:46
 	TRACK 04 AUDIO
 		TITLE "same song"
@@ -161,5 +161,5 @@ FILE "WeFunk_Show_384_2005-07-22.mp3" MP3
 		INDEX 01 106:54:43
 	TRACK 40 AUDIO
 		TITLE "talk (over u.m.c.'s - never never land instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 110:51:12

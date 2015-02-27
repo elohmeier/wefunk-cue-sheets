@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_291_2003-07-18.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "le bien, le mal"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_291_2003-07-18.mp3" MP3
 		INDEX 01 01:58:47
 	TRACK 03 AUDIO
 		TITLE "talk (over d-nice - crumbs on the table instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:53:73
 	TRACK 04 AUDIO
 		TITLE "think"
@@ -57,7 +57,7 @@ FILE "WeFunk_Show_291_2003-07-18.mp3" MP3
 		INDEX 01 41:01:49
 	TRACK 14 AUDIO
 		TITLE "talk (over common sense - communism instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 50:05:64
 	TRACK 15 AUDIO
 		TITLE "the bitch in yoo"
@@ -85,7 +85,7 @@ FILE "WeFunk_Show_291_2003-07-18.mp3" MP3
 		INDEX 01 68:48:29
 	TRACK 21 AUDIO
 		TITLE "check da style"
-		PERFORMER "l swift"
+		PERFORMER "l-swift"
 		INDEX 01 73:06:25
 	TRACK 22 AUDIO
 		TITLE "we're doin' it (the thang)"
@@ -113,5 +113,5 @@ FILE "WeFunk_Show_291_2003-07-18.mp3" MP3
 		INDEX 01 96:32:53
 	TRACK 28 AUDIO
 		TITLE "talk (over artifacts - cummin' thru ya f-kin' block instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 107:28:62

@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_561_2009-04-24.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "sing a happy song"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_561_2009-04-24.mp3" MP3
 		INDEX 01 01:45:58
 	TRACK 03 AUDIO
 		TITLE "talk (over love unlimited orchestra - satin soul)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:16:73
 	TRACK 04 AUDIO
 		TITLE "pull fancy dancer/pull"
@@ -137,5 +137,5 @@ FILE "WeFunk_Show_561_2009-04-24.mp3" MP3
 		INDEX 01 110:03:68
 	TRACK 34 AUDIO
 		TITLE "talk (over game - whole city behind us instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 112:50:71

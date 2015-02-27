@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_261_2002-11-29.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "nobody but you babe"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_261_2002-11-29.mp3" MP3
 		INDEX 01 01:58:46
 	TRACK 03 AUDIO
 		TITLE "talk (over ohio players - there it is)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:39:60
 	TRACK 04 AUDIO
 		TITLE "runaway"
@@ -53,11 +53,11 @@ FILE "WeFunk_Show_261_2002-11-29.mp3" MP3
 		INDEX 01 37:05:61
 	TRACK 13 AUDIO
 		TITLE "method man"
-		PERFORMER "wu tang clan"
+		PERFORMER "wu-tang clan"
 		INDEX 01 40:37:73
 	TRACK 14 AUDIO
 		TITLE "protect ya neck"
-		PERFORMER "wu tang clan"
+		PERFORMER "wu-tang clan"
 		INDEX 01 44:09:20
 	TRACK 15 AUDIO
 		TITLE "time 4 sum aksion"
@@ -141,5 +141,5 @@ FILE "WeFunk_Show_261_2002-11-29.mp3" MP3
 		INDEX 01 107:07:49
 	TRACK 35 AUDIO
 		TITLE "talk (over digable planets - where i'm from remix instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 110:20:72

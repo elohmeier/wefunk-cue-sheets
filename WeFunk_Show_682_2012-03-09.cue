@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_682_2012-03-09.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "funk for the folks"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_682_2012-03-09.mp3" MP3
 		INDEX 01 01:32:34
 	TRACK 03 AUDIO
 		TITLE "talk (over w.d.r.e. & freqnik - favela bboy funk)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:14:30
 	TRACK 04 AUDIO
 		TITLE "brand new girl"
@@ -101,7 +101,7 @@ FILE "WeFunk_Show_682_2012-03-09.mp3" MP3
 		INDEX 01 80:13:57
 	TRACK 25 AUDIO
 		TITLE "just don't mean a thing (f.u.n.k. edit)"
-		PERFORMER "funk, inc."
+		PERFORMER "funk inc."
 		INDEX 01 85:09:27
 	TRACK 26 AUDIO
 		TITLE "all of my love (f.u.n.k. edit)"
@@ -137,7 +137,7 @@ FILE "WeFunk_Show_682_2012-03-09.mp3" MP3
 		INDEX 01 103:42:62
 	TRACK 34 AUDIO
 		TITLE "talk (over willie jones iii - the thorn)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 106:28:49
 	TRACK 35 AUDIO
 		TITLE "rain dance"

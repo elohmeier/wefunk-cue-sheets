@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_669_2011-11-18.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "kung fu"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_669_2011-11-18.mp3" MP3
 		INDEX 01 01:44:48
 	TRACK 03 AUDIO
 		TITLE "talk (over d.j. quik - be true to yourself remix instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:44:35
 	TRACK 04 AUDIO
 		TITLE "i'm ready"
@@ -113,7 +113,7 @@ FILE "WeFunk_Show_669_2011-11-18.mp3" MP3
 		INDEX 01 80:33:02
 	TRACK 28 AUDIO
 		TITLE "stomp"
-		PERFORMER "marc moulin"
+		PERFORMER "placebo"
 		INDEX 01 84:16:74
 	TRACK 29 AUDIO
 		TITLE "on the move"
@@ -141,7 +141,7 @@ FILE "WeFunk_Show_669_2011-11-18.mp3" MP3
 		INDEX 01 100:54:01
 	TRACK 35 AUDIO
 		TITLE "talk (over black star - twice inna lifetime instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 105:08:63
 	TRACK 36 AUDIO
 		TITLE "get by (remix)"

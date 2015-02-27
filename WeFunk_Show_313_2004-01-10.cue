@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_313_2004-01-10.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "the witch doctor"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_313_2004-01-10.mp3" MP3
 		INDEX 01 01:58:64
 	TRACK 03 AUDIO
 		TITLE "talk (over clifford coulter - v.j.c.)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:44:59
 	TRACK 04 AUDIO
 		TITLE "the lyricist"
@@ -73,7 +73,7 @@ FILE "WeFunk_Show_313_2004-01-10.mp3" MP3
 		INDEX 01 56:47:38
 	TRACK 18 AUDIO
 		TITLE "talk (over j.b.'s - same beat)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 59:50:41
 	TRACK 19 AUDIO
 		TITLE "one love"
@@ -125,7 +125,7 @@ FILE "WeFunk_Show_313_2004-01-10.mp3" MP3
 		INDEX 01 106:57:32
 	TRACK 31 AUDIO
 		TITLE "talk (over beatnuts - find this instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 109:32:30
 	TRACK 32 AUDIO
 		TITLE "half time (instrumental)"

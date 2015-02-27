@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_664_2011-09-30.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "cityscape"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_664_2011-09-30.mp3" MP3
 		INDEX 01 02:01:30
 	TRACK 03 AUDIO
 		TITLE "talk (over slim moore & the mar-kays - cool breeze)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 06:22:20
 	TRACK 04 AUDIO
 		TITLE "baby you really got me going"
@@ -149,7 +149,7 @@ FILE "WeFunk_Show_664_2011-09-30.mp3" MP3
 		INDEX 01 116:53:08
 	TRACK 37 AUDIO
 		TITLE "talk (over beat konducta - ashby road)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 120:08:21
 	TRACK 38 AUDIO
 		TITLE "notorious (remix)"

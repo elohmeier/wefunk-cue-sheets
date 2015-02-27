@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_418_2006-04-14.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "memphis soul stew"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_418_2006-04-14.mp3" MP3
 		INDEX 01 01:59:30
 	TRACK 03 AUDIO
 		TITLE "talk (over disco function - rare function)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:56:67
 	TRACK 04 AUDIO
 		TITLE "get down people"
@@ -145,5 +145,5 @@ FILE "WeFunk_Show_418_2006-04-14.mp3" MP3
 		INDEX 01 107:05:15
 	TRACK 36 AUDIO
 		TITLE "talk (over kero one - keep it alive jazz remix instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 110:55:51

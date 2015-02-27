@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_217_2002-01-18.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "contract on world love jam"
@@ -21,15 +21,15 @@ FILE "WeFunk_Show_217_2002-01-18.mp3" MP3
 		INDEX 01 06:31:01
 	TRACK 05 AUDIO
 		TITLE "talk (over bahamadia - intro)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 08:51:17
 	TRACK 06 AUDIO
 		TITLE "lunchroom chatter"
-		PERFORMER "diamond d"
+		PERFORMER "diamond d."
 		INDEX 01 09:42:19
 	TRACK 07 AUDIO
 		TITLE "super nigga"
-		PERFORMER "schooly d"
+		PERFORMER "schoolly d."
 		INDEX 01 10:09:13
 	TRACK 08 AUDIO
 		TITLE "incident at 66.6fm"
@@ -37,11 +37,11 @@ FILE "WeFunk_Show_217_2002-01-18.mp3" MP3
 		INDEX 01 12:04:71
 	TRACK 09 AUDIO
 		TITLE "diggin' in the crates"
-		PERFORMER "bums"
+		PERFORMER "b.u.m.s."
 		INDEX 01 13:41:38
 	TRACK 10 AUDIO
 		TITLE "talk (over ?? - ??)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 14:11:74
 	TRACK 11 AUDIO
 		TITLE "interlude"
@@ -85,7 +85,7 @@ FILE "WeFunk_Show_217_2002-01-18.mp3" MP3
 		INDEX 01 29:32:22
 	TRACK 21 AUDIO
 		TITLE "intro"
-		PERFORMER "lost boys"
+		PERFORMER "lost boyz"
 		INDEX 01 30:41:01
 	TRACK 22 AUDIO
 		TITLE "world's famous intro"
@@ -153,7 +153,7 @@ FILE "WeFunk_Show_217_2002-01-18.mp3" MP3
 		INDEX 01 48:47:21
 	TRACK 38 AUDIO
 		TITLE "talk (over busta rhymes - woo-ha!! got you all in check)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 50:39:67
 	TRACK 39 AUDIO
 		TITLE "intro"
@@ -193,7 +193,7 @@ FILE "WeFunk_Show_217_2002-01-18.mp3" MP3
 		INDEX 01 61:45:74
 	TRACK 48 AUDIO
 		TITLE "intro"
-		PERFORMER "marly marl"
+		PERFORMER "marley marl"
 		INDEX 01 62:31:38
 	TRACK 49 AUDIO
 		TITLE "lunchroom takeout"
@@ -301,7 +301,7 @@ FILE "WeFunk_Show_217_2002-01-18.mp3" MP3
 		INDEX 01 93:56:43
 	TRACK 75 AUDIO
 		TITLE "talk (over terminator x - the blues)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 96:32:05
 	TRACK 76 AUDIO
 		TITLE "another wasted nite with"
@@ -401,13 +401,13 @@ FILE "WeFunk_Show_217_2002-01-18.mp3" MP3
 		INDEX 01 125:51:09
 	TRACK 100 AUDIO
 		TITLE "talk (over redman - encore)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 126:32:63
 	TRACK 101 AUDIO
 		TITLE "what you want is?"
-		PERFORMER "j rawls"
+		PERFORMER "j. rawls"
 		INDEX 01 128:10:12
 	TRACK 102 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 129:15:12

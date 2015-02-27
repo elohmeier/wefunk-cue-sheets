@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_360_2005-01-21.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "read my lips"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_360_2005-01-21.mp3" MP3
 		INDEX 01 01:58:64
 	TRACK 03 AUDIO
 		TITLE "talk (over key-kool & rhettmatic - e=mc5 instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:56:73
 	TRACK 04 AUDIO
 		TITLE "9xs out of 10"
@@ -121,5 +121,5 @@ FILE "WeFunk_Show_360_2005-01-21.mp3" MP3
 		INDEX 01 98:20:54
 	TRACK 30 AUDIO
 		TITLE "talk (over jeremy steig - goose bumps)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 101:16:59

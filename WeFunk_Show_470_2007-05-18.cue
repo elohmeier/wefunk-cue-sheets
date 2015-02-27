@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_470_2007-05-18.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "live in the mix"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_470_2007-05-18.mp3" MP3
 		INDEX 01 01:58:54
 	TRACK 03 AUDIO
 		TITLE "talk (over sharon brooks - outside & inside instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:48:32
 	TRACK 04 AUDIO
 		TITLE "outside & inside"
@@ -32,7 +32,7 @@ FILE "WeFunk_Show_470_2007-05-18.mp3" MP3
 		PERFORMER "barry de vorzon"
 		INDEX 01 20:44:09
 	TRACK 08 AUDIO
-		TITLE "push on jesse jackson"
+		TITLE "push on jessie jackson"
 		PERFORMER "pace-setters"
 		INDEX 01 23:12:72
 	TRACK 09 AUDIO
@@ -129,5 +129,5 @@ FILE "WeFunk_Show_470_2007-05-18.mp3" MP3
 		INDEX 01 99:42:62
 	TRACK 32 AUDIO
 		TITLE "talk (over peter herbolzheimer - my kind of sunshine)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 104:55:41

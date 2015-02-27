@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_713_2012-11-09.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "big daddy (remix)"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_713_2012-11-09.mp3" MP3
 		INDEX 01 02:01:46
 	TRACK 03 AUDIO
 		TITLE "talk (over super cat feat. heavy d. - dem no worry we remix instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:01:72
 	TRACK 04 AUDIO
 		TITLE "moneyearnin' mount vernon"
@@ -101,7 +101,7 @@ FILE "WeFunk_Show_713_2012-11-09.mp3" MP3
 		INDEX 01 46:29:61
 	TRACK 25 AUDIO
 		TITLE "i shot the sheriff"
-		PERFORMER "red holt unlimited"
+		PERFORMER "redd holt unlimited"
 		INDEX 01 48:07:25
 	TRACK 26 AUDIO
 		TITLE "after loving you"
@@ -241,7 +241,7 @@ FILE "WeFunk_Show_713_2012-11-09.mp3" MP3
 		INDEX 01 117:00:48
 	TRACK 60 AUDIO
 		TITLE "talk (over dr. dre - lil ghetto boy instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 119:50:17
 	TRACK 61 AUDIO
 		TITLE "remind me"

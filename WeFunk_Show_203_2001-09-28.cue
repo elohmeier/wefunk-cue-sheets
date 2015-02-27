@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_203_2001-09-28.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "goin' back to cali"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_203_2001-09-28.mp3" MP3
 		INDEX 01 02:02:45
 	TRACK 03 AUDIO
 		TITLE "talk (over raekwon - glaciers of ice instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 06:12:54
 	TRACK 04 AUDIO
 		TITLE "mecca and the soul brother (remix)"
@@ -121,7 +121,7 @@ FILE "WeFunk_Show_203_2001-09-28.mp3" MP3
 		INDEX 01 113:25:72
 	TRACK 30 AUDIO
 		TITLE "talk (over naomi davis & the knights of 41st street - 41st street breakdowne)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 116:29:71
 	TRACK 31 AUDIO
 		TITLE "steam train"

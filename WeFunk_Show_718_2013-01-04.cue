@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_718_2013-01-04.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "never missed what you got"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_718_2013-01-04.mp3" MP3
 		INDEX 01 01:44:48
 	TRACK 03 AUDIO
 		TITLE "talk (over mystery kindaichi band - yatsuhakamura (eight village grave))"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:33:12
 	TRACK 04 AUDIO
 		TITLE "niye cattin kaslarini"
@@ -145,7 +145,7 @@ FILE "WeFunk_Show_718_2013-01-04.mp3" MP3
 		INDEX 01 105:13:46
 	TRACK 36 AUDIO
 		TITLE "talk (over termanology - how we rock instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 106:55:16
 	TRACK 37 AUDIO
 		TITLE "black cop"

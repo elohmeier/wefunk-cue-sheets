@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_310_2003-12-06.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "fraudulent"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_310_2003-12-06.mp3" MP3
 		INDEX 01 01:58:63
 	TRACK 03 AUDIO
 		TITLE "talk (over mike curb congregation - burning bridges (professor groove beat edit))"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:38:53
 	TRACK 04 AUDIO
 		TITLE "my philosophy"
@@ -129,5 +129,5 @@ FILE "WeFunk_Show_310_2003-12-06.mp3" MP3
 		INDEX 01 106:05:05
 	TRACK 32 AUDIO
 		TITLE "talk (over channel live - mad izm remix instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 110:20:74

@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_719_2013-01-11.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "familiar stranger (cid rim remix)"
@@ -13,11 +13,11 @@ FILE "WeFunk_Show_719_2013-01-11.mp3" MP3
 		INDEX 01 01:32:59
 	TRACK 03 AUDIO
 		TITLE "talk (over temu bacot - soultech)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:59:05
 	TRACK 04 AUDIO
 		TITLE "genius at work"
-		PERFORMER "jazz liberatorz feat. fatlip & t-love"
+		PERFORMER "jazz liberatorz feat. fat lip & t. love"
 		INDEX 01 08:40:24
 	TRACK 05 AUDIO
 		TITLE "on!!!"
@@ -173,7 +173,7 @@ FILE "WeFunk_Show_719_2013-01-11.mp3" MP3
 		INDEX 01 108:50:57
 	TRACK 43 AUDIO
 		TITLE "talk (over ariya astrobeat arkestra - towards other worlds)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 111:39:59
 	TRACK 44 AUDIO
 		TITLE "expansions"

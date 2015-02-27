@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_567_2009-06-26.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "it ain't hard to tell"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_567_2009-06-26.mp3" MP3
 		INDEX 01 01:26:71
 	TRACK 03 AUDIO
 		TITLE "talk (over de la soul - breakadawn instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:35:28
 	TRACK 04 AUDIO
 		TITLE "pause"
@@ -33,7 +33,7 @@ FILE "WeFunk_Show_567_2009-06-26.mp3" MP3
 		INDEX 01 22:30:33
 	TRACK 08 AUDIO
 		TITLE "talk (over ghostface killah - 9 milli bros instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 24:20:58
 	TRACK 09 AUDIO
 		TITLE "teach the kids how to rhyme"
@@ -88,16 +88,16 @@ FILE "WeFunk_Show_567_2009-06-26.mp3" MP3
 		PERFORMER "jackson 5"
 		INDEX 01 51:39:22
 	TRACK 22 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 53:50:32
 	TRACK 23 AUDIO
 		TITLE "ghosts"
 		PERFORMER "michael jackson"
 		INDEX 01 57:39:28
 	TRACK 24 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 61:28:36
 	TRACK 25 AUDIO
 		TITLE "don't stop 'til you get enough (demo)"
@@ -108,24 +108,24 @@ FILE "WeFunk_Show_567_2009-06-26.mp3" MP3
 		PERFORMER "michael jackson"
 		INDEX 01 65:30:46
 	TRACK 27 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 67:57:34
 	TRACK 28 AUDIO
 		TITLE "why you wanna trip on me"
 		PERFORMER "michael jackson"
 		INDEX 01 70:21:53
 	TRACK 29 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 74:26:51
 	TRACK 30 AUDIO
 		TITLE "in the closet"
 		PERFORMER "michael jackson"
 		INDEX 01 78:26:37
 	TRACK 31 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 83:58:44
 	TRACK 32 AUDIO
 		TITLE "no diggity (billie jean remix)"
@@ -136,24 +136,24 @@ FILE "WeFunk_Show_567_2009-06-26.mp3" MP3
 		PERFORMER "michael jackson feat. notorious b.i.g."
 		INDEX 01 90:42:45
 	TRACK 34 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 94:44:30
 	TRACK 35 AUDIO
 		TITLE "medley: walk on by / the love you save (live)"
 		PERFORMER "jackson 5"
 		INDEX 01 101:22:36
 	TRACK 36 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 106:10:42
 	TRACK 37 AUDIO
 		TITLE "it's a man's, man's, man's, man's world (live) - james brown"
 		PERFORMER "james brown feat. michael jackson & prince"
 		INDEX 01 110:22:05
 	TRACK 38 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 121:32:14
 	TRACK 39 AUDIO
 		TITLE "history (ummah main a cappella)"
@@ -164,8 +164,8 @@ FILE "WeFunk_Show_567_2009-06-26.mp3" MP3
 		PERFORMER "michael jackson"
 		INDEX 01 126:12:69
 	TRACK 41 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 132:02:60
 	TRACK 42 AUDIO
 		TITLE "destiny"

@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_660_2011-09-02.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "broke man's anthem"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_660_2011-09-02.mp3" MP3
 		INDEX 01 01:40:23
 	TRACK 03 AUDIO
 		TITLE "talk (over buckshot & 9th wonder - side talk)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:36:67
 	TRACK 04 AUDIO
 		TITLE "the man"
@@ -53,7 +53,7 @@ FILE "WeFunk_Show_660_2011-09-02.mp3" MP3
 		INDEX 01 45:29:55
 	TRACK 13 AUDIO
 		TITLE "talk (over apostles - super strut)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 48:56:58
 	TRACK 14 AUDIO
 		TITLE "how gee"
@@ -120,8 +120,8 @@ FILE "WeFunk_Show_660_2011-09-02.mp3" MP3
 		PERFORMER "ashford & simpson"
 		INDEX 01 91:44:74
 	TRACK 30 AUDIO
-		TITLE "talk (over wood brass & steel - funkanova (fat camp brass rubbing)"
-		PERFORMER ""
+		TITLE "talk (over wood brass & steel - funkanova (fat camp brass rubbing))"
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 94:43:45
 	TRACK 31 AUDIO
 		TITLE "people are changing"
@@ -141,7 +141,7 @@ FILE "WeFunk_Show_660_2011-09-02.mp3" MP3
 		INDEX 01 104:29:12
 	TRACK 35 AUDIO
 		TITLE "talk (over donald byrd - miss kane)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 106:56:24
 	TRACK 36 AUDIO
 		TITLE "good and plenty"

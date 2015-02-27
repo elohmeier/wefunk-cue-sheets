@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_188_2001-06-15.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "in the hole"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_188_2001-06-15.mp3" MP3
 		INDEX 01 01:58:34
 	TRACK 03 AUDIO
 		TITLE "talk (over sugarman three - cherry pickin')"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:34:53
 	TRACK 04 AUDIO
 		TITLE "gang progress"
@@ -81,7 +81,7 @@ FILE "WeFunk_Show_188_2001-06-15.mp3" MP3
 		INDEX 01 43:16:51
 	TRACK 20 AUDIO
 		TITLE "talk (over group home - supastar instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 46:55:36
 	TRACK 21 AUDIO
 		TITLE "i don't want nobody to give me nothin' (open up the door, i'll get it myself)"
@@ -105,11 +105,11 @@ FILE "WeFunk_Show_188_2001-06-15.mp3" MP3
 		INDEX 01 63:13:49
 	TRACK 26 AUDIO
 		TITLE "follow the leader"
-		PERFORMER "eric b & rakim"
+		PERFORMER "eric b. & rakim"
 		INDEX 01 67:01:66
 	TRACK 27 AUDIO
 		TITLE "heat it up"
-		PERFORMER "eric b & rakim"
+		PERFORMER "eric b. & rakim"
 		INDEX 01 72:05:16
 	TRACK 28 AUDIO
 		TITLE "shake your rump"
@@ -125,7 +125,7 @@ FILE "WeFunk_Show_188_2001-06-15.mp3" MP3
 		INDEX 01 80:43:16
 	TRACK 31 AUDIO
 		TITLE "livin in the jungle"
-		PERFORMER "schooly d"
+		PERFORMER "schoolly d."
 		INDEX 01 84:12:39
 	TRACK 32 AUDIO
 		TITLE "future shock"

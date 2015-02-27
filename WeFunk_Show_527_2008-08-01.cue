@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_527_2008-08-01.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "housequake"
@@ -21,7 +21,7 @@ FILE "WeFunk_Show_527_2008-08-01.mp3" MP3
 		INDEX 01 11:23:67
 	TRACK 05 AUDIO
 		TITLE "talk (over prince - head)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 14:05:59
 	TRACK 06 AUDIO
 		TITLE "let's work"
@@ -56,8 +56,8 @@ FILE "WeFunk_Show_527_2008-08-01.mp3" MP3
 		PERFORMER "prince"
 		INDEX 01 51:08:03
 	TRACK 14 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 54:19:29
 	TRACK 15 AUDIO
 		TITLE "sexy m.f."
@@ -80,8 +80,8 @@ FILE "WeFunk_Show_527_2008-08-01.mp3" MP3
 		PERFORMER "prince"
 		INDEX 01 79:44:47
 	TRACK 20 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 82:29:61
 	TRACK 21 AUDIO
 		TITLE "crystal ball"
@@ -108,8 +108,8 @@ FILE "WeFunk_Show_527_2008-08-01.mp3" MP3
 		PERFORMER "prince"
 		INDEX 01 105:04:10
 	TRACK 27 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 107:49:56
 	TRACK 28 AUDIO
 		TITLE "tricky"

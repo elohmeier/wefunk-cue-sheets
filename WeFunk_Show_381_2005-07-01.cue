@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_381_2005-07-01.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "drums in transit"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_381_2005-07-01.mp3" MP3
 		INDEX 01 01:58:46
 	TRACK 03 AUDIO
 		TITLE "talk (over new mastersounds - land of nod)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 03:27:72
 	TRACK 04 AUDIO
 		TITLE "fug"
@@ -72,8 +72,8 @@ FILE "WeFunk_Show_381_2005-07-01.mp3" MP3
 		PERFORMER "donny hathaway"
 		INDEX 01 55:08:47
 	TRACK 18 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 61:52:59
 	TRACK 19 AUDIO
 		TITLE "who needs you (when i got grooves)"
@@ -133,5 +133,5 @@ FILE "WeFunk_Show_381_2005-07-01.mp3" MP3
 		INDEX 01 104:15:52
 	TRACK 33 AUDIO
 		TITLE "talk (over george freeman - the bump)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 108:00:59

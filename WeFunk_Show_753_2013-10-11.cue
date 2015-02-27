@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_753_2013-10-11.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "solid ground"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_753_2013-10-11.mp3" MP3
 		INDEX 01 01:40:10
 	TRACK 03 AUDIO
 		TITLE "talk (over m.f. doom - orris root powder)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:08:50
 	TRACK 04 AUDIO
 		TITLE "move on"
@@ -145,7 +145,7 @@ FILE "WeFunk_Show_753_2013-10-11.mp3" MP3
 		INDEX 01 103:16:05
 	TRACK 36 AUDIO
 		TITLE "talk (over donald byrd - lansana's priestess (kon remix))"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 107:26:56
 	TRACK 37 AUDIO
 		TITLE "imoikeme"

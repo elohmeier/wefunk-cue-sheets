@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_190_2001-06-29.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "medicated goo"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_190_2001-06-29.mp3" MP3
 		INDEX 01 02:00:01
 	TRACK 03 AUDIO
 		TITLE "talk (over mr. len sosa & manchilde - ghetto youth instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:26:49
 	TRACK 04 AUDIO
 		TITLE "operatin' correctly"
@@ -69,7 +69,7 @@ FILE "WeFunk_Show_190_2001-06-29.mp3" MP3
 		INDEX 01 51:11:07
 	TRACK 17 AUDIO
 		TITLE "simon says"
-		PERFORMER "pharoah monche"
+		PERFORMER "pharoahe monch"
 		INDEX 01 53:46:64
 	TRACK 18 AUDIO
 		TITLE "my mind is driftin'"
@@ -141,5 +141,5 @@ FILE "WeFunk_Show_190_2001-06-29.mp3" MP3
 		INDEX 01 117:17:55
 	TRACK 35 AUDIO
 		TITLE "talk (over ghetto concept - e.z. on the motion instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 118:36:06

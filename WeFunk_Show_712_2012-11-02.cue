@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_712_2012-11-02.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "money talks"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_712_2012-11-02.mp3" MP3
 		INDEX 01 01:32:44
 	TRACK 03 AUDIO
 		TITLE "talk (over vaughn mason - you can do it)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:32:62
 	TRACK 04 AUDIO
 		TITLE "just chillin' out"
@@ -33,7 +33,7 @@ FILE "WeFunk_Show_712_2012-11-02.mp3" MP3
 		INDEX 01 18:57:35
 	TRACK 08 AUDIO
 		TITLE "talk (over bob james - shamboozie remix instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 21:04:36
 	TRACK 09 AUDIO
 		TITLE "jazzy sensation"
@@ -49,7 +49,7 @@ FILE "WeFunk_Show_712_2012-11-02.mp3" MP3
 		INDEX 01 31:04:50
 	TRACK 12 AUDIO
 		TITLE "talk (over eli escobar - heavenly break)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 33:43:41
 	TRACK 13 AUDIO
 		TITLE "somebody's watching you"
@@ -97,7 +97,7 @@ FILE "WeFunk_Show_712_2012-11-02.mp3" MP3
 		INDEX 01 76:40:54
 	TRACK 24 AUDIO
 		TITLE "talk (over crooklyn dodgers '95 - return of the crooklyn dodgers instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 80:01:49
 	TRACK 25 AUDIO
 		TITLE "virgo (remix)"
@@ -113,7 +113,7 @@ FILE "WeFunk_Show_712_2012-11-02.mp3" MP3
 		INDEX 01 87:45:05
 	TRACK 28 AUDIO
 		TITLE "talk (over pharoahe monch - internal affairs intro instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 90:57:23
 	TRACK 29 AUDIO
 		TITLE "trying to make a fool of me"
@@ -129,7 +129,7 @@ FILE "WeFunk_Show_712_2012-11-02.mp3" MP3
 		INDEX 01 104:16:38
 	TRACK 32 AUDIO
 		TITLE "talk (over yutaka yokokura - oriental express)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 107:16:61
 	TRACK 33 AUDIO
 		TITLE "jazzy kinda style"

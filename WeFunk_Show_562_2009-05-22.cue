@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_562_2009-05-22.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "slick eddie"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_562_2009-05-22.mp3" MP3
 		INDEX 01 02:00:28
 	TRACK 03 AUDIO
 		TITLE "talk (over rhythm makers - zone)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 07:10:52
 	TRACK 04 AUDIO
 		TITLE "swamp rat"
@@ -121,5 +121,5 @@ FILE "WeFunk_Show_562_2009-05-22.mp3" MP3
 		INDEX 01 110:44:13
 	TRACK 30 AUDIO
 		TITLE "talk (over ronnie gee - raptivity instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 114:04:21

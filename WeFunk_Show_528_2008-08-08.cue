@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_528_2008-08-08.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "freedom"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_528_2008-08-08.mp3" MP3
 		INDEX 01 01:14:24
 	TRACK 03 AUDIO
 		TITLE "talk (over extremities - 3 in the key)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 03:35:69
 	TRACK 04 AUDIO
 		TITLE "memories"
@@ -57,7 +57,7 @@ FILE "WeFunk_Show_528_2008-08-08.mp3" MP3
 		INDEX 01 33:26:10
 	TRACK 14 AUDIO
 		TITLE "no omega"
-		PERFORMER "eric b & rakim"
+		PERFORMER "eric b. & rakim"
 		INDEX 01 37:42:13
 	TRACK 15 AUDIO
 		TITLE "knowledge (instrumental)"
@@ -141,5 +141,5 @@ FILE "WeFunk_Show_528_2008-08-08.mp3" MP3
 		INDEX 01 101:08:30
 	TRACK 35 AUDIO
 		TITLE "talk (over jackie mittoo - disco dub)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 104:16:01

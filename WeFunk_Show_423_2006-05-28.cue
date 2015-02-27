@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_423_2006-05-28.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "boom"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_423_2006-05-28.mp3" MP3
 		INDEX 01 01:58:53
 	TRACK 03 AUDIO
 		TITLE "talk (over afrika bambaataa & the soulsonic force - planet rock)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:44:23
 	TRACK 04 AUDIO
 		TITLE "supahero"
@@ -141,5 +141,5 @@ FILE "WeFunk_Show_423_2006-05-28.mp3" MP3
 		INDEX 01 103:16:08
 	TRACK 35 AUDIO
 		TITLE "talk (over bo diddley - go for broke)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 106:44:55

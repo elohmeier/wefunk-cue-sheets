@@ -5,15 +5,15 @@ REM Genre : HipHop
 FILE "WeFunk_Show_334_2004-06-11.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "knucklehead"
-		PERFORMER "grover washington jr."
+		PERFORMER "grover washington, jr."
 		INDEX 01 01:58:41
 	TRACK 03 AUDIO
 		TITLE "talk (over roy ayers - black five)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 08:51:15
 	TRACK 04 AUDIO
 		TITLE "ziggidy zag"
@@ -53,7 +53,7 @@ FILE "WeFunk_Show_334_2004-06-11.mp3" MP3
 		INDEX 01 39:26:26
 	TRACK 13 AUDIO
 		TITLE "ageisheka"
-		PERFORMER "ogytanaa show band"
+		PERFORMER "ogyatanaa show band"
 		INDEX 01 41:59:10
 	TRACK 14 AUDIO
 		TITLE "new bell"
@@ -84,8 +84,8 @@ FILE "WeFunk_Show_334_2004-06-11.mp3" MP3
 		PERFORMER "wordsworth"
 		INDEX 01 70:46:43
 	TRACK 21 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 74:58:51
 	TRACK 22 AUDIO
 		TITLE "native new york"
@@ -117,5 +117,5 @@ FILE "WeFunk_Show_334_2004-06-11.mp3" MP3
 		INDEX 01 106:00:32
 	TRACK 29 AUDIO
 		TITLE "talk (over broadway - must say paid instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 108:28:61

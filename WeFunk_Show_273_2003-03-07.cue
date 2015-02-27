@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_273_2003-03-07.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "i'm comin'"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_273_2003-03-07.mp3" MP3
 		INDEX 01 01:58:52
 	TRACK 03 AUDIO
 		TITLE "talk (over weather report - mysterious traveller)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:39:31
 	TRACK 04 AUDIO
 		TITLE "from the love side"
@@ -37,7 +37,7 @@ FILE "WeFunk_Show_273_2003-03-07.mp3" MP3
 		INDEX 01 20:31:07
 	TRACK 09 AUDIO
 		TITLE "follow the leader"
-		PERFORMER "eric b & rakim"
+		PERFORMER "eric b. & rakim"
 		INDEX 01 24:38:39
 	TRACK 10 AUDIO
 		TITLE "heed the word of the brother"
@@ -45,15 +45,15 @@ FILE "WeFunk_Show_273_2003-03-07.mp3" MP3
 		INDEX 01 29:26:41
 	TRACK 11 AUDIO
 		TITLE "talk (over c.l.a.s. - built for this instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 32:57:05
 	TRACK 12 AUDIO
 		TITLE "built for this"
 		PERFORMER "c.l.a.s."
 		INDEX 01 34:46:60
 	TRACK 13 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 38:47:24
 	TRACK 14 AUDIO
 		TITLE "the symphony"
@@ -100,8 +100,8 @@ FILE "WeFunk_Show_273_2003-03-07.mp3" MP3
 		PERFORMER "black moon"
 		INDEX 01 77:11:00
 	TRACK 25 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 80:35:40
 	TRACK 26 AUDIO
 		TITLE "catching wreck"
@@ -124,14 +124,10 @@ FILE "WeFunk_Show_273_2003-03-07.mp3" MP3
 		PERFORMER "ripple"
 		INDEX 01 96:24:56
 	TRACK 31 AUDIO
-		TITLE "the dump"
-		PERFORMER "soul vibrations"
+		TITLE "talk (over soul vibrations - the dump)"
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 99:34:20
 	TRACK 32 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
-		INDEX 01 100:09:06
-	TRACK 33 AUDIO
 		TITLE "in the middle"
 		PERFORMER "daktaris"
 		INDEX 01 102:14:66

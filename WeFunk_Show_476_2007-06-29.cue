@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_476_2007-06-29.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "havin' thangs"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_476_2007-06-29.mp3" MP3
 		INDEX 01 01:58:41
 	TRACK 03 AUDIO
 		TITLE "talk (over phat kat - cold steel instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:34:02
 	TRACK 04 AUDIO
 		TITLE "stronger"
@@ -49,11 +49,11 @@ FILE "WeFunk_Show_476_2007-06-29.mp3" MP3
 		INDEX 01 35:22:18
 	TRACK 12 AUDIO
 		TITLE "talk (over group home - suspended in time instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 39:06:25
 	TRACK 13 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 41:57:18
 	TRACK 14 AUDIO
 		TITLE "it just don't stop"
@@ -133,5 +133,5 @@ FILE "WeFunk_Show_476_2007-06-29.mp3" MP3
 		INDEX 01 101:42:37
 	TRACK 33 AUDIO
 		TITLE "talk (over jimmy mcgriff - ain't it funky now)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 110:55:12

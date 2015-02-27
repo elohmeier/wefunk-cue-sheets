@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_407_2006-01-20.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "fat cakes"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_407_2006-01-20.mp3" MP3
 		INDEX 01 01:58:51
 	TRACK 03 AUDIO
 		TITLE "talk (over ike turner & the kings of rhythm - thinking black)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:15:08
 	TRACK 04 AUDIO
 		TITLE "buck em down"
@@ -129,5 +129,5 @@ FILE "WeFunk_Show_407_2006-01-20.mp3" MP3
 		INDEX 01 101:06:47
 	TRACK 32 AUDIO
 		TITLE "talk (over e.p.m.d. - so what cha sayin' dub)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 105:34:24

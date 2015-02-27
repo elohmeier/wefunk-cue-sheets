@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_586_2009-12-04.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "the man (incubator remix)"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_586_2009-12-04.mp3" MP3
 		INDEX 01 02:01:65
 	TRACK 03 AUDIO
 		TITLE "talk (over moonstarr feat. l.a.l. - tiger funk)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:48:54
 	TRACK 04 AUDIO
 		TITLE "tiger funk"
@@ -45,7 +45,7 @@ FILE "WeFunk_Show_586_2009-12-04.mp3" MP3
 		INDEX 01 27:28:34
 	TRACK 11 AUDIO
 		TITLE "talk (over puccio roelens - northern lights)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 29:27:08
 	TRACK 12 AUDIO
 		TITLE "ooh i love it (love break)"
@@ -93,7 +93,7 @@ FILE "WeFunk_Show_586_2009-12-04.mp3" MP3
 		INDEX 01 55:05:68
 	TRACK 23 AUDIO
 		TITLE "talk (over kraftwerk - musique non-stop)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 57:09:52
 	TRACK 24 AUDIO
 		TITLE "sinnerman (platurn rework)"
@@ -161,5 +161,5 @@ FILE "WeFunk_Show_586_2009-12-04.mp3" MP3
 		INDEX 01 99:01:34
 	TRACK 40 AUDIO
 		TITLE "talk (over ahmad jamal - the world is a ghetto)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 104:47:33

@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_214_2001-12-14.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "swan lake"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_214_2001-12-14.mp3" MP3
 		INDEX 01 01:58:40
 	TRACK 03 AUDIO
 		TITLE "talk (over milt jackson - people make the world go 'round)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 07:12:04
 	TRACK 04 AUDIO
 		TITLE "watermelon"
@@ -53,7 +53,7 @@ FILE "WeFunk_Show_214_2001-12-14.mp3" MP3
 		INDEX 01 39:21:15
 	TRACK 13 AUDIO
 		TITLE "talk (over lafayette afro-rock band - hihache)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 42:23:64
 	TRACK 14 AUDIO
 		TITLE "the breaks"
@@ -89,7 +89,7 @@ FILE "WeFunk_Show_214_2001-12-14.mp3" MP3
 		INDEX 01 75:39:53
 	TRACK 22 AUDIO
 		TITLE "expansions"
-		PERFORMER "lonnie liston-smith"
+		PERFORMER "lonnie liston smith"
 		INDEX 01 80:50:58
 	TRACK 23 AUDIO
 		TITLE "witness"
@@ -121,7 +121,7 @@ FILE "WeFunk_Show_214_2001-12-14.mp3" MP3
 		INDEX 01 108:50:35
 	TRACK 30 AUDIO
 		TITLE "talk (over j.b.'s - hot pants road)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 114:26:53
 	TRACK 31 AUDIO
 		TITLE "that thang"

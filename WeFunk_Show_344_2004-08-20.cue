@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_344_2004-08-20.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "halliburton (burning bridges)"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_344_2004-08-20.mp3" MP3
 		INDEX 01 01:58:50
 	TRACK 03 AUDIO
 		TITLE "talk (over fallguy - eye water)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:18:07
 	TRACK 04 AUDIO
 		TITLE "in one peace"
@@ -196,6 +196,6 @@ FILE "WeFunk_Show_344_2004-08-20.mp3" MP3
 		PERFORMER "peanut butter wolf & kazi"
 		INDEX 01 108:28:48
 	TRACK 49 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 110:06:72

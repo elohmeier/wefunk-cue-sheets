@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_773_2014-03-28.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "no love (but your love)"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_773_2014-03-28.mp3" MP3
 		INDEX 01 01:26:71
 	TRACK 03 AUDIO
 		TITLE "talk (over mecca:83 - detroit twilight)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 03:53:47
 	TRACK 04 AUDIO
 		TITLE "made in black america"
@@ -141,7 +141,7 @@ FILE "WeFunk_Show_773_2014-03-28.mp3" MP3
 		INDEX 01 93:49:69
 	TRACK 35 AUDIO
 		TITLE "have a nice day (chewy rub)"
-		PERFORMER "king erricson"
+		PERFORMER "king errisson"
 		INDEX 01 97:34:58
 	TRACK 36 AUDIO
 		TITLE "afrofunkydance"
@@ -149,7 +149,7 @@ FILE "WeFunk_Show_773_2014-03-28.mp3" MP3
 		INDEX 01 103:29:18
 	TRACK 37 AUDIO
 		TITLE "talk (over new mastersounds - when it rains...)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 107:18:04
 	TRACK 38 AUDIO
 		TITLE "can't get satisfied"

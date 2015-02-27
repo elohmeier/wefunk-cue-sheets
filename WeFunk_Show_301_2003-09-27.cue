@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_301_2003-09-27.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "you got to have a mother for me"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_301_2003-09-27.mp3" MP3
 		INDEX 01 01:58:22
 	TRACK 03 AUDIO
 		TITLE "talk (over jimmy mcgriff - the worm)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 07:35:22
 	TRACK 04 AUDIO
 		TITLE "wiggle waggle"
@@ -96,11 +96,11 @@ FILE "WeFunk_Show_301_2003-09-27.mp3" MP3
 		PERFORMER "lao fai"
 		INDEX 01 70:48:61
 	TRACK 24 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 75:32:29
 	TRACK 25 AUDIO
-		TITLE "afro strut"
+		TITLE "afro-strut"
 		PERFORMER "nite-liters"
 		INDEX 01 87:41:69
 	TRACK 26 AUDIO
@@ -120,12 +120,12 @@ FILE "WeFunk_Show_301_2003-09-27.mp3" MP3
 		PERFORMER "jehst, j-zone & harry love"
 		INDEX 01 100:25:68
 	TRACK 30 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 102:17:29
 	TRACK 31 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 112:18:46
 	TRACK 32 AUDIO
 		TITLE "let's get free"

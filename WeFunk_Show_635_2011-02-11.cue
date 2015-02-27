@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_635_2011-02-11.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "theme de yoyo"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_635_2011-02-11.mp3" MP3
 		INDEX 01 01:14:17
 	TRACK 03 AUDIO
 		TITLE "talk (over shawn lee's ping pong orchestra - accelerate)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 03:30:34
 	TRACK 04 AUDIO
 		TITLE "funky 8 corners"
@@ -81,7 +81,7 @@ FILE "WeFunk_Show_635_2011-02-11.mp3" MP3
 		INDEX 01 47:03:42
 	TRACK 20 AUDIO
 		TITLE "half the day's gone and we haven't earne'd a penny (professor groove dub)"
-		PERFORMER "kenny delt"
+		PERFORMER "kenny lynch"
 		INDEX 01 49:40:54
 	TRACK 21 AUDIO
 		TITLE "groovey ghost show"
@@ -153,5 +153,5 @@ FILE "WeFunk_Show_635_2011-02-11.mp3" MP3
 		INDEX 01 106:38:19
 	TRACK 38 AUDIO
 		TITLE "talk (over d.j. deckstream feat. junji chiba - creeper)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 109:50:15

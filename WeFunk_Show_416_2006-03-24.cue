@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_416_2006-03-24.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "otro munto"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_416_2006-03-24.mp3" MP3
 		INDEX 01 01:58:72
 	TRACK 03 AUDIO
 		TITLE "talk (over james brown - funk bomb)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 08:10:57
 	TRACK 04 AUDIO
 		TITLE "only so much oil in the ground"
@@ -153,5 +153,5 @@ FILE "WeFunk_Show_416_2006-03-24.mp3" MP3
 		INDEX 01 102:44:12
 	TRACK 38 AUDIO
 		TITLE "talk (over pacifics - talk is cheap instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 106:16:33

@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_232_2002-05-03.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "if you've got it, you'll get it"
@@ -16,8 +16,8 @@ FILE "WeFunk_Show_232_2002-05-03.mp3" MP3
 		PERFORMER "john klemmer"
 		INDEX 01 07:23:60
 	TRACK 04 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 07:44:63
 	TRACK 05 AUDIO
 		TITLE "chameleon"
@@ -125,7 +125,7 @@ FILE "WeFunk_Show_232_2002-05-03.mp3" MP3
 		INDEX 01 104:58:68
 	TRACK 31 AUDIO
 		TITLE "freestyle"
-		PERFORMER "diamond d"
+		PERFORMER "diamond d."
 		INDEX 01 107:11:35
 	TRACK 32 AUDIO
 		TITLE "because i got it like that"
@@ -133,5 +133,5 @@ FILE "WeFunk_Show_232_2002-05-03.mp3" MP3
 		INDEX 01 110:03:10
 	TRACK 33 AUDIO
 		TITLE "talk (over rawgged & professor groove - hip-hop instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 112:23:25

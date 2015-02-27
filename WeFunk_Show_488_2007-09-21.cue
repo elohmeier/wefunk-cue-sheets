@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_488_2007-09-21.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "silence of the lambs (remix)"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_488_2007-09-21.mp3" MP3
 		INDEX 01 01:58:50
 	TRACK 03 AUDIO
 		TITLE "talk (over digable planets - 9th wonder instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 06:12:61
 	TRACK 04 AUDIO
 		TITLE "shit is real (d.j. premier remix)"
@@ -133,5 +133,5 @@ FILE "WeFunk_Show_488_2007-09-21.mp3" MP3
 		INDEX 01 103:58:06
 	TRACK 33 AUDIO
 		TITLE "talk (over patrice rushen - puttered bopcorn)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 107:02:16

@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_274_2003-03-14.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "motor city"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_274_2003-03-14.mp3" MP3
 		INDEX 01 01:58:73
 	TRACK 03 AUDIO
 		TITLE "talk (over gene harris & the three sounds - put on train)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:18:07
 	TRACK 04 AUDIO
 		TITLE "shake your big hips"
@@ -121,7 +121,7 @@ FILE "WeFunk_Show_274_2003-03-14.mp3" MP3
 		INDEX 01 104:57:08
 	TRACK 30 AUDIO
 		TITLE "talk (over hugh masekela - fuzz)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 108:19:55
 	TRACK 31 AUDIO
 		TITLE "soul strokes"

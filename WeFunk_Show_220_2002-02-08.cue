@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_220_2002-02-08.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "constipated monkey"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_220_2002-02-08.mp3" MP3
 		INDEX 01 01:58:58
 	TRACK 03 AUDIO
 		TITLE "talk (over nas - one love instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:28:29
 	TRACK 04 AUDIO
 		TITLE "straighten it out"
@@ -49,7 +49,7 @@ FILE "WeFunk_Show_220_2002-02-08.mp3" MP3
 		INDEX 01 32:04:56
 	TRACK 12 AUDIO
 		TITLE "crab apple"
-		PERFORMER "idris muhammed"
+		PERFORMER "idris muhammad"
 		INDEX 01 34:43:69
 	TRACK 13 AUDIO
 		TITLE "corey died on the battlefield"
@@ -96,8 +96,8 @@ FILE "WeFunk_Show_220_2002-02-08.mp3" MP3
 		PERFORMER "headhunters"
 		INDEX 01 79:41:42
 	TRACK 24 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 82:44:34
 	TRACK 25 AUDIO
 		TITLE "funky moon"
@@ -112,8 +112,8 @@ FILE "WeFunk_Show_220_2002-02-08.mp3" MP3
 		PERFORMER "j.b.'s"
 		INDEX 01 104:48:19
 	TRACK 28 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 105:22:48
 	TRACK 29 AUDIO
 		TITLE "do what you wanna do"

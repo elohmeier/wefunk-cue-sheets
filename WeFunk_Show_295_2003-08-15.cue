@@ -5,15 +5,15 @@ REM Genre : HipHop
 FILE "WeFunk_Show_295_2003-08-15.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "midnight groove"
 		PERFORMER "barry white"
 		INDEX 01 01:58:66
 	TRACK 03 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 04:13:38
 	TRACK 04 AUDIO
 		TITLE "give it up"
@@ -145,5 +145,5 @@ FILE "WeFunk_Show_295_2003-08-15.mp3" MP3
 		INDEX 01 99:15:65
 	TRACK 36 AUDIO
 		TITLE "talk (over herbie hancock - cantaloupe island)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 102:11:59

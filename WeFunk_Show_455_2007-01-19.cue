@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_455_2007-01-19.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "new new type thing"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_455_2007-01-19.mp3" MP3
 		INDEX 01 01:58:33
 	TRACK 03 AUDIO
 		TITLE "talk (over art jerry miller - grab a handful)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:02:62
 	TRACK 04 AUDIO
 		TITLE "ride the rhythm"
@@ -149,5 +149,5 @@ FILE "WeFunk_Show_455_2007-01-19.mp3" MP3
 		INDEX 01 114:26:20
 	TRACK 37 AUDIO
 		TITLE "talk (over plate fork knife spoon - wonder instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 117:52:55

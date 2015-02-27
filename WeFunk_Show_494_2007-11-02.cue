@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_494_2007-11-02.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "relief"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_494_2007-11-02.mp3" MP3
 		INDEX 01 01:58:46
 	TRACK 03 AUDIO
 		TITLE "talk (over art & ron - i'm your man)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:46:45
 	TRACK 04 AUDIO
 		TITLE "a wot"
@@ -145,5 +145,5 @@ FILE "WeFunk_Show_494_2007-11-02.mp3" MP3
 		INDEX 01 108:25:57
 	TRACK 36 AUDIO
 		TITLE "talk (over pete rock - glowing)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 112:43:20

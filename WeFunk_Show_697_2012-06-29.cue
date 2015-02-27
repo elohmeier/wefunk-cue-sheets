@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_697_2012-06-29.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "funk by the pound"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_697_2012-06-29.mp3" MP3
 		INDEX 01 01:40:09
 	TRACK 03 AUDIO
 		TITLE "talk (over manzel - space funk)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 06:38:60
 	TRACK 04 AUDIO
 		TITLE "mi corazon (edit)"
@@ -189,7 +189,7 @@ FILE "WeFunk_Show_697_2012-06-29.mp3" MP3
 		INDEX 01 108:48:06
 	TRACK 47 AUDIO
 		TITLE "talk (over encore - defined by the dollar instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 111:29:01
 	TRACK 48 AUDIO
 		TITLE "mach one"

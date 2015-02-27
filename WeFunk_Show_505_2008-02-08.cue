@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_505_2008-02-08.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "get up"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_505_2008-02-08.mp3" MP3
 		INDEX 01 01:37:56
 	TRACK 03 AUDIO
 		TITLE "talk (over east bay rhythm - boogie children (instrumental edit))"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:08:17
 	TRACK 04 AUDIO
 		TITLE "preacherman"
@@ -61,7 +61,7 @@ FILE "WeFunk_Show_505_2008-02-08.mp3" MP3
 		INDEX 01 52:53:23
 	TRACK 15 AUDIO
 		TITLE "talk (over jonathan emile - it's alright instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 56:26:45
 	TRACK 16 AUDIO
 		TITLE "babylon is falling"
@@ -109,5 +109,5 @@ FILE "WeFunk_Show_505_2008-02-08.mp3" MP3
 		INDEX 01 92:02:55
 	TRACK 27 AUDIO
 		TITLE "talk (over orgone - cydelines)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 105:00:59

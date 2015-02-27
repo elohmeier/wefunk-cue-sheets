@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_656_2011-08-05.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "love to the world (danny krivit edit)"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_656_2011-08-05.mp3" MP3
 		INDEX 01 01:44:54
 	TRACK 03 AUDIO
 		TITLE "talk (over donald byrd - lansanna's priestess)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 07:15:13
 	TRACK 04 AUDIO
 		TITLE "hash and eggs"
@@ -137,5 +137,5 @@ FILE "WeFunk_Show_656_2011-08-05.mp3" MP3
 		INDEX 01 114:52:23
 	TRACK 34 AUDIO
 		TITLE "talk (over busta rhymes - been through the storm)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 117:22:27

@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_421_2006-05-12.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "get up off that butt"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_421_2006-05-12.mp3" MP3
 		INDEX 01 01:58:47
 	TRACK 03 AUDIO
 		TITLE "talk (over j.b.'s - transmograpfication)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:29:64
 	TRACK 04 AUDIO
 		TITLE "i got the (blues)"
@@ -69,15 +69,15 @@ FILE "WeFunk_Show_421_2006-05-12.mp3" MP3
 		INDEX 01 53:35:51
 	TRACK 17 AUDIO
 		TITLE "talk (over mel brown - swamp fever)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 57:53:63
 	TRACK 18 AUDIO
 		TITLE "propaganda"
 		PERFORMER "afrodizz"
 		INDEX 01 62:16:44
 	TRACK 19 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 66:02:06
 	TRACK 20 AUDIO
 		TITLE "at large"
@@ -153,5 +153,5 @@ FILE "WeFunk_Show_421_2006-05-12.mp3" MP3
 		INDEX 01 113:47:25
 	TRACK 38 AUDIO
 		TITLE "talk (over o.c. - jewelz instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 116:38:07

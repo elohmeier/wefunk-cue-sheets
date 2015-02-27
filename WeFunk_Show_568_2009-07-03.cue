@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_568_2009-07-03.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "what's up doc"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_568_2009-07-03.mp3" MP3
 		INDEX 01 01:02:49
 	TRACK 03 AUDIO
 		TITLE "talk (over organized konfusion - walk into the sun (bill k mix instrumental))"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:50:23
 	TRACK 04 AUDIO
 		TITLE "kibbles & bits"
@@ -149,7 +149,7 @@ FILE "WeFunk_Show_568_2009-07-03.mp3" MP3
 		INDEX 01 102:35:01
 	TRACK 37 AUDIO
 		TITLE "talk (over kool & the gang - n.t.)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 105:33:70
 	TRACK 38 AUDIO
 		TITLE "evolution"

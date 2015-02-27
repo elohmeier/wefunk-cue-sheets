@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_755_2013-10-25.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "the kid is crazy"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_755_2013-10-25.mp3" MP3
 		INDEX 01 01:44:53
 	TRACK 03 AUDIO
 		TITLE "talk (over a.d.o.r. - let it all hang out instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:10:50
 	TRACK 04 AUDIO
 		TITLE "bug powder dust (la funk mob mix)"
@@ -29,7 +29,7 @@ FILE "WeFunk_Show_755_2013-10-25.mp3" MP3
 		INDEX 01 17:22:06
 	TRACK 07 AUDIO
 		TITLE "talk (over monkeyrobot - rosé gris)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 22:32:24
 	TRACK 08 AUDIO
 		TITLE "if ya gon' lie"
@@ -41,7 +41,7 @@ FILE "WeFunk_Show_755_2013-10-25.mp3" MP3
 		INDEX 01 31:22:36
 	TRACK 10 AUDIO
 		TITLE "talk (over medaphoar - can't hold on instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 35:02:47
 	TRACK 11 AUDIO
 		TITLE "everything is everything"
@@ -65,7 +65,7 @@ FILE "WeFunk_Show_755_2013-10-25.mp3" MP3
 		INDEX 01 51:19:50
 	TRACK 16 AUDIO
 		TITLE "talk (over big l. - no endz, no skins instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 53:59:41
 	TRACK 17 AUDIO
 		TITLE "god put a smile upon your face"
@@ -81,7 +81,7 @@ FILE "WeFunk_Show_755_2013-10-25.mp3" MP3
 		INDEX 01 67:18:57
 	TRACK 20 AUDIO
 		TITLE "talk (over doggy phunk palace - i'm ready)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 70:58:62
 	TRACK 21 AUDIO
 		TITLE "no time"
@@ -89,7 +89,7 @@ FILE "WeFunk_Show_755_2013-10-25.mp3" MP3
 		INDEX 01 74:48:57
 	TRACK 22 AUDIO
 		TITLE "talk (over brassroots - good life)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 78:24:47
 	TRACK 23 AUDIO
 		TITLE "baby i'm yours (p.g. extension)"
@@ -105,7 +105,7 @@ FILE "WeFunk_Show_755_2013-10-25.mp3" MP3
 		INDEX 01 89:40:32
 	TRACK 26 AUDIO
 		TITLE "talk (over kenlo - suave)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 92:34:17
 	TRACK 27 AUDIO
 		TITLE "10.5"
@@ -117,7 +117,7 @@ FILE "WeFunk_Show_755_2013-10-25.mp3" MP3
 		INDEX 01 99:27:48
 	TRACK 29 AUDIO
 		TITLE "talk (over love unlimited orchestra - strange games & things)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 103:48:25
 	TRACK 30 AUDIO
 		TITLE "money"

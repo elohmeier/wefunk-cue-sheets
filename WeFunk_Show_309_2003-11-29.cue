@@ -5,11 +5,11 @@ REM Genre : HipHop
 FILE "WeFunk_Show_309_2003-11-29.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "talk (over bombers - the mexican)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 02:50:27
 	TRACK 03 AUDIO
 		TITLE "brass monkey"
@@ -49,7 +49,7 @@ FILE "WeFunk_Show_309_2003-11-29.mp3" MP3
 		INDEX 01 40:59:68
 	TRACK 12 AUDIO
 		TITLE "talk (over rick james - you and i)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 45:20:71
 	TRACK 13 AUDIO
 		TITLE "one nation under a groove"
@@ -101,7 +101,7 @@ FILE "WeFunk_Show_309_2003-11-29.mp3" MP3
 		INDEX 01 95:37:55
 	TRACK 25 AUDIO
 		TITLE "congo"
-		PERFORMER "lafayette afro rock band"
+		PERFORMER "lafayette afro-rock band"
 		INDEX 01 100:38:31
 	TRACK 26 AUDIO
 		TITLE "mama iko na lia"
@@ -109,5 +109,5 @@ FILE "WeFunk_Show_309_2003-11-29.mp3" MP3
 		INDEX 01 104:07:63
 	TRACK 27 AUDIO
 		TITLE "talk (over war - war is coming)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 107:05:00

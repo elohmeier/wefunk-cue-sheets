@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_603_2010-04-23.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "full clip"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_603_2010-04-23.mp3" MP3
 		INDEX 01 01:32:27
 	TRACK 03 AUDIO
 		TITLE "talk (over gang starr - work instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:04:39
 	TRACK 04 AUDIO
 		TITLE "gang starr foundation mix (excerpt)"
@@ -169,7 +169,7 @@ FILE "WeFunk_Show_603_2010-04-23.mp3" MP3
 		INDEX 01 95:46:35
 	TRACK 42 AUDIO
 		TITLE "whatever happened to gus"
-		PERFORMER "medeski martin & wood"
+		PERFORMER "medeski, martin & wood"
 		INDEX 01 98:49:38
 	TRACK 43 AUDIO
 		TITLE "wordplay"
@@ -193,7 +193,7 @@ FILE "WeFunk_Show_603_2010-04-23.mp3" MP3
 		INDEX 01 108:52:61
 	TRACK 48 AUDIO
 		TITLE "talk (over guru - no time to play instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 114:01:58
 	TRACK 49 AUDIO
 		TITLE "i love it"

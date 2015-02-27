@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_647_2011-05-20.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "make some noise"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_647_2011-05-20.mp3" MP3
 		INDEX 01 01:26:74
 	TRACK 03 AUDIO
 		TITLE "talk (over skill - from da heart)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:35:38
 	TRACK 04 AUDIO
 		TITLE "what's happenin' (remix)"
@@ -89,7 +89,7 @@ FILE "WeFunk_Show_647_2011-05-20.mp3" MP3
 		INDEX 01 68:15:37
 	TRACK 22 AUDIO
 		TITLE "kikiriboom (7 samurai latin funk remix)"
-		PERFORMER "mo'horizons"
+		PERFORMER "mo' horizons"
 		INDEX 01 71:57:39
 	TRACK 23 AUDIO
 		TITLE "bilboquet"
@@ -133,7 +133,7 @@ FILE "WeFunk_Show_647_2011-05-20.mp3" MP3
 		INDEX 01 107:06:43
 	TRACK 33 AUDIO
 		TITLE "talk (over daniel janin & j.c. pierric - saramina)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 111:21:34
 	TRACK 34 AUDIO
 		TITLE "like yesterday"

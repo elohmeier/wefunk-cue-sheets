@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_428_2006-06-30.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "skin i'm in"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_428_2006-06-30.mp3" MP3
 		INDEX 01 01:58:45
 	TRACK 03 AUDIO
 		TITLE "talk (over alan hawkshaw - day tripper)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:41:13
 	TRACK 04 AUDIO
 		TITLE "a presa"
@@ -133,5 +133,5 @@ FILE "WeFunk_Show_428_2006-06-30.mp3" MP3
 		INDEX 01 101:30:43
 	TRACK 33 AUDIO
 		TITLE "talk (over ahmad - back in the day instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 104:18:01

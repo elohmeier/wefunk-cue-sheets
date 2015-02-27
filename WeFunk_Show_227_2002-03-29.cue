@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_227_2002-03-29.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "push"
@@ -16,8 +16,8 @@ FILE "WeFunk_Show_227_2002-03-29.mp3" MP3
 		PERFORMER "professor longhair"
 		INDEX 01 05:13:30
 	TRACK 04 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 05:25:67
 	TRACK 05 AUDIO
 		TITLE "tell me what's on your mind"
@@ -28,8 +28,8 @@ FILE "WeFunk_Show_227_2002-03-29.mp3" MP3
 		PERFORMER "lee dorsey & betty harris"
 		INDEX 01 09:30:21
 	TRACK 07 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 09:57:61
 	TRACK 08 AUDIO
 		TITLE "root down (and get it)"
@@ -113,7 +113,7 @@ FILE "WeFunk_Show_227_2002-03-29.mp3" MP3
 		INDEX 01 73:58:28
 	TRACK 28 AUDIO
 		TITLE "treacherous"
-		PERFORMER "schooly d"
+		PERFORMER "schoolly d."
 		INDEX 01 77:35:51
 	TRACK 29 AUDIO
 		TITLE "any way i gotta swing it"
@@ -149,7 +149,7 @@ FILE "WeFunk_Show_227_2002-03-29.mp3" MP3
 		INDEX 01 103:28:23
 	TRACK 37 AUDIO
 		TITLE "talk (over j.b.'s - blow your head (undubbed version))"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 107:04:71
 	TRACK 38 AUDIO
 		TITLE "what do i have to do to prove my love to you"

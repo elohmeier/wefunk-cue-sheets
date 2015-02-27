@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_356_2004-11-26.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "moon in cancer"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_356_2004-11-26.mp3" MP3
 		INDEX 01 01:58:37
 	TRACK 03 AUDIO
 		TITLE "talk (over m.c. lyte - keep on, keepin' on instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 06:23:45
 	TRACK 04 AUDIO
 		TITLE "i've committed murder (remix)"
@@ -64,8 +64,8 @@ FILE "WeFunk_Show_356_2004-11-26.mp3" MP3
 		PERFORMER "b.t. express"
 		INDEX 01 53:31:00
 	TRACK 16 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 56:37:61
 	TRACK 17 AUDIO
 		TITLE "looking at the front door"
@@ -109,7 +109,7 @@ FILE "WeFunk_Show_356_2004-11-26.mp3" MP3
 		INDEX 01 93:56:35
 	TRACK 27 AUDIO
 		TITLE "freedom got an a.k."
-		PERFORMER "da lenchmob"
+		PERFORMER "da lench mob"
 		INDEX 01 97:48:06
 	TRACK 28 AUDIO
 		TITLE "ak ha ha! ak hoo hoo?"
@@ -129,5 +129,5 @@ FILE "WeFunk_Show_356_2004-11-26.mp3" MP3
 		INDEX 01 108:47:02
 	TRACK 32 AUDIO
 		TITLE "talk (over specifics - under the hood instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 113:28:40

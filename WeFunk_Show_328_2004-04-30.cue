@@ -5,15 +5,15 @@ REM Genre : HipHop
 FILE "WeFunk_Show_328_2004-04-30.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "what you need"
 		PERFORMER "main source"
 		INDEX 01 01:58:29
 	TRACK 03 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 06:10:50
 	TRACK 04 AUDIO
 		TITLE "ijuswannachill"
@@ -85,7 +85,7 @@ FILE "WeFunk_Show_328_2004-04-30.mp3" MP3
 		INDEX 01 59:20:02
 	TRACK 21 AUDIO
 		TITLE "paid in full (seven minutes of madness remix)"
-		PERFORMER "eric b & rakim"
+		PERFORMER "eric b. & rakim"
 		INDEX 01 64:12:64
 	TRACK 22 AUDIO
 		TITLE "poetry"
@@ -97,7 +97,7 @@ FILE "WeFunk_Show_328_2004-04-30.mp3" MP3
 		INDEX 01 72:15:50
 	TRACK 24 AUDIO
 		TITLE "talk (over cypress hill - ultraviolet dreams)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 75:15:22
 	TRACK 25 AUDIO
 		TITLE "tom cat"
@@ -129,7 +129,7 @@ FILE "WeFunk_Show_328_2004-04-30.mp3" MP3
 		INDEX 01 93:34:50
 	TRACK 32 AUDIO
 		TITLE "it's all gravy"
-		PERFORMER "positive k"
+		PERFORMER "positive k."
 		INDEX 01 98:15:65
 	TRACK 33 AUDIO
 		TITLE "sugarhill"
@@ -145,5 +145,5 @@ FILE "WeFunk_Show_328_2004-04-30.mp3" MP3
 		INDEX 01 108:45:57
 	TRACK 36 AUDIO
 		TITLE "talk (over commodores - cebu)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 111:21:00

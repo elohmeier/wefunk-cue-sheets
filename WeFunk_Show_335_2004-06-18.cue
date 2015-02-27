@@ -5,15 +5,15 @@ REM Genre : HipHop
 FILE "WeFunk_Show_335_2004-06-18.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "b.o.r.n."
 		PERFORMER "june sixth"
 		INDEX 01 01:58:23
 	TRACK 03 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 05:25:63
 	TRACK 04 AUDIO
 		TITLE "heat it up"
@@ -69,7 +69,7 @@ FILE "WeFunk_Show_335_2004-06-18.mp3" MP3
 		INDEX 01 45:33:51
 	TRACK 17 AUDIO
 		TITLE "talk (over blackbyrds - rock creek park)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 48:23:56
 	TRACK 18 AUDIO
 		TITLE "c.r.e.a.m."
@@ -141,5 +141,5 @@ FILE "WeFunk_Show_335_2004-06-18.mp3" MP3
 		INDEX 01 105:59:38
 	TRACK 35 AUDIO
 		TITLE "talk (over boris gardiner - melting pot)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 110:26:13

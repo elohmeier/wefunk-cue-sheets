@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_324_2004-03-27.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "funky music is the thing"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_324_2004-03-27.mp3" MP3
 		INDEX 01 01:58:64
 	TRACK 03 AUDIO
 		TITLE "talk (over kool & the gang - pneumonia)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 07:08:54
 	TRACK 04 AUDIO
 		TITLE "(hey) i feel real good"
@@ -21,11 +21,11 @@ FILE "WeFunk_Show_324_2004-03-27.mp3" MP3
 		INDEX 01 14:20:58
 	TRACK 05 AUDIO
 		TITLE "talk (over isaac hayes - pursuit of the pimpmobile)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 20:12:51
 	TRACK 06 AUDIO
 		TITLE "talk (over joseph henry - who's the king)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 28:52:59
 	TRACK 07 AUDIO
 		TITLE "what about you (in the world today)"
@@ -41,15 +41,15 @@ FILE "WeFunk_Show_324_2004-03-27.mp3" MP3
 		INDEX 01 38:09:43
 	TRACK 10 AUDIO
 		TITLE "talk (over barbershop m.c.'s - music, money & women instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 42:22:26
 	TRACK 11 AUDIO
 		TITLE "music, money & women instrumental"
 		PERFORMER "barbershop m.c.'s"
 		INDEX 01 44:39:09
 	TRACK 12 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 54:13:61
 	TRACK 13 AUDIO
 		TITLE "do it fluid"
@@ -57,7 +57,7 @@ FILE "WeFunk_Show_324_2004-03-27.mp3" MP3
 		INDEX 01 59:17:31
 	TRACK 14 AUDIO
 		TITLE "talk (over fred wesley & the horny horns - four play)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 64:24:69
 	TRACK 15 AUDIO
 		TITLE "this is a party"
@@ -73,7 +73,7 @@ FILE "WeFunk_Show_324_2004-03-27.mp3" MP3
 		INDEX 01 80:11:30
 	TRACK 18 AUDIO
 		TITLE "crab apple"
-		PERFORMER "idris muhammed"
+		PERFORMER "idris muhammad"
 		INDEX 01 86:01:07
 	TRACK 19 AUDIO
 		TITLE "tic toc"
@@ -84,10 +84,10 @@ FILE "WeFunk_Show_324_2004-03-27.mp3" MP3
 		PERFORMER "a.z."
 		INDEX 01 94:24:42
 	TRACK 21 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 97:42:34
 	TRACK 22 AUDIO
 		TITLE "talk (over caesar frazier - funk it down)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 109:19:27

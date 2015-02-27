@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_638_2011-03-04.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "shogun (remix)"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_638_2011-03-04.mp3" MP3
 		INDEX 01 01:44:51
 	TRACK 03 AUDIO
 		TITLE "talk (over hustle simmons - outta control instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:04:71
 	TRACK 04 AUDIO
 		TITLE "luv u"
@@ -120,8 +120,8 @@ FILE "WeFunk_Show_638_2011-03-04.mp3" MP3
 		PERFORMER "klymaxx"
 		INDEX 01 98:18:28
 	TRACK 30 AUDIO
-		TITLE "talk (over evasions - let's dance (the passage)"
-		PERFORMER ""
+		TITLE "talk (over evasions - let's dance (the passage))"
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 101:10:64
 	TRACK 31 AUDIO
 		TITLE "love and happiness"

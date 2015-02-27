@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_551_2009-02-06.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "lesson 716"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_551_2009-02-06.mp3" MP3
 		INDEX 01 01:40:19
 	TRACK 03 AUDIO
 		TITLE "talk (over push - northside shuffle)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:16:67
 	TRACK 04 AUDIO
 		TITLE "sugar free"
@@ -141,5 +141,5 @@ FILE "WeFunk_Show_551_2009-02-06.mp3" MP3
 		INDEX 01 116:49:34
 	TRACK 35 AUDIO
 		TITLE "talk (over mono/poly - for progressive minds)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 119:35:09

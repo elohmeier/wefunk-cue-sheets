@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_676_2012-01-27.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "so rotten"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_676_2012-01-27.mp3" MP3
 		INDEX 01 01:32:25
 	TRACK 03 AUDIO
 		TITLE "talk (over j-live - wax paper instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:18:28
 	TRACK 04 AUDIO
 		TITLE "wax paper"
@@ -161,7 +161,7 @@ FILE "WeFunk_Show_676_2012-01-27.mp3" MP3
 		INDEX 01 106:43:39
 	TRACK 40 AUDIO
 		TITLE "talk (over yuji ohno - take a chance!)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 110:20:04
 	TRACK 41 AUDIO
 		TITLE "meet again (b-boys edit)"

@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_634_2011-02-04.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "the backflip"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_634_2011-02-04.mp3" MP3
 		INDEX 01 02:01:42
 	TRACK 03 AUDIO
 		TITLE "talk (over elaquent - noir)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:26:43
 	TRACK 04 AUDIO
 		TITLE "keep it moving"
@@ -149,7 +149,7 @@ FILE "WeFunk_Show_634_2011-02-04.mp3" MP3
 		INDEX 01 107:28:63
 	TRACK 37 AUDIO
 		TITLE "talk (over breakestra - back at the boathouse)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 111:05:32
 	TRACK 38 AUDIO
 		TITLE "pedaços"

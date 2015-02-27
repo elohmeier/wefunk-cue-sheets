@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_290_2003-07-04.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "jungle man"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_290_2003-07-04.mp3" MP3
 		INDEX 01 02:00:53
 	TRACK 03 AUDIO
 		TITLE "talk (over allen toussaint - either)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:57:73
 	TRACK 04 AUDIO
 		TITLE "she's not just another woman"
@@ -25,7 +25,7 @@ FILE "WeFunk_Show_290_2003-07-04.mp3" MP3
 		INDEX 01 10:30:12
 	TRACK 06 AUDIO
 		TITLE "talk (over maceo & all the king's men - southwick)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 15:33:19
 	TRACK 07 AUDIO
 		TITLE "miracle man"

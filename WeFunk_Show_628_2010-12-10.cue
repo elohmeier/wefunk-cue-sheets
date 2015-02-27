@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_628_2010-12-10.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "dark fantasy"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_628_2010-12-10.mp3" MP3
 		INDEX 01 02:01:47
 	TRACK 03 AUDIO
 		TITLE "talk (over jon kennedy - brown acid)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:30:20
 	TRACK 04 AUDIO
 		TITLE "pause "on the microphone""
@@ -137,5 +137,5 @@ FILE "WeFunk_Show_628_2010-12-10.mp3" MP3
 		INDEX 01 109:16:18
 	TRACK 34 AUDIO
 		TITLE "talk (over eumir deodato - san juan sunset)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 114:35:06

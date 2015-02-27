@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_739_2013-06-07.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "leanin' on slick"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_739_2013-06-07.mp3" MP3
 		INDEX 01 01:32:38
 	TRACK 03 AUDIO
 		TITLE "talk (over wio-k - foot loose instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:57:74
 	TRACK 04 AUDIO
 		TITLE "foot loose"
@@ -129,7 +129,7 @@ FILE "WeFunk_Show_739_2013-06-07.mp3" MP3
 		INDEX 01 106:20:32
 	TRACK 32 AUDIO
 		TITLE "talk (over janne schaffer - atlanta inn)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 109:36:70
 	TRACK 33 AUDIO
 		TITLE "strictly reserved for you"

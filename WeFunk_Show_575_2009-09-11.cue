@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_575_2009-09-11.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "swing it around"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_575_2009-09-11.mp3" MP3
 		INDEX 01 01:14:21
 	TRACK 03 AUDIO
 		TITLE "talk (over james pants - good things)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:24:45
 	TRACK 04 AUDIO
 		TITLE "gratitude"
@@ -157,7 +157,7 @@ FILE "WeFunk_Show_575_2009-09-11.mp3" MP3
 		INDEX 01 96:56:73
 	TRACK 39 AUDIO
 		TITLE "talk (over y.p. - on point instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 101:32:31
 	TRACK 40 AUDIO
 		TITLE "damn you're cool"

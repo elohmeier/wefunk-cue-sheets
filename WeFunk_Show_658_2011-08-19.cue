@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_658_2011-08-19.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "i'm colonel red"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_658_2011-08-19.mp3" MP3
 		INDEX 01 02:01:69
 	TRACK 03 AUDIO
 		TITLE "talk (over d.j. teeko feat. j-1 - five'n)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 06:44:51
 	TRACK 04 AUDIO
 		TITLE "everybody say yeah"
@@ -141,7 +141,7 @@ FILE "WeFunk_Show_658_2011-08-19.mp3" MP3
 		INDEX 01 110:32:34
 	TRACK 35 AUDIO
 		TITLE "talk (over jupiter tuning center - c.h.a.n.g.e)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 112:58:11
 	TRACK 36 AUDIO
 		TITLE "little sunflower (g.s.c. anagram 2011)"

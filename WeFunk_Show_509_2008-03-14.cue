@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_509_2008-03-14.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "the cell"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_509_2008-03-14.mp3" MP3
 		INDEX 01 01:14:22
 	TRACK 03 AUDIO
 		TITLE "talk (over connie price and the keystones - thundersounds instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:35:00
 	TRACK 04 AUDIO
 		TITLE "you and me my love"
@@ -32,8 +32,8 @@ FILE "WeFunk_Show_509_2008-03-14.mp3" MP3
 		PERFORMER "narcicyst"
 		INDEX 01 19:30:17
 	TRACK 08 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 22:24:65
 	TRACK 09 AUDIO
 		TITLE "untitled track (live)"
@@ -48,8 +48,8 @@ FILE "WeFunk_Show_509_2008-03-14.mp3" MP3
 		PERFORMER "narcicyst"
 		INDEX 01 31:25:48
 	TRACK 12 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 34:00:52
 	TRACK 13 AUDIO
 		TITLE "follow me now"
@@ -60,16 +60,16 @@ FILE "WeFunk_Show_509_2008-03-14.mp3" MP3
 		PERFORMER "a.g."
 		INDEX 01 43:11:29
 	TRACK 15 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 46:10:53
 	TRACK 16 AUDIO
 		TITLE "everything has a price"
 		PERFORMER "show & a.g. feat. o.c."
 		INDEX 01 51:31:40
 	TRACK 17 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 54:34:56
 	TRACK 18 AUDIO
 		TITLE "keep it going (the grind)"
@@ -117,5 +117,5 @@ FILE "WeFunk_Show_509_2008-03-14.mp3" MP3
 		INDEX 01 99:59:65
 	TRACK 29 AUDIO
 		TITLE "talk (over orgone - open seasons)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 110:06:70

@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_680_2012-02-24.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "rapper dapper snapper"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_680_2012-02-24.mp3" MP3
 		INDEX 01 01:26:62
 	TRACK 03 AUDIO
 		TITLE "talk (over real thing - foot tappin' (professor groove remix))"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:59:46
 	TRACK 04 AUDIO
 		TITLE "superbad, superslick"
@@ -56,8 +56,8 @@ FILE "WeFunk_Show_680_2012-02-24.mp3" MP3
 		PERFORMER "shades of culture feat. mr. len"
 		INDEX 01 44:33:58
 	TRACK 14 AUDIO
-		TITLE "1, 2 pass it (remix)"
-		PERFORMER "d&d all stars"
+		TITLE "1,2 pass it (remix)"
+		PERFORMER "d&d all-stars"
 		INDEX 01 47:39:11
 	TRACK 15 AUDIO
 		TITLE "artical (original posse mix)"
@@ -141,7 +141,7 @@ FILE "WeFunk_Show_680_2012-02-24.mp3" MP3
 		INDEX 01 105:03:05
 	TRACK 35 AUDIO
 		TITLE "talk (over hi-tek - where it started at instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 109:05:02
 	TRACK 36 AUDIO
 		TITLE "liberian girl"

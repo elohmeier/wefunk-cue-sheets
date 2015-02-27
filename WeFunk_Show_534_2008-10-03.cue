@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_534_2008-10-03.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "dopest verse"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_534_2008-10-03.mp3" MP3
 		INDEX 01 01:14:23
 	TRACK 03 AUDIO
 		TITLE "talk (over jigmastas - beyond real remix instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 06:38:23
 	TRACK 04 AUDIO
 		TITLE "what the problem is"
@@ -141,5 +141,5 @@ FILE "WeFunk_Show_534_2008-10-03.mp3" MP3
 		INDEX 01 103:21:32
 	TRACK 35 AUDIO
 		TITLE "talk (over richard "groove" holmes & ernie watts - come together)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 108:21:41

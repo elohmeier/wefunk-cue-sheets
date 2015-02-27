@@ -5,15 +5,15 @@ REM Genre : HipHop
 FILE "WeFunk_Show_374_2005-05-13.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "the jakel"
-		PERFORMER "p.f. cuttin & sean price feat. professor x & nardo ranks"
+		PERFORMER "p.f. cuttin' & sean price feat. professor x. & nardo ranks"
 		INDEX 01 01:58:57
 	TRACK 03 AUDIO
 		TITLE "talk (over black moon - stay real instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:37:53
 	TRACK 04 AUDIO
 		TITLE "frank lloyd write"
@@ -97,19 +97,19 @@ FILE "WeFunk_Show_374_2005-05-13.mp3" MP3
 		INDEX 01 74:31:58
 	TRACK 24 AUDIO
 		TITLE "parkside 5-2"
-		PERFORMER "schooly-d"
+		PERFORMER "schoolly d."
 		INDEX 01 76:47:61
 	TRACK 25 AUDIO
 		TITLE "proud to be black"
-		PERFORMER "run-d.m.c"
+		PERFORMER "run-d.m.c."
 		INDEX 01 78:44:53
 	TRACK 26 AUDIO
 		TITLE "i'm bad"
 		PERFORMER "l.l. cool j"
 		INDEX 01 81:25:15
 	TRACK 27 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 85:59:60
 	TRACK 28 AUDIO
 		TITLE "theme from s.w.a.t."
@@ -129,5 +129,5 @@ FILE "WeFunk_Show_374_2005-05-13.mp3" MP3
 		INDEX 01 103:26:53
 	TRACK 32 AUDIO
 		TITLE "talk (over alan hawkshaw - oddball)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 108:34:11

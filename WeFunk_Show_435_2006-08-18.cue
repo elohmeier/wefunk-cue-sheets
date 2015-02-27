@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_435_2006-08-18.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "i gotcha"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_435_2006-08-18.mp3" MP3
 		INDEX 01 01:59:05
 	TRACK 03 AUDIO
 		TITLE "talk (over roots - in the music instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:42:48
 	TRACK 04 AUDIO
 		TITLE "in the music"
@@ -133,5 +133,5 @@ FILE "WeFunk_Show_435_2006-08-18.mp3" MP3
 		INDEX 01 108:40:13
 	TRACK 33 AUDIO
 		TITLE "talk (over banda unaio black - na palma da mao)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 111:28:08

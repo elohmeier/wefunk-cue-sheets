@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_492_2007-10-19.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "reachin'"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_492_2007-10-19.mp3" MP3
 		INDEX 01 01:58:38
 	TRACK 03 AUDIO
 		TITLE "talk (over common - chi city instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 06:32:18
 	TRACK 04 AUDIO
 		TITLE "we roll"
@@ -109,7 +109,7 @@ FILE "WeFunk_Show_492_2007-10-19.mp3" MP3
 		INDEX 01 78:11:20
 	TRACK 27 AUDIO
 		TITLE "gucci again"
-		PERFORMER "schoolly d"
+		PERFORMER "schoolly d."
 		INDEX 01 80:52:01
 	TRACK 28 AUDIO
 		TITLE "strong island"
@@ -141,5 +141,5 @@ FILE "WeFunk_Show_492_2007-10-19.mp3" MP3
 		INDEX 01 106:52:28
 	TRACK 35 AUDIO
 		TITLE "talk (over bryan vargas & ya está - guerreros africanos)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 110:14:28

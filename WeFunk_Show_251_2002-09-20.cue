@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_251_2002-09-20.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "damn it's hot"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_251_2002-09-20.mp3" MP3
 		INDEX 01 01:59:40
 	TRACK 03 AUDIO
 		TITLE "talk (over j.b.'s - hot pants road)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:33:06
 	TRACK 04 AUDIO
 		TITLE "burning spear"
@@ -53,7 +53,7 @@ FILE "WeFunk_Show_251_2002-09-20.mp3" MP3
 		INDEX 01 36:29:36
 	TRACK 13 AUDIO
 		TITLE "ghetto misfortune's wealth"
-		PERFORMER "24 carat black"
+		PERFORMER "24-carat black"
 		INDEX 01 40:37:45
 	TRACK 14 AUDIO
 		TITLE "bubble gum"
@@ -100,8 +100,8 @@ FILE "WeFunk_Show_251_2002-09-20.mp3" MP3
 		PERFORMER "saafir"
 		INDEX 01 73:49:72
 	TRACK 25 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 77:08:34
 	TRACK 26 AUDIO
 		TITLE "brother man, sister ann"
@@ -145,5 +145,5 @@ FILE "WeFunk_Show_251_2002-09-20.mp3" MP3
 		INDEX 01 109:01:67
 	TRACK 36 AUDIO
 		TITLE "talk (over mos def - speed law instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 112:31:67

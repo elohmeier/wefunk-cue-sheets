@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_184_2001-05-18.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "can i get open"
@@ -13,11 +13,11 @@ FILE "WeFunk_Show_184_2001-05-18.mp3" MP3
 		INDEX 01 01:58:52
 	TRACK 03 AUDIO
 		TITLE "talk (over funkmaster flex - six million ways to die)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:16:52
 	TRACK 04 AUDIO
 		TITLE "paid in full (seven minutes of madness remix)"
-		PERFORMER "eric b & rakim"
+		PERFORMER "eric b. & rakim"
 		INDEX 01 08:27:69
 	TRACK 05 AUDIO
 		TITLE "electric relaxation"
@@ -129,5 +129,5 @@ FILE "WeFunk_Show_184_2001-05-18.mp3" MP3
 		INDEX 01 108:53:64
 	TRACK 32 AUDIO
 		TITLE "talk (over kool & the gang - pneumonia)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 111:12:00

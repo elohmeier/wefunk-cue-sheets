@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_598_2010-03-19.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "discoland, pt. 2"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_598_2010-03-19.mp3" MP3
 		INDEX 01 02:01:37
 	TRACK 03 AUDIO
 		TITLE "talk (over julien dyne feat. mara t.k. - layer instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 03:48:65
 	TRACK 04 AUDIO
 		TITLE "african bump"
@@ -28,8 +28,8 @@ FILE "WeFunk_Show_598_2010-03-19.mp3" MP3
 		PERFORMER "erykah badu"
 		INDEX 01 17:32:72
 	TRACK 07 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 21:33:24
 	TRACK 08 AUDIO
 		TITLE "i wish you were here"
@@ -76,8 +76,8 @@ FILE "WeFunk_Show_598_2010-03-19.mp3" MP3
 		PERFORMER "al green"
 		INDEX 01 53:34:49
 	TRACK 19 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 56:24:64
 	TRACK 20 AUDIO
 		TITLE "return of the b-boy"
@@ -149,5 +149,5 @@ FILE "WeFunk_Show_598_2010-03-19.mp3" MP3
 		INDEX 01 108:23:64
 	TRACK 37 AUDIO
 		TITLE "talk (over d.j. center - leave the city outside instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 111:29:19

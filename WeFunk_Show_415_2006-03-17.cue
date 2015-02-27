@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_415_2006-03-17.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "words and verbs"
@@ -13,15 +13,15 @@ FILE "WeFunk_Show_415_2006-03-17.mp3" MP3
 		INDEX 01 01:58:39
 	TRACK 03 AUDIO
 		TITLE "talk (over little brother - lovin' it instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:40:61
 	TRACK 04 AUDIO
 		TITLE "challenge y'all"
 		PERFORMER "o.c."
 		INDEX 01 10:20:57
 	TRACK 05 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 13:48:53
 	TRACK 06 AUDIO
 		TITLE "crowd pleasa"
@@ -29,7 +29,7 @@ FILE "WeFunk_Show_415_2006-03-17.mp3" MP3
 		INDEX 01 22:05:38
 	TRACK 07 AUDIO
 		TITLE "talk (over modill - vacant rhymes instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 25:57:15
 	TRACK 08 AUDIO
 		TITLE "kickin' it"
@@ -37,7 +37,7 @@ FILE "WeFunk_Show_415_2006-03-17.mp3" MP3
 		INDEX 01 28:41:72
 	TRACK 09 AUDIO
 		TITLE "talk (over roots manuva - witness pt. 2 instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 32:46:51
 	TRACK 10 AUDIO
 		TITLE "when i miss you"
@@ -129,7 +129,7 @@ FILE "WeFunk_Show_415_2006-03-17.mp3" MP3
 		INDEX 01 96:00:47
 	TRACK 32 AUDIO
 		TITLE "rain dance"
-		PERFORMER "keem-o-sabe"
+		PERFORMER "the electric indian"
 		INDEX 01 99:30:70
 	TRACK 33 AUDIO
 		TITLE "chick-a-boom"
@@ -145,5 +145,5 @@ FILE "WeFunk_Show_415_2006-03-17.mp3" MP3
 		INDEX 01 107:34:39
 	TRACK 36 AUDIO
 		TITLE "talk (over jack mcduff - mini pads)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 110:33:31

@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_478_2007-07-13.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "who's gonna take the weight"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_478_2007-07-13.mp3" MP3
 		INDEX 01 01:58:31
 	TRACK 03 AUDIO
 		TITLE "talk (over cross bronx expressway - cross bronx expressway)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 06:09:74
 	TRACK 04 AUDIO
 		TITLE "chinese chicken"
@@ -45,11 +45,11 @@ FILE "WeFunk_Show_478_2007-07-13.mp3" MP3
 		INDEX 01 24:20:24
 	TRACK 11 AUDIO
 		TITLE "talk (over d.j. fingaz - bonus beat #27)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 27:59:62
 	TRACK 12 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 30:49:47
 	TRACK 13 AUDIO
 		TITLE "keep it street"
@@ -57,7 +57,7 @@ FILE "WeFunk_Show_478_2007-07-13.mp3" MP3
 		INDEX 01 34:41:52
 	TRACK 14 AUDIO
 		TITLE "step up"
-		PERFORMER "pace won"
+		PERFORMER "pacewon"
 		INDEX 01 38:54:51
 	TRACK 15 AUDIO
 		TITLE "loud mouth"
@@ -149,5 +149,5 @@ FILE "WeFunk_Show_478_2007-07-13.mp3" MP3
 		INDEX 01 105:44:05
 	TRACK 37 AUDIO
 		TITLE "talk (over lootpack - the anthem instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 109:01:26

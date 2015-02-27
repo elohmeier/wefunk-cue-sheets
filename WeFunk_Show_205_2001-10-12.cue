@@ -5,15 +5,15 @@ REM Genre : HipHop
 FILE "WeFunk_Show_205_2001-10-12.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "nautilus"
 		PERFORMER "bob james"
 		INDEX 01 01:59:20
 	TRACK 03 AUDIO
-		TITLE "talk (over idris muhammed - crab apple)"
-		PERFORMER ""
+		TITLE "talk (over idris muhammad - crab apple)"
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 06:45:70
 	TRACK 04 AUDIO
 		TITLE "(it's not the express) it's j.b.'s monorail"
@@ -33,15 +33,15 @@ FILE "WeFunk_Show_205_2001-10-12.mp3" MP3
 		INDEX 01 24:21:50
 	TRACK 08 AUDIO
 		TITLE "livin' in the jungle"
-		PERFORMER "schooly d"
+		PERFORMER "schoolly d."
 		INDEX 01 27:30:27
 	TRACK 09 AUDIO
 		TITLE "straight outta compton"
 		PERFORMER "n.w.a."
 		INDEX 01 30:22:25
 	TRACK 10 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 34:03:53
 	TRACK 11 AUDIO
 		TITLE "doin' the do"
@@ -69,7 +69,7 @@ FILE "WeFunk_Show_205_2001-10-12.mp3" MP3
 		INDEX 01 49:31:48
 	TRACK 17 AUDIO
 		TITLE "best keep secret"
-		PERFORMER "diamond d"
+		PERFORMER "diamond d."
 		INDEX 01 56:18:59
 	TRACK 18 AUDIO
 		TITLE "run this"
@@ -133,5 +133,5 @@ FILE "WeFunk_Show_205_2001-10-12.mp3" MP3
 		INDEX 01 110:44:68
 	TRACK 33 AUDIO
 		TITLE "talk (over dilated peoples - annihilation instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 115:46:42

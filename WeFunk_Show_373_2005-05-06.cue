@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_373_2005-05-06.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "she's not just another woman"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_373_2005-05-06.mp3" MP3
 		INDEX 01 01:58:63
 	TRACK 03 AUDIO
 		TITLE "talk (over soul crusaders - funky jive)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:51:68
 	TRACK 04 AUDIO
 		TITLE "soul thing"
@@ -73,7 +73,7 @@ FILE "WeFunk_Show_373_2005-05-06.mp3" MP3
 		INDEX 01 47:05:09
 	TRACK 18 AUDIO
 		TITLE "talk (over el michels affair - behind the blue curtain)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 50:08:39
 	TRACK 19 AUDIO
 		TITLE "i remember i made you cry"
@@ -125,5 +125,5 @@ FILE "WeFunk_Show_373_2005-05-06.mp3" MP3
 		INDEX 01 97:31:47
 	TRACK 31 AUDIO
 		TITLE "talk (over blue mitchell - dorado)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 106:24:33

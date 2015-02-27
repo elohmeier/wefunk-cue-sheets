@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_731_2013-04-05.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "?"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_731_2013-04-05.mp3" MP3
 		INDEX 01 01:44:50
 	TRACK 03 AUDIO
 		TITLE "talk (over karriem riggins - round the outside)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:40:52
 	TRACK 04 AUDIO
 		TITLE "get large"
@@ -153,7 +153,7 @@ FILE "WeFunk_Show_731_2013-04-05.mp3" MP3
 		INDEX 01 108:36:63
 	TRACK 38 AUDIO
 		TITLE "talk (over jayson brothers - all my life)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 113:13:57
 	TRACK 39 AUDIO
 		TITLE "halley's trail"

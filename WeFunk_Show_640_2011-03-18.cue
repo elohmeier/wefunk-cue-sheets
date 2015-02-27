@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_640_2011-03-18.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "music and me"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_640_2011-03-18.mp3" MP3
 		INDEX 01 02:01:51
 	TRACK 03 AUDIO
 		TITLE "talk (over snoop dogg - ain't no fun instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:27:15
 	TRACK 04 AUDIO
 		TITLE "ain't no fun"
@@ -153,7 +153,7 @@ FILE "WeFunk_Show_640_2011-03-18.mp3" MP3
 		INDEX 01 107:13:52
 	TRACK 38 AUDIO
 		TITLE "talk (over soil & "pimp" sessions - funky goldman)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 111:26:37
 	TRACK 39 AUDIO
 		TITLE "sweet children"

@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_473_2007-06-08.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "the bottle"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_473_2007-06-08.mp3" MP3
 		INDEX 01 02:00:70
 	TRACK 03 AUDIO
 		TITLE "talk (over professor lett & study - theme from canada)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 07:08:26
 	TRACK 04 AUDIO
 		TITLE "why is it so hard to do (things i wanna do)"
@@ -153,5 +153,5 @@ FILE "WeFunk_Show_473_2007-06-08.mp3" MP3
 		INDEX 01 103:44:48
 	TRACK 38 AUDIO
 		TITLE "talk (over de la soul - stakes is high instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 108:09:35

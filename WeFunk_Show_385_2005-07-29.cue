@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_385_2005-07-29.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "politricks"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_385_2005-07-29.mp3" MP3
 		INDEX 01 01:20:51
 	TRACK 03 AUDIO
 		TITLE "talk (over truth universal - new orleans' finest instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:00:67
 	TRACK 04 AUDIO
 		TITLE "told you so"
@@ -109,7 +109,7 @@ FILE "WeFunk_Show_385_2005-07-29.mp3" MP3
 		INDEX 01 93:53:69
 	TRACK 27 AUDIO
 		TITLE "i got a man"
-		PERFORMER "positive k"
+		PERFORMER "positive k."
 		INDEX 01 94:56:37
 	TRACK 28 AUDIO
 		TITLE "flowin in file"
@@ -129,9 +129,9 @@ FILE "WeFunk_Show_385_2005-07-29.mp3" MP3
 		INDEX 01 107:51:28
 	TRACK 32 AUDIO
 		TITLE "the r"
-		PERFORMER "eric b & rakim"
+		PERFORMER "eric b. & rakim"
 		INDEX 01 111:29:14
 	TRACK 33 AUDIO
 		TITLE "talk (over ghostface killah - daytona 500 instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 114:14:59

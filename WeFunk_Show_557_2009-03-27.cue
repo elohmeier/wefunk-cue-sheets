@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_557_2009-03-27.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "a lover & a friend"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_557_2009-03-27.mp3" MP3
 		INDEX 01 01:44:33
 	TRACK 03 AUDIO
 		TITLE "talk (over eddie bo - getting to the middle)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:04:37
 	TRACK 04 AUDIO
 		TITLE "the rubber band"
@@ -145,5 +145,5 @@ FILE "WeFunk_Show_557_2009-03-27.mp3" MP3
 		INDEX 01 108:53:15
 	TRACK 36 AUDIO
 		TITLE "talk (over d.j. assault - detroit summer)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 113:25:25

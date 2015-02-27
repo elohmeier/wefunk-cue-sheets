@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_554_2009-03-06.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "ain't it hell up in harlem"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_554_2009-03-06.mp3" MP3
 		INDEX 01 02:01:62
 	TRACK 03 AUDIO
 		TITLE "talk (over edwin starr - ain't it hell up in harlem instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:47:68
 	TRACK 04 AUDIO
 		TITLE "soul finger"
@@ -145,7 +145,7 @@ FILE "WeFunk_Show_554_2009-03-06.mp3" MP3
 		INDEX 01 106:12:57
 	TRACK 36 AUDIO
 		TITLE "talk (over educated consumers - monkey christ instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 110:26:36
 	TRACK 37 AUDIO
 		TITLE "speak again (mighty wyte remix)"

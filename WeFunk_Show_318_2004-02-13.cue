@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_318_2004-02-13.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "red, black & green"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_318_2004-02-13.mp3" MP3
 		INDEX 01 01:58:61
 	TRACK 03 AUDIO
 		TITLE "talk (over earth, wind & fire - power)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 06:20:30
 	TRACK 04 AUDIO
 		TITLE "gut level"
@@ -129,5 +129,5 @@ FILE "WeFunk_Show_318_2004-02-13.mp3" MP3
 		INDEX 01 111:29:13
 	TRACK 32 AUDIO
 		TITLE "talk (over furious five - sun don't shine in the hood instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 117:33:23

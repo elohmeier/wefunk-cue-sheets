@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_170_2001-02-09.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "jam fan (hot)"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_170_2001-02-09.mp3" MP3
 		INDEX 01 01:58:10
 	TRACK 03 AUDIO
 		TITLE "talk (over fred wesley & the j.b.'s - dirty harri)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:41:72
 	TRACK 04 AUDIO
 		TITLE "rep for the slums (instrumental)"
@@ -133,5 +133,5 @@ FILE "WeFunk_Show_170_2001-02-09.mp3" MP3
 		INDEX 01 109:09:24
 	TRACK 33 AUDIO
 		TITLE "talk (over bob james - nautilus)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 111:18:59

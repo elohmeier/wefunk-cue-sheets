@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_600_2010-04-02.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "live"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_600_2010-04-02.mp3" MP3
 		INDEX 01 01:40:17
 	TRACK 03 AUDIO
 		TITLE "talk (over young m.c. - know how instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:03:56
 	TRACK 04 AUDIO
 		TITLE "any time is right (d.j. apt one edit)"
@@ -153,5 +153,5 @@ FILE "WeFunk_Show_600_2010-04-02.mp3" MP3
 		INDEX 01 114:59:59
 	TRACK 38 AUDIO
 		TITLE "talk (over j. dilla - king)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 118:54:07

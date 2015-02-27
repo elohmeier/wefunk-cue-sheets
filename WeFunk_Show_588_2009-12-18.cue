@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_588_2009-12-18.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "flute thing"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_588_2009-12-18.mp3" MP3
 		INDEX 01 01:14:32
 	TRACK 03 AUDIO
 		TITLE "talk (over norman connors - back on the street)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:28:63
 	TRACK 04 AUDIO
 		TITLE "under the skin"
@@ -25,7 +25,7 @@ FILE "WeFunk_Show_588_2009-12-18.mp3" MP3
 		INDEX 01 12:12:49
 	TRACK 06 AUDIO
 		TITLE "run and hide"
-		PERFORMER "philadlephia flyers"
+		PERFORMER "philadelphia flyers"
 		INDEX 01 17:01:19
 	TRACK 07 AUDIO
 		TITLE "el resbalon"
@@ -145,7 +145,7 @@ FILE "WeFunk_Show_588_2009-12-18.mp3" MP3
 		INDEX 01 121:04:35
 	TRACK 36 AUDIO
 		TITLE "talk (over fat larry's band - here comes the sun)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 124:48:35
 	TRACK 37 AUDIO
 		TITLE "10 west"

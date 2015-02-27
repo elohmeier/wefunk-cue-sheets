@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_693_2012-06-01.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "unhooked generation"
@@ -17,7 +17,7 @@ FILE "WeFunk_Show_693_2012-06-01.mp3" MP3
 		INDEX 01 03:47:54
 	TRACK 04 AUDIO
 		TITLE "talk (over ramsey lewis - sun goddess)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 06:14:50
 	TRACK 05 AUDIO
 		TITLE "anti love song"
@@ -48,16 +48,16 @@ FILE "WeFunk_Show_693_2012-06-01.mp3" MP3
 		PERFORMER "aurra"
 		INDEX 01 33:45:50
 	TRACK 12 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 38:38:35
 	TRACK 13 AUDIO
 		TITLE "maybellene (remix)"
 		PERFORMER "chuck berry"
 		INDEX 01 39:17:09
 	TRACK 14 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 40:54:56
 	TRACK 15 AUDIO
 		TITLE "sad songs (remix)"
@@ -76,8 +76,8 @@ FILE "WeFunk_Show_693_2012-06-01.mp3" MP3
 		PERFORMER "run-d.m.c."
 		INDEX 01 47:26:13
 	TRACK 19 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 50:48:59
 	TRACK 20 AUDIO
 		TITLE "fed ex breakdown"
@@ -181,7 +181,7 @@ FILE "WeFunk_Show_693_2012-06-01.mp3" MP3
 		INDEX 01 107:06:17
 	TRACK 45 AUDIO
 		TITLE "talk (over thom janusz - crystals)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 115:38:56
 	TRACK 46 AUDIO
 		TITLE "earth tones"

@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_461_2007-03-02.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "we the people"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_461_2007-03-02.mp3" MP3
 		INDEX 01 01:58:47
 	TRACK 03 AUDIO
 		TITLE "talk (over peter herbolzheimer - feedback brother)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 06:18:27
 	TRACK 04 AUDIO
 		TITLE "chicago"
@@ -113,7 +113,7 @@ FILE "WeFunk_Show_461_2007-03-02.mp3" MP3
 		INDEX 01 93:20:66
 	TRACK 28 AUDIO
 		TITLE "i got a man"
-		PERFORMER "positive k"
+		PERFORMER "positive k."
 		INDEX 01 95:17:03
 	TRACK 29 AUDIO
 		TITLE "greatest man alive"
@@ -129,7 +129,7 @@ FILE "WeFunk_Show_461_2007-03-02.mp3" MP3
 		INDEX 01 101:54:49
 	TRACK 32 AUDIO
 		TITLE "la schmoove"
-		PERFORMER "fu-shnickens"
+		PERFORMER "fu-schnickens"
 		INDEX 01 103:49:22
 	TRACK 33 AUDIO
 		TITLE "chief rocka"
@@ -141,5 +141,5 @@ FILE "WeFunk_Show_461_2007-03-02.mp3" MP3
 		INDEX 01 109:44:02
 	TRACK 35 AUDIO
 		TITLE "talk (over black sheep - flavor of the month instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 110:47:56

@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_376_2005-05-27.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "excellence"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_376_2005-05-27.mp3" MP3
 		INDEX 01 01:58:50
 	TRACK 03 AUDIO
 		TITLE "talk (over mos def - habitat instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:10:00
 	TRACK 04 AUDIO
 		TITLE "high school behavior"
@@ -49,7 +49,7 @@ FILE "WeFunk_Show_376_2005-05-27.mp3" MP3
 		INDEX 01 32:42:48
 	TRACK 12 AUDIO
 		TITLE "telemark"
-		PERFORMER "daniel patucchi"
+		PERFORMER "daniele patucchi"
 		INDEX 01 35:37:71
 	TRACK 13 AUDIO
 		TITLE "gimme shelter"
@@ -133,5 +133,5 @@ FILE "WeFunk_Show_376_2005-05-27.mp3" MP3
 		INDEX 01 102:20:50
 	TRACK 33 AUDIO
 		TITLE "talk (over medaphoar - can't hold on instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 106:34:74

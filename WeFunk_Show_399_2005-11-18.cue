@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_399_2005-11-18.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "heads up"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_399_2005-11-18.mp3" MP3
 		INDEX 01 01:58:44
 	TRACK 03 AUDIO
 		TITLE "talk (over jin - top 5 (dead or alive) instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:15:65
 	TRACK 04 AUDIO
 		TITLE "top 5 (dead or alive)"
@@ -145,5 +145,5 @@ FILE "WeFunk_Show_399_2005-11-18.mp3" MP3
 		INDEX 01 108:48:52
 	TRACK 36 AUDIO
 		TITLE "talk (over brother jack mcduff - moon rappin')"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 112:42:51

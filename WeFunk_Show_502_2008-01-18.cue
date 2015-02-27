@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_502_2008-01-18.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "swamp water"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_502_2008-01-18.mp3" MP3
 		INDEX 01 02:02:03
 	TRACK 03 AUDIO
 		TITLE "talk (over rasco - unassisted instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:04:49
 	TRACK 04 AUDIO
 		TITLE "cali 2 n.y."
@@ -129,5 +129,5 @@ FILE "WeFunk_Show_502_2008-01-18.mp3" MP3
 		INDEX 01 104:57:23
 	TRACK 32 AUDIO
 		TITLE "talk (over george duke - old slippers)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 108:35:51

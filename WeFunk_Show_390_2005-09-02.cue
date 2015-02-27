@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_390_2005-09-02.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "walkin' the dog"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_390_2005-09-02.mp3" MP3
 		INDEX 01 01:58:58
 	TRACK 03 AUDIO
 		TITLE "talk (over mongo santamaria - cold sweat)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:14:57
 	TRACK 04 AUDIO
 		TITLE "ninety day cycle people"
@@ -33,7 +33,7 @@ FILE "WeFunk_Show_390_2005-09-02.mp3" MP3
 		INDEX 01 17:29:64
 	TRACK 08 AUDIO
 		TITLE "music"
-		PERFORMER "eric sermon feat. marvin gaye"
+		PERFORMER "erick sermon feat. marvin gaye"
 		INDEX 01 21:29:28
 	TRACK 09 AUDIO
 		TITLE "one in a million"
@@ -133,5 +133,5 @@ FILE "WeFunk_Show_390_2005-09-02.mp3" MP3
 		INDEX 01 105:22:72
 	TRACK 33 AUDIO
 		TITLE "talk (over pitch black - revenge instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 109:11:02

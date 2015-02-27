@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_556_2009-03-20.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "nou la"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_556_2009-03-20.mp3" MP3
 		INDEX 01 01:37:40
 	TRACK 03 AUDIO
 		TITLE "talk (over furious one - battlechant)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:59:41
 	TRACK 04 AUDIO
 		TITLE "sounds so sweet"
@@ -25,7 +25,7 @@ FILE "WeFunk_Show_556_2009-03-20.mp3" MP3
 		INDEX 01 13:52:56
 	TRACK 06 AUDIO
 		TITLE "talk (over akrobatik - be prepared instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 17:01:58
 	TRACK 07 AUDIO
 		TITLE "fame (jazzy jay edit)"
@@ -57,23 +57,23 @@ FILE "WeFunk_Show_556_2009-03-20.mp3" MP3
 		INDEX 01 39:56:47
 	TRACK 14 AUDIO
 		TITLE "talk (over think twice - whadodem instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 44:42:10
 	TRACK 15 AUDIO
 		TITLE "it's a big daddy thing"
 		PERFORMER "big daddy kane"
 		INDEX 01 51:21:51
 	TRACK 16 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 54:35:15
 	TRACK 17 AUDIO
 		TITLE "wrath of kane (live)"
 		PERFORMER "big daddy kane"
 		INDEX 01 57:59:08
 	TRACK 18 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 62:55:30
 	TRACK 19 AUDIO
 		TITLE "keep on truckin'"
@@ -136,6 +136,6 @@ FILE "WeFunk_Show_556_2009-03-20.mp3" MP3
 		PERFORMER "dam funk"
 		INDEX 01 123:12:06
 	TRACK 34 AUDIO
-		TITLE "talk (over baron zen - burn rubber (dam-funk remix)"
-		PERFORMER ""
+		TITLE "talk (over baron zen - burn rubber (dam-funk remix))"
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 127:07:56

@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_383_2005-07-15.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "i just dropped in to see what condition my condition is in"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_383_2005-07-15.mp3" MP3
 		INDEX 01 01:58:41
 	TRACK 03 AUDIO
 		TITLE "talk (over brother jack mcduff - a change is gonna come)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:40:74
 	TRACK 04 AUDIO
 		TITLE "i got a bag of my own"
@@ -73,7 +73,7 @@ FILE "WeFunk_Show_383_2005-07-15.mp3" MP3
 		INDEX 01 43:10:01
 	TRACK 18 AUDIO
 		TITLE "talk (over zion i - bird's eye view instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 50:28:00
 	TRACK 19 AUDIO
 		TITLE "bird's eye view"
@@ -137,7 +137,7 @@ FILE "WeFunk_Show_383_2005-07-15.mp3" MP3
 		INDEX 01 100:26:34
 	TRACK 34 AUDIO
 		TITLE "talk (over freeway feat. allen anthony - alright instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 104:05:59
 	TRACK 35 AUDIO
 		TITLE "d&d soundclash"

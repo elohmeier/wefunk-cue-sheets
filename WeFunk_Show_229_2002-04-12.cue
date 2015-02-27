@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_229_2002-04-12.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "caribbean festival"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_229_2002-04-12.mp3" MP3
 		INDEX 01 01:58:64
 	TRACK 03 AUDIO
 		TITLE "talk (over tower of power - ebony jam)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:30:07
 	TRACK 04 AUDIO
 		TITLE "shaft in africa (addis)"
@@ -25,7 +25,7 @@ FILE "WeFunk_Show_229_2002-04-12.mp3" MP3
 		INDEX 01 13:02:48
 	TRACK 06 AUDIO
 		TITLE "talk (over fabulous originals - it ain't fair but it's fun)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 15:03:28
 	TRACK 07 AUDIO
 		TITLE "peter piper"
@@ -41,7 +41,7 @@ FILE "WeFunk_Show_229_2002-04-12.mp3" MP3
 		INDEX 01 26:58:26
 	TRACK 10 AUDIO
 		TITLE "talk (over main source - watch roger do his thing instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 29:47:71
 	TRACK 11 AUDIO
 		TITLE "freestyle (yo, that's that sh..)"
@@ -53,7 +53,7 @@ FILE "WeFunk_Show_229_2002-04-12.mp3" MP3
 		INDEX 01 35:10:21
 	TRACK 13 AUDIO
 		TITLE "talk (over showbiz & a.g. - party groove)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 36:39:29
 	TRACK 14 AUDIO
 		TITLE "time 4 sum aksion"
@@ -65,7 +65,7 @@ FILE "WeFunk_Show_229_2002-04-12.mp3" MP3
 		INDEX 01 40:01:02
 	TRACK 16 AUDIO
 		TITLE "talk (over soulive - bridge to 'bama remix instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 44:00:04
 	TRACK 17 AUDIO
 		TITLE "what's your name?"
@@ -92,8 +92,8 @@ FILE "WeFunk_Show_229_2002-04-12.mp3" MP3
 		PERFORMER "eric b. & rakim"
 		INDEX 01 59:07:24
 	TRACK 23 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 61:34:67
 	TRACK 24 AUDIO
 		TITLE "i know you got soul"
@@ -104,12 +104,12 @@ FILE "WeFunk_Show_229_2002-04-12.mp3" MP3
 		PERFORMER "arthur monday"
 		INDEX 01 73:52:30
 	TRACK 26 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 75:53:28
 	TRACK 27 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 79:44:34
 	TRACK 28 AUDIO
 		TITLE "blow your whistle"
@@ -121,15 +121,15 @@ FILE "WeFunk_Show_229_2002-04-12.mp3" MP3
 		INDEX 01 84:12:53
 	TRACK 30 AUDIO
 		TITLE "talk (over village callers - hector)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 86:34:11
 	TRACK 31 AUDIO
 		TITLE "jungle jazz"
 		PERFORMER "kool & the gang"
 		INDEX 01 90:27:20
 	TRACK 32 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 93:16:18
 	TRACK 33 AUDIO
 		TITLE "what's it all about"
@@ -137,7 +137,7 @@ FILE "WeFunk_Show_229_2002-04-12.mp3" MP3
 		INDEX 01 101:22:10
 	TRACK 34 AUDIO
 		TITLE "talk (over leaders of the new school - case of the p.t.a.)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 104:42:35
 	TRACK 35 AUDIO
 		TITLE "the ave."

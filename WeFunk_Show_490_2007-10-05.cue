@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_490_2007-10-05.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "pedal pusher"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_490_2007-10-05.mp3" MP3
 		INDEX 01 01:58:37
 	TRACK 03 AUDIO
 		TITLE "talk (over likwit junkies - brother instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:09:22
 	TRACK 04 AUDIO
 		TITLE "dizzy"
@@ -137,5 +137,5 @@ FILE "WeFunk_Show_490_2007-10-05.mp3" MP3
 		INDEX 01 110:47:02
 	TRACK 34 AUDIO
 		TITLE "talk (over roy ayers - green and gold)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 115:05:24

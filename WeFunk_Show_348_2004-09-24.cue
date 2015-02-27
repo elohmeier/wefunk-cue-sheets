@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_348_2004-09-24.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "truth is"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_348_2004-09-24.mp3" MP3
 		INDEX 01 01:59:27
 	TRACK 03 AUDIO
 		TITLE "talk (over gordon staples & the motown strings - strung out)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:52:34
 	TRACK 04 AUDIO
 		TITLE "gossip"
@@ -81,7 +81,7 @@ FILE "WeFunk_Show_348_2004-09-24.mp3" MP3
 		INDEX 01 63:49:08
 	TRACK 20 AUDIO
 		TITLE "hihache"
-		PERFORMER "lafayette afro rock band"
+		PERFORMER "lafayette afro-rock band"
 		INDEX 01 66:16:30
 	TRACK 21 AUDIO
 		TITLE "tax evasion commandments"
@@ -128,6 +128,6 @@ FILE "WeFunk_Show_348_2004-09-24.mp3" MP3
 		PERFORMER "yo yo"
 		INDEX 01 109:07:69
 	TRACK 32 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 112:24:06

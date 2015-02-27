@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_631_2011-01-14.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "no time for dreaming"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_631_2011-01-14.mp3" MP3
 		INDEX 01 01:26:69
 	TRACK 03 AUDIO
 		TITLE "talk (over charles wright & the watts 103rd street rhythm band - 65 bars and a taste of soul)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:08:41
 	TRACK 04 AUDIO
 		TITLE "be mine"
@@ -145,7 +145,7 @@ FILE "WeFunk_Show_631_2011-01-14.mp3" MP3
 		INDEX 01 105:45:02
 	TRACK 36 AUDIO
 		TITLE "talk (over tony d. - get together)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 110:03:30
 	TRACK 37 AUDIO
 		TITLE "yes i do"

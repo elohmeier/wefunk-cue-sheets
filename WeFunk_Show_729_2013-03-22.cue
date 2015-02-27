@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_729_2013-03-22.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "the authentic"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_729_2013-03-22.mp3" MP3
 		INDEX 01 01:26:68
 	TRACK 03 AUDIO
 		TITLE "talk (over lawless element - rules pt. 2 instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:04:03
 	TRACK 04 AUDIO
 		TITLE "blah, blah, blah"
@@ -185,7 +185,7 @@ FILE "WeFunk_Show_729_2013-03-22.mp3" MP3
 		INDEX 01 95:59:17
 	TRACK 46 AUDIO
 		TITLE "bomdigi"
-		PERFORMER "eric sermon"
+		PERFORMER "erick sermon"
 		INDEX 01 97:13:39
 	TRACK 47 AUDIO
 		TITLE "t.r.a.c.k.s.' lament 1.5"
@@ -209,7 +209,7 @@ FILE "WeFunk_Show_729_2013-03-22.mp3" MP3
 		INDEX 01 109:17:00
 	TRACK 52 AUDIO
 		TITLE "talk (over lennie hibbert - chinese beauty)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 113:45:37
 	TRACK 53 AUDIO
 		TITLE "rent party"

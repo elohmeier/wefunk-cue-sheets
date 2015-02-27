@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_611_2010-06-25.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "breakadawn"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_611_2010-06-25.mp3" MP3
 		INDEX 01 01:14:20
 	TRACK 03 AUDIO
 		TITLE "talk (over sporty thievz - cheapskate instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:11:72
 	TRACK 04 AUDIO
 		TITLE "cheapskate"
@@ -145,7 +145,7 @@ FILE "WeFunk_Show_611_2010-06-25.mp3" MP3
 		INDEX 01 104:27:08
 	TRACK 36 AUDIO
 		TITLE "talk (over 6ix toys - sisters of soul, brothers of funk (greg wilson version))"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 106:47:62
 	TRACK 37 AUDIO
 		TITLE "express"

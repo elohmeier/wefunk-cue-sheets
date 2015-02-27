@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_642_2011-04-01.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "vocab"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_642_2011-04-01.mp3" MP3
 		INDEX 01 01:40:08
 	TRACK 03 AUDIO
 		TITLE "talk (over lost boyz - the yearn instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:34:49
 	TRACK 04 AUDIO
 		TITLE "far from yours"
@@ -141,7 +141,7 @@ FILE "WeFunk_Show_642_2011-04-01.mp3" MP3
 		INDEX 01 104:21:07
 	TRACK 35 AUDIO
 		TITLE "talk (over pierre anckaert trio - one take groover)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 108:21:73
 	TRACK 36 AUDIO
 		TITLE "the road to nowhere"

@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_689_2012-04-27.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "props"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_689_2012-04-27.mp3" MP3
 		INDEX 01 02:01:47
 	TRACK 03 AUDIO
 		TITLE "talk (over showbiz & a.g. - soul clap instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:35:28
 	TRACK 04 AUDIO
 		TITLE "a hero ain't nuttin' but a sandwich"
@@ -33,7 +33,7 @@ FILE "WeFunk_Show_689_2012-04-27.mp3" MP3
 		INDEX 01 18:59:59
 	TRACK 08 AUDIO
 		TITLE "talk (over aqeel - nasty instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 24:08:51
 	TRACK 09 AUDIO
 		TITLE "the hex"
@@ -253,7 +253,7 @@ FILE "WeFunk_Show_689_2012-04-27.mp3" MP3
 		INDEX 01 131:06:22
 	TRACK 63 AUDIO
 		TITLE "talk (over d.j. roughneck - dealing with the funk)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 134:03:04
 	TRACK 64 AUDIO
 		TITLE "welcome to the battle"

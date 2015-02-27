@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_440_2006-09-22.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "good life"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_440_2006-09-22.mp3" MP3
 		INDEX 01 01:58:47
 	TRACK 03 AUDIO
 		TITLE "talk (over beastie boys - get it together a.b.a. remix instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:39:74
 	TRACK 04 AUDIO
 		TITLE "40 below trooper"
@@ -113,5 +113,5 @@ FILE "WeFunk_Show_440_2006-09-22.mp3" MP3
 		INDEX 01 97:45:48
 	TRACK 28 AUDIO
 		TITLE "talk (over jack mcduff - the heatin' system)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 105:14:51

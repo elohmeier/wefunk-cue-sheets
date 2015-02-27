@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_429_2006-07-07.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "freedom or death"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_429_2006-07-07.mp3" MP3
 		INDEX 01 01:39:54
 	TRACK 03 AUDIO
 		TITLE "talk (over d.j. black steel - wild style theme)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 03:20:68
 	TRACK 04 AUDIO
 		TITLE "on the radio"
@@ -41,7 +41,7 @@ FILE "WeFunk_Show_429_2006-07-07.mp3" MP3
 		INDEX 01 24:15:15
 	TRACK 10 AUDIO
 		TITLE "get up stand up"
-		PERFORMER "malcom's locks"
+		PERFORMER "malcolm's locks"
 		INDEX 01 27:53:62
 	TRACK 11 AUDIO
 		TITLE "funky nassau"
@@ -129,5 +129,5 @@ FILE "WeFunk_Show_429_2006-07-07.mp3" MP3
 		INDEX 01 109:18:06
 	TRACK 32 AUDIO
 		TITLE "talk (over choclair - let's ride instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 112:56:74

@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_389_2005-08-26.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "harder"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_389_2005-08-26.mp3" MP3
 		INDEX 01 01:58:46
 	TRACK 03 AUDIO
 		TITLE "talk (over rhymefest feat. kanye west - brand new instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:58:43
 	TRACK 04 AUDIO
 		TITLE "brand new"
@@ -149,7 +149,7 @@ FILE "WeFunk_Show_389_2005-08-26.mp3" MP3
 		INDEX 01 97:00:04
 	TRACK 37 AUDIO
 		TITLE "talk (over jimmy mcgriff - the mean machine)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 100:53:57
 	TRACK 38 AUDIO
 		TITLE "the way it used to be"

@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_652_2011-07-01.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "you got me thinkin'"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_652_2011-07-01.mp3" MP3
 		INDEX 01 02:01:33
 	TRACK 03 AUDIO
 		TITLE "talk (over bobby bryant - a prayer for peace)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:28:09
 	TRACK 04 AUDIO
 		TITLE "a brand new wayo"
@@ -153,7 +153,7 @@ FILE "WeFunk_Show_652_2011-07-01.mp3" MP3
 		INDEX 01 124:21:24
 	TRACK 38 AUDIO
 		TITLE "talk (over moe - sippin' in havana)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 126:51:28
 	TRACK 39 AUDIO
 		TITLE "how to fish"

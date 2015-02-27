@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_749_2013-09-13.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "farmers blvd."
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_749_2013-09-13.mp3" MP3
 		INDEX 01 01:44:54
 	TRACK 03 AUDIO
 		TITLE "talk (over mobb deep - still shinin' instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:05:06
 	TRACK 04 AUDIO
 		TITLE "good ol love"
@@ -61,7 +61,7 @@ FILE "WeFunk_Show_749_2013-09-13.mp3" MP3
 		INDEX 01 39:12:45
 	TRACK 15 AUDIO
 		TITLE "talk (over chicago gangsters - i choose you)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 43:28:25
 	TRACK 16 AUDIO
 		TITLE "looking up"
@@ -129,7 +129,7 @@ FILE "WeFunk_Show_749_2013-09-13.mp3" MP3
 		INDEX 01 104:36:51
 	TRACK 32 AUDIO
 		TITLE "talk (over o'donel levy - bad bad simba)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 108:57:42
 	TRACK 33 AUDIO
 		TITLE "black poem"

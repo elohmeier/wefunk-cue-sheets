@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_414_2006-03-10.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "it's your thing"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_414_2006-03-10.mp3" MP3
 		INDEX 01 01:58:31
 	TRACK 03 AUDIO
 		TITLE "talk (over bamboos - in the bamboo grove)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:54:25
 	TRACK 04 AUDIO
 		TITLE "fakin' it"
@@ -41,7 +41,7 @@ FILE "WeFunk_Show_414_2006-03-10.mp3" MP3
 		INDEX 01 30:20:36
 	TRACK 10 AUDIO
 		TITLE "talk (over soul command - hook 'n' sling)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 32:42:06
 	TRACK 11 AUDIO
 		TITLE "live"
@@ -53,7 +53,7 @@ FILE "WeFunk_Show_414_2006-03-10.mp3" MP3
 		INDEX 01 38:02:37
 	TRACK 13 AUDIO
 		TITLE "lose control"
-		PERFORMER "missy elliot"
+		PERFORMER "missy elliott"
 		INDEX 01 39:32:16
 	TRACK 14 AUDIO
 		TITLE "push it"
@@ -89,7 +89,7 @@ FILE "WeFunk_Show_414_2006-03-10.mp3" MP3
 		INDEX 01 59:23:62
 	TRACK 22 AUDIO
 		TITLE "talk (over el michels affair - easy access)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 62:39:24
 	TRACK 23 AUDIO
 		TITLE "guiding resolution"
@@ -101,7 +101,7 @@ FILE "WeFunk_Show_414_2006-03-10.mp3" MP3
 		INDEX 01 70:20:57
 	TRACK 25 AUDIO
 		TITLE "how long do i have to wait for you?"
-		PERFORMER "sharon jones & the dap kings"
+		PERFORMER "sharon jones & the dap-kings"
 		INDEX 01 73:14:68
 	TRACK 26 AUDIO
 		TITLE "watch that man"
@@ -145,5 +145,5 @@ FILE "WeFunk_Show_414_2006-03-10.mp3" MP3
 		INDEX 01 103:46:63
 	TRACK 36 AUDIO
 		TITLE "talk (over think differently - think differently instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 107:38:06

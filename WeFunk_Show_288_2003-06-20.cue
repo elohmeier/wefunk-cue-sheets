@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_288_2003-06-20.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "crazy drunken style"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_288_2003-06-20.mp3" MP3
 		INDEX 01 01:58:43
 	TRACK 03 AUDIO
 		TITLE "talk (over kenny dope - that gangsta shit)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:43:60
 	TRACK 04 AUDIO
 		TITLE "streets of new york"
@@ -121,5 +121,5 @@ FILE "WeFunk_Show_288_2003-06-20.mp3" MP3
 		INDEX 01 103:16:25
 	TRACK 30 AUDIO
 		TITLE "talk (over herbie hancock - wiggle waggle)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 108:46:61

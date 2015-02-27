@@ -5,15 +5,15 @@ REM Genre : HipHop
 FILE "WeFunk_Show_501_2008-01-11.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "superman lover"
-		PERFORMER "johnny "guitar" watson"
+		PERFORMER "johnny guitar watson"
 		INDEX 01 01:32:26
 	TRACK 03 AUDIO
 		TITLE "talk (over george duke - funny funk)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 07:13:17
 	TRACK 04 AUDIO
 		TITLE "wild honey (live in london)"
@@ -125,5 +125,5 @@ FILE "WeFunk_Show_501_2008-01-11.mp3" MP3
 		INDEX 01 102:43:12
 	TRACK 31 AUDIO
 		TITLE "talk (over jay-z - roc boyz (and the winner is...) instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 105:57:03

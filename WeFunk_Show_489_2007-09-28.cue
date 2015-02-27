@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_489_2007-09-28.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "peace of mind"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_489_2007-09-28.mp3" MP3
 		INDEX 01 01:58:43
 	TRACK 03 AUDIO
 		TITLE "talk (over kool & the gang - give it up)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:49:53
 	TRACK 04 AUDIO
 		TITLE "el soul condor"
@@ -25,7 +25,7 @@ FILE "WeFunk_Show_489_2007-09-28.mp3" MP3
 		INDEX 01 13:41:34
 	TRACK 06 AUDIO
 		TITLE "con-funk-shun"
-		PERFORMER "nite liters"
+		PERFORMER "nite-liters"
 		INDEX 01 17:41:50
 	TRACK 07 AUDIO
 		TITLE "evolution"
@@ -40,16 +40,16 @@ FILE "WeFunk_Show_489_2007-09-28.mp3" MP3
 		PERFORMER "fabulous counts"
 		INDEX 01 31:34:08
 	TRACK 10 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 34:14:12
 	TRACK 11 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 34:59:37
 	TRACK 12 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 40:36:04
 	TRACK 13 AUDIO
 		TITLE "l.a., l.a."
@@ -113,5 +113,5 @@ FILE "WeFunk_Show_489_2007-09-28.mp3" MP3
 		INDEX 01 106:16:40
 	TRACK 28 AUDIO
 		TITLE "talk (over el da sensei - eternally instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 109:45:74

@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_402_2005-12-16.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "organ grinder"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_402_2005-12-16.mp3" MP3
 		INDEX 01 01:58:25
 	TRACK 03 AUDIO
 		TITLE "talk (over keystones feat. malcolm catto - the shadows of leaves)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:28:48
 	TRACK 04 AUDIO
 		TITLE "c.r.e.a.m."
@@ -97,7 +97,7 @@ FILE "WeFunk_Show_402_2005-12-16.mp3" MP3
 		INDEX 01 71:21:54
 	TRACK 24 AUDIO
 		TITLE "sneakers"
-		PERFORMER "g keith alexander"
+		PERFORMER "g. keith alexander"
 		INDEX 01 73:22:23
 	TRACK 25 AUDIO
 		TITLE "stuff"
@@ -149,5 +149,5 @@ FILE "WeFunk_Show_402_2005-12-16.mp3" MP3
 		INDEX 01 106:15:15
 	TRACK 37 AUDIO
 		TITLE "talk (over gang starr - the ? remainz instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 109:41:46

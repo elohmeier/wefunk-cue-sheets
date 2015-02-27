@@ -5,15 +5,15 @@ REM Genre : HipHop
 FILE "WeFunk_Show_179_2001-04-13.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "jungle fever"
 		PERFORMER "chakachas"
 		INDEX 01 01:58:17
 	TRACK 03 AUDIO
-		TITLE "talk (over lafayette afrorock band - hihache)"
-		PERFORMER ""
+		TITLE "talk (over lafayette afro-rock band - hihache)"
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 06:18:43
 	TRACK 04 AUDIO
 		TITLE "get me back on time, engine #9"
@@ -29,7 +29,7 @@ FILE "WeFunk_Show_179_2001-04-13.mp3" MP3
 		INDEX 01 18:35:46
 	TRACK 07 AUDIO
 		TITLE "talk (over deodato - september 13)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 23:19:18
 	TRACK 08 AUDIO
 		TITLE "live from the pimp palace east"
@@ -49,7 +49,7 @@ FILE "WeFunk_Show_179_2001-04-13.mp3" MP3
 		INDEX 01 38:14:00
 	TRACK 12 AUDIO
 		TITLE "check one, two"
-		PERFORMER "diamond d & the psychotic neurotics"
+		PERFORMER "diamond & the psychotic neurotics"
 		INDEX 01 43:15:53
 	TRACK 13 AUDIO
 		TITLE "stop"
@@ -57,7 +57,7 @@ FILE "WeFunk_Show_179_2001-04-13.mp3" MP3
 		INDEX 01 46:42:39
 	TRACK 14 AUDIO
 		TITLE "talk (over booker t. & the m.g.'s - green onions)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 50:24:20
 	TRACK 15 AUDIO
 		TITLE "let's get it on"
@@ -69,7 +69,7 @@ FILE "WeFunk_Show_179_2001-04-13.mp3" MP3
 		INDEX 01 56:57:06
 	TRACK 17 AUDIO
 		TITLE "talk (over pete rock & c.l. smooth - the main ingredient instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 61:23:55
 	TRACK 18 AUDIO
 		TITLE "method man"

@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_271_2003-02-21.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "you better think twice"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_271_2003-02-21.mp3" MP3
 		INDEX 01 01:58:24
 	TRACK 03 AUDIO
 		TITLE "talk (over village callers - hector)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:34:25
 	TRACK 04 AUDIO
 		TITLE "funky drummer"

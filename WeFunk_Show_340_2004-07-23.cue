@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_340_2004-07-23.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "western ways"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_340_2004-07-23.mp3" MP3
 		INDEX 01 01:58:36
 	TRACK 03 AUDIO
 		TITLE "talk (over wizdom life & matt fingaz - fruits of labor in the sunshine instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:29:27
 	TRACK 04 AUDIO
 		TITLE "out the speakers"
@@ -101,7 +101,7 @@ FILE "WeFunk_Show_340_2004-07-23.mp3" MP3
 		INDEX 01 82:27:45
 	TRACK 25 AUDIO
 		TITLE "get up off my mind"
-		PERFORMER "denise la salle"
+		PERFORMER "denise lasalle"
 		INDEX 01 85:30:31
 	TRACK 26 AUDIO
 		TITLE "save their souls"
@@ -125,5 +125,5 @@ FILE "WeFunk_Show_340_2004-07-23.mp3" MP3
 		INDEX 01 105:03:31
 	TRACK 31 AUDIO
 		TITLE "talk (over war - flying machine)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 107:18:49

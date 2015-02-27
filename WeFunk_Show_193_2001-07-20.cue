@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_193_2001-07-20.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "chocolate sugar"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_193_2001-07-20.mp3" MP3
 		INDEX 01 01:58:41
 	TRACK 03 AUDIO
 		TITLE "talk (over willie bobo & the bo-gents - broasted or fried)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:02:23
 	TRACK 04 AUDIO
 		TITLE "let me be your lovemaker"
@@ -49,7 +49,7 @@ FILE "WeFunk_Show_193_2001-07-20.mp3" MP3
 		INDEX 01 32:08:13
 	TRACK 12 AUDIO
 		TITLE "talk (over ?? - ??)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 35:59:58
 	TRACK 13 AUDIO
 		TITLE "same ol' thing"
@@ -120,8 +120,8 @@ FILE "WeFunk_Show_193_2001-07-20.mp3" MP3
 		PERFORMER "brides of funkenstein"
 		INDEX 01 93:47:38
 	TRACK 30 AUDIO
-		TITLE "1, 2, pass it"
-		PERFORMER "d&d all stars"
+		TITLE "1,2 pass it"
+		PERFORMER "d&d all-stars"
 		INDEX 01 97:08:72
 	TRACK 31 AUDIO
 		TITLE "one 2"
@@ -137,9 +137,9 @@ FILE "WeFunk_Show_193_2001-07-20.mp3" MP3
 		INDEX 01 106:50:69
 	TRACK 34 AUDIO
 		TITLE "sally's got a one track mind"
-		PERFORMER "diamond d"
+		PERFORMER "diamond d."
 		INDEX 01 108:56:27
 	TRACK 35 AUDIO
 		TITLE "talk (over main source - live at the b.b.q. instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 112:10:49

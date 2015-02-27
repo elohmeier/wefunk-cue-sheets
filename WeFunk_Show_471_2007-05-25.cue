@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_471_2007-05-25.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "master piece"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_471_2007-05-25.mp3" MP3
 		INDEX 01 01:58:47
 	TRACK 03 AUDIO
 		TITLE "talk (over dap-kings - money don't make the man)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:42:61
 	TRACK 04 AUDIO
 		TITLE "i'm not gonna cry"
@@ -65,7 +65,7 @@ FILE "WeFunk_Show_471_2007-05-25.mp3" MP3
 		INDEX 01 42:34:32
 	TRACK 16 AUDIO
 		TITLE "microphone fiend (remix)"
-		PERFORMER "eric b & rakim"
+		PERFORMER "eric b. & rakim"
 		INDEX 01 45:07:55
 	TRACK 17 AUDIO
 		TITLE "give the people (eric & parrish remix)"
@@ -165,5 +165,5 @@ FILE "WeFunk_Show_471_2007-05-25.mp3" MP3
 		INDEX 01 107:43:17
 	TRACK 41 AUDIO
 		TITLE "talk (over eddie henderson - explodition)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 112:38:37

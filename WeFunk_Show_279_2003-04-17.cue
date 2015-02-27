@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_279_2003-04-17.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "hip-drop"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_279_2003-04-17.mp3" MP3
 		INDEX 01 01:58:66
 	TRACK 03 AUDIO
 		TITLE "talk (over sammy gordon & the hiphuggers - upstairs on boston road)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:28:09
 	TRACK 04 AUDIO
 		TITLE "mind power"
@@ -49,7 +49,7 @@ FILE "WeFunk_Show_279_2003-04-17.mp3" MP3
 		INDEX 01 30:47:51
 	TRACK 12 AUDIO
 		TITLE "best kept secret"
-		PERFORMER "diamond d. & the psychotic neurotics"
+		PERFORMER "diamond & the psychotic neurotics"
 		INDEX 01 35:15:13
 	TRACK 13 AUDIO
 		TITLE "hoodz come in dozens"
@@ -88,7 +88,7 @@ FILE "WeFunk_Show_279_2003-04-17.mp3" MP3
 		PERFORMER "eric burdon & war"
 		INDEX 01 63:25:55
 	TRACK 22 AUDIO
-		TITLE "on the dl"
+		TITLE "on the d.l."
 		PERFORMER "pharcyde"
 		INDEX 01 66:55:46
 	TRACK 23 AUDIO
@@ -100,8 +100,8 @@ FILE "WeFunk_Show_279_2003-04-17.mp3" MP3
 		PERFORMER "o.c."
 		INDEX 01 72:53:67
 	TRACK 25 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 76:24:54
 	TRACK 26 AUDIO
 		TITLE "pull my coat"

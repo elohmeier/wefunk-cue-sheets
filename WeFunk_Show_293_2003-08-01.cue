@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_293_2003-08-01.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "soulful strut"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_293_2003-08-01.mp3" MP3
 		INDEX 01 02:02:12
 	TRACK 03 AUDIO
 		TITLE "talk (over king curtis - sweet inspiration)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:55:09
 	TRACK 04 AUDIO
 		TITLE "lovely is today"
@@ -97,7 +97,7 @@ FILE "WeFunk_Show_293_2003-08-01.mp3" MP3
 		INDEX 01 73:03:31
 	TRACK 24 AUDIO
 		TITLE "i can't take no mo'"
-		PERFORMER "diamond d & lakim shabazz"
+		PERFORMER "diamond d. & lakim shabazz"
 		INDEX 01 77:12:65
 	TRACK 25 AUDIO
 		TITLE "mystic microphone"
@@ -108,7 +108,7 @@ FILE "WeFunk_Show_293_2003-08-01.mp3" MP3
 		PERFORMER "bas blasta"
 		INDEX 01 82:44:08
 	TRACK 27 AUDIO
-		TITLE "1, 2 pass it"
+		TITLE "1,2 pass it"
 		PERFORMER "d&d all-stars"
 		INDEX 01 87:22:41
 	TRACK 28 AUDIO
@@ -129,5 +129,5 @@ FILE "WeFunk_Show_293_2003-08-01.mp3" MP3
 		INDEX 01 100:45:44
 	TRACK 32 AUDIO
 		TITLE "talk (over peter herbolzheimer - that old bus smell)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 107:59:23

@@ -5,11 +5,11 @@ REM Genre : HipHop
 FILE "WeFunk_Show_207_2001-10-26.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "think (about it)"
-		PERFORMER "lynn collins"
+		PERFORMER "lyn collins"
 		INDEX 01 01:58:16
 	TRACK 03 AUDIO
 		TITLE "hot pants - i'm coming, coming, i'm coming"
@@ -17,11 +17,11 @@ FILE "WeFunk_Show_207_2001-10-26.mp3" MP3
 		INDEX 01 05:14:33
 	TRACK 04 AUDIO
 		TITLE "talk (over bobby byrd - hot pants - i'm coming, coming, i'm coming bonus beats)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 06:08:70
 	TRACK 05 AUDIO
 		TITLE "midnight theme"
-		PERFORMER "manzell"
+		PERFORMER "manzel"
 		INDEX 01 08:32:49
 	TRACK 06 AUDIO
 		TITLE "super good (answer to super bad)"
@@ -33,7 +33,7 @@ FILE "WeFunk_Show_207_2001-10-26.mp3" MP3
 		INDEX 01 15:25:21
 	TRACK 08 AUDIO
 		TITLE "hihache"
-		PERFORMER "lafayette afro rock band"
+		PERFORMER "lafayette afro-rock band"
 		INDEX 01 18:05:10
 	TRACK 09 AUDIO
 		TITLE "my mind is driftin'"
@@ -133,5 +133,5 @@ FILE "WeFunk_Show_207_2001-10-26.mp3" MP3
 		INDEX 01 106:37:36
 	TRACK 33 AUDIO
 		TITLE "talk (over sampleslaya - hot butter)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 110:20:18

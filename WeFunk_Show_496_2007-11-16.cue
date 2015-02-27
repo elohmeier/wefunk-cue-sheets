@@ -5,15 +5,15 @@ REM Genre : HipHop
 FILE "WeFunk_Show_496_2007-11-16.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "movin' on"
-		PERFORMER "ray carmacho"
+		PERFORMER "ray camacho"
 		INDEX 01 01:58:45
 	TRACK 03 AUDIO
 		TITLE "talk (over crown heights affair - super rod instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:42:37
 	TRACK 04 AUDIO
 		TITLE "papa was a rolling stone"
@@ -112,8 +112,8 @@ FILE "WeFunk_Show_496_2007-11-16.mp3" MP3
 		PERFORMER "funkadelic"
 		INDEX 01 91:08:31
 	TRACK 28 AUDIO
-		TITLE "strikes 5000"
-		PERFORMER "3rd base"
+		TITLE "3 strikes 5000"
+		PERFORMER "3rd bass"
 		INDEX 01 94:18:74
 	TRACK 29 AUDIO
 		TITLE "return of the funky man"
@@ -137,5 +137,5 @@ FILE "WeFunk_Show_496_2007-11-16.mp3" MP3
 		INDEX 01 110:23:66
 	TRACK 34 AUDIO
 		TITLE "talk (over a.d.o.r. - let it all hang out instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 112:45:41

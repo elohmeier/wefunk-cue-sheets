@@ -5,23 +5,23 @@ REM Genre : HipHop
 FILE "WeFunk_Show_204_2001-10-05.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "lean on me (remix)"
 		PERFORMER "big daddy kane"
 		INDEX 01 01:58:50
 	TRACK 03 AUDIO
-		TITLE "talk (over d&d allstars - 1, 2, pass it instrumental)"
-		PERFORMER ""
+		TITLE "talk (over d&d all-stars - 1,2 pass it instrumental)"
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 06:49:55
 	TRACK 04 AUDIO
 		TITLE "hot shit"
 		PERFORMER "d&d allstars 2001"
 		INDEX 01 10:19:73
 	TRACK 05 AUDIO
-		TITLE "1, 2, pass it"
-		PERFORMER "d&d allstars"
+		TITLE "1,2 pass it"
+		PERFORMER "d&d all-stars"
 		INDEX 01 14:46:74
 	TRACK 06 AUDIO
 		TITLE "mic mastery"
@@ -53,7 +53,7 @@ FILE "WeFunk_Show_204_2001-10-05.mp3" MP3
 		INDEX 01 39:25:64
 	TRACK 13 AUDIO
 		TITLE "gangster boogie"
-		PERFORMER "schooly d"
+		PERFORMER "schoolly d."
 		INDEX 01 41:32:46
 	TRACK 14 AUDIO
 		TITLE "brand nubian"
@@ -77,7 +77,7 @@ FILE "WeFunk_Show_204_2001-10-05.mp3" MP3
 		INDEX 01 58:37:57
 	TRACK 19 AUDIO
 		TITLE "i declare war"
-		PERFORMER "pace won"
+		PERFORMER "pacewon"
 		INDEX 01 61:32:39
 	TRACK 20 AUDIO
 		TITLE "ranahersi"
@@ -145,7 +145,7 @@ FILE "WeFunk_Show_204_2001-10-05.mp3" MP3
 		INDEX 01 110:07:21
 	TRACK 36 AUDIO
 		TITLE "talk (over james brown - in the middle)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 112:55:56
 	TRACK 37 AUDIO
 		TITLE "soul donkey"

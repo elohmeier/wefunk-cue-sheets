@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_744_2013-07-19.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "bubble gum"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_744_2013-07-19.mp3" MP3
 		INDEX 01 01:32:37
 	TRACK 03 AUDIO
 		TITLE "talk (over george benson - shark bite)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 03:53:53
 	TRACK 04 AUDIO
 		TITLE "keep on doin'"
@@ -145,7 +145,7 @@ FILE "WeFunk_Show_744_2013-07-19.mp3" MP3
 		INDEX 01 111:29:62
 	TRACK 36 AUDIO
 		TITLE "talk (over waahli - hornby soul)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 114:42:12
 	TRACK 37 AUDIO
 		TITLE "el chupa nibre"

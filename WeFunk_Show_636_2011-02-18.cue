@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_636_2011-02-18.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "watch out"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_636_2011-02-18.mp3" MP3
 		INDEX 01 01:40:09
 	TRACK 03 AUDIO
 		TITLE "talk (over gagle - eastern voyage instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:16:14
 	TRACK 04 AUDIO
 		TITLE "crazy (bad news brown remix)"
@@ -37,7 +37,7 @@ FILE "WeFunk_Show_636_2011-02-18.mp3" MP3
 		INDEX 01 24:40:05
 	TRACK 09 AUDIO
 		TITLE "talk (over georg levin - intangible instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 29:21:61
 	TRACK 10 AUDIO
 		TITLE "i'm in love with my neighbor's wife"
@@ -140,8 +140,8 @@ FILE "WeFunk_Show_636_2011-02-18.mp3" MP3
 		PERFORMER "third wave"
 		INDEX 01 104:35:11
 	TRACK 35 AUDIO
-		TITLE "talk (over mo'horizons - big, j'aim)"
-		PERFORMER ""
+		TITLE "talk (over mo' horizons - big, j'aim)"
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 107:02:67
 	TRACK 36 AUDIO
 		TITLE "it's over now (m.a.w. remix)"

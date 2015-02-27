@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_308_2003-11-22.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "humpin' bumpin' & thumpin'"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_308_2003-11-22.mp3" MP3
 		INDEX 01 01:58:59
 	TRACK 03 AUDIO
 		TITLE "talk (over tony alvon & the belairs - sexy coffee pot)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:29:04
 	TRACK 04 AUDIO
 		TITLE "mutley doing the crawlpen"
@@ -49,11 +49,11 @@ FILE "WeFunk_Show_308_2003-11-22.mp3" MP3
 		INDEX 01 34:04:31
 	TRACK 12 AUDIO
 		TITLE "smooth"
-		PERFORMER "powerrule"
+		PERFORMER "powerule"
 		INDEX 01 36:37:54
 	TRACK 13 AUDIO
 		TITLE "la schmoove"
-		PERFORMER "fu schnickens"
+		PERFORMER "fu-schnickens"
 		INDEX 01 39:16:45
 	TRACK 14 AUDIO
 		TITLE "drop it in the slot"
@@ -117,7 +117,7 @@ FILE "WeFunk_Show_308_2003-11-22.mp3" MP3
 		INDEX 01 94:38:64
 	TRACK 29 AUDIO
 		TITLE "gypsy slang (remix)"
-		PERFORMER "hezhkiah"
+		PERFORMER "hezekiah"
 		INDEX 01 98:01:08
 	TRACK 30 AUDIO
 		TITLE "dooinit"
@@ -129,5 +129,5 @@ FILE "WeFunk_Show_308_2003-11-22.mp3" MP3
 		INDEX 01 105:15:36
 	TRACK 32 AUDIO
 		TITLE "talk (over ramon morris - first come, first serve)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 108:59:26

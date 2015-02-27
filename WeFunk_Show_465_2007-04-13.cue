@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_465_2007-04-13.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "freddie's alive and well"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_465_2007-04-13.mp3" MP3
 		INDEX 01 01:58:30
 	TRACK 03 AUDIO
 		TITLE "talk (over peter herbolzheimer - anitra's dance)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 06:15:47
 	TRACK 04 AUDIO
 		TITLE "pisces pace"
@@ -133,7 +133,7 @@ FILE "WeFunk_Show_465_2007-04-13.mp3" MP3
 		INDEX 01 108:05:42
 	TRACK 33 AUDIO
 		TITLE "motion 2000"
-		PERFORMER "polyrhythm-addicts"
+		PERFORMER "polyrhythm addicts"
 		INDEX 01 111:35:23
 	TRACK 34 AUDIO
 		TITLE "bounce"
@@ -149,5 +149,5 @@ FILE "WeFunk_Show_465_2007-04-13.mp3" MP3
 		INDEX 01 123:00:48
 	TRACK 37 AUDIO
 		TITLE "talk (over joell ortiz - hip-hop instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 126:24:25

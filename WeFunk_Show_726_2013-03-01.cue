@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_726_2013-03-01.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "quarter life crisis"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_726_2013-03-01.mp3" MP3
 		INDEX 01 02:01:35
 	TRACK 03 AUDIO
 		TITLE "talk (over la loop orchestral - the g. train)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:44:70
 	TRACK 04 AUDIO
 		TITLE "use your body and soul"
@@ -113,7 +113,7 @@ FILE "WeFunk_Show_726_2013-03-01.mp3" MP3
 		INDEX 01 104:44:64
 	TRACK 28 AUDIO
 		TITLE "talk (over pete rock - back on the block remix instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 109:08:02
 	TRACK 29 AUDIO
 		TITLE "supanova"

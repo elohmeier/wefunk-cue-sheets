@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_359_2005-01-14.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "rock co.kane flow"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_359_2005-01-14.mp3" MP3
 		INDEX 01 01:58:49
 	TRACK 03 AUDIO
 		TITLE "talk (over d.j. vadim - your revolution instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:03:64
 	TRACK 04 AUDIO
 		TITLE "the professional"
@@ -21,7 +21,7 @@ FILE "WeFunk_Show_359_2005-01-14.mp3" MP3
 		INDEX 01 08:09:68
 	TRACK 05 AUDIO
 		TITLE "chump"
-		PERFORMER "ohno"
+		PERFORMER "oh no"
 		INDEX 01 11:47:58
 	TRACK 06 AUDIO
 		TITLE "theme"
@@ -89,7 +89,7 @@ FILE "WeFunk_Show_359_2005-01-14.mp3" MP3
 		INDEX 01 60:27:06
 	TRACK 22 AUDIO
 		TITLE "on the real tip"
-		PERFORMER "def jeff"
+		PERFORMER "def jef"
 		INDEX 01 63:48:19
 	TRACK 23 AUDIO
 		TITLE "paper thin"
@@ -141,5 +141,5 @@ FILE "WeFunk_Show_359_2005-01-14.mp3" MP3
 		INDEX 01 103:39:66
 	TRACK 35 AUDIO
 		TITLE "talk (over new mastersounds - so many pies)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 105:32:42

@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_221_2002-02-15.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "proceed, pt. ii"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_221_2002-02-15.mp3" MP3
 		INDEX 01 01:58:58
 	TRACK 03 AUDIO
 		TITLE "talk (over d.j. format and m.c. abdominal - ill culinary behaviour instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:01:13
 	TRACK 04 AUDIO
 		TITLE "same ol' thing"
@@ -141,9 +141,9 @@ FILE "WeFunk_Show_221_2002-02-15.mp3" MP3
 		INDEX 01 108:33:47
 	TRACK 35 AUDIO
 		TITLE "a tree never grown"
-		PERFORMER "hip-hop for respect"
+		PERFORMER "hip hop for respect"
 		INDEX 01 111:42:40
 	TRACK 36 AUDIO
 		TITLE "talk (over black moon - act like u want it instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 117:26:61

@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_305_2003-10-24.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "what do i have to do to prove my love for you"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_305_2003-10-24.mp3" MP3
 		INDEX 01 01:58:57
 	TRACK 03 AUDIO
 		TITLE "talk (over bernard purdie - theme from shaft)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:21:73
 	TRACK 04 AUDIO
 		TITLE "patch it up"
@@ -121,5 +121,5 @@ FILE "WeFunk_Show_305_2003-10-24.mp3" MP3
 		INDEX 01 105:09:66
 	TRACK 30 AUDIO
 		TITLE "talk (over black heat - love the life you live)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 108:19:63

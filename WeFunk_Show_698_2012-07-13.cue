@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_698_2012-07-13.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "i wouldn't change a thing"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_698_2012-07-13.mp3" MP3
 		INDEX 01 01:26:70
 	TRACK 03 AUDIO
 		TITLE "talk (over deodato - batuque)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:41:59
 	TRACK 04 AUDIO
 		TITLE "cashing in"
@@ -129,7 +129,7 @@ FILE "WeFunk_Show_698_2012-07-13.mp3" MP3
 		INDEX 01 90:18:19
 	TRACK 32 AUDIO
 		TITLE "keep on looking (kenny dope remix)"
-		PERFORMER "sharon jones & the dap kings"
+		PERFORMER "sharon jones & the dap-kings"
 		INDEX 01 93:52:59
 	TRACK 33 AUDIO
 		TITLE "while you sleep"
@@ -145,7 +145,7 @@ FILE "WeFunk_Show_698_2012-07-13.mp3" MP3
 		INDEX 01 106:14:13
 	TRACK 36 AUDIO
 		TITLE "talk (over ge-ology - communicate remix instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 109:13:56
 	TRACK 37 AUDIO
 		TITLE "summertime"

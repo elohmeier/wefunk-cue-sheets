@@ -5,15 +5,15 @@ REM Genre : HipHop
 FILE "WeFunk_Show_180_2001-04-20.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "think"
 		PERFORMER "james brown"
 		INDEX 01 01:58:21
 	TRACK 03 AUDIO
-		TITLE "talk (over grover washington jr. - knucklehead)"
-		PERFORMER ""
+		TITLE "talk (over grover washington, jr. - knucklehead)"
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:12:12
 	TRACK 04 AUDIO
 		TITLE "shakey ground"
@@ -28,8 +28,8 @@ FILE "WeFunk_Show_180_2001-04-20.mp3" MP3
 		PERFORMER "gap band"
 		INDEX 01 17:03:21
 	TRACK 07 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 20:27:01
 	TRACK 08 AUDIO
 		TITLE "wake up"
@@ -37,7 +37,7 @@ FILE "WeFunk_Show_180_2001-04-20.mp3" MP3
 		INDEX 01 28:56:21
 	TRACK 09 AUDIO
 		TITLE "i like it (remix)"
-		PERFORMER "grand puba feat. sadat x"
+		PERFORMER "grand puba feat. sadat x."
 		INDEX 01 32:41:46
 	TRACK 10 AUDIO
 		TITLE "patience"
@@ -68,8 +68,8 @@ FILE "WeFunk_Show_180_2001-04-20.mp3" MP3
 		PERFORMER "james brown"
 		INDEX 01 60:05:37
 	TRACK 17 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 63:45:49
 	TRACK 18 AUDIO
 		TITLE "hot pants - i'm coming, coming, i'm coming"
@@ -125,5 +125,5 @@ FILE "WeFunk_Show_180_2001-04-20.mp3" MP3
 		INDEX 01 111:46:29
 	TRACK 31 AUDIO
 		TITLE "talk (over maynard ferguson - nice n' juicy)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 115:59:11

@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_276_2003-03-28.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "i wanna sang"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_276_2003-03-28.mp3" MP3
 		INDEX 01 01:58:41
 	TRACK 03 AUDIO
 		TITLE "talk (over maceo & all the king's men - southwick)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 06:59:34
 	TRACK 04 AUDIO
 		TITLE "love me right girl"
@@ -33,7 +33,7 @@ FILE "WeFunk_Show_276_2003-03-28.mp3" MP3
 		INDEX 01 18:26:21
 	TRACK 08 AUDIO
 		TITLE "talk (over quasimoto - low class conspiracy instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 21:06:72
 	TRACK 09 AUDIO
 		TITLE "kick styles"
@@ -129,5 +129,5 @@ FILE "WeFunk_Show_276_2003-03-28.mp3" MP3
 		INDEX 01 109:15:48
 	TRACK 32 AUDIO
 		TITLE "talk (over nite-liters - k-jee)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 112:24:24

@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_299_2003-09-12.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "verbal expression of t.v."
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_299_2003-09-12.mp3" MP3
 		INDEX 01 01:58:23
 	TRACK 03 AUDIO
 		TITLE "talk (over ike turner & the kings of rhythm - thinking black)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:24:69
 	TRACK 04 AUDIO
 		TITLE "what so never the dance"
@@ -105,7 +105,7 @@ FILE "WeFunk_Show_299_2003-09-12.mp3" MP3
 		INDEX 01 74:43:50
 	TRACK 26 AUDIO
 		TITLE "talk (over kenny dope - supa)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 78:13:22
 	TRACK 27 AUDIO
 		TITLE "i got a love"
@@ -153,5 +153,5 @@ FILE "WeFunk_Show_299_2003-09-12.mp3" MP3
 		INDEX 01 106:15:67
 	TRACK 38 AUDIO
 		TITLE "talk (over jill scott - love rain instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 109:16:11

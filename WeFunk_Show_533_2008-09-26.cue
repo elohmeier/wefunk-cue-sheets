@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_533_2008-09-26.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "thanks for everything"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_533_2008-09-26.mp3" MP3
 		INDEX 01 02:01:33
 	TRACK 03 AUDIO
 		TITLE "talk (over chain reaction - dance freak)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 06:01:45
 	TRACK 04 AUDIO
 		TITLE "kung fu"
@@ -137,5 +137,5 @@ FILE "WeFunk_Show_533_2008-09-26.mp3" MP3
 		INDEX 01 107:04:31
 	TRACK 34 AUDIO
 		TITLE "talk (over damu - to r.b.i.)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 110:51:36

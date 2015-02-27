@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_762_2013-12-20.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "what am i gonna do now"
@@ -17,7 +17,7 @@ FILE "WeFunk_Show_762_2013-12-20.mp3" MP3
 		INDEX 01 03:59:34
 	TRACK 04 AUDIO
 		TITLE "talk (over cameo - the sound table)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:50:20
 	TRACK 05 AUDIO
 		TITLE "boss man"
@@ -129,7 +129,7 @@ FILE "WeFunk_Show_762_2013-12-20.mp3" MP3
 		INDEX 01 111:55:15
 	TRACK 32 AUDIO
 		TITLE "talk (over frankie payne - reach instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 115:43:34
 	TRACK 33 AUDIO
 		TITLE "trillmatic"

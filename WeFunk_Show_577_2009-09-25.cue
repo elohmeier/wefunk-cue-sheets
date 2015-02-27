@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_577_2009-09-25.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "the tin drum (d.j. farrapo remix)"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_577_2009-09-25.mp3" MP3
 		INDEX 01 01:14:07
 	TRACK 03 AUDIO
 		TITLE "talk (over steven perri & zamaun - street scene)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:17:67
 	TRACK 04 AUDIO
 		TITLE "reality"
@@ -53,7 +53,7 @@ FILE "WeFunk_Show_577_2009-09-25.mp3" MP3
 		INDEX 01 41:27:06
 	TRACK 13 AUDIO
 		TITLE "talk (over grandmaster flash & the furious five - superrappin' theme)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 49:59:15
 	TRACK 14 AUDIO
 		TITLE "i'm mad (d.j. scratch jazz mix)"
@@ -125,7 +125,7 @@ FILE "WeFunk_Show_577_2009-09-25.mp3" MP3
 		INDEX 01 106:33:15
 	TRACK 31 AUDIO
 		TITLE "talk (over sikh knowledge - methane)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 109:16:09
 	TRACK 32 AUDIO
 		TITLE "higher for hire"

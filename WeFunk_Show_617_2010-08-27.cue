@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_617_2010-08-27.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "hood pass"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_617_2010-08-27.mp3" MP3
 		INDEX 01 01:14:32
 	TRACK 03 AUDIO
 		TITLE "talk (over j. dilla - safety dance)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:14:69
 	TRACK 04 AUDIO
 		TITLE "welcome (gotta go)"
@@ -137,7 +137,7 @@ FILE "WeFunk_Show_617_2010-08-27.mp3" MP3
 		INDEX 01 100:16:21
 	TRACK 34 AUDIO
 		TITLE "talk (over eddie henderson - kudu)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 106:59:01
 	TRACK 35 AUDIO
 		TITLE "life on mars"

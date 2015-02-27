@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_653_2011-07-15.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "eye wonder"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_653_2011-07-15.mp3" MP3
 		INDEX 01 01:14:37
 	TRACK 03 AUDIO
 		TITLE "talk (over mecca 83 - detroit twilight)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 03:48:20
 	TRACK 04 AUDIO
 		TITLE "feelin you (sikh knowledge remix)"
@@ -129,7 +129,7 @@ FILE "WeFunk_Show_653_2011-07-15.mp3" MP3
 		INDEX 01 111:10:35
 	TRACK 32 AUDIO
 		TITLE "talk (over hypnotic brass ensemble - starfighter)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 112:53:46
 	TRACK 33 AUDIO
 		TITLE "booty bang"

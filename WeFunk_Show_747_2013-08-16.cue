@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_747_2013-08-16.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "sucka nigga"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_747_2013-08-16.mp3" MP3
 		INDEX 01 01:40:24
 	TRACK 03 AUDIO
 		TITLE "talk (over o.c. - burn me slow instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:35:40
 	TRACK 04 AUDIO
 		TITLE "hang on"
@@ -289,7 +289,7 @@ FILE "WeFunk_Show_747_2013-08-16.mp3" MP3
 		INDEX 01 114:33:65
 	TRACK 72 AUDIO
 		TITLE "talk (over ramsey lewis - kufanya mapenzi (making love))"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 117:32:17
 	TRACK 73 AUDIO
 		TITLE "explodition"

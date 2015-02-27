@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_637_2011-02-25.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "sunshine on my shoulders"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_637_2011-02-25.mp3" MP3
 		INDEX 01 01:26:74
 	TRACK 03 AUDIO
 		TITLE "talk (over arzachel - queen st. gang)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:24:54
 	TRACK 04 AUDIO
 		TITLE "time is right for love (prince of ballard remix splice)"
@@ -157,7 +157,7 @@ FILE "WeFunk_Show_637_2011-02-25.mp3" MP3
 		INDEX 01 114:08:51
 	TRACK 39 AUDIO
 		TITLE "talk (over the naturals - funk)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 117:09:74
 	TRACK 40 AUDIO
 		TITLE "glide"

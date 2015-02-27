@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_363_2005-02-11.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "i'm gonna love you just a little more babe"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_363_2005-02-11.mp3" MP3
 		INDEX 01 01:58:61
 	TRACK 03 AUDIO
 		TITLE "talk (over jimmy smith - bro' pugh)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 06:10:03
 	TRACK 04 AUDIO
 		TITLE "root down (and get it)"
@@ -105,7 +105,7 @@ FILE "WeFunk_Show_363_2005-02-11.mp3" MP3
 		INDEX 01 92:51:56
 	TRACK 26 AUDIO
 		TITLE "dirty south"
-		PERFORMER "goodie mobb"
+		PERFORMER "goodie mob"
 		INDEX 01 95:19:61
 	TRACK 27 AUDIO
 		TITLE "i confess"
@@ -140,6 +140,6 @@ FILE "WeFunk_Show_363_2005-02-11.mp3" MP3
 		PERFORMER "thirstin howl iii"
 		INDEX 01 115:05:47
 	TRACK 35 AUDIO
-		TITLE "talk (over wu-tang - c.r.e.a.m. instrumental)"
-		PERFORMER ""
+		TITLE "talk (over wu-tang clan - c.r.e.a.m. instrumental)"
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 118:19:56

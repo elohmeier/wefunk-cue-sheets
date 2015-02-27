@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_257_2002-11-01.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "long road to glory"
@@ -45,19 +45,19 @@ FILE "WeFunk_Show_257_2002-11-01.mp3" MP3
 		INDEX 01 27:33:39
 	TRACK 11 AUDIO
 		TITLE "paid in full"
-		PERFORMER "eric b & rakim"
+		PERFORMER "eric b. & rakim"
 		INDEX 01 31:45:46
 	TRACK 12 AUDIO
 		TITLE "talk (over jungle brothers - on the road again (q-tip remix instrumental))"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 38:34:40
 	TRACK 13 AUDIO
 		TITLE "the music"
 		PERFORMER "intricate syndicate"
 		INDEX 01 40:29:43
 	TRACK 14 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 43:43:42
 	TRACK 15 AUDIO
 		TITLE "it's the music that makes you do it"
@@ -125,7 +125,7 @@ FILE "WeFunk_Show_257_2002-11-01.mp3" MP3
 		INDEX 01 93:57:42
 	TRACK 31 AUDIO
 		TITLE "talk (over manu dibango - soul makossa)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 96:23:17
 	TRACK 32 AUDIO
 		TITLE "dynamic diction"

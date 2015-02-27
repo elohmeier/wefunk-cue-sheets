@@ -5,11 +5,11 @@ REM Genre : HipHop
 FILE "WeFunk_Show_314_2004-01-17.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "talk (over shawn phillips - i don't want to leave you, i just came to say goodbye)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 01:59:02
 	TRACK 03 AUDIO
 		TITLE "just tryin' to live"
@@ -17,7 +17,7 @@ FILE "WeFunk_Show_314_2004-01-17.mp3" MP3
 		INDEX 01 13:08:15
 	TRACK 04 AUDIO
 		TITLE "doin' time in the cypha"
-		PERFORMER "madd skillz"
+		PERFORMER "mad skillz"
 		INDEX 01 17:50:07
 	TRACK 05 AUDIO
 		TITLE "come into knowledge"
@@ -145,5 +145,5 @@ FILE "WeFunk_Show_314_2004-01-17.mp3" MP3
 		INDEX 01 111:54:31
 	TRACK 36 AUDIO
 		TITLE "talk (over digi onze - petaco)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 114:13:47

@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_683_2012-03-16.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "kick, push (elaquent remix)"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_683_2012-03-16.mp3" MP3
 		INDEX 01 02:01:43
 	TRACK 03 AUDIO
 		TITLE "talk (over oddisee - chocolate city dreaming)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:14:33
 	TRACK 04 AUDIO
 		TITLE "we go off"
@@ -149,7 +149,7 @@ FILE "WeFunk_Show_683_2012-03-16.mp3" MP3
 		INDEX 01 108:45:19
 	TRACK 37 AUDIO
 		TITLE "talk (over georgee - her name is jo-dance)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 111:28:64
 	TRACK 38 AUDIO
 		TITLE "u. r. the one"

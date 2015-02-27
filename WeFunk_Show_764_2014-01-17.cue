@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_764_2014-01-17.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "make me believe in you"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_764_2014-01-17.mp3" MP3
 		INDEX 01 02:01:39
 	TRACK 03 AUDIO
 		TITLE "talk (over a.s.m. - certified organic instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 06:23:27
 	TRACK 04 AUDIO
 		TITLE "sang & dance"
@@ -137,7 +137,7 @@ FILE "WeFunk_Show_764_2014-01-17.mp3" MP3
 		INDEX 01 109:52:23
 	TRACK 34 AUDIO
 		TITLE "talk (over badbadnotgood - limit to your love)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 112:41:22
 	TRACK 35 AUDIO
 		TITLE "banana clipper"

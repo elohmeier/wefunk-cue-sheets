@@ -5,15 +5,15 @@ REM Genre : HipHop
 FILE "WeFunk_Show_280_2003-04-25.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "the bump"
 		PERFORMER "commodores"
 		INDEX 01 01:57:68
 	TRACK 03 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 07:06:14
 	TRACK 04 AUDIO
 		TITLE "workin' on the line"
@@ -128,8 +128,8 @@ FILE "WeFunk_Show_280_2003-04-25.mp3" MP3
 		PERFORMER "j.b.'s"
 		INDEX 01 104:30:07
 	TRACK 32 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 106:21:53
 	TRACK 33 AUDIO
 		TITLE "bad bad simba"

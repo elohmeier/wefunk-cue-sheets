@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_728_2013-03-15.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "stretch"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_728_2013-03-15.mp3" MP3
 		INDEX 01 01:40:22
 	TRACK 03 AUDIO
 		TITLE "talk (over big pimp jones - u.f.ho)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:58:52
 	TRACK 04 AUDIO
 		TITLE "primetime (uptown express)"
@@ -129,7 +129,7 @@ FILE "WeFunk_Show_728_2013-03-15.mp3" MP3
 		INDEX 01 107:16:01
 	TRACK 32 AUDIO
 		TITLE "talk (over d-sisive - if instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 111:19:40
 	TRACK 33 AUDIO
 		TITLE "let it show"

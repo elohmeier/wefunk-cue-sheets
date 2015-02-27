@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_593_2010-02-12.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "ridiculous"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_593_2010-02-12.mp3" MP3
 		INDEX 01 01:32:36
 	TRACK 03 AUDIO
 		TITLE "talk (over q-tip - move instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:16:72
 	TRACK 04 AUDIO
 		TITLE "raw shit"
@@ -61,7 +61,7 @@ FILE "WeFunk_Show_593_2010-02-12.mp3" MP3
 		INDEX 01 34:19:27
 	TRACK 15 AUDIO
 		TITLE "make it funky (dub version)"
-		PERFORMER "ice t"
+		PERFORMER "ice t."
 		INDEX 01 35:57:66
 	TRACK 16 AUDIO
 		TITLE "funky drummer (bonus beat reprise)"
@@ -177,7 +177,7 @@ FILE "WeFunk_Show_593_2010-02-12.mp3" MP3
 		INDEX 01 113:34:18
 	TRACK 44 AUDIO
 		TITLE "talk (over piero umiliani - lady magnolia)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 116:53:11
 	TRACK 45 AUDIO
 		TITLE "hall & oates"

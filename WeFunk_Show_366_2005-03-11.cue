@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_366_2005-03-11.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "funky in the hole"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_366_2005-03-11.mp3" MP3
 		INDEX 01 01:58:74
 	TRACK 03 AUDIO
 		TITLE "talk (over new mastersounds - zambezi)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:20:27
 	TRACK 04 AUDIO
 		TITLE "gnaoua"
@@ -125,5 +125,5 @@ FILE "WeFunk_Show_366_2005-03-11.mp3" MP3
 		INDEX 01 104:58:57
 	TRACK 31 AUDIO
 		TITLE "talk (over candido - candido's funk)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 108:13:54

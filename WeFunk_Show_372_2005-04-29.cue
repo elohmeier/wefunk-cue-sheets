@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_372_2005-04-29.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "new definition"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_372_2005-04-29.mp3" MP3
 		INDEX 01 01:58:53
 	TRACK 03 AUDIO
 		TITLE "talk (over calypso king & the soul investigators - gator funk)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:56:40
 	TRACK 04 AUDIO
 		TITLE "clap your hands"
@@ -52,8 +52,8 @@ FILE "WeFunk_Show_372_2005-04-29.mp3" MP3
 		PERFORMER "roy ayers"
 		INDEX 01 36:32:67
 	TRACK 13 AUDIO
-		TITLE "talk (over idris muhammed - loran's dance)"
-		PERFORMER ""
+		TITLE "talk (over idris muhammad - loran's dance)"
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 39:58:47
 	TRACK 14 AUDIO
 		TITLE "brick by brick"
@@ -73,7 +73,7 @@ FILE "WeFunk_Show_372_2005-04-29.mp3" MP3
 		INDEX 01 57:13:29
 	TRACK 18 AUDIO
 		TITLE "talk (over group home - suspended in time instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 61:03:58
 	TRACK 19 AUDIO
 		TITLE "suspended in time"
@@ -117,7 +117,7 @@ FILE "WeFunk_Show_372_2005-04-29.mp3" MP3
 		INDEX 01 89:39:52
 	TRACK 29 AUDIO
 		TITLE "what if we all stopped paying taxes?"
-		PERFORMER "sharon jones & the dap kings"
+		PERFORMER "sharon jones & the dap-kings"
 		INDEX 01 91:56:57
 	TRACK 30 AUDIO
 		TITLE "con-funk-shun"
@@ -129,5 +129,5 @@ FILE "WeFunk_Show_372_2005-04-29.mp3" MP3
 		INDEX 01 101:01:08
 	TRACK 32 AUDIO
 		TITLE "talk (over ivan "boogaloo joe" jones - sweetback)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 105:50:10

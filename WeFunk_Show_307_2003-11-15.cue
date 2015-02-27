@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_307_2003-11-15.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "keep on bumpin before you give out of gas"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_307_2003-11-15.mp3" MP3
 		INDEX 01 01:58:13
 	TRACK 03 AUDIO
 		TITLE "talk (over reuben wilson - ronnie's bonnie)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:21:30
 	TRACK 04 AUDIO
 		TITLE "the jungle"
@@ -24,8 +24,8 @@ FILE "WeFunk_Show_307_2003-11-15.mp3" MP3
 		PERFORMER "mr. roam"
 		INDEX 01 14:10:19
 	TRACK 06 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 17:13:12
 	TRACK 07 AUDIO
 		TITLE "who do you adore"
@@ -48,8 +48,8 @@ FILE "WeFunk_Show_307_2003-11-15.mp3" MP3
 		PERFORMER "black moon"
 		INDEX 01 33:55:44
 	TRACK 12 AUDIO
-		TITLE "1, 2 pass it"
-		PERFORMER "d&d allstars"
+		TITLE "1,2 pass it"
+		PERFORMER "d&d all-stars"
 		INDEX 01 37:48:01
 	TRACK 13 AUDIO
 		TITLE "move it over here"
@@ -120,6 +120,6 @@ FILE "WeFunk_Show_307_2003-11-15.mp3" MP3
 		PERFORMER "big dro"
 		INDEX 01 106:23:66
 	TRACK 30 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 111:24:72

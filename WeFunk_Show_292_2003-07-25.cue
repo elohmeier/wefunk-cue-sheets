@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_292_2003-07-25.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "a funky song"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_292_2003-07-25.mp3" MP3
 		INDEX 01 01:59:01
 	TRACK 03 AUDIO
 		TITLE "talk (over mandrill - fat city strut)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:56:06
 	TRACK 04 AUDIO
 		TITLE "mango meat"
@@ -93,7 +93,7 @@ FILE "WeFunk_Show_292_2003-07-25.mp3" MP3
 		INDEX 01 68:55:15
 	TRACK 23 AUDIO
 		TITLE "questions"
-		PERFORMER "madkap"
+		PERFORMER "mad kap"
 		INDEX 01 74:07:01
 	TRACK 24 AUDIO
 		TITLE "nose job"
@@ -172,6 +172,6 @@ FILE "WeFunk_Show_292_2003-07-25.mp3" MP3
 		PERFORMER "shyheim"
 		INDEX 01 106:04:04
 	TRACK 43 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 110:16:53

@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_709_2012-10-12.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "young and holtful"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_709_2012-10-12.mp3" MP3
 		INDEX 01 01:40:12
 	TRACK 03 AUDIO
 		TITLE "talk (over soumez - brother)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:24:58
 	TRACK 04 AUDIO
 		TITLE "a world without you"
@@ -181,7 +181,7 @@ FILE "WeFunk_Show_709_2012-10-12.mp3" MP3
 		INDEX 01 108:01:55
 	TRACK 45 AUDIO
 		TITLE "talk (over marcus miller - frankenstein)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 111:14:00
 	TRACK 46 AUDIO
 		TITLE "sometimes (ummah remix)"

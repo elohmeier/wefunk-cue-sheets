@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_737_2013-05-24.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "get away"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_737_2013-05-24.mp3" MP3
 		INDEX 01 01:44:54
 	TRACK 03 AUDIO
 		TITLE "talk (over sick lyrical damager - it's over instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:43:73
 	TRACK 04 AUDIO
 		TITLE "rampage"
@@ -149,7 +149,7 @@ FILE "WeFunk_Show_737_2013-05-24.mp3" MP3
 		INDEX 01 105:11:34
 	TRACK 37 AUDIO
 		TITLE "talk (over 24-carat black - brown baggin')"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 108:16:12
 	TRACK 38 AUDIO
 		TITLE "brown baggin'"

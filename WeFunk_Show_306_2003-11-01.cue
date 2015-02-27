@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_306_2003-11-01.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "i'm just not ready for love"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_306_2003-11-01.mp3" MP3
 		INDEX 01 01:58:24
 	TRACK 03 AUDIO
 		TITLE "talk (over maceo & all the king's men - better half)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:11:65
 	TRACK 04 AUDIO
 		TITLE "slippery when wet"
@@ -128,6 +128,6 @@ FILE "WeFunk_Show_306_2003-11-01.mp3" MP3
 		PERFORMER "jean grae"
 		INDEX 01 107:05:19
 	TRACK 32 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 110:30:26

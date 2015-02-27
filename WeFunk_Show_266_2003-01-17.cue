@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_266_2003-01-17.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "getting uptown (to get down)"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_266_2003-01-17.mp3" MP3
 		INDEX 01 01:55:07
 	TRACK 03 AUDIO
 		TITLE "talk (over fabulous counts - dirty red)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 06:09:31
 	TRACK 04 AUDIO
 		TITLE "talking about a good thing"
@@ -77,7 +77,7 @@ FILE "WeFunk_Show_266_2003-01-17.mp3" MP3
 		INDEX 01 69:09:15
 	TRACK 19 AUDIO
 		TITLE "spirit of '92"
-		PERFORMER "mas pyke"
+		PERFORMER "maspyke"
 		INDEX 01 72:42:73
 	TRACK 20 AUDIO
 		TITLE "clean up woman"
@@ -109,5 +109,5 @@ FILE "WeFunk_Show_266_2003-01-17.mp3" MP3
 		INDEX 01 94:08:56
 	TRACK 27 AUDIO
 		TITLE "talk (over eugene wilde - gotta get you home tonight)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 97:27:05

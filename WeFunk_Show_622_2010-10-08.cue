@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_622_2010-10-08.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "devil with the bust"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_622_2010-10-08.mp3" MP3
 		INDEX 01 02:01:66
 	TRACK 03 AUDIO
 		TITLE "talk (over a.y.b. force - hardboiled)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 07:22:35
 	TRACK 04 AUDIO
 		TITLE "reversed (nostalgia 77 mix)"
@@ -145,7 +145,7 @@ FILE "WeFunk_Show_622_2010-10-08.mp3" MP3
 		INDEX 01 112:59:57
 	TRACK 36 AUDIO
 		TITLE "talk (over mass influence - clown syndrome instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 115:46:61
 	TRACK 37 AUDIO
 		TITLE "clown syndrome"

@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_627_2010-12-03.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "the jerk"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_627_2010-12-03.mp3" MP3
 		INDEX 01 01:32:31
 	TRACK 03 AUDIO
 		TITLE "talk (over irving martin & brian dee - indianapolis 2 (pat les stache re-edit))"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:20:33
 	TRACK 04 AUDIO
 		TITLE "i wanna know"
@@ -149,5 +149,5 @@ FILE "WeFunk_Show_627_2010-12-03.mp3" MP3
 		INDEX 01 111:05:17
 	TRACK 37 AUDIO
 		TITLE "talk (over richard "groove" holmes - onsaya joy)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 114:16:28

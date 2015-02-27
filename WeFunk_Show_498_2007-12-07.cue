@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_498_2007-12-07.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "represent"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_498_2007-12-07.mp3" MP3
 		INDEX 01 01:58:37
 	TRACK 03 AUDIO
 		TITLE "talk (over alkaholiks - relieve yourself instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:23:20
 	TRACK 04 AUDIO
 		TITLE "can't tell me shit"
@@ -133,5 +133,5 @@ FILE "WeFunk_Show_498_2007-12-07.mp3" MP3
 		INDEX 01 99:12:15
 	TRACK 33 AUDIO
 		TITLE "talk (over rahsaan roland kirk - fly town nose blues)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 103:38:45

@@ -5,15 +5,15 @@ REM Genre : HipHop
 FILE "WeFunk_Show_168_2001-01-26.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "baby let me steal you"
 		PERFORMER "joe tex"
 		INDEX 01 01:58:08
 	TRACK 03 AUDIO
-		TITLE "talk (over grover washington jr. - knucklehead)"
-		PERFORMER ""
+		TITLE "talk (over grover washington, jr. - knucklehead)"
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 03:50:32
 	TRACK 04 AUDIO
 		TITLE "the weather report"
@@ -133,5 +133,5 @@ FILE "WeFunk_Show_168_2001-01-26.mp3" MP3
 		INDEX 01 110:56:53
 	TRACK 33 AUDIO
 		TITLE "talk (over curtis mayfield - can't say nothin')"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 113:31:36

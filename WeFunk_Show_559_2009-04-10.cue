@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_559_2009-04-10.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "related to what"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_559_2009-04-10.mp3" MP3
 		INDEX 01 01:26:61
 	TRACK 03 AUDIO
 		TITLE "talk (over roy ayers - aragon)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:31:59
 	TRACK 04 AUDIO
 		TITLE "i feel good"
@@ -145,7 +145,7 @@ FILE "WeFunk_Show_559_2009-04-10.mp3" MP3
 		INDEX 01 111:26:31
 	TRACK 36 AUDIO
 		TITLE "talk (over mobb deep - still shinin' instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 114:40:23
 	TRACK 37 AUDIO
 		TITLE "still shinin'"

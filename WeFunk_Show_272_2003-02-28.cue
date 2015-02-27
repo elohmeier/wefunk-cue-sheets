@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_272_2003-02-28.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "p.l.o. style"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_272_2003-02-28.mp3" MP3
 		INDEX 01 01:58:51
 	TRACK 03 AUDIO
 		TITLE "talk (over method man - p.l.o. style instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 09:26:28
 	TRACK 04 AUDIO
 		TITLE "beg no friends"
@@ -45,11 +45,11 @@ FILE "WeFunk_Show_272_2003-02-28.mp3" MP3
 		INDEX 01 33:10:22
 	TRACK 11 AUDIO
 		TITLE "the revolution will not be televised"
-		PERFORMER "gill scott-heron"
+		PERFORMER "gil scott-heron"
 		INDEX 01 37:20:40
 	TRACK 12 AUDIO
 		TITLE "i can't take no more"
-		PERFORMER "diamond d & lakin shabazz"
+		PERFORMER "diamond d. & lakim shabazz"
 		INDEX 01 40:08:16
 	TRACK 13 AUDIO
 		TITLE "renee"
@@ -61,7 +61,7 @@ FILE "WeFunk_Show_272_2003-02-28.mp3" MP3
 		INDEX 01 48:11:64
 	TRACK 15 AUDIO
 		TITLE "questions"
-		PERFORMER "madkap"
+		PERFORMER "mad kap"
 		INDEX 01 52:45:46
 	TRACK 16 AUDIO
 		TITLE "manslaughter"
@@ -97,19 +97,19 @@ FILE "WeFunk_Show_272_2003-02-28.mp3" MP3
 		INDEX 01 87:10:53
 	TRACK 24 AUDIO
 		TITLE "slappin' suckas silly"
-		PERFORMER "yagfu front"
+		PERFORMER "yaggfu front"
 		INDEX 01 90:22:50
 	TRACK 25 AUDIO
 		TITLE "up & down"
 		PERFORMER "grand puba"
 		INDEX 01 93:40:40
 	TRACK 26 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 96:32:54
 	TRACK 27 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 98:12:35
 	TRACK 28 AUDIO
 		TITLE "you said a bad word"
@@ -129,7 +129,7 @@ FILE "WeFunk_Show_272_2003-02-28.mp3" MP3
 		INDEX 01 109:08:35
 	TRACK 32 AUDIO
 		TITLE "talk (over mohawks - beat me 'til i'm blue)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 111:46:60
 	TRACK 33 AUDIO
 		TITLE "she's the one"

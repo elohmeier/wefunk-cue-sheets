@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_515_2008-04-25.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "things got to get better (get together)"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_515_2008-04-25.mp3" MP3
 		INDEX 01 01:44:53
 	TRACK 03 AUDIO
 		TITLE "talk (over kool & the gang - kool & the gang)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:20:54
 	TRACK 04 AUDIO
 		TITLE "sketches of life"
@@ -25,7 +25,7 @@ FILE "WeFunk_Show_515_2008-04-25.mp3" MP3
 		INDEX 01 10:27:20
 	TRACK 06 AUDIO
 		TITLE "talk (over large professor - millenium)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 13:49:01
 	TRACK 07 AUDIO
 		TITLE "rock the bells"
@@ -45,7 +45,7 @@ FILE "WeFunk_Show_515_2008-04-25.mp3" MP3
 		INDEX 01 28:55:39
 	TRACK 11 AUDIO
 		TITLE "talk (over pete rock - 914 instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 32:01:39
 	TRACK 12 AUDIO
 		TITLE "what's good for you don't have to be good to you"
@@ -65,7 +65,7 @@ FILE "WeFunk_Show_515_2008-04-25.mp3" MP3
 		INDEX 01 54:51:53
 	TRACK 16 AUDIO
 		TITLE "talk (over connie price & the keystones - tell me)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 57:59:46
 	TRACK 17 AUDIO
 		TITLE "shadowboxin' instrumental"
@@ -85,7 +85,7 @@ FILE "WeFunk_Show_515_2008-04-25.mp3" MP3
 		INDEX 01 73:33:00
 	TRACK 21 AUDIO
 		TITLE "talk (over pharoahe monch - the light instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 82:05:18
 	TRACK 22 AUDIO
 		TITLE "danger zone"
@@ -93,7 +93,7 @@ FILE "WeFunk_Show_515_2008-04-25.mp3" MP3
 		INDEX 01 87:50:36
 	TRACK 23 AUDIO
 		TITLE "talk (over marcelo - algo no ar)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 91:24:24
 	TRACK 24 AUDIO
 		TITLE "como"
@@ -105,5 +105,5 @@ FILE "WeFunk_Show_515_2008-04-25.mp3" MP3
 		INDEX 01 102:51:52
 	TRACK 26 AUDIO
 		TITLE "talk (over run-d.m.c. - down with the king instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 106:50:09

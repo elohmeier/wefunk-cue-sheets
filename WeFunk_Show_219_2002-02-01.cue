@@ -5,15 +5,15 @@ REM Genre : HipHop
 FILE "WeFunk_Show_219_2002-02-01.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "ill culinary behaviour"
 		PERFORMER "d.j. format and abdominal"
 		INDEX 01 01:59:08
 	TRACK 03 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 06:28:56
 	TRACK 04 AUDIO
 		TITLE "the rhythm"
@@ -28,8 +28,8 @@ FILE "WeFunk_Show_219_2002-02-01.mp3" MP3
 		PERFORMER "lost boyz"
 		INDEX 01 17:39:00
 	TRACK 07 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 21:14:01
 	TRACK 08 AUDIO
 		TITLE "i ain't no joke"
@@ -45,7 +45,7 @@ FILE "WeFunk_Show_219_2002-02-01.mp3" MP3
 		INDEX 01 45:05:72
 	TRACK 11 AUDIO
 		TITLE "talk (over sugarman three - solid funk)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 49:31:42
 	TRACK 12 AUDIO
 		TITLE "go with the flow"
@@ -57,7 +57,7 @@ FILE "WeFunk_Show_219_2002-02-01.mp3" MP3
 		INDEX 01 55:26:01
 	TRACK 14 AUDIO
 		TITLE "talk (over whitefield brothers - the bastard)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 59:18:02
 	TRACK 15 AUDIO
 		TITLE "releasing hypnotical gases"
@@ -73,7 +73,7 @@ FILE "WeFunk_Show_219_2002-02-01.mp3" MP3
 		INDEX 01 69:40:19
 	TRACK 18 AUDIO
 		TITLE "talk (over d.j. format - last bongo in brighton)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 73:33:67
 	TRACK 19 AUDIO
 		TITLE "juice (instrumental)"
@@ -93,7 +93,7 @@ FILE "WeFunk_Show_219_2002-02-01.mp3" MP3
 		INDEX 01 86:47:59
 	TRACK 23 AUDIO
 		TITLE "talk (over blackbyrds - baby)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 89:23:42
 	TRACK 24 AUDIO
 		TITLE "get the funk out ma face"
@@ -105,7 +105,7 @@ FILE "WeFunk_Show_219_2002-02-01.mp3" MP3
 		INDEX 01 96:33:54
 	TRACK 26 AUDIO
 		TITLE "going way back"
-		PERFORMER "just ice"
+		PERFORMER "just-ice"
 		INDEX 01 100:39:65
 	TRACK 27 AUDIO
 		TITLE "gamin' on ya"
@@ -121,7 +121,7 @@ FILE "WeFunk_Show_219_2002-02-01.mp3" MP3
 		INDEX 01 114:41:00
 	TRACK 30 AUDIO
 		TITLE "talk (over willie bobo & the bo-gents - broasted or fried)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 117:51:40
 	TRACK 31 AUDIO
 		TITLE "el bobo"

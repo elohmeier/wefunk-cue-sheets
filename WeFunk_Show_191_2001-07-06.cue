@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_191_2001-07-06.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "sophisticated lady"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_191_2001-07-06.mp3" MP3
 		INDEX 01 01:58:26
 	TRACK 03 AUDIO
 		TITLE "talk (over j.b.'s - (it's not the express) it's j.b.'s monorail)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:14:51
 	TRACK 04 AUDIO
 		TITLE "do it fluid"
@@ -89,7 +89,7 @@ FILE "WeFunk_Show_191_2001-07-06.mp3" MP3
 		INDEX 01 60:00:61
 	TRACK 22 AUDIO
 		TITLE "can it be all so simple"
-		PERFORMER "wu tang"
+		PERFORMER "wu-tang clan"
 		INDEX 01 63:27:04
 	TRACK 23 AUDIO
 		TITLE "frisky"
@@ -153,7 +153,7 @@ FILE "WeFunk_Show_191_2001-07-06.mp3" MP3
 		INDEX 01 107:16:53
 	TRACK 38 AUDIO
 		TITLE "talk (over pete rock - pete's jazz)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 110:26:20
 	TRACK 39 AUDIO
 		TITLE "kool & the gang"

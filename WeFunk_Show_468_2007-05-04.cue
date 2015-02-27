@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_468_2007-05-04.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "fight the power"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_468_2007-05-04.mp3" MP3
 		INDEX 01 01:58:42
 	TRACK 03 AUDIO
 		TITLE "talk (over public enemy - give it up instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:30:36
 	TRACK 04 AUDIO
 		TITLE "hip hop drunkies"
@@ -29,7 +29,7 @@ FILE "WeFunk_Show_468_2007-05-04.mp3" MP3
 		INDEX 01 13:40:34
 	TRACK 07 AUDIO
 		TITLE "talk (over bar-kays - holy ghost d.j. slyde edit)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 16:33:04
 	TRACK 08 AUDIO
 		TITLE "we need some money"
@@ -49,7 +49,7 @@ FILE "WeFunk_Show_468_2007-05-04.mp3" MP3
 		INDEX 01 28:18:31
 	TRACK 12 AUDIO
 		TITLE "talk (over maceo & the macks - paarrty)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 31:33:72
 	TRACK 13 AUDIO
 		TITLE "nija walk (street walk)"
@@ -101,7 +101,7 @@ FILE "WeFunk_Show_468_2007-05-04.mp3" MP3
 		INDEX 01 76:27:59
 	TRACK 25 AUDIO
 		TITLE "talk (over julius brockington - the feeling)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 98:14:72
 	TRACK 26 AUDIO
 		TITLE "swing too high"
@@ -113,5 +113,5 @@ FILE "WeFunk_Show_468_2007-05-04.mp3" MP3
 		INDEX 01 107:03:56
 	TRACK 28 AUDIO
 		TITLE "talk (over herbie hancock - wiggle waggle)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 112:27:48

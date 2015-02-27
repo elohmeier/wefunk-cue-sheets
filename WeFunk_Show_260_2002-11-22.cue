@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_260_2002-11-22.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "gang progress"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_260_2002-11-22.mp3" MP3
 		INDEX 01 02:00:28
 	TRACK 03 AUDIO
 		TITLE "talk (over stanley turrentine - spooky)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:02:74
 	TRACK 04 AUDIO
 		TITLE "pass the peas"
@@ -112,6 +112,6 @@ FILE "WeFunk_Show_260_2002-11-22.mp3" MP3
 		PERFORMER "nite-liters"
 		INDEX 01 83:34:11
 	TRACK 28 AUDIO
-		TITLE "talk (over grover washington jr. - knucklehead)"
-		PERFORMER ""
+		TITLE "talk (over grover washington, jr. - knucklehead)"
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 86:13:09

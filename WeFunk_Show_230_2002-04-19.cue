@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_230_2002-04-19.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "if you got a love you better (hold onto it)"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_230_2002-04-19.mp3" MP3
 		INDEX 01 01:59:13
 	TRACK 03 AUDIO
 		TITLE "talk (over other side - diggin' up the yard)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 07:03:50
 	TRACK 04 AUDIO
 		TITLE "escape-ism"
@@ -69,7 +69,7 @@ FILE "WeFunk_Show_230_2002-04-19.mp3" MP3
 		INDEX 01 47:29:11
 	TRACK 17 AUDIO
 		TITLE "up on prospect"
-		PERFORMER "hill figuz"
+		PERFORMER "hillfiguz"
 		INDEX 01 51:47:44
 	TRACK 18 AUDIO
 		TITLE "give peace a chance"
@@ -141,5 +141,5 @@ FILE "WeFunk_Show_230_2002-04-19.mp3" MP3
 		INDEX 01 110:55:35
 	TRACK 35 AUDIO
 		TITLE "talk (over ohio players - there it is)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 113:43:08

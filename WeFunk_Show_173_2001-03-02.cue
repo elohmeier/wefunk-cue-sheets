@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_173_2001-03-02.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "how you gonna get respect (when you haven't cut your process yet)"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_173_2001-03-02.mp3" MP3
 		INDEX 01 01:58:70
 	TRACK 03 AUDIO
 		TITLE "talk (over harvey & the phenomenals - soul & sunshine)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:12:63
 	TRACK 04 AUDIO
 		TITLE "hang out & hustle"
@@ -60,7 +60,7 @@ FILE "WeFunk_Show_173_2001-03-02.mp3" MP3
 		PERFORMER "down south"
 		INDEX 01 44:58:51
 	TRACK 15 AUDIO
-		TITLE "brave and strong"
+		TITLE "brave & strong"
 		PERFORMER "sly & the family stone"
 		INDEX 01 48:37:69
 	TRACK 16 AUDIO
@@ -81,7 +81,7 @@ FILE "WeFunk_Show_173_2001-03-02.mp3" MP3
 		INDEX 01 63:01:21
 	TRACK 20 AUDIO
 		TITLE "follow the leader"
-		PERFORMER "eric b & rakim"
+		PERFORMER "eric b. & rakim"
 		INDEX 01 67:04:01
 	TRACK 21 AUDIO
 		TITLE "what's it all about"

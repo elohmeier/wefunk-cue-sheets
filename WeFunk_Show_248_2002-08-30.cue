@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_248_2002-08-30.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "answer to mother popcorn (i got a mother for you)"
@@ -17,7 +17,7 @@ FILE "WeFunk_Show_248_2002-08-30.mp3" MP3
 		INDEX 01 04:57:21
 	TRACK 04 AUDIO
 		TITLE "talk (over united 8 - getting uptown)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 07:54:49
 	TRACK 05 AUDIO
 		TITLE "chick a boom"
@@ -137,7 +137,7 @@ FILE "WeFunk_Show_248_2002-08-30.mp3" MP3
 		INDEX 01 103:15:24
 	TRACK 34 AUDIO
 		TITLE "talk (over j.b.'s - in the middle)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 111:24:17
 	TRACK 35 AUDIO
 		TITLE "record making manual"

@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_408_2006-01-27.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "funky 8 corners"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_408_2006-01-27.mp3" MP3
 		INDEX 01 01:58:39
 	TRACK 03 AUDIO
 		TITLE "talk (over fatback band - fatbackin')"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:10:15
 	TRACK 04 AUDIO
 		TITLE "don't let it go"
@@ -41,7 +41,7 @@ FILE "WeFunk_Show_408_2006-01-27.mp3" MP3
 		INDEX 01 19:18:56
 	TRACK 10 AUDIO
 		TITLE "talk (over rasco - bustin' out instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 21:52:51
 	TRACK 11 AUDIO
 		TITLE "distortion to static"
@@ -65,7 +65,7 @@ FILE "WeFunk_Show_408_2006-01-27.mp3" MP3
 		INDEX 01 36:06:36
 	TRACK 16 AUDIO
 		TITLE "everyman 4 theyself"
-		PERFORMER "da youngstas"
+		PERFORMER "da youngsta's"
 		INDEX 01 37:44:62
 	TRACK 17 AUDIO
 		TITLE "chill wit that"
@@ -81,7 +81,7 @@ FILE "WeFunk_Show_408_2006-01-27.mp3" MP3
 		INDEX 01 43:06:50
 	TRACK 20 AUDIO
 		TITLE "check one, two"
-		PERFORMER "diamond d & the psychotic neurotics"
+		PERFORMER "diamond & the psychotic neurotics"
 		INDEX 01 46:15:43
 	TRACK 21 AUDIO
 		TITLE "the essence"
@@ -97,7 +97,7 @@ FILE "WeFunk_Show_408_2006-01-27.mp3" MP3
 		INDEX 01 55:21:70
 	TRACK 24 AUDIO
 		TITLE "one"
-		PERFORMER "ghostface killa"
+		PERFORMER "ghostface killah"
 		INDEX 01 58:19:10
 	TRACK 25 AUDIO
 		TITLE "bangin' break"
@@ -113,7 +113,7 @@ FILE "WeFunk_Show_408_2006-01-27.mp3" MP3
 		INDEX 01 65:05:20
 	TRACK 28 AUDIO
 		TITLE "bounce"
-		PERFORMER "doug e fresh"
+		PERFORMER "doug e. fresh"
 		INDEX 01 67:56:05
 	TRACK 29 AUDIO
 		TITLE "let the horns blow"
@@ -173,5 +173,5 @@ FILE "WeFunk_Show_408_2006-01-27.mp3" MP3
 		INDEX 01 107:18:11
 	TRACK 43 AUDIO
 		TITLE "talk (over james brown - in the middle)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 109:33:62

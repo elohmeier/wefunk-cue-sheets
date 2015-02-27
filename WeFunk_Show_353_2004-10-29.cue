@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_353_2004-10-29.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "a funky song"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_353_2004-10-29.mp3" MP3
 		INDEX 01 01:58:63
 	TRACK 03 AUDIO
 		TITLE "talk (over herbie hancock - chameleon)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:54:65
 	TRACK 04 AUDIO
 		TITLE "that's how it is"
@@ -141,5 +141,5 @@ FILE "WeFunk_Show_353_2004-10-29.mp3" MP3
 		INDEX 01 105:15:63
 	TRACK 35 AUDIO
 		TITLE "talk (over james moody - unchained)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 108:34:74

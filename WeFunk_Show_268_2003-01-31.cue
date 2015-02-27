@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_268_2003-01-31.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "got to get me a job"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_268_2003-01-31.mp3" MP3
 		INDEX 01 01:57:72
 	TRACK 03 AUDIO
 		TITLE "talk (over counts - pack of lies)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:26:20
 	TRACK 04 AUDIO
 		TITLE "fopp"
@@ -45,15 +45,15 @@ FILE "WeFunk_Show_268_2003-01-31.mp3" MP3
 		INDEX 01 30:48:65
 	TRACK 11 AUDIO
 		TITLE "talk (over nas - one love instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 33:42:51
 	TRACK 12 AUDIO
 		TITLE "low ceilings"
 		PERFORMER "bronze one"
 		INDEX 01 35:56:65
 	TRACK 13 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 41:09:04
 	TRACK 14 AUDIO
 		TITLE "face of history"
@@ -61,7 +61,7 @@ FILE "WeFunk_Show_268_2003-01-31.mp3" MP3
 		INDEX 01 51:20:39
 	TRACK 15 AUDIO
 		TITLE "the revolution will not be televised"
-		PERFORMER "gill scott heron"
+		PERFORMER "gil scott-heron"
 		INDEX 01 55:18:51
 	TRACK 16 AUDIO
 		TITLE "just kissed my baby"
@@ -88,8 +88,8 @@ FILE "WeFunk_Show_268_2003-01-31.mp3" MP3
 		PERFORMER "digital underground"
 		INDEX 01 74:31:52
 	TRACK 22 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 76:03:69
 	TRACK 23 AUDIO
 		TITLE "as the drum pounds"
@@ -112,8 +112,8 @@ FILE "WeFunk_Show_268_2003-01-31.mp3" MP3
 		PERFORMER "maceo & all the king's men"
 		INDEX 01 96:52:07
 	TRACK 28 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 99:16:03
 	TRACK 29 AUDIO
 		TITLE "back in the u.s.s.r."

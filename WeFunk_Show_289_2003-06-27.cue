@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_289_2003-06-27.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "yeah you get props"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_289_2003-06-27.mp3" MP3
 		INDEX 01 01:59:11
 	TRACK 03 AUDIO
 		TITLE "talk (over group home - tha realness instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:13:06
 	TRACK 04 AUDIO
 		TITLE "how to flow"
@@ -121,5 +121,5 @@ FILE "WeFunk_Show_289_2003-06-27.mp3" MP3
 		INDEX 01 97:44:40
 	TRACK 30 AUDIO
 		TITLE "talk (over mandrill - mango meat)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 104:58:71

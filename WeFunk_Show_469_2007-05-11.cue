@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_469_2007-05-11.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "funky l.a."
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_469_2007-05-11.mp3" MP3
 		INDEX 01 01:58:42
 	TRACK 03 AUDIO
 		TITLE "talk (over fabulous mark iii - psycho)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:47:49
 	TRACK 04 AUDIO
 		TITLE "summer in the parks"
@@ -149,5 +149,5 @@ FILE "WeFunk_Show_469_2007-05-11.mp3" MP3
 		INDEX 01 111:57:70
 	TRACK 37 AUDIO
 		TITLE "talk (over butta verses - jones in ya bones instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 114:20:51

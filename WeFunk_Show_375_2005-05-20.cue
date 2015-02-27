@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_375_2005-05-20.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "good times"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_375_2005-05-20.mp3" MP3
 		INDEX 01 01:58:49
 	TRACK 03 AUDIO
 		TITLE "talk (over alvin cash - keep on dancing instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 06:04:23
 	TRACK 04 AUDIO
 		TITLE "patch it up"
@@ -101,7 +101,7 @@ FILE "WeFunk_Show_375_2005-05-20.mp3" MP3
 		INDEX 01 80:39:41
 	TRACK 25 AUDIO
 		TITLE "talk (over maceo & all the king's men - mag-poo)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 82:33:64
 	TRACK 26 AUDIO
 		TITLE "it ain't fair but it's fun"
@@ -129,5 +129,5 @@ FILE "WeFunk_Show_375_2005-05-20.mp3" MP3
 		INDEX 01 104:53:53
 	TRACK 32 AUDIO
 		TITLE "talk (over royce da 5'9" - enough beef instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 109:33:22

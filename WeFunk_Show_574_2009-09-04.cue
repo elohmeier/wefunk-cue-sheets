@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_574_2009-09-04.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "body rock"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_574_2009-09-04.mp3" MP3
 		INDEX 01 02:02:22
 	TRACK 03 AUDIO
 		TITLE "talk (over a.z. - hey a.z. instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:30:34
 	TRACK 04 AUDIO
 		TITLE "word up doc"
@@ -125,7 +125,7 @@ FILE "WeFunk_Show_574_2009-09-04.mp3" MP3
 		INDEX 01 99:02:00
 	TRACK 31 AUDIO
 		TITLE "talk (over kashmere stage band - shaft)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 101:32:14
 	TRACK 32 AUDIO
 		TITLE "rhythm of life"

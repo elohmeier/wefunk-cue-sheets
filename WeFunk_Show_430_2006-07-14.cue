@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_430_2006-07-14.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "underdog"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_430_2006-07-14.mp3" MP3
 		INDEX 01 01:58:58
 	TRACK 03 AUDIO
 		TITLE "talk (over bob james - nautilus)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:53:13
 	TRACK 04 AUDIO
 		TITLE "skin tight"
@@ -129,5 +129,5 @@ FILE "WeFunk_Show_430_2006-07-14.mp3" MP3
 		INDEX 01 107:39:08
 	TRACK 32 AUDIO
 		TITLE "talk (over akbar - those who say instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 112:08:74

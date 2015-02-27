@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_771_2014-03-14.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "got it bad y'all"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_771_2014-03-14.mp3" MP3
 		INDEX 01 01:14:24
 	TRACK 03 AUDIO
 		TITLE "talk (over pete rock & c.l. smooth - if it ain't rough, it ain't right instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:15:14
 	TRACK 04 AUDIO
 		TITLE "fashion goes off"
@@ -185,7 +185,7 @@ FILE "WeFunk_Show_771_2014-03-14.mp3" MP3
 		INDEX 01 104:54:25
 	TRACK 46 AUDIO
 		TITLE "talk (over niagara - city walk)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 107:38:64
 	TRACK 47 AUDIO
 		TITLE "it's a desperate situation (alkalino rework)"

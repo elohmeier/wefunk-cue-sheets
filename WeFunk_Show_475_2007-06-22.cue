@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_475_2007-06-22.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "getting nasty"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_475_2007-06-22.mp3" MP3
 		INDEX 01 01:58:46
 	TRACK 03 AUDIO
 		TITLE "talk (over meters - sing a simple song)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:53:35
 	TRACK 04 AUDIO
 		TITLE "stop"
@@ -41,11 +41,11 @@ FILE "WeFunk_Show_475_2007-06-22.mp3" MP3
 		INDEX 01 25:37:64
 	TRACK 10 AUDIO
 		TITLE "talk (over lowrell - mellow mellow right on)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 29:26:67
 	TRACK 11 AUDIO
 		TITLE "you're the one for me"
-		PERFORMER "d-train"
+		PERFORMER "d. train"
 		INDEX 01 34:46:69
 	TRACK 12 AUDIO
 		TITLE "let your backbone slide"
@@ -137,7 +137,7 @@ FILE "WeFunk_Show_475_2007-06-22.mp3" MP3
 		INDEX 01 70:24:35
 	TRACK 34 AUDIO
 		TITLE "sally got a one track mind"
-		PERFORMER "diamond d"
+		PERFORMER "diamond d."
 		INDEX 01 74:19:54
 	TRACK 35 AUDIO
 		TITLE "sparkling in the sand"
@@ -149,7 +149,7 @@ FILE "WeFunk_Show_475_2007-06-22.mp3" MP3
 		INDEX 01 78:16:42
 	TRACK 37 AUDIO
 		TITLE "talk (over brother ali - uncle sam goddamn instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 82:12:74
 	TRACK 38 AUDIO
 		TITLE "blaze and destroy"
@@ -173,5 +173,5 @@ FILE "WeFunk_Show_475_2007-06-22.mp3" MP3
 		INDEX 01 104:48:51
 	TRACK 43 AUDIO
 		TITLE "talk (over carlos franzetti - cocoa funk)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 108:37:48

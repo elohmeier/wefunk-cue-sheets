@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_450_2006-12-08.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "you got me thinkin"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_450_2006-12-08.mp3" MP3
 		INDEX 01 01:58:31
 	TRACK 03 AUDIO
 		TITLE "talk (over spanky wilson & quantic soul orchestra - don't joke with a hungry man, part 3)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:25:63
 	TRACK 04 AUDIO
 		TITLE "party freaks"
@@ -109,7 +109,7 @@ FILE "WeFunk_Show_450_2006-12-08.mp3" MP3
 		INDEX 01 83:54:64
 	TRACK 27 AUDIO
 		TITLE "talk (over preach - war report instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 88:39:62
 	TRACK 28 AUDIO
 		TITLE "war report"
@@ -125,7 +125,7 @@ FILE "WeFunk_Show_450_2006-12-08.mp3" MP3
 		INDEX 01 111:50:58
 	TRACK 31 AUDIO
 		TITLE "talk (over masterminds - joints 2000 instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 114:32:61
 	TRACK 32 AUDIO
 		TITLE "memories"

@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_630_2011-01-07.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "2getha baby"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_630_2011-01-07.mp3" MP3
 		INDEX 01 01:40:23
 	TRACK 03 AUDIO
 		TITLE "talk (over d-sisive - if instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:23:31
 	TRACK 04 AUDIO
 		TITLE "big dreamer"
@@ -145,7 +145,7 @@ FILE "WeFunk_Show_630_2011-01-07.mp3" MP3
 		INDEX 01 104:38:08
 	TRACK 36 AUDIO
 		TITLE "talk (over larry willis - out on the coast)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 110:33:33
 	TRACK 37 AUDIO
 		TITLE "matrix"

@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_404_2005-12-30.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "supersound"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_404_2005-12-30.mp3" MP3
 		INDEX 01 01:58:56
 	TRACK 03 AUDIO
 		TITLE "talk (over herbie hancock - hang up your hang ups)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:22:68
 	TRACK 04 AUDIO
 		TITLE "woman"
@@ -121,5 +121,5 @@ FILE "WeFunk_Show_404_2005-12-30.mp3" MP3
 		INDEX 01 109:41:67
 	TRACK 30 AUDIO
 		TITLE "talk (over mr. live - relax y'self instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 113:16:20

@@ -5,15 +5,15 @@ REM Genre : HipHop
 FILE "WeFunk_Show_576_2009-09-18.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "pop n chips"
 		PERFORMER "more or les & fresh kils feat. ghetto socks &  timbuktu"
 		INDEX 01 01:32:18
 	TRACK 03 AUDIO
-		TITLE "talk (over k banger - uprock instrumental)"
-		PERFORMER ""
+		TITLE "talk (over k. banger - uprock instrumental)"
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:12:08
 	TRACK 04 AUDIO
 		TITLE "phree stilee stahminah"
@@ -149,5 +149,5 @@ FILE "WeFunk_Show_576_2009-09-18.mp3" MP3
 		INDEX 01 110:41:12
 	TRACK 37 AUDIO
 		TITLE "talk (over nite-liters - do the granny)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 112:26:46

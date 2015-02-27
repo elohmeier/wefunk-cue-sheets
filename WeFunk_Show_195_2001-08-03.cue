@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_195_2001-08-03.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "sexy popcorn pot"
@@ -97,7 +97,7 @@ FILE "WeFunk_Show_195_2001-08-03.mp3" MP3
 		INDEX 01 60:18:49
 	TRACK 24 AUDIO
 		TITLE "a tree never grown"
-		PERFORMER "hip-hop for respect"
+		PERFORMER "hip hop for respect"
 		INDEX 01 61:02:67
 	TRACK 25 AUDIO
 		TITLE "move it"
@@ -157,7 +157,7 @@ FILE "WeFunk_Show_195_2001-08-03.mp3" MP3
 		INDEX 01 114:18:21
 	TRACK 39 AUDIO
 		TITLE "talk (over pete rock feat. the u.n. - nothin lesser instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 117:09:06
 	TRACK 40 AUDIO
 		TITLE "thin line"

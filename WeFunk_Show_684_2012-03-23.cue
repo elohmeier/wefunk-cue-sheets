@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_684_2012-03-23.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "i can't love without you"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_684_2012-03-23.mp3" MP3
 		INDEX 01 01:14:30
 	TRACK 03 AUDIO
 		TITLE "talk (over new mastersounds - l.a. root down (dub side of the pier))"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 03:28:13
 	TRACK 04 AUDIO
 		TITLE "livin' for the day (livin')"
@@ -129,7 +129,7 @@ FILE "WeFunk_Show_684_2012-03-23.mp3" MP3
 		INDEX 01 108:33:47
 	TRACK 32 AUDIO
 		TITLE "talk (over visioneers - funkbox remix instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 111:30:61
 	TRACK 33 AUDIO
 		TITLE "a brighter day (remix)"

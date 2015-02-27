@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_311_2003-12-13.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "yes we can can"
@@ -17,7 +17,7 @@ FILE "WeFunk_Show_311_2003-12-13.mp3" MP3
 		INDEX 01 06:00:36
 	TRACK 04 AUDIO
 		TITLE "talk (over fred wesley & the horny horns - four play)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 08:46:24
 	TRACK 05 AUDIO
 		TITLE "hard times"
@@ -117,7 +117,7 @@ FILE "WeFunk_Show_311_2003-12-13.mp3" MP3
 		INDEX 01 100:00:67
 	TRACK 29 AUDIO
 		TITLE "communicate (remix)"
-		PERFORMER "ge-ology feat. sadat x & talib kweli"
+		PERFORMER "ge-ology feat. sadat x. & talib kweli"
 		INDEX 01 103:23:23
 	TRACK 30 AUDIO
 		TITLE "players ballin'"
@@ -125,5 +125,5 @@ FILE "WeFunk_Show_311_2003-12-13.mp3" MP3
 		INDEX 01 107:41:05
 	TRACK 31 AUDIO
 		TITLE "talk (over james brown - why am i treated so bad)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 112:00:02

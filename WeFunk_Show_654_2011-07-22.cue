@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_654_2011-07-22.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "no strings (jazzy jeff roller boogie remix)"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_654_2011-07-22.mp3" MP3
 		INDEX 01 01:39:48
 	TRACK 03 AUDIO
 		TITLE "talk (over brand new heavies - b.n.h.)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:54:50
 	TRACK 04 AUDIO
 		TITLE "flight of the bumblebee"
@@ -129,7 +129,7 @@ FILE "WeFunk_Show_654_2011-07-22.mp3" MP3
 		INDEX 01 76:18:69
 	TRACK 32 AUDIO
 		TITLE "tango hustle"
-		PERFORMER "kay gees"
+		PERFORMER "kay-gees"
 		INDEX 01 81:10:30
 	TRACK 33 AUDIO
 		TITLE "i can make it better"
@@ -160,8 +160,8 @@ FILE "WeFunk_Show_654_2011-07-22.mp3" MP3
 		PERFORMER "roots"
 		INDEX 01 104:34:24
 	TRACK 40 AUDIO
-		TITLE "family affair remix instrumental"
-		PERFORMER "- mary j. blige"
+		TITLE "talk (over - mary j. blige - family affair remix instrumental)"
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 107:24:13
 	TRACK 41 AUDIO
 		TITLE "family affair (pete rock remix)"

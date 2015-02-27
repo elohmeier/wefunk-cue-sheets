@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_431_2006-07-21.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "money vibrations"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_431_2006-07-21.mp3" MP3
 		INDEX 01 01:59:01
 	TRACK 03 AUDIO
 		TITLE "talk (over love unlimited - bring it on up)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:25:31
 	TRACK 04 AUDIO
 		TITLE "ain't no half steppin'"
@@ -41,7 +41,7 @@ FILE "WeFunk_Show_431_2006-07-21.mp3" MP3
 		INDEX 01 28:42:69
 	TRACK 10 AUDIO
 		TITLE "cash flow"
-		PERFORMER "que d"
+		PERFORMER "que d."
 		INDEX 01 33:48:65
 	TRACK 11 AUDIO
 		TITLE "miss you (bring it back)"
@@ -76,7 +76,7 @@ FILE "WeFunk_Show_431_2006-07-21.mp3" MP3
 		PERFORMER "gang starr"
 		INDEX 01 58:09:40
 	TRACK 19 AUDIO
-		TITLE "ecstacy"
+		TITLE "ecstasy"
 		PERFORMER "ohio players"
 		INDEX 01 61:27:09
 	TRACK 20 AUDIO
@@ -105,7 +105,7 @@ FILE "WeFunk_Show_431_2006-07-21.mp3" MP3
 		INDEX 01 80:17:60
 	TRACK 26 AUDIO
 		TITLE "talk (over common - orange pineapple juice instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 83:29:43
 	TRACK 27 AUDIO
 		TITLE "stop shammin'"
@@ -116,7 +116,7 @@ FILE "WeFunk_Show_431_2006-07-21.mp3" MP3
 		PERFORMER "white label dope"
 		INDEX 01 87:44:42
 	TRACK 29 AUDIO
-		TITLE "spell it wit a j (yes, yes jorge)"
+		TITLE "spell it wit a j. (yes, yes jorge)"
 		PERFORMER "kurious"
 		INDEX 01 89:19:56
 	TRACK 30 AUDIO
@@ -124,8 +124,8 @@ FILE "WeFunk_Show_431_2006-07-21.mp3" MP3
 		PERFORMER "delinquent habits"
 		INDEX 01 91:36:23
 	TRACK 31 AUDIO
-		TITLE "some ol' sah-b shit"
-		PERFORMER "sah-b"
+		TITLE "some ol' sah-b. shit"
+		PERFORMER "sah-b."
 		INDEX 01 94:27:66
 	TRACK 32 AUDIO
 		TITLE "just begun"
@@ -141,5 +141,5 @@ FILE "WeFunk_Show_431_2006-07-21.mp3" MP3
 		INDEX 01 104:15:07
 	TRACK 35 AUDIO
 		TITLE "talk (over u.t.d. (urban thermodynamics) - manifest destiny (diamond's instrumental))"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 107:14:51

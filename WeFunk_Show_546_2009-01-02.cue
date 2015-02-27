@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_546_2009-01-02.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "believe"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_546_2009-01-02.mp3" MP3
 		INDEX 01 01:39:54
 	TRACK 03 AUDIO
 		TITLE "talk (over q-tip - vivrant thing instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:38:50
 	TRACK 04 AUDIO
 		TITLE "i wanna stay"
@@ -145,5 +145,5 @@ FILE "WeFunk_Show_546_2009-01-02.mp3" MP3
 		INDEX 01 109:04:68
 	TRACK 36 AUDIO
 		TITLE "talk (over l.l. cool j - loungin' instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 111:29:00

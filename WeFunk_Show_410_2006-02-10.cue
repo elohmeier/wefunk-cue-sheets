@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_410_2006-02-10.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "tighten up"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_410_2006-02-10.mp3" MP3
 		INDEX 01 01:58:59
 	TRACK 03 AUDIO
 		TITLE "talk (over cliff nobles & co. - the horse)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:25:06
 	TRACK 04 AUDIO
 		TITLE "horsin' up"
@@ -129,5 +129,5 @@ FILE "WeFunk_Show_410_2006-02-10.mp3" MP3
 		INDEX 01 105:03:35
 	TRACK 32 AUDIO
 		TITLE "talk (over hidden beach - 21 questions)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 109:23:29

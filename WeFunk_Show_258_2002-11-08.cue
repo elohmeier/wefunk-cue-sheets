@@ -5,15 +5,15 @@ REM Genre : HipHop
 FILE "WeFunk_Show_258_2002-11-08.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "headless heroes"
 		PERFORMER "eugene mcdaniels"
 		INDEX 01 01:58:68
 	TRACK 03 AUDIO
-		TITLE "talk (over dan boardi & the african internationals - play that funky music)"
-		PERFORMER ""
+		TITLE "talk (over dan boadi & the african internationals - play that funky music)"
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:17:66
 	TRACK 04 AUDIO
 		TITLE "my christina"
@@ -53,7 +53,7 @@ FILE "WeFunk_Show_258_2002-11-08.mp3" MP3
 		INDEX 01 42:49:23
 	TRACK 13 AUDIO
 		TITLE "toothpick"
-		PERFORMER "mighy imperials"
+		PERFORMER "mighty imperials"
 		INDEX 01 45:38:41
 	TRACK 14 AUDIO
 		TITLE "broasted or fried"
@@ -129,5 +129,5 @@ FILE "WeFunk_Show_258_2002-11-08.mp3" MP3
 		INDEX 01 115:03:53
 	TRACK 32 AUDIO
 		TITLE "talk (over d.j. vadim & sarah jones - your revolution instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 119:00:46

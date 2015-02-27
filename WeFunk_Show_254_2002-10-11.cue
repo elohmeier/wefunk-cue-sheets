@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_254_2002-10-11.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "mango meat"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_254_2002-10-11.mp3" MP3
 		INDEX 01 01:58:69
 	TRACK 03 AUDIO
 		TITLE "talk (over mandrill - fat city strut)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:08:08
 	TRACK 04 AUDIO
 		TITLE "back on the streets again"
@@ -81,7 +81,7 @@ FILE "WeFunk_Show_254_2002-10-11.mp3" MP3
 		INDEX 01 61:12:57
 	TRACK 20 AUDIO
 		TITLE "what's the 411 (remix)"
-		PERFORMER "mary j blige"
+		PERFORMER "mary j. blige"
 		INDEX 01 66:03:02
 	TRACK 21 AUDIO
 		TITLE "flava in ya ear"
@@ -101,7 +101,7 @@ FILE "WeFunk_Show_254_2002-10-11.mp3" MP3
 		INDEX 01 81:59:22
 	TRACK 25 AUDIO
 		TITLE "your thing ain't no good without my thing"
-		PERFORMER "marie 'queenie' lyons"
+		PERFORMER "marie "queenie" lyons"
 		INDEX 01 84:17:49
 	TRACK 26 AUDIO
 		TITLE "heavy soul slinger"
@@ -129,5 +129,5 @@ FILE "WeFunk_Show_254_2002-10-11.mp3" MP3
 		INDEX 01 101:25:09
 	TRACK 32 AUDIO
 		TITLE "talk (over jimmy smith - i'm gonna love you just a little more babe)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 104:35:27

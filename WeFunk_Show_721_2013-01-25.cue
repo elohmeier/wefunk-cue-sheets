@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_721_2013-01-25.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "alice piece peace (alice ramakrishna geemix)"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_721_2013-01-25.mp3" MP3
 		INDEX 01 01:14:32
 	TRACK 03 AUDIO
 		TITLE "talk (over key-low - swingin like ken griffey jr. in seattle)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:21:23
 	TRACK 04 AUDIO
 		TITLE "turns me on"
@@ -141,7 +141,7 @@ FILE "WeFunk_Show_721_2013-01-25.mp3" MP3
 		INDEX 01 89:26:16
 	TRACK 35 AUDIO
 		TITLE "house of the rising sun (alfred unroe edit)"
-		PERFORMER "idris muhammed"
+		PERFORMER "idris muhammad"
 		INDEX 01 91:35:49
 	TRACK 36 AUDIO
 		TITLE "check it out"
@@ -161,7 +161,7 @@ FILE "WeFunk_Show_721_2013-01-25.mp3" MP3
 		INDEX 01 104:33:14
 	TRACK 40 AUDIO
 		TITLE "talk (over freddie joachim - autumn rain  / d.j. moar - in love)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 109:18:05
 	TRACK 41 AUDIO
 		TITLE "linda movement"

@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_487_2007-09-14.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "i know you got soul"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_487_2007-09-14.mp3" MP3
 		INDEX 01 02:04:30
 	TRACK 03 AUDIO
 		TITLE "talk (over bobby byrd - hot pants - i'm coming, coming, i'm coming bonus beats)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:29:46
 	TRACK 04 AUDIO
 		TITLE "hot pants - i'm coming, coming, i'm coming"
@@ -65,7 +65,7 @@ FILE "WeFunk_Show_487_2007-09-14.mp3" MP3
 		INDEX 01 39:37:50
 	TRACK 16 AUDIO
 		TITLE "ghetto misfortune's wealth"
-		PERFORMER "24 carat black"
+		PERFORMER "24-carat black"
 		INDEX 01 41:48:56
 	TRACK 17 AUDIO
 		TITLE "all i do every day"
@@ -85,7 +85,7 @@ FILE "WeFunk_Show_487_2007-09-14.mp3" MP3
 		INDEX 01 56:13:08
 	TRACK 21 AUDIO
 		TITLE "i got a man (hip hop mix)"
-		PERFORMER "positive k"
+		PERFORMER "positive k."
 		INDEX 01 61:56:68
 	TRACK 22 AUDIO
 		TITLE "sally got a one track mind (two track beat down)"
@@ -153,5 +153,5 @@ FILE "WeFunk_Show_487_2007-09-14.mp3" MP3
 		INDEX 01 109:13:06
 	TRACK 38 AUDIO
 		TITLE "talk (over d.j. alibi - live at the rex)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 111:42:45

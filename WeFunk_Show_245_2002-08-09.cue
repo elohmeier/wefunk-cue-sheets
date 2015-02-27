@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_245_2002-08-09.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "anti-love song"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_245_2002-08-09.mp3" MP3
 		INDEX 01 01:59:39
 	TRACK 03 AUDIO
 		TITLE "talk (over billy cobham - crosswind)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 06:16:20
 	TRACK 04 AUDIO
 		TITLE "slippin' into darkness"
@@ -25,7 +25,7 @@ FILE "WeFunk_Show_245_2002-08-09.mp3" MP3
 		INDEX 01 15:47:54
 	TRACK 06 AUDIO
 		TITLE "black frost"
-		PERFORMER "grover washington jr."
+		PERFORMER "grover washington, jr."
 		INDEX 01 21:33:61
 	TRACK 07 AUDIO
 		TITLE "strung out"
@@ -93,7 +93,7 @@ FILE "WeFunk_Show_245_2002-08-09.mp3" MP3
 		INDEX 01 86:07:56
 	TRACK 23 AUDIO
 		TITLE "crab apple"
-		PERFORMER "idris muhammed"
+		PERFORMER "idris muhammad"
 		INDEX 01 89:07:16
 	TRACK 24 AUDIO
 		TITLE "mucho chupar"
@@ -116,8 +116,8 @@ FILE "WeFunk_Show_245_2002-08-09.mp3" MP3
 		PERFORMER "michael longo"
 		INDEX 01 105:21:31
 	TRACK 29 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 109:13:48
 	TRACK 30 AUDIO
 		TITLE "haw-right now"

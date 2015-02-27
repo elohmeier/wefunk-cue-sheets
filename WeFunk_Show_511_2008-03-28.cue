@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_511_2008-03-28.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "hostile gospel (remix)"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_511_2008-03-28.mp3" MP3
 		INDEX 01 01:32:42
 	TRACK 03 AUDIO
 		TITLE "talk (over guilty simpson - ode to the ghetto instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:33:23
 	TRACK 04 AUDIO
 		TITLE "ode to the ghetto"
@@ -121,7 +121,7 @@ FILE "WeFunk_Show_511_2008-03-28.mp3" MP3
 		INDEX 01 90:19:16
 	TRACK 30 AUDIO
 		TITLE "inner city blues"
-		PERFORMER "grover washington jr."
+		PERFORMER "grover washington, jr."
 		INDEX 01 92:35:37
 	TRACK 31 AUDIO
 		TITLE "mojo hanna"
@@ -133,5 +133,5 @@ FILE "WeFunk_Show_511_2008-03-28.mp3" MP3
 		INDEX 01 102:35:29
 	TRACK 33 AUDIO
 		TITLE "talk (over oneness of juju - liberation dues instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 111:26:24

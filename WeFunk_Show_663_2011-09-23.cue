@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_663_2011-09-23.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "once upon a rhyme (remix)"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_663_2011-09-23.mp3" MP3
 		INDEX 01 01:32:43
 	TRACK 03 AUDIO
 		TITLE "talk (over red cafe - heart & soul instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:41:42
 	TRACK 04 AUDIO
 		TITLE "slap nerds"
@@ -61,7 +61,7 @@ FILE "WeFunk_Show_663_2011-09-23.mp3" MP3
 		INDEX 01 45:45:64
 	TRACK 15 AUDIO
 		TITLE "talk (over joe bataan - the bottle (la botella))"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 49:09:10
 	TRACK 16 AUDIO
 		TITLE "subway joe"
@@ -69,7 +69,7 @@ FILE "WeFunk_Show_663_2011-09-23.mp3" MP3
 		INDEX 01 52:23:03
 	TRACK 17 AUDIO
 		TITLE "talk (over joe bataan - aftershower funk)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 55:10:27
 	TRACK 18 AUDIO
 		TITLE "call my name"
@@ -77,7 +77,7 @@ FILE "WeFunk_Show_663_2011-09-23.mp3" MP3
 		INDEX 01 60:47:61
 	TRACK 19 AUDIO
 		TITLE "talk (over joe bataan - latin strut)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 65:20:74
 	TRACK 20 AUDIO
 		TITLE "young, gifted and brown"
@@ -85,7 +85,7 @@ FILE "WeFunk_Show_663_2011-09-23.mp3" MP3
 		INDEX 01 70:37:66
 	TRACK 21 AUDIO
 		TITLE "talk (over joe bataan - fin)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 73:22:48
 	TRACK 22 AUDIO
 		TITLE "ordinary guy"
@@ -129,7 +129,7 @@ FILE "WeFunk_Show_663_2011-09-23.mp3" MP3
 		INDEX 01 111:51:06
 	TRACK 32 AUDIO
 		TITLE "talk (over b. bravo - computa love)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 114:43:68
 	TRACK 33 AUDIO
 		TITLE "computer love"

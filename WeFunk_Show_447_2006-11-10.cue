@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_447_2006-11-10.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "wheelz fall off ('06 til...)"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_447_2006-11-10.mp3" MP3
 		INDEX 01 01:58:24
 	TRACK 03 AUDIO
 		TITLE "talk (over wade waters - right back instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:23:45
 	TRACK 04 AUDIO
 		TITLE "killing me softly"
@@ -49,35 +49,35 @@ FILE "WeFunk_Show_447_2006-11-10.mp3" MP3
 		INDEX 01 31:06:08
 	TRACK 12 AUDIO
 		TITLE "talk (over marva whitney - it's my thing)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 35:31:08
 	TRACK 13 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 35:48:51
 	TRACK 14 AUDIO
 		TITLE "what do i have to do to prove myself to you"
 		PERFORMER "marva whitney"
 		INDEX 01 37:14:33
 	TRACK 15 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 39:38:09
 	TRACK 16 AUDIO
 		TITLE "a talk with james brown - you got to have a job (live)"
 		PERFORMER "marva whitney"
 		INDEX 01 45:17:68
 	TRACK 17 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 53:55:10
 	TRACK 18 AUDIO
 		TITLE "i am what i am"
 		PERFORMER "marva whitney & osaka monaurail"
 		INDEX 01 55:08:04
 	TRACK 19 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 59:43:51
 	TRACK 20 AUDIO
 		TITLE "it's my thing (you can't tell me who to sock it to)"
@@ -137,5 +137,5 @@ FILE "WeFunk_Show_447_2006-11-10.mp3" MP3
 		INDEX 01 107:30:26
 	TRACK 34 AUDIO
 		TITLE "talk (over poets of rhythm - survival of the freshest)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 110:48:19

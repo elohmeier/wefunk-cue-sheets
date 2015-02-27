@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_370_2005-04-15.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "campbell lock"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_370_2005-04-15.mp3" MP3
 		INDEX 01 01:58:51
 	TRACK 03 AUDIO
 		TITLE "talk (over funk inc. - smokin' at tiffany's)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:23:30
 	TRACK 04 AUDIO
 		TITLE "street scene"
@@ -56,12 +56,12 @@ FILE "WeFunk_Show_370_2005-04-15.mp3" MP3
 		PERFORMER "lost boyz"
 		INDEX 01 35:26:01
 	TRACK 14 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 39:13:53
 	TRACK 15 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 42:03:07
 	TRACK 16 AUDIO
 		TITLE "sweet peter"
@@ -133,5 +133,5 @@ FILE "WeFunk_Show_370_2005-04-15.mp3" MP3
 		INDEX 01 98:40:00
 	TRACK 33 AUDIO
 		TITLE "talk (over kool g. rap - fast life remix instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 101:00:54

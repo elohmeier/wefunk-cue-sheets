@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_174_2001-03-09.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "you're losin' me"
@@ -17,11 +17,11 @@ FILE "WeFunk_Show_174_2001-03-09.mp3" MP3
 		INDEX 01 04:15:20
 	TRACK 04 AUDIO
 		TITLE "talk (over marva whitney - what do i have to do to prove my love to you)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 06:50:70
 	TRACK 05 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 07:50:14
 	TRACK 06 AUDIO
 		TITLE "answer to mother popcorn (i got a mother for you)"
@@ -29,7 +29,7 @@ FILE "WeFunk_Show_174_2001-03-09.mp3" MP3
 		INDEX 01 27:18:65
 	TRACK 07 AUDIO
 		TITLE "talk (over soul providers - soul jasper)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 29:50:11
 	TRACK 08 AUDIO
 		TITLE "progress of elimination"
@@ -57,7 +57,7 @@ FILE "WeFunk_Show_174_2001-03-09.mp3" MP3
 		INDEX 01 48:45:06
 	TRACK 14 AUDIO
 		TITLE "talk (over breakestra - the live mix part 2)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 51:42:60
 	TRACK 15 AUDIO
 		TITLE "you better think twice"
@@ -125,5 +125,5 @@ FILE "WeFunk_Show_174_2001-03-09.mp3" MP3
 		INDEX 01 109:16:59
 	TRACK 31 AUDIO
 		TITLE "talk (over o.c. - my world)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 111:40:63

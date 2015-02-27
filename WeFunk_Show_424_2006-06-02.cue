@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_424_2006-06-02.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "mango meat"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_424_2006-06-02.mp3" MP3
 		INDEX 01 01:58:36
 	TRACK 03 AUDIO
 		TITLE "talk (over herbie hancock - stars in your eyes (yam who dub))"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 06:22:32
 	TRACK 04 AUDIO
 		TITLE "master rocker"
@@ -133,5 +133,5 @@ FILE "WeFunk_Show_424_2006-06-02.mp3" MP3
 		INDEX 01 105:19:39
 	TRACK 33 AUDIO
 		TITLE "talk (over dwele - i think i love you instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 108:49:47

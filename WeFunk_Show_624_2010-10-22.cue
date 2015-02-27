@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_624_2010-10-22.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "you're losing me"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_624_2010-10-22.mp3" MP3
 		INDEX 01 01:40:59
 	TRACK 03 AUDIO
 		TITLE "talk (over kokolo afrobeat orchestra - soul power (lack of afro remix))"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:00:38
 	TRACK 04 AUDIO
 		TITLE "entrance"
@@ -37,7 +37,7 @@ FILE "WeFunk_Show_624_2010-10-22.mp3" MP3
 		INDEX 01 14:56:13
 	TRACK 09 AUDIO
 		TITLE "talk (over onra & quetzal - brenton's revenge)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 16:46:49
 	TRACK 10 AUDIO
 		TITLE "it's great to be here (kenny dope remix)"
@@ -49,7 +49,7 @@ FILE "WeFunk_Show_624_2010-10-22.mp3" MP3
 		INDEX 01 27:07:41
 	TRACK 12 AUDIO
 		TITLE "talk (over sound dimension - granny scratch scratch)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 30:13:66
 	TRACK 13 AUDIO
 		TITLE "true master"
@@ -65,7 +65,7 @@ FILE "WeFunk_Show_624_2010-10-22.mp3" MP3
 		INDEX 01 38:50:54
 	TRACK 16 AUDIO
 		TITLE "talk (over royal flush - worldwide instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 39:34:29
 	TRACK 17 AUDIO
 		TITLE "you got to have a mother for me"
@@ -81,7 +81,7 @@ FILE "WeFunk_Show_624_2010-10-22.mp3" MP3
 		INDEX 01 53:48:13
 	TRACK 20 AUDIO
 		TITLE "talk (over glenda mccleod - no stranger to love instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 57:35:03
 	TRACK 21 AUDIO
 		TITLE "drop it in the slot"
@@ -93,7 +93,7 @@ FILE "WeFunk_Show_624_2010-10-22.mp3" MP3
 		INDEX 01 64:23:41
 	TRACK 23 AUDIO
 		TITLE "talk (over aquasky - blue thunder)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 67:32:69
 	TRACK 24 AUDIO
 		TITLE "tigerstyle"
@@ -109,7 +109,7 @@ FILE "WeFunk_Show_624_2010-10-22.mp3" MP3
 		INDEX 01 74:31:50
 	TRACK 27 AUDIO
 		TITLE "talk (over ghostface killah - run instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 76:01:74
 	TRACK 28 AUDIO
 		TITLE "get out of my life woman"
@@ -121,7 +121,7 @@ FILE "WeFunk_Show_624_2010-10-22.mp3" MP3
 		INDEX 01 83:39:24
 	TRACK 30 AUDIO
 		TITLE "talk (over jimmy mcgriff - it feels so nice (do it again))"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 86:56:42
 	TRACK 31 AUDIO
 		TITLE "baby, this love i have"
@@ -137,15 +137,15 @@ FILE "WeFunk_Show_624_2010-10-22.mp3" MP3
 		INDEX 01 100:06:37
 	TRACK 34 AUDIO
 		TITLE "talk (over grover washington, jr. - hydra)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 102:24:49
 	TRACK 35 AUDIO
 		TITLE "more than you know"
 		PERFORMER "prince paul feat. de la soul"
 		INDEX 01 108:04:40
 	TRACK 36 AUDIO
-		TITLE "talk (over extra t's - i like it (cornflakes)"
-		PERFORMER ""
+		TITLE "talk (over extra t's - i like it (cornflakes))"
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 110:41:60
 	TRACK 37 AUDIO
 		TITLE "i think i'd do it"

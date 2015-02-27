@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_315_2004-01-24.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "fakin' jax"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_315_2004-01-24.mp3" MP3
 		INDEX 01 01:58:49
 	TRACK 03 AUDIO
 		TITLE "talk (over i.n.i. - fakin' jax instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:32:56
 	TRACK 04 AUDIO
 		TITLE "find that"
@@ -116,10 +116,10 @@ FILE "WeFunk_Show_315_2004-01-24.mp3" MP3
 		PERFORMER "jurassic 5"
 		INDEX 01 105:55:17
 	TRACK 29 AUDIO
-		TITLE "talk (over madd skillz - skillz in '95 instrumental)"
-		PERFORMER ""
+		TITLE "talk (over mad skillz - skillz in '95 instrumental)"
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 109:36:50
 	TRACK 30 AUDIO
 		TITLE "move the crowd"
-		PERFORMER "eric b & rakim"
+		PERFORMER "eric b. & rakim"
 		INDEX 01 112:51:12

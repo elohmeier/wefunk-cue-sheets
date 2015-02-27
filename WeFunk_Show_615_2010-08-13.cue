@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_615_2010-08-13.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "lionel"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_615_2010-08-13.mp3" MP3
 		INDEX 01 01:32:27
 	TRACK 03 AUDIO
 		TITLE "talk (over oddisee - juba may)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:20:32
 	TRACK 04 AUDIO
 		TITLE "villain freestyle"
@@ -145,7 +145,7 @@ FILE "WeFunk_Show_615_2010-08-13.mp3" MP3
 		INDEX 01 108:50:25
 	TRACK 36 AUDIO
 		TITLE "talk (over marxman - all about eve instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 111:29:12
 	TRACK 37 AUDIO
 		TITLE "bug powder dust"

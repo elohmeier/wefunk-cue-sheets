@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_357_2004-12-03.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "never get enough"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_357_2004-12-03.mp3" MP3
 		INDEX 01 01:58:60
 	TRACK 03 AUDIO
 		TITLE "talk (over pablo - cissy strut)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:42:56
 	TRACK 04 AUDIO
 		TITLE "hot (i need to be loved, loved, loved)"
@@ -101,7 +101,7 @@ FILE "WeFunk_Show_357_2004-12-03.mp3" MP3
 		INDEX 01 79:39:45
 	TRACK 25 AUDIO
 		TITLE "attitudes"
-		PERFORMER "rumpletilkinz"
+		PERFORMER "rumpletilskinz"
 		INDEX 01 82:57:66
 	TRACK 26 AUDIO
 		TITLE "style wars (remix)"
@@ -129,5 +129,5 @@ FILE "WeFunk_Show_357_2004-12-03.mp3" MP3
 		INDEX 01 106:08:10
 	TRACK 32 AUDIO
 		TITLE "talk (over wizdom life & matt fingaz - fruits of labor in the sunshine instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 109:55:53

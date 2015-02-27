@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_208_2001-11-02.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "raise it up"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_208_2001-11-02.mp3" MP3
 		INDEX 01 01:58:04
 	TRACK 03 AUDIO
 		TITLE "talk (over method man - p.l.o. style instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 06:16:42
 	TRACK 04 AUDIO
 		TITLE "bring the pain"
@@ -68,8 +68,8 @@ FILE "WeFunk_Show_208_2001-11-02.mp3" MP3
 		PERFORMER "meters"
 		INDEX 01 53:15:58
 	TRACK 17 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 55:25:64
 	TRACK 18 AUDIO
 		TITLE "the scorpion (alternate take)"
@@ -101,7 +101,7 @@ FILE "WeFunk_Show_208_2001-11-02.mp3" MP3
 		INDEX 01 98:28:27
 	TRACK 25 AUDIO
 		TITLE "talk (over maceo & all the king's men - southwick)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 102:35:38
 	TRACK 26 AUDIO
 		TITLE "funky junkie"
@@ -113,5 +113,5 @@ FILE "WeFunk_Show_208_2001-11-02.mp3" MP3
 		INDEX 01 110:50:26
 	TRACK 28 AUDIO
 		TITLE "talk (over donald byrd - cristo redentor)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 114:10:08

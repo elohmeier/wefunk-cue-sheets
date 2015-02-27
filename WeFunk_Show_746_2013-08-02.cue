@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_746_2013-08-02.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "the "in" crowd"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_746_2013-08-02.mp3" MP3
 		INDEX 01 01:14:14
 	TRACK 03 AUDIO
 		TITLE "talk (over brother jack mcduff - can't get satisfied)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 07:00:26
 	TRACK 04 AUDIO
 		TITLE "the cisco kid"
@@ -149,7 +149,7 @@ FILE "WeFunk_Show_746_2013-08-02.mp3" MP3
 		INDEX 01 110:42:60
 	TRACK 37 AUDIO
 		TITLE "talk (over evil needle feat. octavio n. santos - good times)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 112:42:26
 	TRACK 38 AUDIO
 		TITLE "my favorite things"

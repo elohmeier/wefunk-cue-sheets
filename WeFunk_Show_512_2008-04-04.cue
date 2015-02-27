@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_512_2008-04-04.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "stay away from me"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_512_2008-04-04.mp3" MP3
 		INDEX 01 02:01:58
 	TRACK 03 AUDIO
 		TITLE "talk (over ghostface killah - be easy instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 03:31:67
 	TRACK 04 AUDIO
 		TITLE "be easy"
@@ -109,7 +109,7 @@ FILE "WeFunk_Show_512_2008-04-04.mp3" MP3
 		INDEX 01 84:21:06
 	TRACK 27 AUDIO
 		TITLE "crazy"
-		PERFORMER "royce da 5' 9""
+		PERFORMER "royce da 5'9""
 		INDEX 01 87:05:48
 	TRACK 28 AUDIO
 		TITLE "swing too high"
@@ -117,7 +117,7 @@ FILE "WeFunk_Show_512_2008-04-04.mp3" MP3
 		INDEX 01 90:17:41
 	TRACK 29 AUDIO
 		TITLE "watts breakaway"
-		PERFORMER "johhny otis show"
+		PERFORMER "johnny otis show"
 		INDEX 01 92:53:43
 	TRACK 30 AUDIO
 		TITLE "(hey) i feel real good"
@@ -137,5 +137,5 @@ FILE "WeFunk_Show_512_2008-04-04.mp3" MP3
 		INDEX 01 105:30:64
 	TRACK 34 AUDIO
 		TITLE "talk (over redd holt unlimited - beware little girls of the cannibals)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 108:05:55

@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_685_2012-03-30.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "stressin' lessons"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_685_2012-03-30.mp3" MP3
 		INDEX 01 01:40:18
 	TRACK 03 AUDIO
 		TITLE "talk (over madlib - slim's return)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:45:40
 	TRACK 04 AUDIO
 		TITLE "golden state"
@@ -153,7 +153,7 @@ FILE "WeFunk_Show_685_2012-03-30.mp3" MP3
 		INDEX 01 111:27:29
 	TRACK 38 AUDIO
 		TITLE "talk (over ray mang - holy ghost)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 114:16:46
 	TRACK 39 AUDIO
 		TITLE "t.s.o.b (instrumental)"

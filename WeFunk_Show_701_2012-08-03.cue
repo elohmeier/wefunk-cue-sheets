@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_701_2012-08-03.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "the things you do"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_701_2012-08-03.mp3" MP3
 		INDEX 01 02:01:43
 	TRACK 03 AUDIO
 		TITLE "talk (over d.j. wood - poppa large)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:26:73
 	TRACK 04 AUDIO
 		TITLE "someone to love"
@@ -32,8 +32,8 @@ FILE "WeFunk_Show_701_2012-08-03.mp3" MP3
 		PERFORMER "method man feat. busta rhymes"
 		INDEX 01 18:06:48
 	TRACK 08 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 21:55:06
 	TRACK 09 AUDIO
 		TITLE "rockin' after midnight"
@@ -109,7 +109,7 @@ FILE "WeFunk_Show_701_2012-08-03.mp3" MP3
 		INDEX 01 118:35:66
 	TRACK 27 AUDIO
 		TITLE "talk (over rockers revenge - dubbing in sunshine)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 121:02:46
 	TRACK 28 AUDIO
 		TITLE "give me the night (edit)"

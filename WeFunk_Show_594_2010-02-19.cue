@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_594_2010-02-19.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "changes (funk mix)"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_594_2010-02-19.mp3" MP3
 		INDEX 01 01:14:27
 	TRACK 03 AUDIO
 		TITLE "talk (over t.j. swann - and you know that instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:47:48
 	TRACK 04 AUDIO
 		TITLE "you don't need a dance"
@@ -133,7 +133,7 @@ FILE "WeFunk_Show_594_2010-02-19.mp3" MP3
 		INDEX 01 98:15:58
 	TRACK 33 AUDIO
 		TITLE "talk (over karl hector & the malcouns - debere)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 102:41:36
 	TRACK 34 AUDIO
 		TITLE "got to be there"

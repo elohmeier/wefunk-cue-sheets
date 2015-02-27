@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_667_2011-10-21.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "what is funk"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_667_2011-10-21.mp3" MP3
 		INDEX 01 01:26:69
 	TRACK 03 AUDIO
 		TITLE "talk (over alan hawkshaw - troubleshooter vol. 2)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:07:21
 	TRACK 04 AUDIO
 		TITLE "i ain't got nobody (for real)"
@@ -25,7 +25,7 @@ FILE "WeFunk_Show_667_2011-10-21.mp3" MP3
 		INDEX 01 12:33:24
 	TRACK 06 AUDIO
 		TITLE "talk (over diplomats of solid sound feat. the diplomettes - budget fro)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 15:51:72
 	TRACK 07 AUDIO
 		TITLE "so soulful"
@@ -41,7 +41,7 @@ FILE "WeFunk_Show_667_2011-10-21.mp3" MP3
 		INDEX 01 24:27:17
 	TRACK 10 AUDIO
 		TITLE "talk (over roots - distortion to static instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 27:10:03
 	TRACK 11 AUDIO
 		TITLE "break ups 2 make ups"
@@ -53,7 +53,7 @@ FILE "WeFunk_Show_667_2011-10-21.mp3" MP3
 		INDEX 01 37:11:61
 	TRACK 13 AUDIO
 		TITLE "talk (over hashfinger - august.11 #2)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 40:27:40
 	TRACK 14 AUDIO
 		TITLE "make you mine"
@@ -69,7 +69,7 @@ FILE "WeFunk_Show_667_2011-10-21.mp3" MP3
 		INDEX 01 49:57:17
 	TRACK 17 AUDIO
 		TITLE "talk (over nicole willis & the soul investigators - feeling free instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 53:51:34
 	TRACK 18 AUDIO
 		TITLE "what's good for you don't have to be good to you"
@@ -89,7 +89,7 @@ FILE "WeFunk_Show_667_2011-10-21.mp3" MP3
 		INDEX 01 64:18:64
 	TRACK 22 AUDIO
 		TITLE "talk (over greyboy allstars - soul dream)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 66:59:36
 	TRACK 23 AUDIO
 		TITLE "high"
@@ -105,7 +105,7 @@ FILE "WeFunk_Show_667_2011-10-21.mp3" MP3
 		INDEX 01 75:18:47
 	TRACK 26 AUDIO
 		TITLE "talk (over gramatik - on the boardwalk)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 77:02:61
 	TRACK 27 AUDIO
 		TITLE "a's & e's"
@@ -121,7 +121,7 @@ FILE "WeFunk_Show_667_2011-10-21.mp3" MP3
 		INDEX 01 87:22:17
 	TRACK 30 AUDIO
 		TITLE "talk (over rascalz - soul obligation instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 91:38:36
 	TRACK 31 AUDIO
 		TITLE "scared"
@@ -137,7 +137,7 @@ FILE "WeFunk_Show_667_2011-10-21.mp3" MP3
 		INDEX 01 102:35:12
 	TRACK 34 AUDIO
 		TITLE "talk (over d'angelo - chicken grease instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 107:05:19
 	TRACK 35 AUDIO
 		TITLE "stone to the bone"

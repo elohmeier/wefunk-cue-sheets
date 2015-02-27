@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_422_2006-05-19.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "up from the south"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_422_2006-05-19.mp3" MP3
 		INDEX 01 01:58:60
 	TRACK 03 AUDIO
 		TITLE "talk (over expressions - money i$ king)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:18:48
 	TRACK 04 AUDIO
 		TITLE "do the sissy"
@@ -89,7 +89,7 @@ FILE "WeFunk_Show_422_2006-05-19.mp3" MP3
 		INDEX 01 64:17:63
 	TRACK 22 AUDIO
 		TITLE "talk (over x-men - musica negra (black music) (instrumental))"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 67:54:54
 	TRACK 23 AUDIO
 		TITLE "music man"
@@ -145,5 +145,5 @@ FILE "WeFunk_Show_422_2006-05-19.mp3" MP3
 		INDEX 01 111:41:58
 	TRACK 36 AUDIO
 		TITLE "talk (over sadat x - the lump lump instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 113:39:66

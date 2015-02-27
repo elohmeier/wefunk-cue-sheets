@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_570_2009-07-17.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "i got cha opin 09"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_570_2009-07-17.mp3" MP3
 		INDEX 01 01:14:30
 	TRACK 03 AUDIO
 		TITLE "talk (over brooklyn academy - what's the buzz instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:12:58
 	TRACK 04 AUDIO
 		TITLE "funky hit records"
@@ -21,7 +21,7 @@ FILE "WeFunk_Show_570_2009-07-17.mp3" MP3
 		INDEX 01 07:30:20
 	TRACK 05 AUDIO
 		TITLE "same 'ol thing"
-		PERFORMER "del tha funky homosapien"
+		PERFORMER "del tha funkee homosapien"
 		INDEX 01 10:43:25
 	TRACK 06 AUDIO
 		TITLE "same old thing"
@@ -137,5 +137,5 @@ FILE "WeFunk_Show_570_2009-07-17.mp3" MP3
 		INDEX 01 102:54:32
 	TRACK 34 AUDIO
 		TITLE "talk (over dâm funk - the long way home)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 107:55:72

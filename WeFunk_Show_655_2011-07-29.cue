@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_655_2011-07-29.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "in love (brooklyn love affair)"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_655_2011-07-29.mp3" MP3
 		INDEX 01 01:26:69
 	TRACK 03 AUDIO
 		TITLE "talk (over jazz liberatorz - slow down)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:58:28
 	TRACK 04 AUDIO
 		TITLE "zaedno s nas"
@@ -173,7 +173,7 @@ FILE "WeFunk_Show_655_2011-07-29.mp3" MP3
 		INDEX 01 115:56:64
 	TRACK 43 AUDIO
 		TITLE "talk (over daniel drumz - walking into sunshine)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 119:29:55
 	TRACK 44 AUDIO
 		TITLE "15 (edit)"

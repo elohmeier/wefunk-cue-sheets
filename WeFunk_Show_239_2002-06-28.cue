@@ -5,15 +5,15 @@ REM Genre : HipHop
 FILE "WeFunk_Show_239_2002-06-28.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "bounce"
 		PERFORMER "non-prophets"
 		INDEX 01 01:58:46
 	TRACK 03 AUDIO
-		TITLE "talk (over pace won - locked instrumental)"
-		PERFORMER ""
+		TITLE "talk (over pacewon - locked instrumental)"
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:41:57
 	TRACK 04 AUDIO
 		TITLE "the real me"
@@ -88,8 +88,8 @@ FILE "WeFunk_Show_239_2002-06-28.mp3" MP3
 		PERFORMER "lil' dap"
 		INDEX 01 67:37:35
 	TRACK 22 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 70:20:64
 	TRACK 23 AUDIO
 		TITLE "chicken strut"
@@ -137,7 +137,7 @@ FILE "WeFunk_Show_239_2002-06-28.mp3" MP3
 		INDEX 01 109:23:70
 	TRACK 34 AUDIO
 		TITLE "talk (over professor groove - twitchy keys)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 113:00:73
 	TRACK 35 AUDIO
 		TITLE "up & down (instrumental)"

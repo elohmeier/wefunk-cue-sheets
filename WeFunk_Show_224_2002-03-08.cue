@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_224_2002-03-08.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "sayin' it and doin' it"
@@ -20,8 +20,8 @@ FILE "WeFunk_Show_224_2002-03-08.mp3" MP3
 		PERFORMER "black heat"
 		INDEX 01 07:56:61
 	TRACK 05 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 08:38:35
 	TRACK 06 AUDIO
 		TITLE "i'm tired, i'm tired, i'm tired"
@@ -53,7 +53,7 @@ FILE "WeFunk_Show_224_2002-03-08.mp3" MP3
 		INDEX 01 28:04:07
 	TRACK 13 AUDIO
 		TITLE "follow the leader"
-		PERFORMER "eric b & rakim"
+		PERFORMER "eric b. & rakim"
 		INDEX 01 30:31:47
 	TRACK 14 AUDIO
 		TITLE "raw"
@@ -137,9 +137,9 @@ FILE "WeFunk_Show_224_2002-03-08.mp3" MP3
 		INDEX 01 102:04:10
 	TRACK 34 AUDIO
 		TITLE "pass the vibes"
-		PERFORMER "powerrule"
+		PERFORMER "powerule"
 		INDEX 01 104:30:66
 	TRACK 35 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 109:02:61

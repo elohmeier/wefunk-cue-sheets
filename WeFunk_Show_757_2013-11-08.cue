@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_757_2013-11-08.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "it's ok"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_757_2013-11-08.mp3" MP3
 		INDEX 01 02:01:57
 	TRACK 03 AUDIO
 		TITLE "talk (over k-def - improvs from the brain instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:23:07
 	TRACK 04 AUDIO
 		TITLE "passing fads"
@@ -149,7 +149,7 @@ FILE "WeFunk_Show_757_2013-11-08.mp3" MP3
 		INDEX 01 110:26:64
 	TRACK 37 AUDIO
 		TITLE "talk (over tiger & woods - golden bear)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 113:21:70
 	TRACK 38 AUDIO
 		TITLE "wanna dance"

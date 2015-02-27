@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_583_2009-11-06.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "good morning"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_583_2009-11-06.mp3" MP3
 		INDEX 01 01:40:02
 	TRACK 03 AUDIO
 		TITLE "talk (over edwards generation - smokin tidbits)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:06:08
 	TRACK 04 AUDIO
 		TITLE "who told you"
@@ -97,7 +97,7 @@ FILE "WeFunk_Show_583_2009-11-06.mp3" MP3
 		INDEX 01 67:57:64
 	TRACK 24 AUDIO
 		TITLE "parkside 5-2"
-		PERFORMER "schoolly d"
+		PERFORMER "schoolly d."
 		INDEX 01 70:09:64
 	TRACK 25 AUDIO
 		TITLE "stay off the fuckin' flowers"
@@ -157,7 +157,7 @@ FILE "WeFunk_Show_583_2009-11-06.mp3" MP3
 		INDEX 01 112:06:51
 	TRACK 39 AUDIO
 		TITLE "talk (over teeko feat. j-1 - five'n)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 114:58:57
 	TRACK 40 AUDIO
 		TITLE "olvidalo"

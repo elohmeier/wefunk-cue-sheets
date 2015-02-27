@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_553_2009-02-20.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "rock ya shoulders"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_553_2009-02-20.mp3" MP3
 		INDEX 01 01:32:45
 	TRACK 03 AUDIO
 		TITLE "talk (over recordkingz feat. beatnuts - rock ya shoulders instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 03:50:05
 	TRACK 04 AUDIO
 		TITLE "i ain't trying to hear that shit"
@@ -133,7 +133,7 @@ FILE "WeFunk_Show_553_2009-02-20.mp3" MP3
 		INDEX 01 95:37:16
 	TRACK 33 AUDIO
 		TITLE "talk (over henry franklin - blue lights)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 103:12:72
 	TRACK 34 AUDIO
 		TITLE "street lady"

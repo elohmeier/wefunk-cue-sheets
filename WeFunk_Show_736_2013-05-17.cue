@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_736_2013-05-17.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "dream on"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_736_2013-05-17.mp3" MP3
 		INDEX 01 01:26:69
 	TRACK 03 AUDIO
 		TITLE "talk (over bamboos - happy)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 06:26:16
 	TRACK 04 AUDIO
 		TITLE "i left my heart"
@@ -165,7 +165,7 @@ FILE "WeFunk_Show_736_2013-05-17.mp3" MP3
 		INDEX 01 113:05:51
 	TRACK 41 AUDIO
 		TITLE "talk (over 8th w1 & p.v.d. - happy instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 115:22:33
 	TRACK 42 AUDIO
 		TITLE "imagine"

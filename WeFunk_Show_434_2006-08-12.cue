@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_434_2006-08-12.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "stop look listen!"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_434_2006-08-12.mp3" MP3
 		INDEX 01 01:58:43
 	TRACK 03 AUDIO
 		TITLE "talk (over james brown - untitled instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 03:59:12
 	TRACK 04 AUDIO
 		TITLE "whatcha want us to do"
@@ -141,7 +141,7 @@ FILE "WeFunk_Show_434_2006-08-12.mp3" MP3
 		INDEX 01 108:07:70
 	TRACK 35 AUDIO
 		TITLE "talk (over d.j. kay slay feat. shaquille o'neal, bun b & papoose - can't stop the reign 2006 instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 111:51:22
 	TRACK 36 AUDIO
 		TITLE "can't stop the reign 2006"

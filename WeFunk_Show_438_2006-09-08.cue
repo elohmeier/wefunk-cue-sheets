@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_438_2006-09-08.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "panthers"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_438_2006-09-08.mp3" MP3
 		INDEX 01 01:39:46
 	TRACK 03 AUDIO
 		TITLE "talk (over sadat x - the great diamond d instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:03:64
 	TRACK 04 AUDIO
 		TITLE "america's most blunted"
@@ -121,5 +121,5 @@ FILE "WeFunk_Show_438_2006-09-08.mp3" MP3
 		INDEX 01 108:07:28
 	TRACK 30 AUDIO
 		TITLE "talk (over outkast - southernplayalisticadillacmusik instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 109:50:51

@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_452_2006-12-22.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "fortitude"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_452_2006-12-22.mp3" MP3
 		INDEX 01 01:39:45
 	TRACK 03 AUDIO
 		TITLE "talk (over jurassic 5 feat. dap kings - red hot instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:59:35
 	TRACK 04 AUDIO
 		TITLE "swing your own thing"
@@ -149,7 +149,7 @@ FILE "WeFunk_Show_452_2006-12-22.mp3" MP3
 		INDEX 01 129:54:59
 	TRACK 37 AUDIO
 		TITLE "talk (over j dilla & common - so far to go instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 132:04:21
 	TRACK 38 AUDIO
 		TITLE "so far to go"

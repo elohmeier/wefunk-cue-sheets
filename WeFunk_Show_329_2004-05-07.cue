@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_329_2004-05-07.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "get on the good foot"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_329_2004-05-07.mp3" MP3
 		INDEX 01 01:39:59
 	TRACK 03 AUDIO
 		TITLE "talk (over maceo & all the king's men - thank you for letting me be myself again)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:03:28
 	TRACK 04 AUDIO
 		TITLE "underdog"
@@ -129,5 +129,5 @@ FILE "WeFunk_Show_329_2004-05-07.mp3" MP3
 		INDEX 01 99:22:10
 	TRACK 32 AUDIO
 		TITLE "talk (over jimmy smith - can't get enough)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 107:10:29

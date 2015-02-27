@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_523_2008-07-04.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "african battle"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_523_2008-07-04.mp3" MP3
 		INDEX 01 01:14:24
 	TRACK 03 AUDIO
 		TITLE "talk (over floyd lawson - theme from s.w.a.t.)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 03:33:72
 	TRACK 04 AUDIO
 		TITLE "mista president"
@@ -113,7 +113,7 @@ FILE "WeFunk_Show_523_2008-07-04.mp3" MP3
 		INDEX 01 61:54:52
 	TRACK 28 AUDIO
 		TITLE "goodbye, so long"
-		PERFORMER "funk, inc."
+		PERFORMER "funk inc."
 		INDEX 01 64:07:55
 	TRACK 29 AUDIO
 		TITLE "jungle strut"
@@ -148,7 +148,7 @@ FILE "WeFunk_Show_523_2008-07-04.mp3" MP3
 		PERFORMER "rawkotics"
 		INDEX 01 94:47:32
 	TRACK 37 AUDIO
-		TITLE "off the chest"
+		TITLE "off ya chest"
 		PERFORMER "frank-n-dank"
 		INDEX 01 96:55:26
 	TRACK 38 AUDIO
@@ -193,5 +193,5 @@ FILE "WeFunk_Show_523_2008-07-04.mp3" MP3
 		INDEX 01 116:02:32
 	TRACK 48 AUDIO
 		TITLE "talk (over mobb deep - thug music instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 118:54:31

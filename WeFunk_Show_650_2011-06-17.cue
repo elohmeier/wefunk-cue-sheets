@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_650_2011-06-17.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "ready or crunk (d.c.'s finest re-edit)"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_650_2011-06-17.mp3" MP3
 		INDEX 01 01:32:20
 	TRACK 03 AUDIO
 		TITLE "talk (over d.j. quik - something for the mood instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:42:07
 	TRACK 04 AUDIO
 		TITLE "east coast boy and west coast girl"
@@ -201,5 +201,5 @@ FILE "WeFunk_Show_650_2011-06-17.mp3" MP3
 		INDEX 01 115:23:46
 	TRACK 50 AUDIO
 		TITLE "talk (over lou donaldson - it's your thing)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 118:24:70

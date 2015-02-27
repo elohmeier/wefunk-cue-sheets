@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_297_2003-08-29.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "put on train"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_297_2003-08-29.mp3" MP3
 		INDEX 01 01:59:02
 	TRACK 03 AUDIO
 		TITLE "talk (over mohawks - pepsi)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 07:27:40
 	TRACK 04 AUDIO
 		TITLE "st. louis breakdown"
@@ -40,8 +40,8 @@ FILE "WeFunk_Show_297_2003-08-29.mp3" MP3
 		PERFORMER "lone catalysts"
 		INDEX 01 26:24:66
 	TRACK 10 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 28:56:39
 	TRACK 11 AUDIO
 		TITLE "what's not to love"
@@ -108,6 +108,6 @@ FILE "WeFunk_Show_297_2003-08-29.mp3" MP3
 		PERFORMER "al-shid"
 		INDEX 01 109:39:13
 	TRACK 27 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 112:10:00

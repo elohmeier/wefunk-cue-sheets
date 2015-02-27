@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_259_2002-11-15.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "devotion '92"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_259_2002-11-15.mp3" MP3
 		INDEX 01 01:57:18
 	TRACK 03 AUDIO
 		TITLE "talk (over t-love - q.m.s. instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:35:50
 	TRACK 04 AUDIO
 		TITLE "best kept secret"
@@ -101,7 +101,7 @@ FILE "WeFunk_Show_259_2002-11-15.mp3" MP3
 		INDEX 01 71:02:19
 	TRACK 25 AUDIO
 		TITLE "communicate (remix)"
-		PERFORMER "ge-ology feat. sadat x & talib kweli"
+		PERFORMER "ge-ology feat. sadat x. & talib kweli"
 		INDEX 01 74:37:02
 	TRACK 26 AUDIO
 		TITLE "under pressure (instrumental)"
@@ -137,5 +137,5 @@ FILE "WeFunk_Show_259_2002-11-15.mp3" MP3
 		INDEX 01 108:44:48
 	TRACK 34 AUDIO
 		TITLE "talk (over marc moulin - humpty dumpty)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 113:24:32

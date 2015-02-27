@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_756_2013-11-01.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "act like you know"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_756_2013-11-01.mp3" MP3
 		INDEX 01 01:32:45
 	TRACK 03 AUDIO
 		TITLE "talk (over juice people unlimited - spaced out (mark wayward edit))"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 06:50:19
 	TRACK 04 AUDIO
 		TITLE "coolin' in cali"
@@ -29,7 +29,7 @@ FILE "WeFunk_Show_756_2013-11-01.mp3" MP3
 		INDEX 01 18:12:72
 	TRACK 07 AUDIO
 		TITLE "talk (over erule - listen up instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 21:10:15
 	TRACK 08 AUDIO
 		TITLE "saturday night (jay dee remix)"
@@ -41,7 +41,7 @@ FILE "WeFunk_Show_756_2013-11-01.mp3" MP3
 		INDEX 01 28:54:51
 	TRACK 10 AUDIO
 		TITLE "talk (over roy ayers - papa was a rolling stone)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 32:07:35
 	TRACK 11 AUDIO
 		TITLE "it's just begun"
@@ -53,7 +53,7 @@ FILE "WeFunk_Show_756_2013-11-01.mp3" MP3
 		INDEX 01 37:16:43
 	TRACK 13 AUDIO
 		TITLE "talk (over youngblood brass band - brooklyn)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 40:36:55
 	TRACK 14 AUDIO
 		TITLE "come on over"
@@ -69,7 +69,7 @@ FILE "WeFunk_Show_756_2013-11-01.mp3" MP3
 		INDEX 01 54:04:11
 	TRACK 17 AUDIO
 		TITLE "talk (over louie bello - electric relaxation instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 56:02:67
 	TRACK 18 AUDIO
 		TITLE "electric relaxation"
@@ -89,7 +89,7 @@ FILE "WeFunk_Show_756_2013-11-01.mp3" MP3
 		INDEX 01 70:04:04
 	TRACK 22 AUDIO
 		TITLE "talk (over pete rock & c.l. smooth - for pete's sake instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 73:00:34
 	TRACK 23 AUDIO
 		TITLE "inside my love (jay todd re-edit)"
@@ -109,7 +109,7 @@ FILE "WeFunk_Show_756_2013-11-01.mp3" MP3
 		INDEX 01 87:09:07
 	TRACK 27 AUDIO
 		TITLE "talk (over sunlightsquare - i believe in miracles (original havana mix instrumental))"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 90:07:01
 	TRACK 28 AUDIO
 		TITLE "cleva (captain planet samba mix)"
@@ -121,7 +121,7 @@ FILE "WeFunk_Show_756_2013-11-01.mp3" MP3
 		INDEX 01 95:35:46
 	TRACK 30 AUDIO
 		TITLE "talk (over grooveman spot a.k.a. d.j. kou-g - one world is)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 98:55:51
 	TRACK 31 AUDIO
 		TITLE "use me"
@@ -129,7 +129,7 @@ FILE "WeFunk_Show_756_2013-11-01.mp3" MP3
 		INDEX 01 101:11:28
 	TRACK 32 AUDIO
 		TITLE "funky to the bone"
-		PERFORMER "freddie henchi & the soulsetters"
+		PERFORMER "freddi/henchi & the soulsettersfreddi/henchi & the soulsetters"
 		INDEX 01 104:35:65
 	TRACK 33 AUDIO
 		TITLE "ready or not here i come"
@@ -145,7 +145,7 @@ FILE "WeFunk_Show_756_2013-11-01.mp3" MP3
 		INDEX 01 111:20:30
 	TRACK 36 AUDIO
 		TITLE "talk (over dinosaurus rex - hubert eaves iii)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 115:35:72
 	TRACK 37 AUDIO
 		TITLE "naive"

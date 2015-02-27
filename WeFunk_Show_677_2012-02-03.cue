@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_677_2012-02-03.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "troglodyte (cave man)"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_677_2012-02-03.mp3" MP3
 		INDEX 01 02:01:57
 	TRACK 03 AUDIO
 		TITLE "talk (over jimmy castor bunch - it's just begun instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:48:49
 	TRACK 04 AUDIO
 		TITLE "e-man boogie"
@@ -165,7 +165,7 @@ FILE "WeFunk_Show_677_2012-02-03.mp3" MP3
 		INDEX 01 114:17:20
 	TRACK 41 AUDIO
 		TITLE "talk (over i.v. the polymath - lions)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 116:45:32
 	TRACK 42 AUDIO
 		TITLE "live at the improv"

@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_176_2001-03-23.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "what so never the dance"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_176_2001-03-23.mp3" MP3
 		INDEX 01 01:58:07
 	TRACK 03 AUDIO
 		TITLE "talk (over average white band - pick up the pieces)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:12:55
 	TRACK 04 AUDIO
 		TITLE "move somethin'"
@@ -33,7 +33,7 @@ FILE "WeFunk_Show_176_2001-03-23.mp3" MP3
 		INDEX 01 20:55:68
 	TRACK 08 AUDIO
 		TITLE "knucklehead"
-		PERFORMER "grover washington jr."
+		PERFORMER "grover washington, jr."
 		INDEX 01 31:34:68
 	TRACK 09 AUDIO
 		TITLE "same beat"
@@ -65,7 +65,7 @@ FILE "WeFunk_Show_176_2001-03-23.mp3" MP3
 		INDEX 01 67:11:66
 	TRACK 16 AUDIO
 		TITLE "talk (over meters - just kissed my baby)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 70:04:16
 	TRACK 17 AUDIO
 		TITLE "(it's not the express) it's j.b.'s monorail"
@@ -93,7 +93,7 @@ FILE "WeFunk_Show_176_2001-03-23.mp3" MP3
 		INDEX 01 97:25:28
 	TRACK 23 AUDIO
 		TITLE "talk (over common sense - i used to love h.e.r. instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 101:57:20
 	TRACK 24 AUDIO
 		TITLE "breakfast @ dennys"
@@ -101,5 +101,5 @@ FILE "WeFunk_Show_176_2001-03-23.mp3" MP3
 		INDEX 01 107:20:61
 	TRACK 25 AUDIO
 		TITLE "talk (over diamond d, sadat x & lord finesse - u can't front instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 111:13:49

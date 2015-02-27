@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_394_2005-10-07.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "fat mama"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_394_2005-10-07.mp3" MP3
 		INDEX 01 01:59:07
 	TRACK 03 AUDIO
 		TITLE "talk (over the loopdigga - ashby road, soul sonata, & mind touch)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 06:23:08
 	TRACK 04 AUDIO
 		TITLE "aria"
@@ -117,5 +117,5 @@ FILE "WeFunk_Show_394_2005-10-07.mp3" MP3
 		INDEX 01 100:13:23
 	TRACK 29 AUDIO
 		TITLE "talk (over richard "groove" holmes - down home funk)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 105:10:69

@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_312_2003-12-20.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "hook & boogit"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_312_2003-12-20.mp3" MP3
 		INDEX 01 01:58:26
 	TRACK 03 AUDIO
 		TITLE "talk (over eddie bo - hook & sling instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:20:43
 	TRACK 04 AUDIO
 		TITLE "cross the track (we better go back)"
@@ -137,5 +137,5 @@ FILE "WeFunk_Show_312_2003-12-20.mp3" MP3
 		INDEX 01 103:13:30
 	TRACK 34 AUDIO
 		TITLE "talk (over isaac hayes - pursuit of the pimpmobile)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 108:32:61

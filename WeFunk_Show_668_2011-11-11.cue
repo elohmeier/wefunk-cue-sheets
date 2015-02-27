@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_668_2011-11-11.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "peaceful journey"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_668_2011-11-11.mp3" MP3
 		INDEX 01 01:26:65
 	TRACK 03 AUDIO
 		TITLE "talk (over heavy d. & the boyz - peaceful journey remix instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:19:15
 	TRACK 04 AUDIO
 		TITLE "black coffee"
@@ -149,7 +149,7 @@ FILE "WeFunk_Show_668_2011-11-11.mp3" MP3
 		INDEX 01 103:09:03
 	TRACK 37 AUDIO
 		TITLE "talk (over poets of rhythm - ham gallery)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 107:40:37
 	TRACK 38 AUDIO
 		TITLE "holla"

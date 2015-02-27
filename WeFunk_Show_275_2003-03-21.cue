@@ -5,15 +5,15 @@ REM Genre : HipHop
 FILE "WeFunk_Show_275_2003-03-21.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "and so..."
 		PERFORMER "bootcamp"
 		INDEX 01 01:58:47
 	TRACK 03 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 05:38:24
 	TRACK 04 AUDIO
 		TITLE "funky screw"
@@ -117,7 +117,7 @@ FILE "WeFunk_Show_275_2003-03-21.mp3" MP3
 		INDEX 01 95:01:66
 	TRACK 29 AUDIO
 		TITLE "impeach the president"
-		PERFORMER "honeydrippers"
+		PERFORMER "honey drippers"
 		INDEX 01 98:31:30
 	TRACK 30 AUDIO
 		TITLE "little baby"
@@ -129,7 +129,7 @@ FILE "WeFunk_Show_275_2003-03-21.mp3" MP3
 		INDEX 01 104:10:60
 	TRACK 32 AUDIO
 		TITLE "talk (over leroy hutson - lucky fellow)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 107:26:19
 	TRACK 33 AUDIO
 		TITLE "lovely is today"

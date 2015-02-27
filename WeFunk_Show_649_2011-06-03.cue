@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_649_2011-06-03.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "the great smoke out"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_649_2011-06-03.mp3" MP3
 		INDEX 01 01:40:24
 	TRACK 03 AUDIO
 		TITLE "talk (over red - astro instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:57:57
 	TRACK 04 AUDIO
 		TITLE "del mondongo"
@@ -152,8 +152,8 @@ FILE "WeFunk_Show_649_2011-06-03.mp3" MP3
 		PERFORMER "gil scott-heron"
 		INDEX 01 65:05:52
 	TRACK 38 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 69:46:38
 	TRACK 39 AUDIO
 		TITLE "with the dope sound"
@@ -177,7 +177,7 @@ FILE "WeFunk_Show_649_2011-06-03.mp3" MP3
 		INDEX 01 74:06:15
 	TRACK 44 AUDIO
 		TITLE "the hiatus"
-		PERFORMER "diamond d"
+		PERFORMER "diamond d."
 		INDEX 01 74:21:63
 	TRACK 45 AUDIO
 		TITLE "wild cowboys (instrumental)"
@@ -265,7 +265,7 @@ FILE "WeFunk_Show_649_2011-06-03.mp3" MP3
 		INDEX 01 113:21:48
 	TRACK 66 AUDIO
 		TITLE "talk (over mike zoot - turn part ii instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 116:16:07
 	TRACK 67 AUDIO
 		TITLE "h2o gate blues"

@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_243_2002-07-26.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "keep it koming"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_243_2002-07-26.mp3" MP3
 		INDEX 01 01:58:19
 	TRACK 03 AUDIO
 		TITLE "talk (over quasimoto - low class conspiracy instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:47:48
 	TRACK 04 AUDIO
 		TITLE "get off dat bullshit"
@@ -80,7 +80,7 @@ FILE "WeFunk_Show_243_2002-07-26.mp3" MP3
 		PERFORMER "reuben wilson"
 		INDEX 01 56:26:04
 	TRACK 20 AUDIO
-		TITLE "watcha want us to do"
+		TITLE "whatcha want us to do"
 		PERFORMER "dynamic concepts"
 		INDEX 01 62:33:23
 	TRACK 21 AUDIO
@@ -145,7 +145,7 @@ FILE "WeFunk_Show_243_2002-07-26.mp3" MP3
 		INDEX 01 104:52:60
 	TRACK 36 AUDIO
 		TITLE "talk (over pete rock - something funky)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 108:29:59
 	TRACK 37 AUDIO
 		TITLE "ghettos of the mind"

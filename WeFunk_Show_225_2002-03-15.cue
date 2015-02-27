@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_225_2002-03-15.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "body rock"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_225_2002-03-15.mp3" MP3
 		INDEX 01 01:58:11
 	TRACK 03 AUDIO
 		TITLE "talk (over lauryn hill - lost ones remix instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 06:12:60
 	TRACK 04 AUDIO
 		TITLE "the tale"
@@ -21,7 +21,7 @@ FILE "WeFunk_Show_225_2002-03-15.mp3" MP3
 		INDEX 01 09:07:36
 	TRACK 05 AUDIO
 		TITLE "a tree never grown"
-		PERFORMER "hip-hop for respect"
+		PERFORMER "hip hop for respect"
 		INDEX 01 12:16:28
 	TRACK 06 AUDIO
 		TITLE "coast ii coast"
@@ -32,8 +32,8 @@ FILE "WeFunk_Show_225_2002-03-15.mp3" MP3
 		PERFORMER "gang starr"
 		INDEX 01 22:40:46
 	TRACK 08 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 25:42:51
 	TRACK 09 AUDIO
 		TITLE "darkest light"
@@ -101,9 +101,9 @@ FILE "WeFunk_Show_225_2002-03-15.mp3" MP3
 		INDEX 01 85:45:44
 	TRACK 25 AUDIO
 		TITLE "knucklehead"
-		PERFORMER "grover washington jr."
+		PERFORMER "grover washington, jr."
 		INDEX 01 88:33:05
 	TRACK 26 AUDIO
 		TITLE "talk (over j.b.'s - same beat)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 95:16:15

@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_231_2002-04-26.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "feelin' alright"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_231_2002-04-26.mp3" MP3
 		INDEX 01 01:58:58
 	TRACK 03 AUDIO
 		TITLE "talk (over clarence wheeler & the enforcers - right on)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:37:28
 	TRACK 04 AUDIO
 		TITLE "far east mississippi"
@@ -161,7 +161,7 @@ FILE "WeFunk_Show_231_2002-04-26.mp3" MP3
 		INDEX 01 107:18:29
 	TRACK 40 AUDIO
 		TITLE "talk (over ice - racubah)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 109:29:34
 	TRACK 41 AUDIO
 		TITLE "who's the king (you know that's me)"

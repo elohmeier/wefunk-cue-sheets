@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_485_2007-08-31.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "hostile gospel"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_485_2007-08-31.mp3" MP3
 		INDEX 01 01:58:39
 	TRACK 03 AUDIO
 		TITLE "talk (over black star - respiration instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 07:10:42
 	TRACK 04 AUDIO
 		TITLE "one step"
@@ -133,5 +133,5 @@ FILE "WeFunk_Show_485_2007-08-31.mp3" MP3
 		INDEX 01 109:16:69
 	TRACK 33 AUDIO
 		TITLE "talk (over eddie bo - hook & sling instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 113:16:27

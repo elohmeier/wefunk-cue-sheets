@@ -5,15 +5,15 @@ REM Genre : HipHop
 FILE "WeFunk_Show_281_2003-05-02.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "monolith interlude"
 		PERFORMER "mastermind"
 		INDEX 01 01:58:20
 	TRACK 03 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 04:06:08
 	TRACK 04 AUDIO
 		TITLE "you know my steez"
@@ -80,8 +80,8 @@ FILE "WeFunk_Show_281_2003-05-02.mp3" MP3
 		PERFORMER "afrika bambaataa & james brown"
 		INDEX 01 59:38:27
 	TRACK 20 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 63:02:07
 	TRACK 21 AUDIO
 		TITLE "little baby"
@@ -101,7 +101,7 @@ FILE "WeFunk_Show_281_2003-05-02.mp3" MP3
 		INDEX 01 105:42:20
 	TRACK 25 AUDIO
 		TITLE "talk (over counts - sing a simple song)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 108:21:28
 	TRACK 26 AUDIO
 		TITLE "do what you want to do"

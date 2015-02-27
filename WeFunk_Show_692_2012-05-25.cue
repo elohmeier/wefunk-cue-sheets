@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_692_2012-05-25.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "the don"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_692_2012-05-25.mp3" MP3
 		INDEX 01 01:32:37
 	TRACK 03 AUDIO
 		TITLE "talk (over super cat - don dada remix instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:49:17
 	TRACK 04 AUDIO
 		TITLE "classic (remix)"
@@ -169,7 +169,7 @@ FILE "WeFunk_Show_692_2012-05-25.mp3" MP3
 		INDEX 01 112:15:49
 	TRACK 42 AUDIO
 		TITLE "talk (over soul searchers - ashley's roachclip)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 117:24:60
 	TRACK 43 AUDIO
 		TITLE "in the pocket"

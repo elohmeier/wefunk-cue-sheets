@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_612_2010-07-09.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "chafa kahn"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_612_2010-07-09.mp3" MP3
 		INDEX 01 01:26:70
 	TRACK 03 AUDIO
 		TITLE "talk (over incognito - fearless)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 03:42:47
 	TRACK 04 AUDIO
 		TITLE "love me, love me now"
@@ -149,5 +149,5 @@ FILE "WeFunk_Show_612_2010-07-09.mp3" MP3
 		INDEX 01 111:42:07
 	TRACK 37 AUDIO
 		TITLE "talk (over craig mack - get down remix instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 114:01:19

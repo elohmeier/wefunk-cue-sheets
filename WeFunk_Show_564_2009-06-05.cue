@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_564_2009-06-05.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "gettin' up"

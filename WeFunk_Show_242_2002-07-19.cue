@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_242_2002-07-19.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "superman lover"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_242_2002-07-19.mp3" MP3
 		INDEX 01 01:58:33
 	TRACK 03 AUDIO
 		TITLE "talk (over brother jack mcduff - magnetic feel)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 07:39:05
 	TRACK 04 AUDIO
 		TITLE "pack of lies"
@@ -77,7 +77,7 @@ FILE "WeFunk_Show_242_2002-07-19.mp3" MP3
 		INDEX 01 52:00:10
 	TRACK 19 AUDIO
 		TITLE "you gotta push"
-		PERFORMER "joddy gayles"
+		PERFORMER "jody gayles"
 		INDEX 01 55:49:72
 	TRACK 20 AUDIO
 		TITLE "blind alley"
@@ -157,7 +157,7 @@ FILE "WeFunk_Show_242_2002-07-19.mp3" MP3
 		INDEX 01 109:29:13
 	TRACK 39 AUDIO
 		TITLE "talk (over ge-ology - everywhere & nowhere)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 112:54:66
 	TRACK 40 AUDIO
 		TITLE "commonwealth (cheap chicks)"

@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_758_2013-11-15.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "don't fly away"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_758_2013-11-15.mp3" MP3
 		INDEX 01 01:14:20
 	TRACK 03 AUDIO
 		TITLE "talk (over impossible dreamers - spin)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:17:24
 	TRACK 04 AUDIO
 		TITLE "good lovin (h.l.i.c. remix)"
@@ -153,7 +153,7 @@ FILE "WeFunk_Show_758_2013-11-15.mp3" MP3
 		INDEX 01 103:54:22
 	TRACK 38 AUDIO
 		TITLE "talk (over marco polo - west coast love instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 106:46:61
 	TRACK 39 AUDIO
 		TITLE "faden away"

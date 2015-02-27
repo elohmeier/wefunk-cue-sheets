@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_645_2011-04-22.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "dark clouds rain soul"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_645_2011-04-22.mp3" MP3
 		INDEX 01 01:32:39
 	TRACK 03 AUDIO
 		TITLE "talk (over ray mang - can't keep running)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 07:05:38
 	TRACK 04 AUDIO
 		TITLE "iro le pa"
@@ -73,7 +73,7 @@ FILE "WeFunk_Show_645_2011-04-22.mp3" MP3
 		INDEX 01 43:22:70
 	TRACK 18 AUDIO
 		TITLE "party & bullshit (f.u.n.k. disco blend)"
-		PERFORMER "notorious b.i.g"
+		PERFORMER "notorious b.i.g."
 		INDEX 01 45:31:09
 	TRACK 19 AUDIO
 		TITLE "we gonna party tonight (d.j. apt one edit)"
@@ -165,7 +165,7 @@ FILE "WeFunk_Show_645_2011-04-22.mp3" MP3
 		INDEX 01 104:30:20
 	TRACK 41 AUDIO
 		TITLE "talk (over isaac hayes - the red rooster)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 108:10:34
 	TRACK 42 AUDIO
 		TITLE "crescent sun"

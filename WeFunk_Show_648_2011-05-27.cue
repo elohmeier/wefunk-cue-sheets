@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_648_2011-05-27.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "real (opolopo remix)"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_648_2011-05-27.mp3" MP3
 		INDEX 01 01:14:25
 	TRACK 03 AUDIO
 		TITLE "talk (over boogie arkestra - !m.a.h.w.)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:52:27
 	TRACK 04 AUDIO
 		TITLE "tujunga"
@@ -177,5 +177,5 @@ FILE "WeFunk_Show_648_2011-05-27.mp3" MP3
 		INDEX 01 109:39:58
 	TRACK 44 AUDIO
 		TITLE "talk (over dilated peoples - basics instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 113:17:17

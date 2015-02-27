@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_687_2012-04-13.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "the days of old"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_687_2012-04-13.mp3" MP3
 		INDEX 01 01:44:44
 	TRACK 03 AUDIO
 		TITLE "talk (over camp lo - black nostaljack instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:29:34
 	TRACK 04 AUDIO
 		TITLE "on the road again (remix)"
@@ -116,8 +116,8 @@ FILE "WeFunk_Show_687_2012-04-13.mp3" MP3
 		PERFORMER "pointer sisters"
 		INDEX 01 78:01:16
 	TRACK 29 AUDIO
-		TITLE "you're the one"
-		PERFORMER "d-train"
+		TITLE "you're the one for me"
+		PERFORMER "d. train"
 		INDEX 01 81:36:60
 	TRACK 30 AUDIO
 		TITLE "the breaks"
@@ -141,7 +141,7 @@ FILE "WeFunk_Show_687_2012-04-13.mp3" MP3
 		INDEX 01 103:48:06
 	TRACK 35 AUDIO
 		TITLE "talk (over brothers johnson - strawberry letter 23 (glenn rivera restructure))"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 108:03:11
 	TRACK 36 AUDIO
 		TITLE "theme for the people"

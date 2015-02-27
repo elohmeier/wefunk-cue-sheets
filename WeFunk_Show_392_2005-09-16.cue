@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_392_2005-09-16.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "deloris is back with jerome and his band"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_392_2005-09-16.mp3" MP3
 		INDEX 01 01:58:55
 	TRACK 03 AUDIO
 		TITLE "talk (over dizzy gillespie - stomped and wasted)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:53:66
 	TRACK 04 AUDIO
 		TITLE "give it up or turn it aloose"
@@ -25,7 +25,7 @@ FILE "WeFunk_Show_392_2005-09-16.mp3" MP3
 		INDEX 01 12:40:03
 	TRACK 06 AUDIO
 		TITLE "talk (over yambu - hippopotamus)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 20:29:26
 	TRACK 07 AUDIO
 		TITLE "can roll wit me"
@@ -77,7 +77,7 @@ FILE "WeFunk_Show_392_2005-09-16.mp3" MP3
 		INDEX 01 59:51:56
 	TRACK 19 AUDIO
 		TITLE "talk (over a tribe called quest - award tour instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 62:47:37
 	TRACK 20 AUDIO
 		TITLE "breakadawn"
@@ -125,5 +125,5 @@ FILE "WeFunk_Show_392_2005-09-16.mp3" MP3
 		INDEX 01 99:07:40
 	TRACK 31 AUDIO
 		TITLE "talk (over j-live - harder instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 102:37:29

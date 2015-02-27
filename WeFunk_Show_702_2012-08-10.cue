@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_702_2012-08-10.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "whenimondamic"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_702_2012-08-10.mp3" MP3
 		INDEX 01 01:14:29
 	TRACK 03 AUDIO
 		TITLE "talk (over ill bill - how to kill a cop)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 03:45:48
 	TRACK 04 AUDIO
 		TITLE "won't stop (remix)"
@@ -157,7 +157,7 @@ FILE "WeFunk_Show_702_2012-08-10.mp3" MP3
 		INDEX 01 101:32:17
 	TRACK 39 AUDIO
 		TITLE "talk (over john hendicott - trip wire beat)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 103:37:42
 	TRACK 40 AUDIO
 		TITLE "champaign thighz"

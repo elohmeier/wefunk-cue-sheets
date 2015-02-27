@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_323_2004-03-20.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "st. louis breakdown"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_323_2004-03-20.mp3" MP3
 		INDEX 01 01:58:56
 	TRACK 03 AUDIO
 		TITLE "talk (over james brown - after you done it)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:28:52
 	TRACK 04 AUDIO
 		TITLE "barkin' up the wrong tree"
@@ -148,6 +148,6 @@ FILE "WeFunk_Show_323_2004-03-20.mp3" MP3
 		PERFORMER "strictly roots"
 		INDEX 01 107:34:02
 	TRACK 37 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 112:23:61

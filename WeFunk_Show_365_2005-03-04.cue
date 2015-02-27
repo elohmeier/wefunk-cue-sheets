@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_365_2005-03-04.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "live medley - criminal minded, jimmy, the bridge is over"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_365_2005-03-04.mp3" MP3
 		INDEX 01 01:58:58
 	TRACK 03 AUDIO
 		TITLE "talk (over just-ice - freedom of speech instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 09:20:68
 	TRACK 04 AUDIO
 		TITLE "freedom of speech"
@@ -45,7 +45,7 @@ FILE "WeFunk_Show_365_2005-03-04.mp3" MP3
 		INDEX 01 38:30:41
 	TRACK 11 AUDIO
 		TITLE "talk (over dorothy ashby - the moving finger)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 40:38:41
 	TRACK 12 AUDIO
 		TITLE "walk that walk, talk that talk"
@@ -129,5 +129,5 @@ FILE "WeFunk_Show_365_2005-03-04.mp3" MP3
 		INDEX 01 110:25:03
 	TRACK 32 AUDIO
 		TITLE "talk (over fatlip - joe's turkey instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 112:44:03

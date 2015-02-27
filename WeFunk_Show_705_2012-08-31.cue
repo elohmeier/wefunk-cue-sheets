@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_705_2012-08-31.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "sure thing"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_705_2012-08-31.mp3" MP3
 		INDEX 01 01:44:55
 	TRACK 03 AUDIO
 		TITLE "talk (over jupiter tuning center - whoosh... the past)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 06:13:18
 	TRACK 04 AUDIO
 		TITLE "kount funkular"
@@ -149,7 +149,7 @@ FILE "WeFunk_Show_705_2012-08-31.mp3" MP3
 		INDEX 01 102:40:73
 	TRACK 37 AUDIO
 		TITLE "talk (over ranjahz - street life instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 107:12:39
 	TRACK 38 AUDIO
 		TITLE "n.y. finest (d.j. clafrica mix)"

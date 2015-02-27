@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_474_2007-06-15.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "what's on your mind"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_474_2007-06-15.mp3" MP3
 		INDEX 01 01:58:27
 	TRACK 03 AUDIO
 		TITLE "talk (over guru feat. donald byrd - loungin' instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 06:16:18
 	TRACK 04 AUDIO
 		TITLE "enemies got me on the run"
@@ -145,5 +145,5 @@ FILE "WeFunk_Show_474_2007-06-15.mp3" MP3
 		INDEX 01 108:53:66
 	TRACK 36 AUDIO
 		TITLE "talk (over poets of rhythm - fondle rock)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 110:50:74

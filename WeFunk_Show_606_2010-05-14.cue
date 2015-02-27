@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_606_2010-05-14.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "breakaway"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_606_2010-05-14.mp3" MP3
 		INDEX 01 01:40:07
 	TRACK 03 AUDIO
 		TITLE "talk (over deodato - super strut)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:14:45
 	TRACK 04 AUDIO
 		TITLE "peril en la demeure"
@@ -153,5 +153,5 @@ FILE "WeFunk_Show_606_2010-05-14.mp3" MP3
 		INDEX 01 105:02:46
 	TRACK 38 AUDIO
 		TITLE "talk (over mark ronson - oh my god instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 111:04:60

@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_537_2008-10-24.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "got to be a love (paul nice remix)"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_537_2008-10-24.mp3" MP3
 		INDEX 01 01:32:21
 	TRACK 03 AUDIO
 		TITLE "talk (over regal - the mack)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:49:72
 	TRACK 04 AUDIO
 		TITLE "come in my kitchen"
@@ -141,7 +141,7 @@ FILE "WeFunk_Show_537_2008-10-24.mp3" MP3
 		INDEX 01 106:56:69
 	TRACK 35 AUDIO
 		TITLE "talk (over weather report - mysterious traveller)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 110:00:04
 	TRACK 36 AUDIO
 		TITLE "i'm comin'"

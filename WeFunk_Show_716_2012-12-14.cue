@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_716_2012-12-14.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "money"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_716_2012-12-14.mp3" MP3
 		INDEX 01 01:14:22
 	TRACK 03 AUDIO
 		TITLE "talk (over lady - money instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:49:53
 	TRACK 04 AUDIO
 		TITLE "snow flakes"
@@ -137,7 +137,7 @@ FILE "WeFunk_Show_716_2012-12-14.mp3" MP3
 		INDEX 01 104:55:32
 	TRACK 34 AUDIO
 		TITLE "talk (over toast dawg - the love loop)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 108:20:13
 	TRACK 35 AUDIO
 		TITLE "breathe deep"

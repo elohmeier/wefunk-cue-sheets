@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_209_2001-11-11.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "hip drop"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_209_2001-11-11.mp3" MP3
 		INDEX 01 01:59:03
 	TRACK 03 AUDIO
 		TITLE "talk (over whitefield brothers - the bastard)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:30:18
 	TRACK 04 AUDIO
 		TITLE "guiding resolution"
@@ -84,16 +84,16 @@ FILE "WeFunk_Show_209_2001-11-11.mp3" MP3
 		PERFORMER "beastie boys"
 		INDEX 01 61:42:15
 	TRACK 21 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 64:52:06
 	TRACK 22 AUDIO
 		TITLE "the third world (live)"
 		PERFORMER "butta beats"
 		INDEX 01 67:03:20
 	TRACK 23 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 70:44:28
 	TRACK 24 AUDIO
 		TITLE "give it up or turnit a loose"
@@ -104,16 +104,16 @@ FILE "WeFunk_Show_209_2001-11-11.mp3" MP3
 		PERFORMER "wild magnolias"
 		INDEX 01 76:45:60
 	TRACK 26 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 81:43:54
 	TRACK 27 AUDIO
 		TITLE "types of people (live)"
 		PERFORMER "butta beats & memo"
 		INDEX 01 83:41:42
 	TRACK 28 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 87:55:49
 	TRACK 29 AUDIO
 		TITLE "son of scorpio"
@@ -149,5 +149,5 @@ FILE "WeFunk_Show_209_2001-11-11.mp3" MP3
 		INDEX 01 110:49:28
 	TRACK 37 AUDIO
 		TITLE "talk (over loopdigga - ashby road)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 112:54:61

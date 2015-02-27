@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_178_2001-04-06.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "frisky"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_178_2001-04-06.mp3" MP3
 		INDEX 01 01:58:53
 	TRACK 03 AUDIO
 		TITLE "talk (over maceo parker - maceo)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:32:43
 	TRACK 04 AUDIO
 		TITLE "stone to the bone"
@@ -109,7 +109,7 @@ FILE "WeFunk_Show_178_2001-04-06.mp3" MP3
 		INDEX 01 86:49:60
 	TRACK 27 AUDIO
 		TITLE "weya"
-		PERFORMER "manu debango"
+		PERFORMER "manu dibango"
 		INDEX 01 89:53:29
 	TRACK 28 AUDIO
 		TITLE "tropical"

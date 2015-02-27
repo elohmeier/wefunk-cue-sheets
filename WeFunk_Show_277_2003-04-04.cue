@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_277_2003-04-04.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "r.a.w."
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_277_2003-04-04.mp3" MP3
 		INDEX 01 01:58:56
 	TRACK 03 AUDIO
 		TITLE "talk (over unknown - unknown song)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:51:01
 	TRACK 04 AUDIO
 		TITLE "give it up"
@@ -77,7 +77,7 @@ FILE "WeFunk_Show_277_2003-04-04.mp3" MP3
 		INDEX 01 68:32:40
 	TRACK 19 AUDIO
 		TITLE "talk (over marvin gaye - t plays it cool)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 72:26:72
 	TRACK 20 AUDIO
 		TITLE "goin' to see my baby"
@@ -88,18 +88,18 @@ FILE "WeFunk_Show_277_2003-04-04.mp3" MP3
 		PERFORMER "tower of power"
 		INDEX 01 82:43:17
 	TRACK 22 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 89:15:45
 	TRACK 23 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 106:33:07
 	TRACK 24 AUDIO
 		TITLE "untitled"
 		PERFORMER "butta beats & lou pienza"
 		INDEX 01 109:20:13
 	TRACK 25 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 113:01:07

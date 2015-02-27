@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_484_2007-08-24.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "learning to love you was easy"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_484_2007-08-24.mp3" MP3
 		INDEX 01 01:58:38
 	TRACK 03 AUDIO
 		TITLE "talk (over grupo los yoyi - el fino)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:02:56
 	TRACK 04 AUDIO
 		TITLE "do your thing"
@@ -129,5 +129,5 @@ FILE "WeFunk_Show_484_2007-08-24.mp3" MP3
 		INDEX 01 107:21:28
 	TRACK 32 AUDIO
 		TITLE "talk (over common - the game instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 111:22:55

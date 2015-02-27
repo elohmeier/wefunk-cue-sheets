@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_400_2005-12-02.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "caribbean festival"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_400_2005-12-02.mp3" MP3
 		INDEX 01 01:58:54
 	TRACK 03 AUDIO
 		TITLE "talk (over commodores - machine gun)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:37:44
 	TRACK 04 AUDIO
 		TITLE "say a prayer for two"
@@ -29,7 +29,7 @@ FILE "WeFunk_Show_400_2005-12-02.mp3" MP3
 		INDEX 01 17:17:34
 	TRACK 07 AUDIO
 		TITLE "talk (over menyeckse - atomic bomb zigoto)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 19:43:13
 	TRACK 08 AUDIO
 		TITLE "talkin' to girls"
@@ -133,5 +133,5 @@ FILE "WeFunk_Show_400_2005-12-02.mp3" MP3
 		INDEX 01 89:22:19
 	TRACK 33 AUDIO
 		TITLE "talk (over kanye west - heard 'em say instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 106:38:35

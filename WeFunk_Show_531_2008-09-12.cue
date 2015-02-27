@@ -5,15 +5,15 @@ REM Genre : HipHop
 FILE "WeFunk_Show_531_2008-09-12.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "midnight theme"
 		PERFORMER "manzel"
 		INDEX 01 01:58:34
 	TRACK 03 AUDIO
-		TITLE "talk (over lafayette afro rock band - hihache)"
-		PERFORMER ""
+		TITLE "talk (over lafayette afro-rock band - hihache)"
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:26:47
 	TRACK 04 AUDIO
 		TITLE "palm grease"
@@ -129,5 +129,5 @@ FILE "WeFunk_Show_531_2008-09-12.mp3" MP3
 		INDEX 01 108:05:48
 	TRACK 32 AUDIO
 		TITLE "talk (over isaac hayes - no name bar)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 111:40:23

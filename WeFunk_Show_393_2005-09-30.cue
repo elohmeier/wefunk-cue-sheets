@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_393_2005-09-30.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "outta here"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_393_2005-09-30.mp3" MP3
 		INDEX 01 01:58:37
 	TRACK 03 AUDIO
 		TITLE "talk (over flatlinerz - rivaz of red instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:57:47
 	TRACK 04 AUDIO
 		TITLE "constant elevation"
@@ -92,14 +92,14 @@ FILE "WeFunk_Show_393_2005-09-30.mp3" MP3
 		PERFORMER "eddie harris"
 		INDEX 01 69:43:44
 	TRACK 23 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 75:44:49
 	TRACK 24 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 76:48:69
 	TRACK 25 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 108:15:44

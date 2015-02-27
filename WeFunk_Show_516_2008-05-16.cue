@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_516_2008-05-16.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "part of greatness (destruments remix)"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_516_2008-05-16.mp3" MP3
 		INDEX 01 01:32:30
 	TRACK 03 AUDIO
 		TITLE "talk (over frankie cutlass - puerto rico (puerto rican day parade mix) instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:14:54
 	TRACK 04 AUDIO
 		TITLE "return of the diaz bros"
@@ -45,7 +45,7 @@ FILE "WeFunk_Show_516_2008-05-16.mp3" MP3
 		INDEX 01 29:34:56
 	TRACK 11 AUDIO
 		TITLE "step up front"
-		PERFORMER "positive k"
+		PERFORMER "positive k."
 		INDEX 01 32:39:42
 	TRACK 12 AUDIO
 		TITLE "go stetsa"
@@ -133,5 +133,5 @@ FILE "WeFunk_Show_516_2008-05-16.mp3" MP3
 		INDEX 01 101:45:13
 	TRACK 33 AUDIO
 		TITLE "talk (over charly antolini's power dozen - nofretete's headache)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 107:45:57

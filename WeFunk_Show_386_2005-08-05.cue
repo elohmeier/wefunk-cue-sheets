@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_386_2005-08-05.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "music turns me on"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_386_2005-08-05.mp3" MP3
 		INDEX 01 01:58:70
 	TRACK 03 AUDIO
 		TITLE "talk (over nite-liters - the heckler)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:10:57
 	TRACK 04 AUDIO
 		TITLE "time is on your side"
@@ -33,7 +33,7 @@ FILE "WeFunk_Show_386_2005-08-05.mp3" MP3
 		INDEX 01 20:20:55
 	TRACK 08 AUDIO
 		TITLE "i know you got soul"
-		PERFORMER "eric b & rakim"
+		PERFORMER "eric b. & rakim"
 		INDEX 01 22:32:13
 	TRACK 09 AUDIO
 		TITLE "girls i got 'em locked"
@@ -113,5 +113,5 @@ FILE "WeFunk_Show_386_2005-08-05.mp3" MP3
 		INDEX 01 101:03:38
 	TRACK 28 AUDIO
 		TITLE "talk (over da brat - give it 2 you instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 104:09:30

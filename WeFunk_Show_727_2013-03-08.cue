@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_727_2013-03-08.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "jump to it"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_727_2013-03-08.mp3" MP3
 		INDEX 01 01:14:26
 	TRACK 03 AUDIO
 		TITLE "talk (over aaron evo - viholett)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:11:52
 	TRACK 04 AUDIO
 		TITLE "atom anthem"
@@ -141,7 +141,7 @@ FILE "WeFunk_Show_727_2013-03-08.mp3" MP3
 		INDEX 01 107:49:42
 	TRACK 35 AUDIO
 		TITLE "talk (over jean pierre mirouze - sexopolis)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 113:13:15
 	TRACK 36 AUDIO
 		TITLE "keeping on"

@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_751_2013-09-27.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "made nas proud"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_751_2013-09-27.mp3" MP3
 		INDEX 01 02:01:44
 	TRACK 03 AUDIO
 		TITLE "talk (over live percenters - science of the city instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:25:03
 	TRACK 04 AUDIO
 		TITLE "hip hop rules"
@@ -221,7 +221,7 @@ FILE "WeFunk_Show_751_2013-09-27.mp3" MP3
 		INDEX 01 115:26:31
 	TRACK 55 AUDIO
 		TITLE "talk (over grooveman spot - take back)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 117:43:37
 	TRACK 56 AUDIO
 		TITLE "love hz"

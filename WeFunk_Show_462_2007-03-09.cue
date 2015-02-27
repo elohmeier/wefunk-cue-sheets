@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_462_2007-03-09.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "a dream"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_462_2007-03-09.mp3" MP3
 		INDEX 01 01:58:45
 	TRACK 03 AUDIO
 		TITLE "talk (over l.l. cool j - loungin' instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:14:29
 	TRACK 04 AUDIO
 		TITLE "still life"
@@ -161,5 +161,5 @@ FILE "WeFunk_Show_462_2007-03-09.mp3" MP3
 		INDEX 01 103:31:16
 	TRACK 40 AUDIO
 		TITLE "talk (over gene russell - get down)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 107:21:40

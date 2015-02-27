@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_278_2003-04-11.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "we need some money"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_278_2003-04-11.mp3" MP3
 		INDEX 01 01:59:23
 	TRACK 03 AUDIO
 		TITLE "talk (over pleasure - joyous)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:59:39
 	TRACK 04 AUDIO
 		TITLE "every way but loose"
@@ -60,12 +60,12 @@ FILE "WeFunk_Show_278_2003-04-11.mp3" MP3
 		PERFORMER "a tribe called quest"
 		INDEX 01 51:12:43
 	TRACK 15 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 54:40:56
 	TRACK 16 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 57:53:45
 	TRACK 17 AUDIO
 		TITLE "n.t."
@@ -76,8 +76,8 @@ FILE "WeFunk_Show_278_2003-04-11.mp3" MP3
 		PERFORMER "olaf & rodney"
 		INDEX 01 78:53:19
 	TRACK 19 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 83:41:61
 	TRACK 20 AUDIO
 		TITLE "island city majesty"

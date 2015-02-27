@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_717_2012-12-21.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "ode to breakin atoms"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_717_2012-12-21.mp3" MP3
 		INDEX 01 01:26:68
 	TRACK 03 AUDIO
 		TITLE "talk (over funky d.l. - 1947 instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:21:38
 	TRACK 04 AUDIO
 		TITLE "calypso blues"
@@ -133,7 +133,7 @@ FILE "WeFunk_Show_717_2012-12-21.mp3" MP3
 		INDEX 01 104:30:12
 	TRACK 33 AUDIO
 		TITLE "talk (over two fingers - 101 south)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 108:27:40
 	TRACK 34 AUDIO
 		TITLE "rise"

@@ -5,19 +5,19 @@ REM Genre : HipHop
 FILE "WeFunk_Show_234_2002-05-17.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "my biz"
 		PERFORMER "dynas"
 		INDEX 01 01:58:16
 	TRACK 03 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 05:35:06
 	TRACK 04 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 08:41:02
 	TRACK 05 AUDIO
 		TITLE "get it together"
@@ -45,7 +45,7 @@ FILE "WeFunk_Show_234_2002-05-17.mp3" MP3
 		INDEX 01 34:36:15
 	TRACK 11 AUDIO
 		TITLE "talk (over patrice rushen - haw-right now)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 39:07:49
 	TRACK 12 AUDIO
 		TITLE "cold sweat"

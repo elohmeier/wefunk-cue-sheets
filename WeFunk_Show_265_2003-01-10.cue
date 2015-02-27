@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_265_2003-01-10.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "bold soul sister"
@@ -13,11 +13,11 @@ FILE "WeFunk_Show_265_2003-01-10.mp3" MP3
 		INDEX 01 01:32:40
 	TRACK 03 AUDIO
 		TITLE "talk (over soul lifters - hot, funky & sweaty)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 03:55:34
 	TRACK 04 AUDIO
 		TITLE "blue juice"
-		PERFORMER "jimmy griff"
+		PERFORMER "jimmy mcgriff"
 		INDEX 01 06:20:67
 	TRACK 05 AUDIO
 		TITLE "easy access"
@@ -61,7 +61,7 @@ FILE "WeFunk_Show_265_2003-01-10.mp3" MP3
 		INDEX 01 46:12:66
 	TRACK 15 AUDIO
 		TITLE "talk (over t-love - q.m.s. instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 49:59:57
 	TRACK 16 AUDIO
 		TITLE "the lyricist"
@@ -137,5 +137,5 @@ FILE "WeFunk_Show_265_2003-01-10.mp3" MP3
 		INDEX 01 107:45:47
 	TRACK 34 AUDIO
 		TITLE "talk (over j.b.'s - watermelon man)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 110:15:32

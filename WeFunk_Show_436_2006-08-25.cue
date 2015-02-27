@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_436_2006-08-25.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "pushin' on"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_436_2006-08-25.mp3" MP3
 		INDEX 01 01:58:60
 	TRACK 03 AUDIO
 		TITLE "talk (over osaka monaurail - just been free)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:15:50
 	TRACK 04 AUDIO
 		TITLE "i'm a carpenter"
@@ -53,7 +53,7 @@ FILE "WeFunk_Show_436_2006-08-25.mp3" MP3
 		INDEX 01 32:57:03
 	TRACK 13 AUDIO
 		TITLE "somebody for me"
-		PERFORMER "heavy d & the boyz"
+		PERFORMER "heavy d. & the boyz"
 		INDEX 01 35:28:21
 	TRACK 14 AUDIO
 		TITLE "gangsta boogie"
@@ -73,7 +73,7 @@ FILE "WeFunk_Show_436_2006-08-25.mp3" MP3
 		INDEX 01 47:33:13
 	TRACK 18 AUDIO
 		TITLE "talk (over watsonian institute - follow me)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 50:07:10
 	TRACK 19 AUDIO
 		TITLE "where i iz"
@@ -157,5 +157,5 @@ FILE "WeFunk_Show_436_2006-08-25.mp3" MP3
 		INDEX 01 106:50:74
 	TRACK 39 AUDIO
 		TITLE "talk (over furious five - sun don't shine in the hood instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 108:50:05

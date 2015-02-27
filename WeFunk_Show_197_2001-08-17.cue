@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_197_2001-08-17.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "one 2"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_197_2001-08-17.mp3" MP3
 		INDEX 01 01:58:73
 	TRACK 03 AUDIO
 		TITLE "talk (over pete rock - a little soul)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:48:00
 	TRACK 04 AUDIO
 		TITLE "get lifted"
@@ -53,7 +53,7 @@ FILE "WeFunk_Show_197_2001-08-17.mp3" MP3
 		INDEX 01 34:41:71
 	TRACK 13 AUDIO
 		TITLE "hydra"
-		PERFORMER "grover washington jr."
+		PERFORMER "grover washington, jr."
 		INDEX 01 39:19:22
 	TRACK 14 AUDIO
 		TITLE "brand new funk"
@@ -92,8 +92,8 @@ FILE "WeFunk_Show_197_2001-08-17.mp3" MP3
 		PERFORMER "poets of rhythm"
 		INDEX 01 77:58:38
 	TRACK 23 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 81:10:11
 	TRACK 24 AUDIO
 		TITLE "doomsday"
@@ -125,5 +125,5 @@ FILE "WeFunk_Show_197_2001-08-17.mp3" MP3
 		INDEX 01 108:44:43
 	TRACK 31 AUDIO
 		TITLE "talk (over breakestra - sexy popcorn pot)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 111:19:60

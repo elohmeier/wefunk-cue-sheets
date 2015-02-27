@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_448_2006-11-17.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "chick a boom"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_448_2006-11-17.mp3" MP3
 		INDEX 01 01:59:04
 	TRACK 03 AUDIO
 		TITLE "talk (over bernard purdie - hap'nin)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:56:05
 	TRACK 04 AUDIO
 		TITLE "the drunk"
@@ -100,22 +100,22 @@ FILE "WeFunk_Show_448_2006-11-17.mp3" MP3
 		PERFORMER "african music machine"
 		INDEX 01 65:39:69
 	TRACK 25 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 67:48:04
 	TRACK 26 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 68:13:69
 	TRACK 27 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 72:51:70
 	TRACK 28 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 74:48:36
 	TRACK 29 AUDIO
 		TITLE "talk (over kidz in the hall - wheelz fall off)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 106:20:02

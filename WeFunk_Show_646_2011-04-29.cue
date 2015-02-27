@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_646_2011-04-29.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "don't tell a lie about me and i won't tell the truth on you"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_646_2011-04-29.mp3" MP3
 		INDEX 01 02:01:49
 	TRACK 03 AUDIO
 		TITLE "talk (over james brown - just enough room for storage)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 06:35:08
 	TRACK 04 AUDIO
 		TITLE "(i love you) for sentimental reasons"
@@ -52,8 +52,8 @@ FILE "WeFunk_Show_646_2011-04-29.mp3" MP3
 		PERFORMER "rare essence"
 		INDEX 01 45:15:71
 	TRACK 13 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 50:08:27
 	TRACK 14 AUDIO
 		TITLE "meet me at the go-go"
@@ -129,7 +129,7 @@ FILE "WeFunk_Show_646_2011-04-29.mp3" MP3
 		INDEX 01 112:05:19
 	TRACK 32 AUDIO
 		TITLE "talk (over james brown - the popcorn)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 115:17:30
 	TRACK 33 AUDIO
 		TITLE "make it funky (parts 1, 2, 3 & 4)"

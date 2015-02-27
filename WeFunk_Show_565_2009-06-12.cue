@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_565_2009-06-12.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "feet don't fail me"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_565_2009-06-12.mp3" MP3
 		INDEX 01 01:29:19
 	TRACK 03 AUDIO
 		TITLE "talk (over waahli - sometimes i feel)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:51:68
 	TRACK 04 AUDIO
 		TITLE "redux"
@@ -68,7 +68,7 @@ FILE "WeFunk_Show_565_2009-06-12.mp3" MP3
 		PERFORMER "manchilde"
 		INDEX 01 42:51:59
 	TRACK 17 AUDIO
-		TITLE "rolla skatin' instrumental, trishes - new wave instrumental"
+		TITLE "rolla skatin' instrumental"
 		PERFORMER "manchilde"
 		INDEX 01 46:54:14
 	TRACK 18 AUDIO
@@ -157,5 +157,5 @@ FILE "WeFunk_Show_565_2009-06-12.mp3" MP3
 		INDEX 01 111:51:24
 	TRACK 39 AUDIO
 		TITLE "talk (over olli ahvenlahti - grandma's rocking chair)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 113:49:73

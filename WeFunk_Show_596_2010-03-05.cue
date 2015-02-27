@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_596_2010-03-05.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "can't help myself"
@@ -17,7 +17,7 @@ FILE "WeFunk_Show_596_2010-03-05.mp3" MP3
 		INDEX 01 03:45:31
 	TRACK 04 AUDIO
 		TITLE "talk (over community people - education rock)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:52:05
 	TRACK 05 AUDIO
 		TITLE "mellow feeling"
@@ -161,7 +161,7 @@ FILE "WeFunk_Show_596_2010-03-05.mp3" MP3
 		INDEX 01 107:23:10
 	TRACK 40 AUDIO
 		TITLE "talk (over gang starr - 1/2 and 1/2 instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 109:48:01
 	TRACK 41 AUDIO
 		TITLE "worst comes to worst (remix)"

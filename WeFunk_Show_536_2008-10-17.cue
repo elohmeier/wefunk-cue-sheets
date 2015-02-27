@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_536_2008-10-17.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "hip hop junkies"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_536_2008-10-17.mp3" MP3
 		INDEX 01 01:44:46
 	TRACK 03 AUDIO
 		TITLE "talk (over madlib - disco dance)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:33:03
 	TRACK 04 AUDIO
 		TITLE "blow the horns on 'em"
@@ -133,5 +133,5 @@ FILE "WeFunk_Show_536_2008-10-17.mp3" MP3
 		INDEX 01 104:40:62
 	TRACK 33 AUDIO
 		TITLE "talk (over new mastersounds - python)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 111:08:37

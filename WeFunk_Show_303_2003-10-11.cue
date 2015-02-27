@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_303_2003-10-11.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "breakin' bread"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_303_2003-10-11.mp3" MP3
 		INDEX 01 01:58:18
 	TRACK 03 AUDIO
 		TITLE "talk (over meters - look-ka py py)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 06:11:21
 	TRACK 04 AUDIO
 		TITLE "lowdown popcorn"
@@ -133,5 +133,5 @@ FILE "WeFunk_Show_303_2003-10-11.mp3" MP3
 		INDEX 01 103:22:71
 	TRACK 33 AUDIO
 		TITLE "talk (over bar-kays - bang bang)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 106:39:63

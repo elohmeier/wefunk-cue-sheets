@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_743_2013-07-12.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "beef"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_743_2013-07-12.mp3" MP3
 		INDEX 01 01:44:70
 	TRACK 03 AUDIO
 		TITLE "talk (over artifacts - the ultimate remix instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:10:58
 	TRACK 04 AUDIO
 		TITLE "tha squeeze (d.j. duke remix)"
@@ -157,7 +157,7 @@ FILE "WeFunk_Show_743_2013-07-12.mp3" MP3
 		INDEX 01 102:04:17
 	TRACK 39 AUDIO
 		TITLE "talk (over carla bley - song sung long)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 106:50:29
 	TRACK 40 AUDIO
 		TITLE "butter (for yo popcorn)"

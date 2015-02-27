@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_708_2012-10-05.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "up against goliath"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_708_2012-10-05.mp3" MP3
 		INDEX 01 01:14:23
 	TRACK 03 AUDIO
 		TITLE "talk (over b.durazzo - monkey bars)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:11:20
 	TRACK 04 AUDIO
 		TITLE "bye baby"
@@ -149,7 +149,7 @@ FILE "WeFunk_Show_708_2012-10-05.mp3" MP3
 		INDEX 01 114:09:13
 	TRACK 37 AUDIO
 		TITLE "talk (over solis lacus - little green man)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 115:11:64
 	TRACK 38 AUDIO
 		TITLE "uptight (freddie joachim remix)"

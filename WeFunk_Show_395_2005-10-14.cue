@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_395_2005-10-14.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "freakit"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_395_2005-10-14.mp3" MP3
 		INDEX 01 01:58:46
 	TRACK 03 AUDIO
 		TITLE "talk (over guru - loungin' instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:06:06
 	TRACK 04 AUDIO
 		TITLE "some shit @ 78 b.p.m."
@@ -141,5 +141,5 @@ FILE "WeFunk_Show_395_2005-10-14.mp3" MP3
 		INDEX 01 103:33:58
 	TRACK 35 AUDIO
 		TITLE "talk (over donald byrd - flight time)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 108:05:12

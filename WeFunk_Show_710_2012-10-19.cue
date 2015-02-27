@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_710_2012-10-19.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "the game we play"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_710_2012-10-19.mp3" MP3
 		INDEX 01 01:26:74
 	TRACK 03 AUDIO
 		TITLE "talk (over frank nitt - l.o.v.e. instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:54:17
 	TRACK 04 AUDIO
 		TITLE "space people"
@@ -285,7 +285,7 @@ FILE "WeFunk_Show_710_2012-10-19.mp3" MP3
 		INDEX 01 106:42:61
 	TRACK 71 AUDIO
 		TITLE "talk (over bar-kays - give it up)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 107:48:43
 	TRACK 72 AUDIO
 		TITLE "jewel's groove"

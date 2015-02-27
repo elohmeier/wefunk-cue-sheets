@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_745_2013-07-26.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "dearly departed"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_745_2013-07-26.mp3" MP3
 		INDEX 01 02:01:42
 	TRACK 03 AUDIO
 		TITLE "talk (over sunbiz - the national)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:57:07
 	TRACK 04 AUDIO
 		TITLE "not really"
@@ -133,11 +133,11 @@ FILE "WeFunk_Show_745_2013-07-26.mp3" MP3
 		INDEX 01 104:39:35
 	TRACK 33 AUDIO
 		TITLE "talk (over sam irl - keep talkin')"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 107:37:15
 	TRACK 34 AUDIO
 		TITLE "al ritmo del latin funk"
-		PERFORMER "los charlys orchestra"
+		PERFORMER "los charly's orchestra"
 		INDEX 01 114:04:46
 	TRACK 35 AUDIO
 		TITLE "tighten up (live)"

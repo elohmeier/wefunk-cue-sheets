@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_672_2011-12-16.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "hip-hop"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_672_2011-12-16.mp3" MP3
 		INDEX 01 01:14:23
 	TRACK 03 AUDIO
 		TITLE "talk (over m.f. doom & madlib - brain melt)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:38:43
 	TRACK 04 AUDIO
 		TITLE "in here"
@@ -72,8 +72,8 @@ FILE "WeFunk_Show_672_2011-12-16.mp3" MP3
 		PERFORMER "jambalasie"
 		INDEX 01 53:50:12
 	TRACK 18 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 57:02:38
 	TRACK 19 AUDIO
 		TITLE "the music box"
@@ -161,7 +161,7 @@ FILE "WeFunk_Show_672_2011-12-16.mp3" MP3
 		INDEX 01 116:41:45
 	TRACK 40 AUDIO
 		TITLE "talk (over gizelle smith - june instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 120:26:20
 	TRACK 41 AUDIO
 		TITLE "black rio"

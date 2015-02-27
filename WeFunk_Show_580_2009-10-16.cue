@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_580_2009-10-16.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "superstarr pt. zero"
@@ -17,7 +17,7 @@ FILE "WeFunk_Show_580_2009-10-16.mp3" MP3
 		INDEX 01 03:56:58
 	TRACK 04 AUDIO
 		TITLE "talk (over pase rock - so f-ing discog instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:58:51
 	TRACK 05 AUDIO
 		TITLE "never forgive action"
@@ -29,7 +29,7 @@ FILE "WeFunk_Show_580_2009-10-16.mp3" MP3
 		INDEX 01 13:14:71
 	TRACK 07 AUDIO
 		TITLE "talk (over bronze nazareth - the pain instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 16:47:60
 	TRACK 08 AUDIO
 		TITLE "i need altitude"
@@ -41,7 +41,7 @@ FILE "WeFunk_Show_580_2009-10-16.mp3" MP3
 		INDEX 01 24:07:09
 	TRACK 10 AUDIO
 		TITLE "talk (over dave hamilton - deep in the groove)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 26:37:43
 	TRACK 11 AUDIO
 		TITLE "the same thing (makes you laugh, makes you cry)"
@@ -57,7 +57,7 @@ FILE "WeFunk_Show_580_2009-10-16.mp3" MP3
 		INDEX 01 35:59:08
 	TRACK 14 AUDIO
 		TITLE "talk (over corduroy kid - give this take that)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 38:29:65
 	TRACK 15 AUDIO
 		TITLE "rampage"
@@ -69,7 +69,7 @@ FILE "WeFunk_Show_580_2009-10-16.mp3" MP3
 		INDEX 01 45:23:23
 	TRACK 17 AUDIO
 		TITLE "talk (over k-solo - spellbound instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 47:16:22
 	TRACK 18 AUDIO
 		TITLE "brainstorm"
@@ -81,7 +81,7 @@ FILE "WeFunk_Show_580_2009-10-16.mp3" MP3
 		INDEX 01 54:24:38
 	TRACK 20 AUDIO
 		TITLE "talk (over beastie boys - get it together instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 57:46:48
 	TRACK 21 AUDIO
 		TITLE "runaway"
@@ -97,7 +97,7 @@ FILE "WeFunk_Show_580_2009-10-16.mp3" MP3
 		INDEX 01 70:30:30
 	TRACK 24 AUDIO
 		TITLE "talk (over cypress hill - insane in the brain instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 74:11:58
 	TRACK 25 AUDIO
 		TITLE "1 for the treble"
@@ -109,7 +109,7 @@ FILE "WeFunk_Show_580_2009-10-16.mp3" MP3
 		INDEX 01 79:38:43
 	TRACK 27 AUDIO
 		TITLE "talk (over black milk - give the drummer sum instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 81:32:49
 	TRACK 28 AUDIO
 		TITLE "i like it"
@@ -121,7 +121,7 @@ FILE "WeFunk_Show_580_2009-10-16.mp3" MP3
 		INDEX 01 89:54:57
 	TRACK 30 AUDIO
 		TITLE "talk (over fred wesley & the j.b.'s - watermelon man)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 92:16:46
 	TRACK 31 AUDIO
 		TITLE "let's meringue"
@@ -133,7 +133,7 @@ FILE "WeFunk_Show_580_2009-10-16.mp3" MP3
 		INDEX 01 99:41:01
 	TRACK 33 AUDIO
 		TITLE "talk (over mr. scruff - champion nibble)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 102:59:18
 	TRACK 34 AUDIO
 		TITLE "che che cole makossa"
@@ -149,7 +149,7 @@ FILE "WeFunk_Show_580_2009-10-16.mp3" MP3
 		INDEX 01 113:55:18
 	TRACK 37 AUDIO
 		TITLE "talk (over fatback band - fatbackin')"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 116:10:39
 	TRACK 38 AUDIO
 		TITLE "you got me runnin'"

@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_371_2005-04-22.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "ready or not (remix)"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_371_2005-04-22.mp3" MP3
 		INDEX 01 01:58:22
 	TRACK 03 AUDIO
 		TITLE "talk (over black moon - how many emcees's instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 06:18:60
 	TRACK 04 AUDIO
 		TITLE "just hangin' out (remix)"
@@ -49,7 +49,7 @@ FILE "WeFunk_Show_371_2005-04-22.mp3" MP3
 		INDEX 01 38:09:65
 	TRACK 12 AUDIO
 		TITLE "you gotta push"
-		PERFORMER "joddy gayles"
+		PERFORMER "jody gayles"
 		INDEX 01 42:53:62
 	TRACK 13 AUDIO
 		TITLE "na na hey hey (kiss him goodbye)"
@@ -128,6 +128,6 @@ FILE "WeFunk_Show_371_2005-04-22.mp3" MP3
 		PERFORMER "roy ayers"
 		INDEX 01 102:42:60
 	TRACK 32 AUDIO
-		TITLE "talk (over idris muhammed - crab apple)"
-		PERFORMER ""
+		TITLE "talk (over idris muhammad - crab apple)"
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 108:30:67

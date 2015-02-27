@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_734_2013-04-26.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "do that stuff"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_734_2013-04-26.mp3" MP3
 		INDEX 01 01:40:10
 	TRACK 03 AUDIO
 		TITLE "talk (over landlord & the tennants - sagittarius)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 06:06:31
 	TRACK 04 AUDIO
 		TITLE "it's all in mr. magic's wand (instrumental)"
@@ -173,7 +173,7 @@ FILE "WeFunk_Show_734_2013-04-26.mp3" MP3
 		INDEX 01 117:50:36
 	TRACK 43 AUDIO
 		TITLE "talk (over jackie mittoo - totally together)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 123:40:71
 	TRACK 44 AUDIO
 		TITLE "i think i'll call it morning"

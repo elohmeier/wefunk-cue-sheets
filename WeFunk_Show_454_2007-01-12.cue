@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_454_2007-01-12.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "people get up and drive your funky soul"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_454_2007-01-12.mp3" MP3
 		INDEX 01 01:58:34
 	TRACK 03 AUDIO
 		TITLE "talk (over maceo & the macks - soul power '74)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 06:19:44
 	TRACK 04 AUDIO
 		TITLE "holy rum swig"
@@ -37,11 +37,11 @@ FILE "WeFunk_Show_454_2007-01-12.mp3" MP3
 		INDEX 01 18:55:16
 	TRACK 09 AUDIO
 		TITLE "i ain't no joke"
-		PERFORMER "eric b & rakim"
+		PERFORMER "eric b. & rakim"
 		INDEX 01 22:53:67
 	TRACK 10 AUDIO
 		TITLE "i know you got soul"
-		PERFORMER "eric b & rakim"
+		PERFORMER "eric b. & rakim"
 		INDEX 01 26:25:40
 	TRACK 11 AUDIO
 		TITLE "come on, let's move it"
@@ -165,5 +165,5 @@ FILE "WeFunk_Show_454_2007-01-12.mp3" MP3
 		INDEX 01 108:48:52
 	TRACK 41 AUDIO
 		TITLE "talk (over james brown - in the middle)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 114:29:25

@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_269_2003-02-07.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "it's a new day"
@@ -13,11 +13,11 @@ FILE "WeFunk_Show_269_2003-02-07.mp3" MP3
 		INDEX 01 01:59:02
 	TRACK 03 AUDIO
 		TITLE "talk (over fred wesley & the horny horns - four play)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:51:38
 	TRACK 04 AUDIO
 		TITLE "impeach the president"
-		PERFORMER "honeydrippers"
+		PERFORMER "honey drippers"
 		INDEX 01 11:50:09
 	TRACK 05 AUDIO
 		TITLE "n.e.s.t.a. (never submit to authority)"
@@ -129,7 +129,7 @@ FILE "WeFunk_Show_269_2003-02-07.mp3" MP3
 		INDEX 01 100:19:14
 	TRACK 32 AUDIO
 		TITLE "talk (over jimmy mcgriff - the worm)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 102:37:70
 	TRACK 33 AUDIO
 		TITLE "all aboard the soul funky train"

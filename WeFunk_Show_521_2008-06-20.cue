@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_521_2008-06-20.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "ô haïti"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_521_2008-06-20.mp3" MP3
 		INDEX 01 01:32:34
 	TRACK 03 AUDIO
 		TITLE "talk (over vox sambou - fanm fò instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:36:05
 	TRACK 04 AUDIO
 		TITLE "nèg chanté"
@@ -25,7 +25,7 @@ FILE "WeFunk_Show_521_2008-06-20.mp3" MP3
 		INDEX 01 13:36:68
 	TRACK 06 AUDIO
 		TITLE "talk (over vox sambou - my rhythm instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 16:34:70
 	TRACK 07 AUDIO
 		TITLE "frame of mind"
@@ -125,5 +125,5 @@ FILE "WeFunk_Show_521_2008-06-20.mp3" MP3
 		INDEX 01 103:35:46
 	TRACK 31 AUDIO
 		TITLE "talk (over awakening - mode for d.d.)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 107:40:58

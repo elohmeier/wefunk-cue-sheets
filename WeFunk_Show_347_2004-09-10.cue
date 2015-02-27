@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_347_2004-09-10.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "b-boy stance"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_347_2004-09-10.mp3" MP3
 		INDEX 01 01:58:39
 	TRACK 03 AUDIO
 		TITLE "talk (over troubleneck brothers - back to the hip-hop instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:12:28
 	TRACK 04 AUDIO
 		TITLE "negro league baseball"
@@ -24,8 +24,8 @@ FILE "WeFunk_Show_347_2004-09-10.mp3" MP3
 		PERFORMER "homeliss derilex"
 		INDEX 01 13:47:07
 	TRACK 06 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 16:35:18
 	TRACK 07 AUDIO
 		TITLE "flirt"
@@ -77,7 +77,7 @@ FILE "WeFunk_Show_347_2004-09-10.mp3" MP3
 		INDEX 01 57:42:05
 	TRACK 19 AUDIO
 		TITLE "ghetto misfortune's wealth"
-		PERFORMER "24 carat black"
+		PERFORMER "24-carat black"
 		INDEX 01 64:14:44
 	TRACK 20 AUDIO
 		TITLE "doin' the creep"
@@ -129,5 +129,5 @@ FILE "WeFunk_Show_347_2004-09-10.mp3" MP3
 		INDEX 01 106:30:36
 	TRACK 32 AUDIO
 		TITLE "talk (over roots - section instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 109:20:57

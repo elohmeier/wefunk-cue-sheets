@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_625_2010-11-12.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "dedication to bambaataa"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_625_2010-11-12.mp3" MP3
 		INDEX 01 01:26:73
 	TRACK 03 AUDIO
 		TITLE "talk (over awesome 2 - zenobia's)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 06:37:27
 	TRACK 04 AUDIO
 		TITLE "high drama"
@@ -173,7 +173,7 @@ FILE "WeFunk_Show_625_2010-11-12.mp3" MP3
 		INDEX 01 109:29:00
 	TRACK 43 AUDIO
 		TITLE "talk (over amp quintet - seven minutes of funk)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 112:57:27
 	TRACK 44 AUDIO
 		TITLE "i wanna be loved by you"

@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_354_2004-11-06.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "black enuff"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_354_2004-11-06.mp3" MP3
 		INDEX 01 01:58:60
 	TRACK 03 AUDIO
 		TITLE "talk (over kool & the gang - caribbean festival)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:52:01
 	TRACK 04 AUDIO
 		TITLE "straussmania"
@@ -68,8 +68,8 @@ FILE "WeFunk_Show_354_2004-11-06.mp3" MP3
 		PERFORMER "michael longo"
 		INDEX 01 48:02:04
 	TRACK 17 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 53:57:74
 	TRACK 18 AUDIO
 		TITLE "last call"
@@ -129,7 +129,7 @@ FILE "WeFunk_Show_354_2004-11-06.mp3" MP3
 		INDEX 01 110:59:05
 	TRACK 32 AUDIO
 		TITLE "talk (over el michels affair - easy access)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 113:35:00
 	TRACK 33 AUDIO
 		TITLE "it's your thing"

@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_541_2008-11-21.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "funky superfly"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_541_2008-11-21.mp3" MP3
 		INDEX 01 01:44:44
 	TRACK 03 AUDIO
 		TITLE "talk (over breakestra - deuces up, double down)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:22:08
 	TRACK 04 AUDIO
 		TITLE "help is on the way"
@@ -29,7 +29,7 @@ FILE "WeFunk_Show_541_2008-11-21.mp3" MP3
 		INDEX 01 18:12:58
 	TRACK 07 AUDIO
 		TITLE "talk (over heliocentrics - distant star instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 23:40:18
 	TRACK 08 AUDIO
 		TITLE "freestyle (yo, that's that sh..)"
@@ -45,7 +45,7 @@ FILE "WeFunk_Show_541_2008-11-21.mp3" MP3
 		INDEX 01 37:46:63
 	TRACK 11 AUDIO
 		TITLE "talk (over macy gray - i've committed murder (gang starr remix instrumental))"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 47:13:49
 	TRACK 12 AUDIO
 		TITLE "i've committed murder (gang starr remix)"
@@ -57,7 +57,7 @@ FILE "WeFunk_Show_541_2008-11-21.mp3" MP3
 		INDEX 01 56:35:02
 	TRACK 14 AUDIO
 		TITLE "talk (over bobby shad & the bad men - i want you back)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 59:20:54
 	TRACK 15 AUDIO
 		TITLE "toe hold"
@@ -73,7 +73,7 @@ FILE "WeFunk_Show_541_2008-11-21.mp3" MP3
 		INDEX 01 72:51:11
 	TRACK 18 AUDIO
 		TITLE "talk (over art & ron - i'm your man)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 75:02:62
 	TRACK 19 AUDIO
 		TITLE "don't touch me"
@@ -89,7 +89,7 @@ FILE "WeFunk_Show_541_2008-11-21.mp3" MP3
 		INDEX 01 83:41:03
 	TRACK 22 AUDIO
 		TITLE "talk (over d.j. revolution - the d.j. instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 100:24:29
 	TRACK 23 AUDIO
 		TITLE "the d.j."
@@ -97,5 +97,5 @@ FILE "WeFunk_Show_541_2008-11-21.mp3" MP3
 		INDEX 01 107:13:57
 	TRACK 24 AUDIO
 		TITLE "talk (over d.j. revolution - the d.j. instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 111:34:25

@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_480_2007-07-27.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "it takes all kinds"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_480_2007-07-27.mp3" MP3
 		INDEX 01 01:58:44
 	TRACK 03 AUDIO
 		TITLE "talk (over fred wesley & the horny horns - four play)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:45:26
 	TRACK 04 AUDIO
 		TITLE "sophisticated lady"
@@ -149,7 +149,7 @@ FILE "WeFunk_Show_480_2007-07-27.mp3" MP3
 		INDEX 01 115:46:09
 	TRACK 37 AUDIO
 		TITLE "talk (over orgone - cydelines)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 118:55:24
 	TRACK 38 AUDIO
 		TITLE "jealousy"

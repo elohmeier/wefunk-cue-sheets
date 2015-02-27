@@ -5,15 +5,15 @@ REM Genre : HipHop
 FILE "WeFunk_Show_330_2004-05-14.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "bootleggin'"
 		PERFORMER "simtec & wylie"
 		INDEX 01 01:58:43
 	TRACK 03 AUDIO
-		TITLE "talk (over road runner - every man for himself)"
-		PERFORMER ""
+		TITLE "talk (over road runners - every man for himself)"
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:57:44
 	TRACK 04 AUDIO
 		TITLE "get back baby"
@@ -133,5 +133,5 @@ FILE "WeFunk_Show_330_2004-05-14.mp3" MP3
 		INDEX 01 102:11:28
 	TRACK 33 AUDIO
 		TITLE "talk (over freddie hubbard - skydive (live))"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 104:26:46

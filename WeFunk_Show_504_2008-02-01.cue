@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_504_2008-02-01.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "gravel pit"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_504_2008-02-01.mp3" MP3
 		INDEX 01 01:14:09
 	TRACK 03 AUDIO
 		TITLE "talk (over yaggfu front - slappin' suckas silly instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 03:50:66
 	TRACK 04 AUDIO
 		TITLE "now born soldiers"
@@ -33,7 +33,7 @@ FILE "WeFunk_Show_504_2008-02-01.mp3" MP3
 		INDEX 01 18:31:74
 	TRACK 08 AUDIO
 		TITLE "purification"
-		PERFORMER "funk shone"
+		PERFORMER "funkshone"
 		INDEX 01 21:12:66
 	TRACK 09 AUDIO
 		TITLE "mayombe"
@@ -133,5 +133,5 @@ FILE "WeFunk_Show_504_2008-02-01.mp3" MP3
 		INDEX 01 101:00:65
 	TRACK 33 AUDIO
 		TITLE "talk (over patrice rushen - haw-right now)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 106:43:39

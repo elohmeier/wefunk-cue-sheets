@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_520_2008-06-13.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "one more time"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_520_2008-06-13.mp3" MP3
 		INDEX 01 01:44:35
 	TRACK 03 AUDIO
 		TITLE "talk (over rjd2 - ghostwriter)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:15:09
 	TRACK 04 AUDIO
 		TITLE "if i ruled the world"
@@ -21,7 +21,7 @@ FILE "WeFunk_Show_520_2008-06-13.mp3" MP3
 		INDEX 01 09:21:51
 	TRACK 05 AUDIO
 		TITLE "mr. big stuff"
-		PERFORMER "heavy d & the boyz"
+		PERFORMER "heavy d. & the boyz"
 		INDEX 01 12:55:73
 	TRACK 06 AUDIO
 		TITLE "grand finale"
@@ -65,7 +65,7 @@ FILE "WeFunk_Show_520_2008-06-13.mp3" MP3
 		INDEX 01 49:53:30
 	TRACK 16 AUDIO
 		TITLE "got it bad y'all (calypso mix)"
-		PERFORMER "king tee feat. alkaholkiks"
+		PERFORMER "king tee feat. alkaholiks"
 		INDEX 01 53:37:49
 	TRACK 17 AUDIO
 		TITLE "somethin' to ride to (fonky expedition)"
@@ -137,5 +137,5 @@ FILE "WeFunk_Show_520_2008-06-13.mp3" MP3
 		INDEX 01 107:19:34
 	TRACK 34 AUDIO
 		TITLE "talk (over reuben wilson - creampuff)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 109:42:13

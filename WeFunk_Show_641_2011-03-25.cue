@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_641_2011-03-25.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "hurt me so (lack of afro remix)"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_641_2011-03-25.mp3" MP3
 		INDEX 01 01:14:27
 	TRACK 03 AUDIO
 		TITLE "talk (over melvin sparks - get down with the get down)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:59:36
 	TRACK 04 AUDIO
 		TITLE "me and baby brother"
@@ -137,7 +137,7 @@ FILE "WeFunk_Show_641_2011-03-25.mp3" MP3
 		INDEX 01 105:16:56
 	TRACK 34 AUDIO
 		TITLE "talk (over loleatta holloway - hit and run)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 107:24:63
 	TRACK 35 AUDIO
 		TITLE "caught up in the race"

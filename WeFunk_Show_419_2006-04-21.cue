@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_419_2006-04-21.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "touch the sky"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_419_2006-04-21.mp3" MP3
 		INDEX 01 01:58:41
 	TRACK 03 AUDIO
 		TITLE "talk (over jay-z - encore instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:33:49
 	TRACK 04 AUDIO
 		TITLE "lyrics to go (remix)"
@@ -137,5 +137,5 @@ FILE "WeFunk_Show_419_2006-04-21.mp3" MP3
 		INDEX 01 101:45:06
 	TRACK 34 AUDIO
 		TITLE "talk (over idris muhammad - super bad)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 106:59:30

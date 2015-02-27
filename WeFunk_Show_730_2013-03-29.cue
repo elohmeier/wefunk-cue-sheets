@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_730_2013-03-29.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "deeper love"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_730_2013-03-29.mp3" MP3
 		INDEX 01 01:44:38
 	TRACK 03 AUDIO
 		TITLE "talk (over orgone - the cleaner)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:00:73
 	TRACK 04 AUDIO
 		TITLE "harrambee"
@@ -125,7 +125,7 @@ FILE "WeFunk_Show_730_2013-03-29.mp3" MP3
 		INDEX 01 106:23:33
 	TRACK 31 AUDIO
 		TITLE "talk (over eddi projex - breezy instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 109:21:64
 	TRACK 32 AUDIO
 		TITLE "wantchu"

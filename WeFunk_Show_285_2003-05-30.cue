@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_285_2003-05-30.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "bold soul sister"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_285_2003-05-30.mp3" MP3
 		INDEX 01 01:58:71
 	TRACK 03 AUDIO
 		TITLE "talk (over james brown - after you done it)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:27:59
 	TRACK 04 AUDIO
 		TITLE "hanging out"
@@ -125,5 +125,5 @@ FILE "WeFunk_Show_285_2003-05-30.mp3" MP3
 		INDEX 01 111:53:06
 	TRACK 31 AUDIO
 		TITLE "talk (over bukue one - cheese and butter instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 115:37:67

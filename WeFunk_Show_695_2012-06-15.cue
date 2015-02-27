@@ -5,15 +5,15 @@ REM Genre : HipHop
 FILE "WeFunk_Show_695_2012-06-15.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "all about the paper (disco dubb edit)"
 		PERFORMER "dells"
 		INDEX 01 02:01:47
 	TRACK 03 AUDIO
-		TITLE "talk (over dells - all about the paper (disco dubb edit)"
-		PERFORMER ""
+		TITLE "talk (over dells - all about the paper (disco dubb edit))"
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 07:37:45
 	TRACK 04 AUDIO
 		TITLE "is you is or is you ain't my baby? (rae & christian remix)"
@@ -145,7 +145,7 @@ FILE "WeFunk_Show_695_2012-06-15.mp3" MP3
 		INDEX 01 106:47:19
 	TRACK 36 AUDIO
 		TITLE "talk (over visioneers - luanne from harlem)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 111:13:04
 	TRACK 37 AUDIO
 		TITLE "dancin'"

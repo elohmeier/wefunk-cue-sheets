@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_725_2013-02-22.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "bang exclusive"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_725_2013-02-22.mp3" MP3
 		INDEX 01 01:32:41
 	TRACK 03 AUDIO
 		TITLE "talk (over kool g. rap - my life instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 03:58:43
 	TRACK 04 AUDIO
 		TITLE "fania all stars' cha cha cha"
@@ -36,7 +36,7 @@ FILE "WeFunk_Show_725_2013-02-22.mp3" MP3
 		PERFORMER "ellerine harding"
 		INDEX 01 22:55:03
 	TRACK 09 AUDIO
-		TITLE "afro strut"
+		TITLE "afro-strut"
 		PERFORMER "nite-liters"
 		INDEX 01 25:00:60
 	TRACK 10 AUDIO
@@ -121,7 +121,7 @@ FILE "WeFunk_Show_725_2013-02-22.mp3" MP3
 		INDEX 01 85:15:31
 	TRACK 30 AUDIO
 		TITLE "conga man"
-		PERFORMER "king errison"
+		PERFORMER "king errisson"
 		INDEX 01 89:12:70
 	TRACK 31 AUDIO
 		TITLE "wild child"
@@ -149,7 +149,7 @@ FILE "WeFunk_Show_725_2013-02-22.mp3" MP3
 		INDEX 01 108:05:65
 	TRACK 37 AUDIO
 		TITLE "talk (over kamal abdul-alim - dance)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 112:16:36
 	TRACK 38 AUDIO
 		TITLE "dance"

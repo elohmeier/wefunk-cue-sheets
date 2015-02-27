@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_321_2004-03-05.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "fat city strut"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_321_2004-03-05.mp3" MP3
 		INDEX 01 01:58:46
 	TRACK 03 AUDIO
 		TITLE "talk (over j.b.'s - in the middle)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:02:27
 	TRACK 04 AUDIO
 		TITLE "funky like a train"
@@ -68,8 +68,8 @@ FILE "WeFunk_Show_321_2004-03-05.mp3" MP3
 		PERFORMER "de la soul"
 		INDEX 01 52:55:00
 	TRACK 17 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 56:16:16
 	TRACK 18 AUDIO
 		TITLE "north, east, south, west"
@@ -128,6 +128,6 @@ FILE "WeFunk_Show_321_2004-03-05.mp3" MP3
 		PERFORMER "hezekiah"
 		INDEX 01 108:13:10
 	TRACK 32 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 111:56:72

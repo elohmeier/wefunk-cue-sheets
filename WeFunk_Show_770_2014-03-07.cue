@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_770_2014-03-07.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "in the mix"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_770_2014-03-07.mp3" MP3
 		INDEX 01 02:01:51
 	TRACK 03 AUDIO
 		TITLE "talk (over trariomax - no stress in the riviera)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:53:55
 	TRACK 04 AUDIO
 		TITLE "the bird"
@@ -209,7 +209,7 @@ FILE "WeFunk_Show_770_2014-03-07.mp3" MP3
 		INDEX 01 113:13:24
 	TRACK 52 AUDIO
 		TITLE "talk (over slum village - give this nigga (philabeat cover))"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 116:37:38
 	TRACK 53 AUDIO
 		TITLE "time"

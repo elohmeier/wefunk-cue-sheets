@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_187_2001-06-08.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "stick 'em"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_187_2001-06-08.mp3" MP3
 		INDEX 01 01:59:03
 	TRACK 03 AUDIO
 		TITLE "talk (over a tribe called quest - 1nce again instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:25:58
 	TRACK 04 AUDIO
 		TITLE "??"
@@ -44,8 +44,8 @@ FILE "WeFunk_Show_187_2001-06-08.mp3" MP3
 		PERFORMER "beatnuts"
 		INDEX 01 28:37:49
 	TRACK 11 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 32:27:25
 	TRACK 12 AUDIO
 		TITLE "hey! last minute"
@@ -80,8 +80,8 @@ FILE "WeFunk_Show_187_2001-06-08.mp3" MP3
 		PERFORMER "jungle brothers"
 		INDEX 01 62:45:48
 	TRACK 20 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 66:25:09
 	TRACK 21 AUDIO
 		TITLE "accepted eclectic"
@@ -89,7 +89,7 @@ FILE "WeFunk_Show_187_2001-06-08.mp3" MP3
 		INDEX 01 74:04:42
 	TRACK 22 AUDIO
 		TITLE "sally got a one track mind"
-		PERFORMER "diamond d"
+		PERFORMER "diamond d."
 		INDEX 01 78:03:56
 	TRACK 23 AUDIO
 		TITLE "ijuswannachill instrumental"
@@ -129,5 +129,5 @@ FILE "WeFunk_Show_187_2001-06-08.mp3" MP3
 		INDEX 01 105:49:33
 	TRACK 32 AUDIO
 		TITLE "talk (over ramp - daylight)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 110:46:61

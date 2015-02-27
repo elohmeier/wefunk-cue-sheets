@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_183_2001-05-11.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "hercules"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_183_2001-05-11.mp3" MP3
 		INDEX 01 01:58:38
 	TRACK 03 AUDIO
 		TITLE "talk (over counts - what's up front that counts)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:43:43
 	TRACK 04 AUDIO
 		TITLE "give it up"
@@ -100,16 +100,16 @@ FILE "WeFunk_Show_183_2001-05-11.mp3" MP3
 		PERFORMER "de la soul & a tribe called quest"
 		INDEX 01 76:23:13
 	TRACK 25 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 80:49:71
 	TRACK 26 AUDIO
 		TITLE "it's not a game"
 		PERFORMER "pete rock & c.l. smooth"
 		INDEX 01 83:34:59
 	TRACK 27 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 87:29:21
 	TRACK 28 AUDIO
 		TITLE "retro girl"
@@ -133,7 +133,7 @@ FILE "WeFunk_Show_183_2001-05-11.mp3" MP3
 		INDEX 01 108:23:42
 	TRACK 33 AUDIO
 		TITLE "talk (over ohio players - funky junkie)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 111:17:39
 	TRACK 34 AUDIO
 		TITLE "schoolboy crush"

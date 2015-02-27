@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_644_2011-04-15.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "beware of the rampsack (remix)"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_644_2011-04-15.mp3" MP3
 		INDEX 01 01:44:55
 	TRACK 03 AUDIO
 		TITLE "talk (over a tribe called quest - butter instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:10:30
 	TRACK 04 AUDIO
 		TITLE "uptown shit"
@@ -193,7 +193,7 @@ FILE "WeFunk_Show_644_2011-04-15.mp3" MP3
 		INDEX 01 109:51:29
 	TRACK 48 AUDIO
 		TITLE "talk (over teruo nakamura - cat)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 114:36:45
 	TRACK 49 AUDIO
 		TITLE "home is where the hatred is"

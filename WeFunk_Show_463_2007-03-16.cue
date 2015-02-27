@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_463_2007-03-16.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "lord of the golden baboon"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_463_2007-03-16.mp3" MP3
 		INDEX 01 01:58:58
 	TRACK 03 AUDIO
 		TITLE "talk (over ahzz - new york moving)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:49:48
 	TRACK 04 AUDIO
 		TITLE "if i had a band"
@@ -133,5 +133,5 @@ FILE "WeFunk_Show_463_2007-03-16.mp3" MP3
 		INDEX 01 107:05:53
 	TRACK 33 AUDIO
 		TITLE "talk (over thes one - target)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 110:17:14

@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_413_2006-03-03.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "'til we get there"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_413_2006-03-03.mp3" MP3
 		INDEX 01 01:58:49
 	TRACK 03 AUDIO
 		TITLE "talk (over zion i - the bay instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:20:56
 	TRACK 04 AUDIO
 		TITLE "the bay"
@@ -73,7 +73,7 @@ FILE "WeFunk_Show_413_2006-03-03.mp3" MP3
 		INDEX 01 46:35:60
 	TRACK 18 AUDIO
 		TITLE "p.s.k. what does it mean?"
-		PERFORMER "schoolly d"
+		PERFORMER "schoolly d."
 		INDEX 01 48:54:34
 	TRACK 19 AUDIO
 		TITLE "the bridge is over"
@@ -145,7 +145,7 @@ FILE "WeFunk_Show_413_2006-03-03.mp3" MP3
 		INDEX 01 103:30:69
 	TRACK 36 AUDIO
 		TITLE "talk (over cabildos - barrio bueno)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 107:35:29
 	TRACK 37 AUDIO
 		TITLE "solstice"

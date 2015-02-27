@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_198_2001-08-24.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "chance with you"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_198_2001-08-24.mp3" MP3
 		INDEX 01 01:59:07
 	TRACK 03 AUDIO
 		TITLE "talk (over meters - sing a simple song)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:55:41
 	TRACK 04 AUDIO
 		TITLE "cross the track (we better go back)"
@@ -153,5 +153,5 @@ FILE "WeFunk_Show_198_2001-08-24.mp3" MP3
 		INDEX 01 110:48:39
 	TRACK 38 AUDIO
 		TITLE "talk (over milt jackson - i'm not so sure)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 114:07:18

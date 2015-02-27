@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_456_2007-01-26.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "brooklyn in my mind (crooklyn dodgers iii)"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_456_2007-01-26.mp3" MP3
 		INDEX 01 01:58:46
 	TRACK 03 AUDIO
 		TITLE "talk (over crooklyn dodgers' 95 - return of the crooklyn dodgers instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 06:28:60
 	TRACK 04 AUDIO
 		TITLE "throwback rap attack"
@@ -133,7 +133,7 @@ FILE "WeFunk_Show_456_2007-01-26.mp3" MP3
 		INDEX 01 96:32:61
 	TRACK 33 AUDIO
 		TITLE "do the dog"
-		PERFORMER "martin hull"
+		PERFORMER "martin mull"
 		INDEX 01 99:47:19
 	TRACK 34 AUDIO
 		TITLE "on top of it"
@@ -149,5 +149,5 @@ FILE "WeFunk_Show_456_2007-01-26.mp3" MP3
 		INDEX 01 110:19:26
 	TRACK 37 AUDIO
 		TITLE "talk (over k.c. & the sunshine band - let it go part 2)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 113:05:23

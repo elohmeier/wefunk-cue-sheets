@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_571_2009-07-24.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "four o'clock in the morning"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_571_2009-07-24.mp3" MP3
 		INDEX 01 01:40:19
 	TRACK 03 AUDIO
 		TITLE "talk (over march wind - all the way down)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:24:21
 	TRACK 04 AUDIO
 		TITLE "take me just as i am"
@@ -113,7 +113,7 @@ FILE "WeFunk_Show_571_2009-07-24.mp3" MP3
 		INDEX 01 89:56:25
 	TRACK 28 AUDIO
 		TITLE "best kept secret (remix)"
-		PERFORMER "diamond d"
+		PERFORMER "diamond d."
 		INDEX 01 93:20:24
 	TRACK 29 AUDIO
 		TITLE "all out"
@@ -141,5 +141,5 @@ FILE "WeFunk_Show_571_2009-07-24.mp3" MP3
 		INDEX 01 115:15:20
 	TRACK 35 AUDIO
 		TITLE "talk (over philly armada - for the love of money)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 118:26:64

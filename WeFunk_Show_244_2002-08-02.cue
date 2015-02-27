@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_244_2002-08-02.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "what's up front that - counts"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_244_2002-08-02.mp3" MP3
 		INDEX 01 01:59:22
 	TRACK 03 AUDIO
 		TITLE "talk (over ray barretto - acid)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 09:13:28
 	TRACK 04 AUDIO
 		TITLE "funkie junkie"
@@ -37,7 +37,7 @@ FILE "WeFunk_Show_244_2002-08-02.mp3" MP3
 		INDEX 01 27:46:16
 	TRACK 09 AUDIO
 		TITLE "talk (over big l. - put it on remix instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 30:24:69
 	TRACK 10 AUDIO
 		TITLE "communicate remix instrumental"
@@ -133,5 +133,5 @@ FILE "WeFunk_Show_244_2002-08-02.mp3" MP3
 		INDEX 01 110:17:36
 	TRACK 33 AUDIO
 		TITLE "talk (over herbie mann - comin' home baby)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 113:40:25

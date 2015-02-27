@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_675_2012-01-20.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "got into this mess"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_675_2012-01-20.mp3" MP3
 		INDEX 01 01:44:41
 	TRACK 03 AUDIO
 		TITLE "talk (over demetrius price - no holdin' back instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:03:69
 	TRACK 04 AUDIO
 		TITLE "it doesn't really matter"
@@ -145,7 +145,7 @@ FILE "WeFunk_Show_675_2012-01-20.mp3" MP3
 		INDEX 01 94:44:06
 	TRACK 36 AUDIO
 		TITLE "talk (over jazz liberatorz - breathing pleasure)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 97:49:19
 	TRACK 37 AUDIO
 		TITLE "rush over"

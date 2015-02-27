@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_572_2009-07-31.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "twilite speedball"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_572_2009-07-31.mp3" MP3
 		INDEX 01 01:44:57
 	TRACK 03 AUDIO
 		TITLE "talk (over dudley perkins - fonky soul instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:34:19
 	TRACK 04 AUDIO
 		TITLE "funky soul"
@@ -141,5 +141,5 @@ FILE "WeFunk_Show_572_2009-07-31.mp3" MP3
 		INDEX 01 97:45:11
 	TRACK 35 AUDIO
 		TITLE "talk (over ashley beedle - party line (beedle's heavy disco edit))"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 104:34:20

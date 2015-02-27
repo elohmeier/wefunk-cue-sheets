@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_355_2004-11-19.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "manslaughter"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_355_2004-11-19.mp3" MP3
 		INDEX 01 01:58:41
 	TRACK 03 AUDIO
 		TITLE "talk (over love unlimited orchestra - strange games and things)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 06:01:12
 	TRACK 04 AUDIO
 		TITLE "stanga"
@@ -109,5 +109,5 @@ FILE "WeFunk_Show_355_2004-11-19.mp3" MP3
 		INDEX 01 104:43:39
 	TRACK 27 AUDIO
 		TITLE "talk (over pete rock & c.l. smooth - appreciate instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 108:10:03

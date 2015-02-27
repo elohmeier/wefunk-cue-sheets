@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_715_2012-11-23.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "cummin' at cha"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_715_2012-11-23.mp3" MP3
 		INDEX 01 01:40:25
 	TRACK 03 AUDIO
 		TITLE "talk (over e.p.m.d. - you're a customer instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:34:15
 	TRACK 04 AUDIO
 		TITLE "straight out the sewer (remix)"
@@ -141,7 +141,7 @@ FILE "WeFunk_Show_715_2012-11-23.mp3" MP3
 		INDEX 01 112:04:20
 	TRACK 35 AUDIO
 		TITLE "talk (over awakening - slinky)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 114:15:01
 	TRACK 36 AUDIO
 		TITLE "ain't no sunshine"

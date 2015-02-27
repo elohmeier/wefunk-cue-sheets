@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_700_2012-07-27.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "moni"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_700_2012-07-27.mp3" MP3
 		INDEX 01 01:32:36
 	TRACK 03 AUDIO
 		TITLE "talk (over jupiter tuning center - yo, now!)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:43:63
 	TRACK 04 AUDIO
 		TITLE "could this be love"
@@ -133,7 +133,7 @@ FILE "WeFunk_Show_700_2012-07-27.mp3" MP3
 		INDEX 01 103:22:34
 	TRACK 33 AUDIO
 		TITLE "talk (over ta-ku - hard to imagine)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 107:43:58
 	TRACK 34 AUDIO
 		TITLE "closer 2 the truth"

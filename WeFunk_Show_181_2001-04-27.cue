@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_181_2001-04-27.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "cold lampin' with flavor"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_181_2001-04-27.mp3" MP3
 		INDEX 01 01:58:19
 	TRACK 03 AUDIO
 		TITLE "talk (over fela kuti & ginger baker - ye ye de smell)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 06:04:00
 	TRACK 04 AUDIO
 		TITLE "soul clap"
@@ -125,5 +125,5 @@ FILE "WeFunk_Show_181_2001-04-27.mp3" MP3
 		INDEX 01 106:26:35
 	TRACK 31 AUDIO
 		TITLE "talk (over sugarman three - turtle walk)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 109:13:55

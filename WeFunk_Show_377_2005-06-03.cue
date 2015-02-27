@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_377_2005-06-03.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "c'mon wit da get down"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_377_2005-06-03.mp3" MP3
 		INDEX 01 01:58:55
 	TRACK 03 AUDIO
 		TITLE "talk (over genius/gza - shadow boxin' instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:38:59
 	TRACK 04 AUDIO
 		TITLE "represent"
@@ -133,7 +133,7 @@ FILE "WeFunk_Show_377_2005-06-03.mp3" MP3
 		INDEX 01 92:51:49
 	TRACK 33 AUDIO
 		TITLE "ring the alarm"
-		PERFORMER "fu shnickens"
+		PERFORMER "fu-schnickens"
 		INDEX 01 95:02:25
 	TRACK 34 AUDIO
 		TITLE "own destiny"
@@ -145,7 +145,7 @@ FILE "WeFunk_Show_377_2005-06-03.mp3" MP3
 		INDEX 01 99:52:42
 	TRACK 36 AUDIO
 		TITLE "talk (over d.j. spinna - shazzam)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 101:49:40
 	TRACK 37 AUDIO
 		TITLE "the most beautifullest thing in this world (green eyed remix)"

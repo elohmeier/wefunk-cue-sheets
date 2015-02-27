@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_235_2002-05-31.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "getting uptown"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_235_2002-05-31.mp3" MP3
 		INDEX 01 01:58:30
 	TRACK 03 AUDIO
 		TITLE "talk (over reggie sadler - raggedy bag)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 06:14:44
 	TRACK 04 AUDIO
 		TITLE "california soul"
@@ -81,7 +81,7 @@ FILE "WeFunk_Show_235_2002-05-31.mp3" MP3
 		INDEX 01 58:23:68
 	TRACK 20 AUDIO
 		TITLE "don't sweat the technique"
-		PERFORMER "eric b & rakim"
+		PERFORMER "eric b. & rakim"
 		INDEX 01 62:24:25
 	TRACK 21 AUDIO
 		TITLE "the choice is yours"
@@ -129,7 +129,7 @@ FILE "WeFunk_Show_235_2002-05-31.mp3" MP3
 		INDEX 01 101:15:13
 	TRACK 32 AUDIO
 		TITLE "talk (over fame gang - grits & gravy)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 108:33:52
 	TRACK 33 AUDIO
 		TITLE "smokin' at tiffany's"

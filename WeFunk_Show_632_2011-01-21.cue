@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_632_2011-01-21.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "swan lake"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_632_2011-01-21.mp3" MP3
 		INDEX 01 01:44:73
 	TRACK 03 AUDIO
 		TITLE "talk (over big pun - you came up instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:17:53
 	TRACK 04 AUDIO
 		TITLE "freestyle (d.j. clue mix)"
@@ -145,7 +145,7 @@ FILE "WeFunk_Show_632_2011-01-21.mp3" MP3
 		INDEX 01 107:34:63
 	TRACK 36 AUDIO
 		TITLE "talk (over i.v. the polymath - grey area)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 112:06:66
 	TRACK 37 AUDIO
 		TITLE "sunset"

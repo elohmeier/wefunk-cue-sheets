@@ -5,15 +5,15 @@ REM Genre : HipHop
 FILE "WeFunk_Show_262_2002-12-07.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "motor city"
 		PERFORMER "counts"
 		INDEX 01 01:59:35
 	TRACK 03 AUDIO
-		TITLE "talk (over grover washington jr. - knucklehead)"
-		PERFORMER ""
+		TITLE "talk (over grover washington, jr. - knucklehead)"
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:37:61
 	TRACK 04 AUDIO
 		TITLE "bring the pain"
@@ -21,7 +21,7 @@ FILE "WeFunk_Show_262_2002-12-07.mp3" MP3
 		INDEX 01 13:27:39
 	TRACK 05 AUDIO
 		TITLE "talk (over ministere amer - sacrifice de poulets)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 22:16:24
 	TRACK 06 AUDIO
 		TITLE "l'aimant"
@@ -40,8 +40,8 @@ FILE "WeFunk_Show_262_2002-12-07.mp3" MP3
 		PERFORMER "mad skillz"
 		INDEX 01 38:03:52
 	TRACK 10 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 45:18:33
 	TRACK 11 AUDIO
 		TITLE "sissy walk"
@@ -76,8 +76,8 @@ FILE "WeFunk_Show_262_2002-12-07.mp3" MP3
 		PERFORMER "j-sands"
 		INDEX 01 82:24:64
 	TRACK 19 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 93:54:17
 	TRACK 20 AUDIO
 		TITLE "d.i.y."
@@ -97,5 +97,5 @@ FILE "WeFunk_Show_262_2002-12-07.mp3" MP3
 		INDEX 01 110:14:40
 	TRACK 24 AUDIO
 		TITLE "talk (over craig mack - flava in ya ear instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 113:19:45

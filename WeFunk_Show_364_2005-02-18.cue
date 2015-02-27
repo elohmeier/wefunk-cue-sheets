@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_364_2005-02-18.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "don't cry dry your eyes"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_364_2005-02-18.mp3" MP3
 		INDEX 01 01:58:41
 	TRACK 03 AUDIO
 		TITLE "talk (over gene harris & the three sounds - put on train)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 06:34:15
 	TRACK 04 AUDIO
 		TITLE "same beat"
@@ -65,7 +65,7 @@ FILE "WeFunk_Show_364_2005-02-18.mp3" MP3
 		INDEX 01 68:21:07
 	TRACK 16 AUDIO
 		TITLE "talk (over grand agent - skillz philly instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 71:38:67
 	TRACK 17 AUDIO
 		TITLE "public enemy no. 1"
@@ -89,5 +89,5 @@ FILE "WeFunk_Show_364_2005-02-18.mp3" MP3
 		INDEX 01 96:32:68
 	TRACK 22 AUDIO
 		TITLE "talk (over public enemy - hazy shade of a criminal instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 101:43:17

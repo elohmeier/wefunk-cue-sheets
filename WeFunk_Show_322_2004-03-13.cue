@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_322_2004-03-13.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "zimba ku"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_322_2004-03-13.mp3" MP3
 		INDEX 01 01:58:67
 	TRACK 03 AUDIO
 		TITLE "talk (over loading zone - can i dedicate)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 06:06:70
 	TRACK 04 AUDIO
 		TITLE "stone cold cat"
@@ -89,7 +89,7 @@ FILE "WeFunk_Show_322_2004-03-13.mp3" MP3
 		INDEX 01 60:12:01
 	TRACK 22 AUDIO
 		TITLE "battle"
-		PERFORMER "eric sermon"
+		PERFORMER "erick sermon"
 		INDEX 01 62:25:06
 	TRACK 23 AUDIO
 		TITLE "soul clap"
@@ -145,7 +145,7 @@ FILE "WeFunk_Show_322_2004-03-13.mp3" MP3
 		INDEX 01 100:18:60
 	TRACK 36 AUDIO
 		TITLE "talk (over louis chachere - the hen)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 103:23:70
 	TRACK 37 AUDIO
 		TITLE "got to be a love (paul nice remix)"

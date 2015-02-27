@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_294_2003-08-08.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "it's all right now"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_294_2003-08-08.mp3" MP3
 		INDEX 01 01:58:72
 	TRACK 03 AUDIO
 		TITLE "talk (over bullet - contract man)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:41:19
 	TRACK 04 AUDIO
 		TITLE "hyperbolicsyllabicsequedalymistic"
@@ -117,5 +117,5 @@ FILE "WeFunk_Show_294_2003-08-08.mp3" MP3
 		INDEX 01 106:49:41
 	TRACK 29 AUDIO
 		TITLE "talk (over biz markie - studda step instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 110:55:24

@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_590_2010-01-22.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "working woman"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_590_2010-01-22.mp3" MP3
 		INDEX 01 01:26:68
 	TRACK 03 AUDIO
 		TITLE "talk (over rudy robinson & the hungry five - got it together)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:31:66
 	TRACK 04 AUDIO
 		TITLE "(everybody wanna get rich) rite away"
@@ -145,5 +145,5 @@ FILE "WeFunk_Show_590_2010-01-22.mp3" MP3
 		INDEX 01 106:03:10
 	TRACK 36 AUDIO
 		TITLE "talk (over janko nilovic - in the space)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 107:33:71

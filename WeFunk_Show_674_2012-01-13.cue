@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_674_2012-01-13.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "we pop"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_674_2012-01-13.mp3" MP3
 		INDEX 01 01:26:62
 	TRACK 03 AUDIO
 		TITLE "talk (over onra - high hopes instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:45:16
 	TRACK 04 AUDIO
 		TITLE "notorious (remix)"
@@ -32,8 +32,8 @@ FILE "WeFunk_Show_674_2012-01-13.mp3" MP3
 		PERFORMER "spinners"
 		INDEX 01 19:43:22
 	TRACK 08 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 22:29:08
 	TRACK 09 AUDIO
 		TITLE "don't you care"
@@ -141,7 +141,7 @@ FILE "WeFunk_Show_674_2012-01-13.mp3" MP3
 		INDEX 01 105:05:44
 	TRACK 35 AUDIO
 		TITLE "talk (over jupiter tuning center - don do it)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 110:17:29
 	TRACK 36 AUDIO
 		TITLE "rain a fall (falq 1979 remix)"

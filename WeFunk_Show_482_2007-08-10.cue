@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_482_2007-08-10.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "brooklyn"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_482_2007-08-10.mp3" MP3
 		INDEX 01 01:58:39
 	TRACK 03 AUDIO
 		TITLE "talk (over jay-z - 99 problems instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:25:30
 	TRACK 04 AUDIO
 		TITLE "c'mon baby"
@@ -52,24 +52,24 @@ FILE "WeFunk_Show_482_2007-08-10.mp3" MP3
 		PERFORMER "guru"
 		INDEX 01 43:07:62
 	TRACK 13 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 44:46:68
 	TRACK 14 AUDIO
 		TITLE "state of clarity"
 		PERFORMER "guru feat. common & bob james"
 		INDEX 01 48:40:35
 	TRACK 15 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 49:49:74
 	TRACK 16 AUDIO
 		TITLE "nightcrawler"
 		PERFORMER "bob james trio"
 		INDEX 01 54:19:56
 	TRACK 17 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 55:32:37
 	TRACK 18 AUDIO
 		TITLE "this is art"
@@ -137,5 +137,5 @@ FILE "WeFunk_Show_482_2007-08-10.mp3" MP3
 		INDEX 01 111:11:71
 	TRACK 34 AUDIO
 		TITLE "talk (over peter herbolzheimer - frog dance)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 112:54:61

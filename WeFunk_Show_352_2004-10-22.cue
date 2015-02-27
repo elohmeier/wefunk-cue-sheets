@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_352_2004-10-22.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "ooh the dew doo man"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_352_2004-10-22.mp3" MP3
 		INDEX 01 01:58:38
 	TRACK 03 AUDIO
 		TITLE "talk (over pharcyde - pork instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:08:39
 	TRACK 04 AUDIO
 		TITLE "that's when ya lost"
@@ -68,8 +68,8 @@ FILE "WeFunk_Show_352_2004-10-22.mp3" MP3
 		PERFORMER "reuben wilson"
 		INDEX 01 43:35:12
 	TRACK 17 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 44:23:45
 	TRACK 18 AUDIO
 		TITLE "i am a robot (live)"
@@ -80,12 +80,12 @@ FILE "WeFunk_Show_352_2004-10-22.mp3" MP3
 		PERFORMER "tony ezzy"
 		INDEX 01 54:21:50
 	TRACK 20 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 57:02:07
 	TRACK 21 AUDIO
 		TITLE "shimmy shimmy ya"
-		PERFORMER "ol dirty bastard"
+		PERFORMER "ol' dirty bastard"
 		INDEX 01 57:19:62
 	TRACK 22 AUDIO
 		TITLE "return of the boom bap"
@@ -149,7 +149,7 @@ FILE "WeFunk_Show_352_2004-10-22.mp3" MP3
 		INDEX 01 100:09:01
 	TRACK 37 AUDIO
 		TITLE "talk (over herbie mann - pick up the pieces)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 104:30:31
 	TRACK 38 AUDIO
 		TITLE "give it up or turnit a loose"

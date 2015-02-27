@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_171_2001-02-16.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "soul power '74"
@@ -116,8 +116,8 @@ FILE "WeFunk_Show_171_2001-02-16.mp3" MP3
 		PERFORMER "pacewon"
 		INDEX 01 106:16:14
 	TRACK 29 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 107:37:45
 	TRACK 30 AUDIO
 		TITLE "windmills of your mind"
@@ -125,5 +125,5 @@ FILE "WeFunk_Show_171_2001-02-16.mp3" MP3
 		INDEX 01 114:37:53
 	TRACK 31 AUDIO
 		TITLE "talk (over r.a. the rugged man - stanley kubrick instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 117:35:25

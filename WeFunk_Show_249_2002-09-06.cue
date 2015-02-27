@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_249_2002-09-06.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "crush"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_249_2002-09-06.mp3" MP3
 		INDEX 01 01:58:64
 	TRACK 03 AUDIO
 		TITLE "talk (over dr. frankenstein - peace & quiet instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 06:05:45
 	TRACK 04 AUDIO
 		TITLE "peace & quiet"
@@ -116,7 +116,7 @@ FILE "WeFunk_Show_249_2002-09-06.mp3" MP3
 		PERFORMER "d.j. format feat. abdominal"
 		INDEX 01 93:15:13
 	TRACK 29 AUDIO
-		TITLE "krs-one attack"
+		TITLE "k.r.s.-one attacks"
 		PERFORMER "k.r.s.-one"
 		INDEX 01 96:47:32
 	TRACK 30 AUDIO
@@ -149,7 +149,7 @@ FILE "WeFunk_Show_249_2002-09-06.mp3" MP3
 		INDEX 01 113:37:04
 	TRACK 37 AUDIO
 		TITLE "talk (over ras kass - won't catch me runnin' instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 115:52:74
 	TRACK 38 AUDIO
 		TITLE "ice cream"

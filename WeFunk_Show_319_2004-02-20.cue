@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_319_2004-02-20.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "pushin' on"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_319_2004-02-20.mp3" MP3
 		INDEX 01 01:58:56
 	TRACK 03 AUDIO
 		TITLE "talk (over quantic soul orchestra - pushin' on instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:13:52
 	TRACK 04 AUDIO
 		TITLE "the funky 16 corners"
@@ -129,5 +129,5 @@ FILE "WeFunk_Show_319_2004-02-20.mp3" MP3
 		INDEX 01 103:47:03
 	TRACK 32 AUDIO
 		TITLE "talk (over a tribe called quest - 1nce again instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 105:54:35

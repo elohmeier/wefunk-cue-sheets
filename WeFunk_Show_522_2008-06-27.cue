@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_522_2008-06-27.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "living for the city (roger's hip hop remix)"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_522_2008-06-27.mp3" MP3
 		INDEX 01 02:01:70
 	TRACK 03 AUDIO
 		TITLE "talk (over milez benjiman - chop that wood instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 06:05:55
 	TRACK 04 AUDIO
 		TITLE "chop that wood"
@@ -41,7 +41,7 @@ FILE "WeFunk_Show_522_2008-06-27.mp3" MP3
 		INDEX 01 28:50:21
 	TRACK 10 AUDIO
 		TITLE "the platform (erick sermon remix)"
-		PERFORMER "dilated people"
+		PERFORMER "dilated peoples"
 		INDEX 01 31:51:37
 	TRACK 11 AUDIO
 		TITLE "the human element"
@@ -129,5 +129,5 @@ FILE "WeFunk_Show_522_2008-06-27.mp3" MP3
 		INDEX 01 104:00:05
 	TRACK 32 AUDIO
 		TITLE "talk (over el chicano - viva tirado)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 107:04:04

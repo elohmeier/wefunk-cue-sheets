@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_196_2001-08-10.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "hey western union man"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_196_2001-08-10.mp3" MP3
 		INDEX 01 01:58:43
 	TRACK 03 AUDIO
 		TITLE "talk (over armada orchestra - for the love of money)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 06:23:69
 	TRACK 04 AUDIO
 		TITLE "dujii"
@@ -144,6 +144,6 @@ FILE "WeFunk_Show_196_2001-08-10.mp3" MP3
 		PERFORMER "poets of rhythm"
 		INDEX 01 105:45:11
 	TRACK 36 AUDIO
-		TITLE "talk (over grover washington jr. - mr. magic)"
-		PERFORMER ""
+		TITLE "talk (over grover washington, jr. - mr. magic)"
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 109:03:10

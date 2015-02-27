@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_760_2013-12-06.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "now i can fly"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_760_2013-12-06.mp3" MP3
 		INDEX 01 01:44:48
 	TRACK 03 AUDIO
 		TITLE "talk (over lord echo - street knowledge)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:40:61
 	TRACK 04 AUDIO
 		TITLE "the perfect match"
@@ -125,7 +125,7 @@ FILE "WeFunk_Show_760_2013-12-06.mp3" MP3
 		INDEX 01 110:46:23
 	TRACK 31 AUDIO
 		TITLE "talk (over gramatik - friday)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 113:56:50
 	TRACK 32 AUDIO
 		TITLE "1nce again (phoniks remix)"

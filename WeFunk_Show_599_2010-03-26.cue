@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_599_2010-03-26.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "triple trouble (green mix)"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_599_2010-03-26.mp3" MP3
 		INDEX 01 01:14:33
 	TRACK 03 AUDIO
 		TITLE "talk (over bob james - nautilus (flipout edit))"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:13:13
 	TRACK 04 AUDIO
 		TITLE "nautilus (flipout edit)"
@@ -189,5 +189,5 @@ FILE "WeFunk_Show_599_2010-03-26.mp3" MP3
 		INDEX 01 111:56:39
 	TRACK 47 AUDIO
 		TITLE "talk (over bill doggett - dig the thing)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 114:56:65

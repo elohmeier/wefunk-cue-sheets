@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_633_2011-01-28.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "the people's choice"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_633_2011-01-28.mp3" MP3
 		INDEX 01 01:32:33
 	TRACK 03 AUDIO
 		TITLE "talk (over hint - give it up instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:29:69
 	TRACK 04 AUDIO
 		TITLE "reaching for tomorrow"
@@ -149,7 +149,7 @@ FILE "WeFunk_Show_633_2011-01-28.mp3" MP3
 		INDEX 01 104:13:47
 	TRACK 37 AUDIO
 		TITLE "talk (over el michels affair & friends - i believe in miracles)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 108:06:14
 	TRACK 38 AUDIO
 		TITLE "call the boss"

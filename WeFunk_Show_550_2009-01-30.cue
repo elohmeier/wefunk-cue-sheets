@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_550_2009-01-30.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "uzi (pinky ring)"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_550_2009-01-30.mp3" MP3
 		INDEX 01 01:14:18
 	TRACK 03 AUDIO
 		TITLE "talk (over j.j. johnson - parade strut)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 03:21:66
 	TRACK 04 AUDIO
 		TITLE "swahililand"
@@ -133,7 +133,7 @@ FILE "WeFunk_Show_550_2009-01-30.mp3" MP3
 		INDEX 01 55:26:49
 	TRACK 33 AUDIO
 		TITLE "impeach the president"
-		PERFORMER "honeydrippers"
+		PERFORMER "honey drippers"
 		INDEX 01 58:50:20
 	TRACK 34 AUDIO
 		TITLE "n.t."
@@ -193,7 +193,7 @@ FILE "WeFunk_Show_550_2009-01-30.mp3" MP3
 		INDEX 01 104:11:72
 	TRACK 48 AUDIO
 		TITLE "talk (over the game - hate it or love it instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 107:35:37
 	TRACK 49 AUDIO
 		TITLE "everyday struggle"

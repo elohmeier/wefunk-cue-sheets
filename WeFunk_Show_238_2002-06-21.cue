@@ -5,15 +5,15 @@ REM Genre : HipHop
 FILE "WeFunk_Show_238_2002-06-21.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "ugly people be quiet"
 		PERFORMER "cash money & marvelous marv"
 		INDEX 01 01:59:21
 	TRACK 03 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 06:07:11
 	TRACK 04 AUDIO
 		TITLE "big kats"
@@ -33,7 +33,7 @@ FILE "WeFunk_Show_238_2002-06-21.mp3" MP3
 		INDEX 01 18:54:13
 	TRACK 08 AUDIO
 		TITLE "impeach the president"
-		PERFORMER "honeydrippers"
+		PERFORMER "honey drippers"
 		INDEX 01 27:22:33
 	TRACK 09 AUDIO
 		TITLE "it's a new day"
@@ -69,7 +69,7 @@ FILE "WeFunk_Show_238_2002-06-21.mp3" MP3
 		INDEX 01 54:31:52
 	TRACK 17 AUDIO
 		TITLE "shaft in africa theme"
-		PERFORMER "johnny page"
+		PERFORMER "johnny pate"
 		INDEX 01 55:55:35
 	TRACK 18 AUDIO
 		TITLE "theme from willie dynamite"
@@ -136,8 +136,8 @@ FILE "WeFunk_Show_238_2002-06-21.mp3" MP3
 		PERFORMER "craig mack"
 		INDEX 01 109:59:72
 	TRACK 34 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 113:42:12
 	TRACK 35 AUDIO
 		TITLE "ol' time killin'"

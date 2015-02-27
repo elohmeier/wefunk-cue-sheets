@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_651_2011-06-24.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "nasty"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_651_2011-06-24.mp3" MP3
 		INDEX 01 01:44:51
 	TRACK 03 AUDIO
 		TITLE "talk (over j.r. & ph7 - persuasion instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:44:30
 	TRACK 04 AUDIO
 		TITLE "show n prove (remix)"
@@ -145,7 +145,7 @@ FILE "WeFunk_Show_651_2011-06-24.mp3" MP3
 		INDEX 01 112:13:24
 	TRACK 36 AUDIO
 		TITLE "talk (over osaka monaurail - endemism)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 114:41:28
 	TRACK 37 AUDIO
 		TITLE "beau truffe"

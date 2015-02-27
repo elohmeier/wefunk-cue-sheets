@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_514_2008-04-18.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "the life"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_514_2008-04-18.mp3" MP3
 		INDEX 01 01:40:22
 	TRACK 03 AUDIO
 		TITLE "talk (over erule - the real me instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:43:42
 	TRACK 04 AUDIO
 		TITLE "return"
@@ -61,7 +61,7 @@ FILE "WeFunk_Show_514_2008-04-18.mp3" MP3
 		INDEX 01 36:58:65
 	TRACK 15 AUDIO
 		TITLE "supreme alphabet"
-		PERFORMER "positive k"
+		PERFORMER "positive k."
 		INDEX 01 40:12:37
 	TRACK 16 AUDIO
 		TITLE "lumdi"
@@ -69,7 +69,7 @@ FILE "WeFunk_Show_514_2008-04-18.mp3" MP3
 		INDEX 01 42:50:30
 	TRACK 17 AUDIO
 		TITLE "gucci time"
-		PERFORMER "schoolly d"
+		PERFORMER "schoolly d."
 		INDEX 01 45:50:22
 	TRACK 18 AUDIO
 		TITLE "loose booty"
@@ -133,5 +133,5 @@ FILE "WeFunk_Show_514_2008-04-18.mp3" MP3
 		INDEX 01 101:40:00
 	TRACK 33 AUDIO
 		TITLE "talk (over johnny frigo - thank you)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 103:53:22

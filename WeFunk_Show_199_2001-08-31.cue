@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_199_2001-08-31.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "death becomes you"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_199_2001-08-31.mp3" MP3
 		INDEX 01 01:58:31
 	TRACK 03 AUDIO
 		TITLE "talk (over young z, k.r.s.-one & busta rhymes - milk instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:45:06
 	TRACK 04 AUDIO
 		TITLE "milk"
@@ -69,7 +69,7 @@ FILE "WeFunk_Show_199_2001-08-31.mp3" MP3
 		INDEX 01 51:57:27
 	TRACK 17 AUDIO
 		TITLE "juice (know the ledge)"
-		PERFORMER "eric b & rakim"
+		PERFORMER "eric b. & rakim"
 		INDEX 01 54:33:37
 	TRACK 18 AUDIO
 		TITLE "raw"
@@ -109,7 +109,7 @@ FILE "WeFunk_Show_199_2001-08-31.mp3" MP3
 		INDEX 01 86:37:51
 	TRACK 27 AUDIO
 		TITLE "check one, two"
-		PERFORMER "diamond d & the psychotic neurotics"
+		PERFORMER "diamond & the psychotic neurotics"
 		INDEX 01 89:17:27
 	TRACK 28 AUDIO
 		TITLE "jimbrowski"
@@ -133,5 +133,5 @@ FILE "WeFunk_Show_199_2001-08-31.mp3" MP3
 		INDEX 01 107:19:72
 	TRACK 33 AUDIO
 		TITLE "talk (over soul seven - southside funk)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 110:07:06

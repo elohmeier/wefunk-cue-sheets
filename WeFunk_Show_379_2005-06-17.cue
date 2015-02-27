@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_379_2005-06-17.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "mr. chicken shit"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_379_2005-06-17.mp3" MP3
 		INDEX 01 01:58:62
 	TRACK 03 AUDIO
 		TITLE "talk (over keno-1 & the hermit - heavy heavy)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:58:50
 	TRACK 04 AUDIO
 		TITLE "giving up on love"
@@ -76,12 +76,12 @@ FILE "WeFunk_Show_379_2005-06-17.mp3" MP3
 		PERFORMER "don thompson"
 		INDEX 01 52:10:73
 	TRACK 19 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 55:17:06
 	TRACK 20 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 56:29:23
 	TRACK 21 AUDIO
 		TITLE "no artificials"
@@ -140,6 +140,6 @@ FILE "WeFunk_Show_379_2005-06-17.mp3" MP3
 		PERFORMER "fatlip"
 		INDEX 01 105:05:39
 	TRACK 35 AUDIO
-		TITLE "talk (over pharaoh monch - what is the law instrumental)"
-		PERFORMER ""
+		TITLE "talk (over pharaohe monch - what is the law instrumental)"
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 108:07:21

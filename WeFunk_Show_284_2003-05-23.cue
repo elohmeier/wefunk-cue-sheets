@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_284_2003-05-23.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "cold feet"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_284_2003-05-23.mp3" MP3
 		INDEX 01 01:59:05
 	TRACK 03 AUDIO
 		TITLE "talk (over sly & the family stone - thank you for talking to me africa)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:35:42
 	TRACK 04 AUDIO
 		TITLE "funky worm"
@@ -81,15 +81,15 @@ FILE "WeFunk_Show_284_2003-05-23.mp3" MP3
 		INDEX 01 65:26:39
 	TRACK 20 AUDIO
 		TITLE "looking for a record deal"
-		PERFORMER "yagfu front"
+		PERFORMER "yaggfu front"
 		INDEX 01 68:09:58
 	TRACK 21 AUDIO
 		TITLE "101 things to do while i'm with your girl"
 		PERFORMER "kwest the madd lad"
 		INDEX 01 70:31:72
 	TRACK 22 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 74:30:56
 	TRACK 23 AUDIO
 		TITLE "tryin' to live"
@@ -101,7 +101,7 @@ FILE "WeFunk_Show_284_2003-05-23.mp3" MP3
 		INDEX 01 103:52:46
 	TRACK 25 AUDIO
 		TITLE "talk (over webster lewis - el bobo)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 109:23:71
 	TRACK 26 AUDIO
 		TITLE "mashed potato popcorn"

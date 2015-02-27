@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_403_2005-12-23.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "i used to think i was run"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_403_2005-12-23.mp3" MP3
 		INDEX 01 01:58:49
 	TRACK 03 AUDIO
 		TITLE "talk (over boogie down productions - why is that?)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:58:23
 	TRACK 04 AUDIO
 		TITLE "lean on me (pump it up) (reprise remix)"
@@ -25,7 +25,7 @@ FILE "WeFunk_Show_403_2005-12-23.mp3" MP3
 		INDEX 01 13:49:24
 	TRACK 06 AUDIO
 		TITLE "parkside 5-2"
-		PERFORMER "schoolly d"
+		PERFORMER "schoolly d."
 		INDEX 01 17:16:34
 	TRACK 07 AUDIO
 		TITLE "concrete schoolyard"
@@ -85,7 +85,7 @@ FILE "WeFunk_Show_403_2005-12-23.mp3" MP3
 		INDEX 01 65:00:57
 	TRACK 21 AUDIO
 		TITLE "the jakel"
-		PERFORMER "p.f. cuttin & sean price feat. professor x & nardo ranks"
+		PERFORMER "p.f. cuttin' & sean price feat. professor x. & nardo ranks"
 		INDEX 01 67:48:67
 	TRACK 22 AUDIO
 		TITLE "a.d.a.m."
@@ -133,5 +133,5 @@ FILE "WeFunk_Show_403_2005-12-23.mp3" MP3
 		INDEX 01 103:06:68
 	TRACK 33 AUDIO
 		TITLE "talk (over paris to purple city - rap is all around the world instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 106:04:63

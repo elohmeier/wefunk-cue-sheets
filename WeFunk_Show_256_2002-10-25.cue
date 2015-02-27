@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_256_2002-10-25.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "soul power '74"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_256_2002-10-25.mp3" MP3
 		INDEX 01 01:59:24
 	TRACK 03 AUDIO
 		TITLE "talk (over funk inc. - smokin' at tiffany's)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 06:02:18
 	TRACK 04 AUDIO
 		TITLE "the next ball game"
@@ -125,7 +125,7 @@ FILE "WeFunk_Show_256_2002-10-25.mp3" MP3
 		INDEX 01 91:59:74
 	TRACK 31 AUDIO
 		TITLE "southern hospitality"
-		PERFORMER "ludicris"
+		PERFORMER "ludacris"
 		INDEX 01 93:57:48
 	TRACK 32 AUDIO
 		TITLE "miss fat booty"

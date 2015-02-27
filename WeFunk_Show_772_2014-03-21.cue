@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_772_2014-03-21.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "one love"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_772_2014-03-21.mp3" MP3
 		INDEX 01 01:40:15
 	TRACK 03 AUDIO
 		TITLE "talk (over d.j. moar - new star)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:23:61
 	TRACK 04 AUDIO
 		TITLE "backdoor girl"
@@ -137,7 +137,7 @@ FILE "WeFunk_Show_772_2014-03-21.mp3" MP3
 		INDEX 01 101:24:06
 	TRACK 34 AUDIO
 		TITLE "talk (over large professor - after school instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 106:44:35
 	TRACK 35 AUDIO
 		TITLE "beautiful day (remix)"

@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_503_2008-01-25.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "thinking"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_503_2008-01-25.mp3" MP3
 		INDEX 01 01:44:47
 	TRACK 03 AUDIO
 		TITLE "talk (over ramrods - soul express pt. 1)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 03:11:48
 	TRACK 04 AUDIO
 		TITLE "junk"
@@ -81,7 +81,7 @@ FILE "WeFunk_Show_503_2008-01-25.mp3" MP3
 		INDEX 01 69:06:14
 	TRACK 20 AUDIO
 		TITLE "knucklehead"
-		PERFORMER "grover washington jr."
+		PERFORMER "grover washington, jr."
 		INDEX 01 72:37:01
 	TRACK 21 AUDIO
 		TITLE "2000 black"
@@ -101,5 +101,5 @@ FILE "WeFunk_Show_503_2008-01-25.mp3" MP3
 		INDEX 01 98:42:48
 	TRACK 25 AUDIO
 		TITLE "talk (over antibalas - n.e.s.t.a. (never ever submit to authority))"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 107:00:14

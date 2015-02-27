@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_589_2010-01-15.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "rosa parks"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_589_2010-01-15.mp3" MP3
 		INDEX 01 01:40:20
 	TRACK 03 AUDIO
 		TITLE "talk (over reflection eternal - back again instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:23:33
 	TRACK 04 AUDIO
 		TITLE "won't trade"
@@ -145,7 +145,7 @@ FILE "WeFunk_Show_589_2010-01-15.mp3" MP3
 		INDEX 01 97:51:46
 	TRACK 36 AUDIO
 		TITLE "talk (over r. tilsley - warlock)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 99:25:13
 	TRACK 37 AUDIO
 		TITLE "family"

@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_671_2011-12-09.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "wake up"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_671_2011-12-09.mp3" MP3
 		INDEX 01 02:01:63
 	TRACK 03 AUDIO
 		TITLE "talk (over dal gren - groove machine)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:28:13
 	TRACK 04 AUDIO
 		TITLE "if ya gon' lie"
@@ -125,7 +125,7 @@ FILE "WeFunk_Show_671_2011-12-09.mp3" MP3
 		INDEX 01 111:16:53
 	TRACK 31 AUDIO
 		TITLE "talk (over jay-z - can't knock the hustle)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 114:32:66
 	TRACK 32 AUDIO
 		TITLE "all that i got is you"

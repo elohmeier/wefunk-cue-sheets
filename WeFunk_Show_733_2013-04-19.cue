@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_733_2013-04-19.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "little brother"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_733_2013-04-19.mp3" MP3
 		INDEX 01 01:14:21
 	TRACK 03 AUDIO
 		TITLE "talk (over q-tip - we fight we love instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:11:72
 	TRACK 04 AUDIO
 		TITLE "patti dooke"
@@ -109,7 +109,7 @@ FILE "WeFunk_Show_733_2013-04-19.mp3" MP3
 		INDEX 01 104:23:22
 	TRACK 27 AUDIO
 		TITLE "talk (over d.j. toolz - bad)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 107:49:74
 	TRACK 28 AUDIO
 		TITLE "puttered bopcorn"

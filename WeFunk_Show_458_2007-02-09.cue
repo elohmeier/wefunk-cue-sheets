@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_458_2007-02-09.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "cumin' up"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_458_2007-02-09.mp3" MP3
 		INDEX 01 01:58:37
 	TRACK 03 AUDIO
 		TITLE "talk (over j.j. fad - supersonic instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:36:55
 	TRACK 04 AUDIO
 		TITLE "19"
@@ -145,5 +145,5 @@ FILE "WeFunk_Show_458_2007-02-09.mp3" MP3
 		INDEX 01 101:27:21
 	TRACK 36 AUDIO
 		TITLE "talk (over juan pablo torres y algo nuevo - son a propulsion)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 109:23:13

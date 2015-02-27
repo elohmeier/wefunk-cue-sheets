@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_466_2007-04-20.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "say something"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_466_2007-04-20.mp3" MP3
 		INDEX 01 01:58:47
 	TRACK 03 AUDIO
 		TITLE "talk (over lords of the underground - funky child instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:32:41
 	TRACK 04 AUDIO
 		TITLE "stick em up"
@@ -145,5 +145,5 @@ FILE "WeFunk_Show_466_2007-04-20.mp3" MP3
 		INDEX 01 102:48:52
 	TRACK 36 AUDIO
 		TITLE "talk (over peter herbolzheimer - babo)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 106:04:16

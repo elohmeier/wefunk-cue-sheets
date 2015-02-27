@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_437_2006-09-01.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "n.y. state of mind"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_437_2006-09-01.mp3" MP3
 		INDEX 01 01:39:48
 	TRACK 03 AUDIO
 		TITLE "talk (over jamal - fades em all instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 06:23:59
 	TRACK 04 AUDIO
 		TITLE "fades em all"
@@ -121,7 +121,7 @@ FILE "WeFunk_Show_437_2006-09-01.mp3" MP3
 		INDEX 01 109:48:72
 	TRACK 30 AUDIO
 		TITLE "talk (over manchilde - baby mother instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 112:59:58
 	TRACK 31 AUDIO
 		TITLE "baby mother"

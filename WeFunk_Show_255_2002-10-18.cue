@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_255_2002-10-18.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "rufus rastus johnson brown"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_255_2002-10-18.mp3" MP3
 		INDEX 01 01:58:03
 	TRACK 03 AUDIO
 		TITLE "talk (over zap pow - soul revival)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:30:14
 	TRACK 04 AUDIO
 		TITLE "space funk"
@@ -49,7 +49,7 @@ FILE "WeFunk_Show_255_2002-10-18.mp3" MP3
 		INDEX 01 28:10:04
 	TRACK 12 AUDIO
 		TITLE "talk (over ronnie laws & pressure - always there)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 30:57:06
 	TRACK 13 AUDIO
 		TITLE "why did you do it"
@@ -77,7 +77,7 @@ FILE "WeFunk_Show_255_2002-10-18.mp3" MP3
 		INDEX 01 50:04:31
 	TRACK 19 AUDIO
 		TITLE "impeach the president"
-		PERFORMER "honeydrippers"
+		PERFORMER "honey drippers"
 		INDEX 01 52:29:34
 	TRACK 20 AUDIO
 		TITLE "the message from the soul sisters"
@@ -149,7 +149,7 @@ FILE "WeFunk_Show_255_2002-10-18.mp3" MP3
 		INDEX 01 98:25:33
 	TRACK 37 AUDIO
 		TITLE "come down"
-		PERFORMER "freddi henchi & the soulsetters"
+		PERFORMER "freddi/henchi & the soulsetters"
 		INDEX 01 101:14:41
 	TRACK 38 AUDIO
 		TITLE "a gritty nitty"
@@ -157,5 +157,5 @@ FILE "WeFunk_Show_255_2002-10-18.mp3" MP3
 		INDEX 01 104:18:04
 	TRACK 39 AUDIO
 		TITLE "talk (over el michels affair - easy access)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 106:45:03

@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_526_2008-07-25.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "the king"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_526_2008-07-25.mp3" MP3
 		INDEX 01 01:32:36
 	TRACK 03 AUDIO
 		TITLE "talk (over heliocentrics feat. percee p & m.f. doom - distant star instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 03:58:44
 	TRACK 04 AUDIO
 		TITLE "distant star"
@@ -45,7 +45,7 @@ FILE "WeFunk_Show_526_2008-07-25.mp3" MP3
 		INDEX 01 27:36:30
 	TRACK 11 AUDIO
 		TITLE "talk (over marco polo feat. large professor - the radar remix instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 32:33:20
 	TRACK 12 AUDIO
 		TITLE "efficiency"
@@ -57,7 +57,7 @@ FILE "WeFunk_Show_526_2008-07-25.mp3" MP3
 		INDEX 01 40:08:51
 	TRACK 14 AUDIO
 		TITLE "talk (over little brother - lovin' it instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 43:42:60
 	TRACK 15 AUDIO
 		TITLE "oh god (live)"
@@ -69,7 +69,7 @@ FILE "WeFunk_Show_526_2008-07-25.mp3" MP3
 		INDEX 01 52:30:46
 	TRACK 17 AUDIO
 		TITLE "talk (over erykah badu - the healer instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 55:30:39
 	TRACK 18 AUDIO
 		TITLE "don't take my kindness for weakness"
@@ -121,7 +121,7 @@ FILE "WeFunk_Show_526_2008-07-25.mp3" MP3
 		INDEX 01 86:51:55
 	TRACK 30 AUDIO
 		TITLE "la dimo strzione"
-		PERFORMER "danielle patucci"
+		PERFORMER "daniele patucci"
 		INDEX 01 90:39:38
 	TRACK 31 AUDIO
 		TITLE "charlie's theme"
@@ -137,5 +137,5 @@ FILE "WeFunk_Show_526_2008-07-25.mp3" MP3
 		INDEX 01 100:13:02
 	TRACK 34 AUDIO
 		TITLE "talk (over alan hawkshaw & brian bennett - name of the game)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 104:33:39

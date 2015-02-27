@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_222_2002-02-22.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "you gotta push"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_222_2002-02-22.mp3" MP3
 		INDEX 01 01:59:49
 	TRACK 03 AUDIO
 		TITLE "talk (over jimmy mcgriff - the bird wave)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:34:27
 	TRACK 04 AUDIO
 		TITLE "i don't know if i can make it"
@@ -32,8 +32,8 @@ FILE "WeFunk_Show_222_2002-02-22.mp3" MP3
 		PERFORMER "the unstoppable s. robinson"
 		INDEX 01 22:11:23
 	TRACK 08 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 24:36:19
 	TRACK 09 AUDIO
 		TITLE "get out of my life, woman"
@@ -60,8 +60,8 @@ FILE "WeFunk_Show_222_2002-02-22.mp3" MP3
 		PERFORMER "vera hamilton"
 		INDEX 01 45:34:45
 	TRACK 15 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 47:48:10
 	TRACK 16 AUDIO
 		TITLE "witness"
@@ -121,5 +121,5 @@ FILE "WeFunk_Show_222_2002-02-22.mp3" MP3
 		INDEX 01 107:14:42
 	TRACK 30 AUDIO
 		TITLE "talk (over black heat - love the life you live)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 109:52:42

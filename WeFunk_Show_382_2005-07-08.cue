@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_382_2005-07-08.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "wrath of kane"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_382_2005-07-08.mp3" MP3
 		INDEX 01 01:58:42
 	TRACK 03 AUDIO
 		TITLE "talk (over d.j. polo & kool g. rap - it's a demo instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:49:20
 	TRACK 04 AUDIO
 		TITLE "time to say peace"
@@ -80,12 +80,12 @@ FILE "WeFunk_Show_382_2005-07-08.mp3" MP3
 		PERFORMER "mary j. blige feat. smif-n-wessun"
 		INDEX 01 58:37:13
 	TRACK 20 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 62:20:38
 	TRACK 21 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 66:11:64
 	TRACK 22 AUDIO
 		TITLE "do your thing"
@@ -133,7 +133,7 @@ FILE "WeFunk_Show_382_2005-07-08.mp3" MP3
 		INDEX 01 101:05:38
 	TRACK 33 AUDIO
 		TITLE "talk (over eddie bo - hook and sling instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 104:28:39
 	TRACK 34 AUDIO
 		TITLE "hook and boogit pt. 2"

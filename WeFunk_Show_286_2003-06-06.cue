@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_286_2003-06-06.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "i need some altitude"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_286_2003-06-06.mp3" MP3
 		INDEX 01 01:58:62
 	TRACK 03 AUDIO
 		TITLE "talk (over egba - takdropp)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:08:51
 	TRACK 04 AUDIO
 		TITLE "blow your top"
@@ -136,6 +136,6 @@ FILE "WeFunk_Show_286_2003-06-06.mp3" MP3
 		PERFORMER "dredknotz"
 		INDEX 01 108:49:24
 	TRACK 34 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 112:26:10

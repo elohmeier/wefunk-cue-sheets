@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_479_2007-07-20.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "free"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_479_2007-07-20.mp3" MP3
 		INDEX 01 01:58:45
 	TRACK 03 AUDIO
 		TITLE "talk (over boot camp - and so... instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:04:16
 	TRACK 04 AUDIO
 		TITLE "state of clarity (remix)"
@@ -113,7 +113,7 @@ FILE "WeFunk_Show_479_2007-07-20.mp3" MP3
 		INDEX 01 92:53:74
 	TRACK 28 AUDIO
 		TITLE "roy c's theme"
-		PERFORMER "honeydrippers"
+		PERFORMER "honey drippers"
 		INDEX 01 95:31:49
 	TRACK 29 AUDIO
 		TITLE "doin' it"
@@ -129,5 +129,5 @@ FILE "WeFunk_Show_479_2007-07-20.mp3" MP3
 		INDEX 01 107:10:56
 	TRACK 32 AUDIO
 		TITLE "talk (over carlos franzetti - sweet and low)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 113:18:33

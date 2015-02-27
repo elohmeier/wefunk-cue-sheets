@@ -5,15 +5,15 @@ REM Genre : HipHop
 FILE "WeFunk_Show_584_2009-11-13.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "gender bender"
 		PERFORMER "j.j. brown feat. eternia & miz metro"
 		INDEX 01 01:26:72
 	TRACK 03 AUDIO
-		TITLE "talk (over percee p - no time for jokes remix instrumental)"
-		PERFORMER ""
+		TITLE "talk (over percee p. - no time for jokes remix instrumental)"
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:38:71
 	TRACK 04 AUDIO
 		TITLE "'posed to be"
@@ -141,5 +141,5 @@ FILE "WeFunk_Show_584_2009-11-13.mp3" MP3
 		INDEX 01 105:24:54
 	TRACK 35 AUDIO
 		TITLE "talk (over manzel - space funk)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 107:28:39

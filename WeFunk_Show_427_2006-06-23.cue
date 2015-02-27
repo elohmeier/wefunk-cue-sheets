@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_427_2006-06-23.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "shut 'em down 2002"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_427_2006-06-23.mp3" MP3
 		INDEX 01 01:58:28
 	TRACK 03 AUDIO
 		TITLE "talk (over pete rock feat. c.l. smooth - back on da block instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:26:34
 	TRACK 04 AUDIO
 		TITLE "the food"
@@ -125,5 +125,5 @@ FILE "WeFunk_Show_427_2006-06-23.mp3" MP3
 		INDEX 01 102:15:53
 	TRACK 31 AUDIO
 		TITLE "talk (over stanley cowell - el space-o)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 105:06:01

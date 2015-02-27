@@ -5,15 +5,15 @@ REM Genre : HipHop
 FILE "WeFunk_Show_252_2002-09-27.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "professor booty"
 		PERFORMER "beastie boys"
 		INDEX 01 01:58:54
 	TRACK 03 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 05:24:15
 	TRACK 04 AUDIO
 		TITLE "mic checka"
@@ -29,7 +29,7 @@ FILE "WeFunk_Show_252_2002-09-27.mp3" MP3
 		INDEX 01 17:33:51
 	TRACK 07 AUDIO
 		TITLE "erik b is president"
-		PERFORMER "eric b & rakim"
+		PERFORMER "eric b. & rakim"
 		INDEX 01 20:27:56
 	TRACK 08 AUDIO
 		TITLE "climax"
@@ -77,7 +77,7 @@ FILE "WeFunk_Show_252_2002-09-27.mp3" MP3
 		INDEX 01 57:36:09
 	TRACK 19 AUDIO
 		TITLE "crab apple"
-		PERFORMER "idris muhammed"
+		PERFORMER "idris muhammad"
 		INDEX 01 61:11:23
 	TRACK 20 AUDIO
 		TITLE "come dancing"
@@ -128,8 +128,8 @@ FILE "WeFunk_Show_252_2002-09-27.mp3" MP3
 		PERFORMER "artifacts"
 		INDEX 01 106:48:52
 	TRACK 32 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 110:22:42
 	TRACK 33 AUDIO
 		TITLE "shut'em down (remix)"

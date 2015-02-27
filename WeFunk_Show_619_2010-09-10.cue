@@ -5,15 +5,15 @@ REM Genre : HipHop
 FILE "WeFunk_Show_619_2010-09-10.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "relax ur mind"
-		PERFORMER "j. rawls & john robinson are jay a.r.e feat. tiffany paige"
+		PERFORMER "j. rawls & john robinson are jay a.r.e. feat. tiffany paige"
 		INDEX 01 01:26:68
 	TRACK 03 AUDIO
 		TITLE "talk (over braille - 10 years instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:47:09
 	TRACK 04 AUDIO
 		TITLE "think thrice"
@@ -153,7 +153,7 @@ FILE "WeFunk_Show_619_2010-09-10.mp3" MP3
 		INDEX 01 108:24:68
 	TRACK 38 AUDIO
 		TITLE "talk (over horn section - lady shine instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 111:50:27
 	TRACK 39 AUDIO
 		TITLE "lonely rhythm (instrumental version)"

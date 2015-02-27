@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_616_2010-08-20.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "you ain't hip"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_616_2010-08-20.mp3" MP3
 		INDEX 01 02:02:12
 	TRACK 03 AUDIO
 		TITLE "talk (over slave - baby sinister)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:56:67
 	TRACK 04 AUDIO
 		TITLE "give it up or turnit a loose"
@@ -161,5 +161,5 @@ FILE "WeFunk_Show_616_2010-08-20.mp3" MP3
 		INDEX 01 116:18:34
 	TRACK 40 AUDIO
 		TITLE "talk (over black moon - act like u want it instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 117:46:21

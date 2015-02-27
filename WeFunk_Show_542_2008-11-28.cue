@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_542_2008-11-28.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "doo doo brown"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_542_2008-11-28.mp3" MP3
 		INDEX 01 01:21:66
 	TRACK 03 AUDIO
 		TITLE "talk (over 2 hyped brothers & a dog - doo doo brown instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 03:37:44
 	TRACK 04 AUDIO
 		TITLE "back to back rhyming"
@@ -149,7 +149,7 @@ FILE "WeFunk_Show_542_2008-11-28.mp3" MP3
 		INDEX 01 101:16:21
 	TRACK 37 AUDIO
 		TITLE "talk (over jimmy mcgriff - the bird wave)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 105:08:14
 	TRACK 38 AUDIO
 		TITLE "players balling (players doin' their own things)"

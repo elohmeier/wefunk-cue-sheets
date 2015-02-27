@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_610_2010-06-18.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "feel the same (dubben remix)"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_610_2010-06-18.mp3" MP3
 		INDEX 01 02:02:28
 	TRACK 03 AUDIO
 		TITLE "talk (over 7 samurai feat. desmond foster - feel the same (dubben dub))"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:36:13
 	TRACK 04 AUDIO
 		TITLE "cholly (funk getting ready to roll)"
@@ -157,5 +157,5 @@ FILE "WeFunk_Show_610_2010-06-18.mp3" MP3
 		INDEX 01 109:37:26
 	TRACK 39 AUDIO
 		TITLE "talk (over wizardz - boogie slyde)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 112:04:50

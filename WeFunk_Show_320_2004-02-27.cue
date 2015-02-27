@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_320_2004-02-27.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "baby don't cry"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_320_2004-02-27.mp3" MP3
 		INDEX 01 01:58:41
 	TRACK 03 AUDIO
 		TITLE "talk (over armada orchestra - for the love of money)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:52:10
 	TRACK 04 AUDIO
 		TITLE "stretch your rubber band"
@@ -24,8 +24,8 @@ FILE "WeFunk_Show_320_2004-02-27.mp3" MP3
 		PERFORMER "perfect circle"
 		INDEX 01 13:36:48
 	TRACK 06 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 18:22:28
 	TRACK 07 AUDIO
 		TITLE "the king special"
@@ -41,7 +41,7 @@ FILE "WeFunk_Show_320_2004-02-27.mp3" MP3
 		INDEX 01 26:50:39
 	TRACK 10 AUDIO
 		TITLE "talk (over papa john creach - filthy funky)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 31:55:00
 	TRACK 11 AUDIO
 		TITLE "white trash - cool fool"
@@ -113,7 +113,7 @@ FILE "WeFunk_Show_320_2004-02-27.mp3" MP3
 		INDEX 01 83:10:64
 	TRACK 28 AUDIO
 		TITLE "talk (over kool & the gang - the penguin)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 85:27:39
 	TRACK 29 AUDIO
 		TITLE "rightstarter"
@@ -136,6 +136,6 @@ FILE "WeFunk_Show_320_2004-02-27.mp3" MP3
 		PERFORMER "o.c."
 		INDEX 01 101:43:44
 	TRACK 34 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 104:47:24

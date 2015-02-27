@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_194_2001-07-27.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "let the music take your mind"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_194_2001-07-27.mp3" MP3
 		INDEX 01 01:58:52
 	TRACK 03 AUDIO
 		TITLE "talk (over house guests - what so never the dance)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:43:55
 	TRACK 04 AUDIO
 		TITLE "world of soul"
@@ -125,5 +125,5 @@ FILE "WeFunk_Show_194_2001-07-27.mp3" MP3
 		INDEX 01 105:18:40
 	TRACK 31 AUDIO
 		TITLE "talk (over daktaris - give it up or turn it loose)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 109:03:01

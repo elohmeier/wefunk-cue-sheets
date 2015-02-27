@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_768_2014-02-21.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "killin' it"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_768_2014-02-21.mp3" MP3
 		INDEX 01 01:44:54
 	TRACK 03 AUDIO
 		TITLE "talk (over speedometer - four flights up)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:18:68
 	TRACK 04 AUDIO
 		TITLE "essimo"
@@ -121,7 +121,7 @@ FILE "WeFunk_Show_768_2014-02-21.mp3" MP3
 		INDEX 01 104:19:51
 	TRACK 30 AUDIO
 		TITLE "talk (over chief feat. deheb - untitled fantastic)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 108:50:27
 	TRACK 31 AUDIO
 		TITLE "from the sole"

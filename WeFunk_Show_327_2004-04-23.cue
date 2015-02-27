@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_327_2004-04-23.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "same ol' thing"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_327_2004-04-23.mp3" MP3
 		INDEX 01 01:58:47
 	TRACK 03 AUDIO
 		TITLE "talk (over meters - rigor mortis)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:42:62
 	TRACK 04 AUDIO
 		TITLE "loose booty"
@@ -45,7 +45,7 @@ FILE "WeFunk_Show_327_2004-04-23.mp3" MP3
 		INDEX 01 27:27:01
 	TRACK 11 AUDIO
 		TITLE "real love"
-		PERFORMER "mary j blige"
+		PERFORMER "mary j. blige"
 		INDEX 01 32:04:65
 	TRACK 12 AUDIO
 		TITLE "drop"
@@ -88,8 +88,8 @@ FILE "WeFunk_Show_327_2004-04-23.mp3" MP3
 		PERFORMER "james knight & the butlers"
 		INDEX 01 62:02:21
 	TRACK 22 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 66:05:10
 	TRACK 23 AUDIO
 		TITLE "get up, get up"
@@ -149,7 +149,7 @@ FILE "WeFunk_Show_327_2004-04-23.mp3" MP3
 		INDEX 01 107:22:68
 	TRACK 37 AUDIO
 		TITLE "talk (over ramsey lewis - do what you wanna)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 109:37:60
 	TRACK 38 AUDIO
 		TITLE "back to funk"

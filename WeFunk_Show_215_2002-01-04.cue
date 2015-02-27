@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_215_2002-01-04.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "all my people"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_215_2002-01-04.mp3" MP3
 		INDEX 01 02:40:50
 	TRACK 03 AUDIO
 		TITLE "talk (over ed o.g. & da bulldogs - i got to have it instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 09:15:25
 	TRACK 04 AUDIO
 		TITLE "we gettin' down"
@@ -25,7 +25,7 @@ FILE "WeFunk_Show_215_2002-01-04.mp3" MP3
 		INDEX 01 16:31:05
 	TRACK 06 AUDIO
 		TITLE "pass the vibes"
-		PERFORMER "powerrule"
+		PERFORMER "powerule"
 		INDEX 01 19:49:09
 	TRACK 07 AUDIO
 		TITLE "really livin' (remix)"
@@ -37,10 +37,10 @@ FILE "WeFunk_Show_215_2002-01-04.mp3" MP3
 		INDEX 01 28:05:29
 	TRACK 09 AUDIO
 		TITLE "causin' a menace"
-		PERFORMER "dredknots"
+		PERFORMER "dredknotz"
 		INDEX 01 30:42:58
 	TRACK 10 AUDIO
-		TITLE "afro strut"
+		TITLE "afro-strut"
 		PERFORMER "nite-liters"
 		INDEX 01 34:17:40
 	TRACK 11 AUDIO
@@ -52,16 +52,16 @@ FILE "WeFunk_Show_215_2002-01-04.mp3" MP3
 		PERFORMER "gang starr"
 		INDEX 01 39:46:24
 	TRACK 13 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 40:53:15
 	TRACK 14 AUDIO
 		TITLE "ex girl to next girl"
 		PERFORMER "gang starr"
 		INDEX 01 42:05:28
 	TRACK 15 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 46:23:21
 	TRACK 16 AUDIO
 		TITLE "music turns me on"
@@ -145,5 +145,5 @@ FILE "WeFunk_Show_215_2002-01-04.mp3" MP3
 		INDEX 01 109:26:05
 	TRACK 36 AUDIO
 		TITLE "talk (over marvin gaye - t plays it cool)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 112:33:13

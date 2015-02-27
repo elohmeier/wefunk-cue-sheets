@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_720_2013-01-18.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "intellect"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_720_2013-01-18.mp3" MP3
 		INDEX 01 02:01:03
 	TRACK 03 AUDIO
 		TITLE "talk (over the apples - killing dub)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:12:60
 	TRACK 04 AUDIO
 		TITLE "midnight"
@@ -201,7 +201,7 @@ FILE "WeFunk_Show_720_2013-01-18.mp3" MP3
 		INDEX 01 109:23:53
 	TRACK 50 AUDIO
 		TITLE "conquer mentally (large professor remix)"
-		PERFORMER "presto feat. sadat x, o.c. & large professor"
+		PERFORMER "presto feat. sadat x., o.c. & large professor"
 		INDEX 01 112:49:10
 	TRACK 51 AUDIO
 		TITLE "outsiders"
@@ -209,7 +209,7 @@ FILE "WeFunk_Show_720_2013-01-18.mp3" MP3
 		INDEX 01 115:54:49
 	TRACK 52 AUDIO
 		TITLE "talk (over g.z.a. - duel of the iron mic instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 118:36:09
 	TRACK 53 AUDIO
 		TITLE "silver rings"

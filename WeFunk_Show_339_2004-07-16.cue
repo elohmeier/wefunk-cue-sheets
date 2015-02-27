@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_339_2004-07-16.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "trespassing"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_339_2004-07-16.mp3" MP3
 		INDEX 01 01:58:62
 	TRACK 03 AUDIO
 		TITLE "talk (over oceanliners - cutting room)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:36:21
 	TRACK 04 AUDIO
 		TITLE "you're getting a little too smart"
@@ -53,7 +53,7 @@ FILE "WeFunk_Show_339_2004-07-16.mp3" MP3
 		INDEX 01 36:41:50
 	TRACK 13 AUDIO
 		TITLE "talk (over j-live, wordsworth & soulive - bosoms remix instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 40:57:15
 	TRACK 14 AUDIO
 		TITLE "don't be"
@@ -116,6 +116,6 @@ FILE "WeFunk_Show_339_2004-07-16.mp3" MP3
 		PERFORMER "talib kweli"
 		INDEX 01 109:11:43
 	TRACK 29 AUDIO
-		TITLE "talk (over powerrule - pass the vibes instrumental)"
-		PERFORMER ""
+		TITLE "talk (over powerule - pass the vibes instrumental)"
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 112:48:26

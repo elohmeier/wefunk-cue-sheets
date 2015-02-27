@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_706_2012-09-14.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "key to the city"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_706_2012-09-14.mp3" MP3
 		INDEX 01 01:32:36
 	TRACK 03 AUDIO
 		TITLE "talk (over freestyle fellowship - we are instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:21:71
 	TRACK 04 AUDIO
 		TITLE "we are"
@@ -132,8 +132,8 @@ FILE "WeFunk_Show_706_2012-09-14.mp3" MP3
 		PERFORMER "hugo montenegro"
 		INDEX 01 105:00:49
 	TRACK 33 AUDIO
-		TITLE "talk (over george benson - come together (d.l. edit)"
-		PERFORMER ""
+		TITLE "talk (over george benson - come together (d.l. edit))"
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 108:51:12
 	TRACK 34 AUDIO
 		TITLE "that's life"

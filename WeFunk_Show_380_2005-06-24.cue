@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_380_2005-06-24.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "chains"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_380_2005-06-24.mp3" MP3
 		INDEX 01 01:58:46
 	TRACK 03 AUDIO
 		TITLE "talk (over royal flush - world wide instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:41:61
 	TRACK 04 AUDIO
 		TITLE "gotcha"
@@ -96,8 +96,8 @@ FILE "WeFunk_Show_380_2005-06-24.mp3" MP3
 		PERFORMER "fatback band"
 		INDEX 01 77:31:34
 	TRACK 24 AUDIO
-		TITLE "unknown"
-		PERFORMER "uknown"
+		TITLE ""
+		PERFORMER ""
 		INDEX 01 80:25:34
 	TRACK 25 AUDIO
 		TITLE "more dangerous"
@@ -117,7 +117,7 @@ FILE "WeFunk_Show_380_2005-06-24.mp3" MP3
 		INDEX 01 96:44:10
 	TRACK 29 AUDIO
 		TITLE "ghetto bastard"
-		PERFORMER "naughy by nature"
+		PERFORMER "naughty by nature"
 		INDEX 01 98:49:57
 	TRACK 30 AUDIO
 		TITLE "give the people"
@@ -141,5 +141,5 @@ FILE "WeFunk_Show_380_2005-06-24.mp3" MP3
 		INDEX 01 110:29:34
 	TRACK 35 AUDIO
 		TITLE "talk (over apollo commanders - james brown medley)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 113:31:27

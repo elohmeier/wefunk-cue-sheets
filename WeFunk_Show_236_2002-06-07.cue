@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_236_2002-06-07.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "lyric fathom"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_236_2002-06-07.mp3" MP3
 		INDEX 01 01:58:39
 	TRACK 03 AUDIO
 		TITLE "talk (over group home - supastar instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 06:05:23
 	TRACK 04 AUDIO
 		TITLE "top billin'"
@@ -29,7 +29,7 @@ FILE "WeFunk_Show_236_2002-06-07.mp3" MP3
 		INDEX 01 15:41:10
 	TRACK 07 AUDIO
 		TITLE "talk (over channel live - mad izm remix instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 19:54:56
 	TRACK 08 AUDIO
 		TITLE "it's all right now"
@@ -89,7 +89,7 @@ FILE "WeFunk_Show_236_2002-06-07.mp3" MP3
 		INDEX 01 67:51:45
 	TRACK 22 AUDIO
 		TITLE "talk (over mos def - body rock instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 71:43:13
 	TRACK 23 AUDIO
 		TITLE "your mama wants you back"
@@ -125,7 +125,7 @@ FILE "WeFunk_Show_236_2002-06-07.mp3" MP3
 		INDEX 01 105:18:36
 	TRACK 31 AUDIO
 		TITLE "talk (over caesar frazier - funk it down)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 109:05:46
 	TRACK 32 AUDIO
 		TITLE "war games"

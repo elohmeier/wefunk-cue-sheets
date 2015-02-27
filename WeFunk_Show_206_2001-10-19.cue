@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_206_2001-10-19.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "budy bye (kenny dope super dub remix)"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_206_2001-10-19.mp3" MP3
 		INDEX 01 01:58:54
 	TRACK 03 AUDIO
 		TITLE "talk (over guru & angie stone - keep your worries instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:30:01
 	TRACK 04 AUDIO
 		TITLE "rockafella (remix)"
@@ -145,7 +145,7 @@ FILE "WeFunk_Show_206_2001-10-19.mp3" MP3
 		INDEX 01 113:46:50
 	TRACK 36 AUDIO
 		TITLE "talk (over dilated peoples - annihiliation instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 117:52:53
 	TRACK 37 AUDIO
 		TITLE "clockwork"

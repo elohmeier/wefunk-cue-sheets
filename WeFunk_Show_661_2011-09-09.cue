@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_661_2011-09-09.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "baby that's backatcha"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_661_2011-09-09.mp3" MP3
 		INDEX 01 01:26:68
 	TRACK 03 AUDIO
 		TITLE "talk (over m.f.s.b. - something for nothing)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:06:23
 	TRACK 04 AUDIO
 		TITLE "summer in the city"
@@ -145,7 +145,7 @@ FILE "WeFunk_Show_661_2011-09-09.mp3" MP3
 		INDEX 01 110:27:29
 	TRACK 36 AUDIO
 		TITLE "talk (over d.j. honda - for every day that goes by instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 112:28:74
 	TRACK 37 AUDIO
 		TITLE "for every day that goes by"

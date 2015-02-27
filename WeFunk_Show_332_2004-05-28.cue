@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_332_2004-05-28.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "watch what you say"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_332_2004-05-28.mp3" MP3
 		INDEX 01 01:58:35
 	TRACK 03 AUDIO
 		TITLE "talk (over d.j. jazzy jeff & the fresh prince - summertime instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:39:17
 	TRACK 04 AUDIO
 		TITLE "the universal magnetic"
@@ -121,13 +121,13 @@ FILE "WeFunk_Show_332_2004-05-28.mp3" MP3
 		INDEX 01 95:43:47
 	TRACK 30 AUDIO
 		TITLE "ain't that a bitch"
-		PERFORMER "johnny 'guitar' watson"
+		PERFORMER "johnny guitar watson"
 		INDEX 01 99:36:53
 	TRACK 31 AUDIO
 		TITLE "fanny brown"
 		PERFORMER "don thompson"
 		INDEX 01 103:59:56
 	TRACK 32 AUDIO
-		TITLE "talk (over idris muhammed - crab apple)"
-		PERFORMER ""
+		TITLE "talk (over idris muhammad - crab apple)"
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 106:01:45

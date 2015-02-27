@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_387_2005-08-12.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "gold digger"
@@ -13,11 +13,11 @@ FILE "WeFunk_Show_387_2005-08-12.mp3" MP3
 		INDEX 01 01:58:48
 	TRACK 03 AUDIO
 		TITLE "talk (over teairra mari - make her feel good instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:25:67
 	TRACK 04 AUDIO
 		TITLE "my melody"
-		PERFORMER "eric b feat. rakim"
+		PERFORMER "eric b. feat. rakim"
 		INDEX 01 11:38:12
 	TRACK 05 AUDIO
 		TITLE "jane ii"
@@ -29,7 +29,7 @@ FILE "WeFunk_Show_387_2005-08-12.mp3" MP3
 		INDEX 01 18:08:08
 	TRACK 07 AUDIO
 		TITLE "i can't take no more"
-		PERFORMER "diamond d & lakim shabazz"
+		PERFORMER "diamond d. & lakim shabazz"
 		INDEX 01 20:18:55
 	TRACK 08 AUDIO
 		TITLE "t.c.b. or t.y.a."
@@ -109,7 +109,7 @@ FILE "WeFunk_Show_387_2005-08-12.mp3" MP3
 		INDEX 01 81:16:53
 	TRACK 27 AUDIO
 		TITLE "john 3:16"
-		PERFORMER "mathematiks feat. method man"
+		PERFORMER "mathematics feat. method man"
 		INDEX 01 84:27:30
 	TRACK 28 AUDIO
 		TITLE "the lyricist"
@@ -144,6 +144,6 @@ FILE "WeFunk_Show_387_2005-08-12.mp3" MP3
 		PERFORMER "quad"
 		INDEX 01 108:34:15
 	TRACK 36 AUDIO
-		TITLE "talk (over jimmy sabater - kool it (here comes the fuzz)"
-		PERFORMER ""
+		TITLE "talk (over jimmy sabater - kool it (here comes the fuzz))"
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 110:48:24

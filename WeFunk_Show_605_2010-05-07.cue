@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_605_2010-05-07.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "monday night"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_605_2010-05-07.mp3" MP3
 		INDEX 01 01:14:21
 	TRACK 03 AUDIO
 		TITLE "talk (over rjd2 - let there be horns)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 02:54:73
 	TRACK 04 AUDIO
 		TITLE "champion (remix)"
@@ -89,7 +89,7 @@ FILE "WeFunk_Show_605_2010-05-07.mp3" MP3
 		INDEX 01 76:27:31
 	TRACK 22 AUDIO
 		TITLE "talk (over roy ayers - good feeling)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 80:37:09
 	TRACK 23 AUDIO
 		TITLE "all i know"
@@ -137,5 +137,5 @@ FILE "WeFunk_Show_605_2010-05-07.mp3" MP3
 		INDEX 01 118:27:69
 	TRACK 34 AUDIO
 		TITLE "talk (over cleon - jaylis & family)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 121:58:56

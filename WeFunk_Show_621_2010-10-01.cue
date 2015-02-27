@@ -5,15 +5,15 @@ REM Genre : HipHop
 FILE "WeFunk_Show_621_2010-10-01.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "love letters"
-		PERFORMER "l-fudge feat jasmin"
+		PERFORMER "l-fudge feat. jasmin"
 		INDEX 01 01:32:39
 	TRACK 03 AUDIO
 		TITLE "talk (over pharcyde - 4 better or 4 worse remix instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:37:06
 	TRACK 04 AUDIO
 		TITLE "don't see us"
@@ -125,15 +125,15 @@ FILE "WeFunk_Show_621_2010-10-01.mp3" MP3
 		INDEX 01 95:46:71
 	TRACK 31 AUDIO
 		TITLE "funk beyond the call of duty"
-		PERFORMER "johnny "guitar" watson"
+		PERFORMER "johnny guitar watson"
 		INDEX 01 97:46:13
 	TRACK 32 AUDIO
 		TITLE "is this the future"
 		PERFORMER "beem"
 		INDEX 01 100:57:69
 	TRACK 33 AUDIO
-		TITLE "talk (over crusaders - i felt the love (edit)"
-		PERFORMER ""
+		TITLE "talk (over crusaders - i felt the love (edit))"
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 103:33:26
 	TRACK 34 AUDIO
 		TITLE "sweet power your embrace"

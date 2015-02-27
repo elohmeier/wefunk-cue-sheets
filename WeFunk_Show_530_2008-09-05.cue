@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_530_2008-09-05.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "wheelz of steel"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_530_2008-09-05.mp3" MP3
 		INDEX 01 01:44:34
 	TRACK 03 AUDIO
 		TITLE "talk (over promise - change instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 05:28:10
 	TRACK 04 AUDIO
 		TITLE "true fuschnick (shaheed's fix)"
@@ -129,5 +129,5 @@ FILE "WeFunk_Show_530_2008-09-05.mp3" MP3
 		INDEX 01 99:09:72
 	TRACK 32 AUDIO
 		TITLE "talk (over das e.f.x. - microphone master remix instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 113:28:66

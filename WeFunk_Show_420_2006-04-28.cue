@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_420_2006-04-28.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "tobago strut"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_420_2006-04-28.mp3" MP3
 		INDEX 01 01:58:39
 	TRACK 03 AUDIO
 		TITLE "talk (over pharaohs - in the basement)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 06:10:71
 	TRACK 04 AUDIO
 		TITLE "red light"
@@ -77,7 +77,7 @@ FILE "WeFunk_Show_420_2006-04-28.mp3" MP3
 		INDEX 01 63:31:26
 	TRACK 19 AUDIO
 		TITLE "let the rhythm hit 'em"
-		PERFORMER "eric b & rakim"
+		PERFORMER "eric b. & rakim"
 		INDEX 01 65:20:70
 	TRACK 20 AUDIO
 		TITLE "poppa large (east coast remix)"
@@ -125,9 +125,9 @@ FILE "WeFunk_Show_420_2006-04-28.mp3" MP3
 		INDEX 01 101:59:74
 	TRACK 31 AUDIO
 		TITLE "the jakel"
-		PERFORMER "p.f. cuttin' & sean price feat. professor x & nardo ranks"
+		PERFORMER "p.f. cuttin' & sean price feat. professor x. & nardo ranks"
 		INDEX 01 104:39:57
 	TRACK 32 AUDIO
 		TITLE "talk (over g.z.a. with the fyre dept. - animal planet instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 107:21:32

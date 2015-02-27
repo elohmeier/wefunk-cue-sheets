@@ -5,7 +5,7 @@ REM Genre : HipHop
 FILE "WeFunk_Show_539_2008-11-07.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "intro"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
 		TITLE "simple song"
@@ -13,7 +13,7 @@ FILE "WeFunk_Show_539_2008-11-07.mp3" MP3
 		INDEX 01 01:14:11
 	TRACK 03 AUDIO
 		TITLE "talk (over bernard purdie - heavy soul slinger)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 04:07:52
 	TRACK 04 AUDIO
 		TITLE "chocolate city"
@@ -37,11 +37,11 @@ FILE "WeFunk_Show_539_2008-11-07.mp3" MP3
 		INDEX 01 27:44:39
 	TRACK 09 AUDIO
 		TITLE "eric b is president"
-		PERFORMER "eric b & rakim"
+		PERFORMER "eric b. & rakim"
 		INDEX 01 30:25:49
 	TRACK 10 AUDIO
 		TITLE "talk (over run-d.m.c. - run's house instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 32:20:05
 	TRACK 11 AUDIO
 		TITLE "royal flush instrumental"
@@ -69,7 +69,7 @@ FILE "WeFunk_Show_539_2008-11-07.mp3" MP3
 		INDEX 01 58:59:55
 	TRACK 17 AUDIO
 		TITLE "talk (over marco polo feat. large professor - radar remix instrumental)"
-		PERFORMER ""
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 61:28:46
 	TRACK 18 AUDIO
 		TITLE "in the mood"
@@ -116,6 +116,6 @@ FILE "WeFunk_Show_539_2008-11-07.mp3" MP3
 		PERFORMER "kool & the gang"
 		INDEX 01 102:50:68
 	TRACK 29 AUDIO
-		TITLE "talk (over lafayette afro rock band - nicky)"
-		PERFORMER ""
+		TITLE "talk (over lafayette afro-rock band - nicky)"
+		PERFORMER "WEFUNK RADIO"
 		INDEX 01 108:38:49
